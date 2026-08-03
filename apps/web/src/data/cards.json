@@ -7,7 +7,12 @@
     "setInfo": "Base Set, #58/102 (First Edition)",
     "description": "Pikachu's debut in the Pokémon Trading Card Game, part of the 102-card Base Set that launched the TCG in the West. Early First Edition prints famously show Pikachu with red cheeks, later corrected to yellow — making the red-cheek variant one of the most sought-after error cards in the hobby.",
     "estimatedValue": "$20 – $300+ depending on edition and grade",
-    "image": "pikachu.svg"
+    "image": "pikachu.svg",
+    "funFacts": [
+      "Kicked off the biggest non-sports card craze the West had seen in years, riding the wave of \"Pokémania\"",
+      "The red-cheek printing error is one of the most famous variant chases in the modern hobby",
+      "Made Pikachu the face of the entire Pokémon TCG brand from day one"
+    ]
   },
   {
     "id": "tmnt-1989-topps",
@@ -17,7 +22,12 @@
     "setInfo": "Topps TMNT Series 1, 88 cards + 11 stickers",
     "description": "The first ever Teenage Mutant Ninja Turtles trading card set, released by Topps to ride the wave of the franchise's animated series and first feature film. It kicked off a run of TMNT card sets that continued into the 1990s.",
     "estimatedValue": "$5 – $50 for common cards, more for high-grade or rare inserts",
-    "image": "tmnt.svg"
+    "image": "tmnt.svg",
+    "funFacts": [
+      "Arrived at the peak of \"Turtlemania,\" riding the first animated series and feature film",
+      "One of the earliest properties to successfully cross from Saturday-morning cartoon to trading card aisle",
+      "Set the template Topps would reuse for countless licensed-cartoon card sets through the '90s"
+    ]
   },
   {
     "id": "yugioh-vol-1",
@@ -27,7 +37,12 @@
     "setInfo": "Vol.1, the first Official Card Game set (Japan)",
     "description": "Released February 4, 1999 in Japan, Vol.1 was the very first Yu-Gi-Oh! Official Card Game set, with 40 cards. Most cards were pulled from the manga and anime, but two — Fissure and Trap Hole — debuted here for the first time. Booster packs reportedly sold out everywhere at launch.",
     "estimatedValue": "Varies widely — rare Vol.1 cards can fetch hundreds to thousands of dollars",
-    "image": "yugioh.svg"
+    "image": "yugioh.svg",
+    "funFacts": [
+      "Booster packs sold out almost everywhere in Japan within days of release",
+      "Introduced Fissure and Trap Hole — the first two cards never seen in the manga or anime before",
+      "Laid the foundation for what's now one of the best-selling trading card games in history"
+    ]
   },
   {
     "id": "mario-1989-topps-nintendo",
@@ -37,7 +52,12 @@
     "setInfo": "Topps Nintendo Game Pack (with an earlier 1982 Topps Donkey Kong \"Jumpman\" card predating the Mario name)",
     "description": "Mario's trading card history is a bit tangled: his earliest card appearance is arguably the 1982 Topps Donkey Kong set, where he appears as \"Jumpman\" before the Mario name existed. The first card set to use the Mario/Nintendo branding directly was the 1989 Topps Nintendo Game Pack. A proper full \"Super Mario Bros.\" set from Topps in the US never actually happened.",
     "estimatedValue": "$5 – $40 depending on card and condition",
-    "image": "mario.svg"
+    "image": "mario.svg",
+    "funFacts": [
+      "His actual first card appearance predates the \"Mario\" name itself",
+      "Nintendo's mascot never got a proper dedicated Super Mario Bros. set from Topps in the US — a genuine gap in the hobby",
+      "A great example of how \"the first card\" can be a legitimately disputed title"
+    ]
   },
   {
     "id": "spongebob-2003-upper-deck",
@@ -47,6 +67,26 @@
     "setInfo": "Upper Deck Entertainment SpongeBob SquarePants Trading Card Game, Base Set",
     "description": "The first SpongeBob SquarePants trading card set, published by Upper Deck Entertainment on May 27, 2003 as a collectible card game tied to the show, four years after it first aired.",
     "estimatedValue": "$5 – $30, more for first-edition or holo variants",
-    "image": "spongebob.svg"
+    "image": "spongebob.svg",
+    "funFacts": [
+      "Arrived four years after the show's debut, once its popularity was undeniable",
+      "One of the first major 2000s cartoons to get a full collectible card GAME, not just a sticker set",
+      "Rode the early-2000s CCG boom that followed in the wake of Pokémon and Yu-Gi-Oh!"
+    ]
+  },
+  {
+    "id": "mickey-mouse-1935-gum-inc",
+    "franchise": "Disney",
+    "character": "Mickey Mouse",
+    "year": 1935,
+    "setInfo": "Gum, Inc. Mickey Mouse Set (R89/R90), 120 cards",
+    "description": "Long before modern licensed card sets, Philadelphia's Gum, Inc. produced the first widely-distributed Mickey Mouse trading cards in 1935. Card fronts featured colorful comic-style artwork of Mickey and friends, while the backs carried jokes and trivia questions — one of the earliest examples of Disney characters hitting the collectible card market.",
+    "estimatedValue": "$20 – $500+ depending on card and grade; rare high-grade examples can go much higher",
+    "image": "mickey.svg",
+    "funFacts": [
+      "Among the very first licensed non-sports trading cards of any Disney character, decades before modern sets",
+      "The 120-card set paired jokes and trivia on the back — an early example of \"edutainment\" card design",
+      "A cornerstone of the vintage non-sports card hobby; well-preserved examples are genuinely rare"
+    ]
   }
 ]

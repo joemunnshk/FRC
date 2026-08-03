@@ -7,6 +7,7 @@ interface Card {
   year: number
   setInfo: string
   description: string
+  funFacts: string[]
   estimatedValue: string
   image: string
   imagePreview?: string
@@ -38,6 +39,7 @@ function blankCard(): Card {
     year: new Date().getFullYear(),
     setInfo: '',
     description: '',
+    funFacts: [],
     estimatedValue: '',
     image: '',
   }
@@ -72,6 +74,22 @@ export default function App() {
     setCards(cards.filter((_, i) => i !== index))
     if (editingIndex === index) setEditingIndex(null)
     setSaveState('idle')
+  }
+
+  function updateFact(index: number, value: string) {
+    if (!editingCard) return
+    const funFacts = editingCard.funFacts.map((fact, i) => (i === index ? value : fact))
+    updateEditingCard({ funFacts })
+  }
+
+  function addFact() {
+    if (!editingCard) return
+    updateEditingCard({ funFacts: [...editingCard.funFacts, ''] })
+  }
+
+  function removeFact(index: number) {
+    if (!editingCard) return
+    updateEditingCard({ funFacts: editingCard.funFacts.filter((_, i) => i !== index) })
   }
 
   function handleImageChange(e: ChangeEvent<HTMLInputElement>) {
@@ -233,6 +251,27 @@ export default function App() {
               style={fieldStyle}
             />
           </label>
+
+          <div style={{ marginTop: '1rem' }}>
+            <strong>Why It Matters (mini factfile)</strong>
+            {editingCard.funFacts.map((fact, index) => (
+              <div key={index} style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', marginTop: '0.5rem' }}>
+                <input
+                  type="text"
+                  placeholder="A short, interesting fact about this card"
+                  value={fact}
+                  onChange={(e) => updateFact(index, e.target.value)}
+                  style={{ ...fieldStyle, marginTop: 0, flex: 1 }}
+                />
+                <button onClick={() => removeFact(index)} aria-label="Remove fact">
+                  Remove
+                </button>
+              </div>
+            ))}
+            <button onClick={addFact} style={{ marginTop: '0.75rem' }}>
+              + Add fact
+            </button>
+          </div>
 
           <label style={{ display: 'block', marginTop: '1rem' }}>
             Estimated Value

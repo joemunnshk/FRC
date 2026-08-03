@@ -1,6 +1,7 @@
 import { createFileRoute, Link } from '@tanstack/react-router'
 import { useMemo, useState } from 'react'
 import cards from '../data/cards.json'
+import { getCardDisplay } from '../lib/cardDisplay'
 
 export const Route = createFileRoute('/')({
   component: HomePage,
@@ -49,16 +50,19 @@ function HomePage() {
 
       <div className="card-grid">
         {filtered.length === 0 && <p className="empty-state">No cards match your search.</p>}
-        {filtered.map((card) => (
-          <Link key={card.id} to="/cards/$cardId" params={{ cardId: card.id }} className="card-tile">
-            <img src={`${import.meta.env.BASE_URL}cards/${card.image}`} alt={card.character} />
-            <div className="card-tile-info">
-              <div className="franchise">{card.franchise}</div>
-              <h3>{card.character}</h3>
-              <div className="year">{card.year}</div>
-            </div>
-          </Link>
-        ))}
+        {filtered.map((card) => {
+          const display = getCardDisplay(card)
+          return (
+            <Link key={card.id} to="/cards/$cardId" params={{ cardId: card.id }} className="card-tile">
+              <img src={`${import.meta.env.BASE_URL}cards/${card.image}`} alt={card.character} />
+              <div className="card-tile-info">
+                {display.badge && <div className="franchise">{display.badge}</div>}
+                <h3>{display.title}</h3>
+                <div className="year">{card.year}</div>
+              </div>
+            </Link>
+          )
+        })}
       </div>
     </>
   )

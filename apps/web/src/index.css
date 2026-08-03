@@ -284,6 +284,17 @@ p {
   line-height: 1.6;
 }
 
+.fact-list {
+  margin: 0.5rem 0 0;
+  padding-left: 1.2rem;
+  color: var(--text-h);
+  line-height: 1.6;
+}
+
+.fact-list li {
+  margin-bottom: 0.4rem;
+}
+
 .detail-info .value-badge {
   display: inline-block;
   margin-top: 0.35rem;
