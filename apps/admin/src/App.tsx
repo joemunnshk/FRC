@@ -1,11 +1,26 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState, type CSSProperties } from 'react'
+
+interface Sponsor {
+  name: string
+  url: string
+}
 
 interface SiteData {
   heading: string
   tagline: string
+  about: string
+  sponsors: Sponsor[]
 }
 
 type SaveState = 'idle' | 'saving' | 'saved' | 'error'
+
+const fieldStyle: CSSProperties = {
+  display: 'block',
+  width: '100%',
+  padding: '0.5rem',
+  marginTop: '0.25rem',
+  boxSizing: 'border-box',
+}
 
 export default function App() {
   const [data, setData] = useState<SiteData | null>(null)
@@ -33,6 +48,25 @@ export default function App() {
     }
   }
 
+  function updateSponsor(index: number, field: keyof Sponsor, value: string) {
+    if (!data) return
+    const sponsors = data.sponsors.map((sponsor, i) => (i === index ? { ...sponsor, [field]: value } : sponsor))
+    setData({ ...data, sponsors })
+    setSaveState('idle')
+  }
+
+  function addSponsor() {
+    if (!data) return
+    setData({ ...data, sponsors: [...data.sponsors, { name: '', url: '' }] })
+    setSaveState('idle')
+  }
+
+  function removeSponsor(index: number) {
+    if (!data) return
+    setData({ ...data, sponsors: data.sponsors.filter((_, i) => i !== index) })
+    setSaveState('idle')
+  }
+
   if (!data) {
     return (
       <main style={{ padding: '2rem' }}>
@@ -55,7 +89,7 @@ export default function App() {
             setData({ ...data, heading: e.target.value })
             setSaveState('idle')
           }}
-          style={{ display: 'block', width: '100%', padding: '0.5rem', marginTop: '0.25rem', boxSizing: 'border-box' }}
+          style={fieldStyle}
         />
       </label>
 
@@ -68,9 +102,53 @@ export default function App() {
             setSaveState('idle')
           }}
           rows={3}
-          style={{ display: 'block', width: '100%', padding: '0.5rem', marginTop: '0.25rem', boxSizing: 'border-box' }}
+          style={fieldStyle}
         />
       </label>
+
+      <label style={{ display: 'block', marginTop: '1rem' }}>
+        About Us
+        <textarea
+          value={data.about}
+          onChange={(e) => {
+            setData({ ...data, about: e.target.value })
+            setSaveState('idle')
+          }}
+          rows={4}
+          style={fieldStyle}
+        />
+      </label>
+
+      <div style={{ marginTop: '1.5rem' }}>
+        <strong>Sponsors</strong>
+        {data.sponsors.map((sponsor, index) => (
+          <div
+            key={index}
+            style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', marginTop: '0.5rem' }}
+          >
+            <input
+              type="text"
+              placeholder="Sponsor name"
+              value={sponsor.name}
+              onChange={(e) => updateSponsor(index, 'name', e.target.value)}
+              style={{ ...fieldStyle, marginTop: 0, flex: 1 }}
+            />
+            <input
+              type="text"
+              placeholder="Website URL"
+              value={sponsor.url}
+              onChange={(e) => updateSponsor(index, 'url', e.target.value)}
+              style={{ ...fieldStyle, marginTop: 0, flex: 1 }}
+            />
+            <button onClick={() => removeSponsor(index)} aria-label="Remove sponsor">
+              Remove
+            </button>
+          </div>
+        ))}
+        <button onClick={addSponsor} style={{ marginTop: '0.75rem' }}>
+          + Add sponsor
+        </button>
+      </div>
 
       <button
         onClick={handleSave}

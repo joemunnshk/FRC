@@ -1,4 +1,8 @@
 {
   "heading": "Hello, FRC!",
-  "tagline": "This is the vertical slice — a basic static site built with Vite and TanStack Router."
+  "tagline": "This is the vertical slice — a basic static site built with Vite and TanStack Router.",
+  "about": "We are an FRC robotics team. Edit this paragraph in the admin app to tell visitors who you are.",
+  "sponsors": [
+    { "name": "Example Sponsor", "url": "https://example.com" }
+  ]
 }
