@@ -1,33 +1,65 @@
-import { createFileRoute } from '@tanstack/react-router'
-import site from '../data/site.json'
+import { createFileRoute, Link } from '@tanstack/react-router'
+import { useMemo, useState } from 'react'
+import cards from '../data/cards.json'
 
 export const Route = createFileRoute('/')({
   component: HomePage,
 })
 
 function HomePage() {
+  const [search, setSearch] = useState('')
+  const [franchise, setFranchise] = useState<string>('All')
+
+  const franchises = useMemo(() => ['All', ...new Set(cards.map((card) => card.franchise))], [])
+
+  const filtered = useMemo(() => {
+    const query = search.trim().toLowerCase()
+    return cards.filter((card) => {
+      const matchesFranchise = franchise === 'All' || card.franchise === franchise
+      const matchesSearch =
+        query === '' ||
+        card.character.toLowerCase().includes(query) ||
+        card.franchise.toLowerCase().includes(query)
+      return matchesFranchise && matchesSearch
+    })
+  }, [search, franchise])
+
   return (
-    <main style={{ fontFamily: 'sans-serif', padding: '2rem', maxWidth: 640, margin: '0 auto' }}>
-      <h1>{site.heading}</h1>
-      <p>{site.tagline}</p>
-
-      <section style={{ marginTop: '2rem' }}>
-        <h2>About Us</h2>
-        <p>{site.about}</p>
-      </section>
-
-      <section style={{ marginTop: '2rem' }}>
-        <h2>Our Sponsors</h2>
-        <ul>
-          {site.sponsors.map((sponsor) => (
-            <li key={sponsor.name}>
-              <a href={sponsor.url} target="_blank" rel="noreferrer">
-                {sponsor.name}
-              </a>
-            </li>
+    <>
+      <div className="controls">
+        <input
+          type="search"
+          className="search-input"
+          placeholder="Search by character or franchise..."
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+        />
+        <div className="filter-chips">
+          {franchises.map((f) => (
+            <button
+              key={f}
+              className={`filter-chip${f === franchise ? ' active' : ''}`}
+              onClick={() => setFranchise(f)}
+            >
+              {f}
+            </button>
           ))}
-        </ul>
-      </section>
-    </main>
+        </div>
+      </div>
+
+      <div className="card-grid">
+        {filtered.length === 0 && <p className="empty-state">No cards match your search.</p>}
+        {filtered.map((card) => (
+          <Link key={card.id} to="/cards/$cardId" params={{ cardId: card.id }} className="card-tile">
+            <img src={`${import.meta.env.BASE_URL}cards/${card.image}`} alt={card.character} />
+            <div className="card-tile-info">
+              <div className="franchise">{card.franchise}</div>
+              <h3>{card.character}</h3>
+              <div className="year">{card.year}</div>
+            </div>
+          </Link>
+        ))}
+      </div>
+    </>
   )
 }

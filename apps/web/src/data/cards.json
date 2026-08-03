@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pikachu-base-set",
+    "franchise": "Pokémon",
+    "character": "Pikachu",
+    "year": 1999,
+    "setInfo": "Base Set, #58/102 (First Edition)",
+    "description": "Pikachu's debut in the Pokémon Trading Card Game, part of the 102-card Base Set that launched the TCG in the West. Early First Edition prints famously show Pikachu with red cheeks, later corrected to yellow — making the red-cheek variant one of the most sought-after error cards in the hobby.",
+    "estimatedValue": "$20 – $300+ depending on edition and grade",
+    "image": "pikachu.svg"
+  },
+  {
+    "id": "tmnt-1989-topps",
+    "franchise": "Teenage Mutant Ninja Turtles",
+    "character": "Leonardo, Michelangelo, Donatello & Raphael",
+    "year": 1989,
+    "setInfo": "Topps TMNT Series 1, 88 cards + 11 stickers",
+    "description": "The first ever Teenage Mutant Ninja Turtles trading card set, released by Topps to ride the wave of the franchise's animated series and first feature film. It kicked off a run of TMNT card sets that continued into the 1990s.",
+    "estimatedValue": "$5 – $50 for common cards, more for high-grade or rare inserts",
+    "image": "tmnt.svg"
+  },
+  {
+    "id": "yugioh-vol-1",
+    "franchise": "Yu-Gi-Oh!",
+    "character": "Blue-Eyes White Dragon & friends",
+    "year": 1999,
+    "setInfo": "Vol.1, the first Official Card Game set (Japan)",
+    "description": "Released February 4, 1999 in Japan, Vol.1 was the very first Yu-Gi-Oh! Official Card Game set, with 40 cards. Most cards were pulled from the manga and anime, but two — Fissure and Trap Hole — debuted here for the first time. Booster packs reportedly sold out everywhere at launch.",
+    "estimatedValue": "Varies widely — rare Vol.1 cards can fetch hundreds to thousands of dollars",
+    "image": "yugioh.svg"
+  },
+  {
+    "id": "mario-1989-topps-nintendo",
+    "franchise": "Super Mario",
+    "character": "Mario",
+    "year": 1989,
+    "setInfo": "Topps Nintendo Game Pack (with an earlier 1982 Topps Donkey Kong \"Jumpman\" card predating the Mario name)",
+    "description": "Mario's trading card history is a bit tangled: his earliest card appearance is arguably the 1982 Topps Donkey Kong set, where he appears as \"Jumpman\" before the Mario name existed. The first card set to use the Mario/Nintendo branding directly was the 1989 Topps Nintendo Game Pack. A proper full \"Super Mario Bros.\" set from Topps in the US never actually happened.",
+    "estimatedValue": "$5 – $40 depending on card and condition",
+    "image": "mario.svg"
+  },
+  {
+    "id": "spongebob-2003-upper-deck",
+    "franchise": "SpongeBob SquarePants",
+    "character": "SpongeBob SquarePants",
+    "year": 2003,
+    "setInfo": "Upper Deck Entertainment SpongeBob SquarePants Trading Card Game, Base Set",
+    "description": "The first SpongeBob SquarePants trading card set, published by Upper Deck Entertainment on May 27, 2003 as a collectible card game tied to the show, four years after it first aired.",
+    "estimatedValue": "$5 – $30, more for first-edition or holo variants",
+    "image": "spongebob.svg"
+  }
+]
