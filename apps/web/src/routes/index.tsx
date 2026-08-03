@@ -1,4 +1,5 @@
 import { createFileRoute } from '@tanstack/react-router'
+import site from '../data/site.json'
 
 export const Route = createFileRoute('/')({
   component: HomePage,
@@ -7,8 +8,8 @@ export const Route = createFileRoute('/')({
 function HomePage() {
   return (
     <main style={{ fontFamily: 'sans-serif', padding: '2rem' }}>
-      <h1>Hello, FRC!</h1>
-      <p>This is the vertical slice — a basic static site built with Vite and TanStack Router.</p>
+      <h1>{site.heading}</h1>
+      <p>{site.tagline}</p>
     </main>
   )
 }
