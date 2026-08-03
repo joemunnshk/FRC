@@ -1,0 +1,8 @@
+{
+  "name": "frc",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
