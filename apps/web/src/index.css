@@ -168,7 +168,7 @@ p {
 
 .card-tile img {
   width: 100%;
-  aspect-ratio: 5 / 7;
+  aspect-ratio: 3 / 5;
   object-fit: cover;
   display: block;
   background: var(--border);
@@ -244,7 +244,7 @@ p {
   width: 100%;
   border-radius: 14px;
   box-shadow: var(--shadow);
-  aspect-ratio: 5 / 7;
+  aspect-ratio: 3 / 5;
   object-fit: cover;
 }
 
