@@ -254,5 +254,165 @@
     "estimatedValue": "$50 – $45,000 depending on grade; the #1 card carries a huge premium",
     "image": "batman.jpg",
     "noCardReason": ""
+  },
+  {
+    "id": "spiderman-1966-donruss",
+    "franchise": "Spider-Man",
+    "character": "Spider-Man",
+    "year": 1966,
+    "setInfo": "Donruss Marvel Super Heroes #34 (of 66)",
+    "description": "The 1966 Donruss Marvel Super Heroes set was the first Marvel trading card release of any kind, and card #34 is Spider-Man's debut on cardboard — just four years after he first appeared in Amazing Fantasy #15. The 66-card set is split into six 11-card character runs, with Spider-Man occupying #34 through #44, each showing a bright comic-panel illustration inside a white border.",
+    "funFacts": [
+      "The first Marvel trading card set ever made, so it doubles as the debut card for Captain America, Thor and the rest",
+      "PSA receives more submissions from the Spider-Man run than any other section of the set",
+      "Arrived only four years after Spider-Man was created, making it an unusually early character debut"
+    ],
+    "estimatedValue": "$100 – $3,000+ depending on grade; high-grade #34 examples are scarce",
+    "image": "spiderman.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "transformers-1985-action-cards",
+    "franchise": "Transformers",
+    "character": "Optimus Prime",
+    "year": 1985,
+    "setInfo": "Hasbro / Milton Bradley Transformers Action Cards, 192 cards",
+    "description": "Milton Bradley published the first Transformers trading cards in 1985, a 192-card run covering Autobot and Decepticon profiles plus scenes from the Generation 1 cartoon. They were sold in eight-card hanger packs rather than wax packs, and every pack included one of 24 mini stickers carrying a character's motto.",
+    "funFacts": [
+      "Printed on playing-card stock with rounded corners, so they feel nothing like a normal trading card",
+      "Sold in oversized hanger packs designed to hang on retail pegs beside the toys",
+      "Series 1 was the only series ever produced in the US — all 192 cards came out at once"
+    ],
+    "estimatedValue": "$1 – $30 per card; sealed 1985 packs command a strong premium",
+    "image": "transformers.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "naruto-2002-bandai",
+    "franchise": "Naruto",
+    "character": "Naruto Uzumaki",
+    "year": 2002,
+    "setInfo": "Bandai Naruto: The Path to Hokage (Japan), card 忍-1 / Ninja-1, 127 cards",
+    "description": "Like Yu-Gi-Oh!, Naruto's real first card is Japanese and predates the version Western fans know. Bandai launched Naruto: The Path to Hokage in Japan in 2002, a 127-card set built from Ninja, Jutsu and Mission cards. Uzumaki Naruto is card 忍-1 — literally Ninja-1, the first card of the first set. The English-language Naruto CCG only followed in 2006 and ran until 2013.",
+    "funFacts": [
+      "Card 忍-1 means Ninja-1 — it is literally the first card of the first Naruto set",
+      "Predates the English-language Naruto CCG that most Western fans think of as the original by four years",
+      "The card is printed with BANDAI 2002 MADE IN JAPAN along the bottom edge, dating it beyond doubt"
+    ],
+    "estimatedValue": "$1 – $80 per card; early rare foils are the chase pieces",
+    "image": "naruto.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "dungeon-fighter-online-no-card",
+    "franchise": "Dungeon Fighter Online",
+    "character": "Dungeon Fighter Online (game)",
+    "year": 2005,
+    "setInfo": "No trading card release",
+    "description": "Dungeon Fighter Online is one of the highest-grossing games ever made, earning tens of billions almost entirely from in-game microtransactions in China and South Korea. It has essentially no Western merchandising footprint, and no physical trading card line has ever been produced for it.",
+    "funFacts": [
+      "Out-earns most household-name franchises while being nearly unknown in the West",
+      "Revenue comes from in-game purchases rather than any physical merchandise",
+      "A clear example of how modern free-to-play economics can bypass collectibles entirely"
+    ],
+    "estimatedValue": "Not applicable — no trading cards exist",
+    "image": "",
+    "noCardReason": "Dungeon Fighter Online earns its money through in-game microtransactions in Asian markets and has almost no physical merchandising, so no trading card set was ever made."
+  },
+  {
+    "id": "cars-2025-topps-chrome",
+    "franchise": "Cars",
+    "character": "Lightning McQueen",
+    "year": 2025,
+    "setInfo": "Topps Chrome Disney #50 (shown: Orange Wave parallel, 21/25)",
+    "description": "Cars is the franchise with no rookie card. When the film landed in 2006, Disney funnelled the merchandising into die-cast vehicles — one of the best-selling toy lines ever made — and never commissioned a debut trading card set the way Toy Story and The Lion King got from SkyBox. Lightning McQueen only properly reached cardboard with Topps Chrome Disney, roughly two decades late. Card #50 is his, and it runs all the way up to a one-of-one Superfractor.",
+    "funFacts": [
+      "A top-20 global franchise that went nearly twenty years without a proper trading card set",
+      "Disney put the collectible money into die-cast vehicles instead — billions of dollars of little metal cars",
+      "The Topps Chrome #50 McQueen tops out at a Superfractor numbered 1/1, the only one in existence"
+    ],
+    "estimatedValue": "$5 for a base card up to five figures for the 1/1 Superfractor",
+    "image": "cars.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "candy-crush-no-card",
+    "franchise": "Candy Crush",
+    "character": "Candy Crush Saga (game)",
+    "year": 2012,
+    "setInfo": "No trading card release",
+    "description": "Candy Crush Saga has generated around twenty billion dollars, but it is a mobile puzzle game with no characters, no narrative and no collectible culture. King has licensed it into board games and slot machines, never into trading cards.",
+    "funFacts": [
+      "Among the highest-grossing franchises on earth with essentially no characters to put on a card",
+      "Its entire revenue comes from in-app purchases rather than merchandise",
+      "Shows how the modern mobile era broke the old link between popularity and collectibles"
+    ],
+    "estimatedValue": "Not applicable — no trading cards exist",
+    "image": "",
+    "noCardReason": "Candy Crush is a mobile puzzle game with no characters or story to build a card set around, so no trading cards were ever released."
+  },
+  {
+    "id": "looney-tunes-1990-comic-ball",
+    "franchise": "Looney Tunes",
+    "character": "Bugs Bunny",
+    "year": 1990,
+    "setInfo": "Upper Deck Comic Ball 1 — the first major Looney Tunes set",
+    "description": "Looney Tunes cards are genuinely hard to date. Scattered Bugs Bunny cards turn up as far back as the 1960s, but they were regional novelties that the hobby never properly catalogued. The first major, widely-collected Looney Tunes release is Upper Deck's Comic Ball in 1990, which paired the characters with real baseball players — most famously Bugs Bunny alongside Nolan Ryan.",
+    "funFacts": [
+      "Bugs Bunny cards exist from the 1960s, but they are so poorly documented that no one agrees which came first",
+      "Comic Ball is a genuine crossover — real MLB players sharing cards with cartoon characters",
+      "Upper Deck ran several Comic Ball series through the early 1990s off the back of its success"
+    ],
+    "estimatedValue": "$1 – $40 per card; Bugs Bunny and Nolan Ryan cards carry the premium",
+    "image": "looneytunes.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "toy-story-1995-skybox",
+    "franchise": "Toy Story",
+    "character": "Woody",
+    "year": 1995,
+    "setInfo": "SkyBox Toy Story, 90-card base set",
+    "description": "SkyBox produced the first Toy Story cards in 1995 for the release of the first fully computer-animated feature film. Just over half the 90-card base set retells the story, with the rest given over to puzzle cards, pop-ups, and a final run of sixteen cards that assemble into models of four lead characters, four cards per character.",
+    "funFacts": [
+      "Documents the first ever fully computer-animated feature film as it happened",
+      "Sixteen cards in the set are body parts that build into four character models",
+      "Designed for kids to cut up and play with, so undamaged sets are harder to find than they should be"
+    ],
+    "estimatedValue": "$15 – $60 for a complete 90-card base set",
+    "image": "toystory.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "lion-king-1994-skybox",
+    "franchise": "The Lion King",
+    "character": "Simba",
+    "year": 1994,
+    "setInfo": "SkyBox The Lion King Series 1, 90 cards",
+    "description": "SkyBox's 1994 Lion King set was one of the biggest movie card releases of the decade. Series 1 runs to 90 cards retelling the film and covering the main characters, followed by an 80-card Series 2. Beyond card shops, the cards were handed out in Burger King Kids Meals, putting them in front of a huge audience.",
+    "funFacts": [
+      "Distributed through Burger King Kids Meals as well as hobby shops",
+      "Series 1 and 2 together run to 170 cards — an unusually deep set for a single film",
+      "Lenticular and other interactive inserts made it one of the flashiest movie sets of the 1990s"
+    ],
+    "estimatedValue": "$15 – $50 for a complete Series 1 set; inserts are worth more",
+    "image": "lionking.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "dora-the-explorer-no-card",
+    "franchise": "Dora the Explorer",
+    "character": "Dora",
+    "year": 2000,
+    "setInfo": "Card games only — no collectible trading card set",
+    "description": "Dora the Explorer is a top-25 franchise worldwide, but Nickelodeon put its licensing into toys, DVDs and pre-school games. The Dora card products that exist are playable card games — Go Fish, Crazy Eights, Kidz Cards tins from around 2006 — rather than a collectible set with a checklist to chase.",
+    "funFacts": [
+      "The Dora cards that exist are Go Fish and Crazy Eights decks, not collectibles",
+      "Pre-school franchises rarely get collectible sets because the audience is too young to chase a checklist",
+      "Follows the same pattern as Anpanman: huge revenue, no hobby presence"
+    ],
+    "estimatedValue": "Not applicable — no collectible card market exists",
+    "image": "",
+    "noCardReason": "Nickelodeon only ever released playable Dora card games such as Go Fish and Crazy Eights, never a collectible trading card set with a checklist."
   }
 ]
