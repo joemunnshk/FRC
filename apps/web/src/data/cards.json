@@ -414,5 +414,165 @@
     "estimatedValue": "Not applicable — no collectible card market exists",
     "image": "",
     "noCardReason": "Nickelodeon only ever released playable Dora card games such as Go Fish and Crazy Eights, never a collectible trading card set with a checklist."
+  },
+  {
+    "id": "pacman-1980-fleer",
+    "franchise": "Pac-Man",
+    "character": "Pac-Man",
+    "year": 1980,
+    "setInfo": "Fleer Pac-Man Stickers & Rub-Offs, 54 cards",
+    "description": "Fleer put Pac-Man on cardboard in 1980, the same year the arcade cabinet arrived, making it one of the earliest video game trading card sets ever produced. The 54-card run pairs stickers with scratch-off rub-off game cards, and packs shipped with three stickers, three rub-offs and a stick of gum. Fleer followed it with Ms. Pac-Man in 1981 and Super Pac-Man in 1982.",
+    "funFacts": [
+      "One of the first trading card sets built around a video game rather than a film or TV show",
+      "Packs contained an actual playable element — scratch-off rub-off game cards",
+      "Fleer moved fast: cards were on shelves the same year the arcade machine launched"
+    ],
+    "estimatedValue": "$2 – $40 per card; sealed wax packs and complete sets fetch more",
+    "image": "pacman.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "paw-patrol-no-card",
+    "franchise": "Paw Patrol",
+    "character": "Paw Patrol",
+    "year": 2013,
+    "setInfo": "Sticker albums only — no trading card set",
+    "description": "Paw Patrol is one of the biggest pre-school properties on earth, but its card presence is entirely Panini sticker collections sold in supermarkets — Big Truck Pups, Search & Rescue and others. These are sticker albums to fill, not trading card sets with a checklist of numbered cards to chase and grade.",
+    "funFacts": [
+      "Every Paw Patrol Panini release is a sticker collection, not a trading card set",
+      "Follows the same pattern as Dora and Anpanman: pre-school shows rarely get collector cards",
+      "The audience is too young to chase a checklist, so publishers stick to sticker albums"
+    ],
+    "estimatedValue": "Not applicable — no trading card market exists",
+    "image": "",
+    "noCardReason": "Paw Patrol has only ever had Panini sticker albums sold through supermarkets, never a numbered trading card set with a checklist for collectors to chase."
+  },
+  {
+    "id": "peanuts-1991-prosport",
+    "franchise": "Peanuts",
+    "character": "Charlie Brown & Snoopy",
+    "year": 1991,
+    "setInfo": "Peanuts trading cards, first collectible series (1991)",
+    "description": "Peanuts ran in newspapers from 1950 and its characters appeared on all kinds of printed novelties, some carrying 1958 and 1965 copyright dates. But the first proper Peanuts trading cards the hobby tracks arrive in 1991, timed to the strip's 40th anniversary, followed by ProSport's Peanuts Classics series. Four decades is one of the longest waits for a first card of any major franchise.",
+    "funFacts": [
+      "Peanuts waited four decades from its 1950 debut before getting a real trading card set",
+      "Earlier Peanuts card novelties exist with 1958 and 1965 copyright dates, but none were collectible sets",
+      "Cryptozoic revived Peanuts cards decades later for the strip’s 75th anniversary"
+    ],
+    "estimatedValue": "$10 – $40 for a complete 33-card set",
+    "image": "peanuts.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "avengers-1966-donruss",
+    "franchise": "Avengers",
+    "character": "Captain America",
+    "year": 1966,
+    "setInfo": "Donruss Marvel Super Heroes — no dedicated Avengers debut set",
+    "description": "The Avengers have no debut card of their own. The team formed in 1963, and its members first reached cardboard in the 1966 Donruss Marvel Super Heroes set — the same 66-card run that gave Spider-Man his first card — where Captain America, Thor and the others appear as individual heroes. A trading card set built specifically around the Avengers as a team would not arrive for decades.",
+    "funFacts": [
+      "Shares its debut set with Spider-Man: the same 1966 Donruss release covers both",
+      "The Avengers appear as separate heroes, never as a team, on their earliest cards",
+      "The MCU made the Avengers a household name 45 years after their first cards"
+    ],
+    "estimatedValue": "$50 – $1,500 depending on hero and grade",
+    "image": "avengers.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "frozen-2014-panini",
+    "franchise": "Frozen",
+    "character": "Elsa",
+    "year": 2014,
+    "setInfo": "Panini Disney Frozen: The Ice Kingdom sticker and card collection",
+    "description": "Frozen became the highest-grossing animated film ever made, and Panini moved quickly with the Frozen: The Ice Kingdom collection in 2014. Like most modern Disney properties it arrived as a sticker-and-card album sold through supermarkets rather than as sealed hobby packs, with a 168-sticker album to complete.",
+    "funFacts": [
+      "Panini followed up with further Frozen and Frozen II collections through 2019",
+      "Sold as a supermarket album rather than hobby wax, so complete albums are the collectible",
+      "A reminder that the biggest animated film of its era never got a classic sealed card set"
+    ],
+    "estimatedValue": "$20 – $70 for a complete filled album",
+    "image": "frozen.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "space-invaders-no-card",
+    "franchise": "Space Invaders",
+    "character": "Space Invaders (game)",
+    "year": 1978,
+    "setInfo": "No trading card release",
+    "description": "Space Invaders effectively created the video game industry as a mass phenomenon in 1978, and it sits inside the top 30 highest-grossing franchises of all time. Despite that, no trading card set was ever made for it. Taito has licensed modern novelty playing-card decks, but nothing that functions as a collectible set with a checklist.",
+    "funFacts": [
+      "Fleer put Pac-Man on cards in 1980, but nobody ever did the same for Space Invaders",
+      "The only Space Invaders cards are modern novelty poker decks, not collectibles",
+      "Its abstract pixel aliens gave illustrators almost nothing to build a card set around"
+    ],
+    "estimatedValue": "Not applicable — no collectible trading cards exist",
+    "image": "",
+    "noCardReason": "No collectible Space Invaders trading card set has ever been produced. The only Space Invaders cards are modern novelty playing-card decks, which have no checklist and no collector market."
+  },
+  {
+    "id": "warcraft-2006-upper-deck",
+    "franchise": "Warcraft",
+    "character": "Warchief Thrall",
+    "year": 2006,
+    "setInfo": "Upper Deck World of Warcraft TCG: Heroes of Azeroth, 361 cards",
+    "description": "Upper Deck launched the World of Warcraft Trading Card Game on 25 October 2006 with Heroes of Azeroth, its first set. Its cleverest idea was the loot card: ultra-rare pulls carrying codes that unlocked real in-game items, like a hippogryph pet or a turtle mount, tying the cardboard directly to the world's biggest MMO. The game ran to 21 expansions before ending in 2013.",
+    "funFacts": [
+      "Loot cards redeemed for real in-game mounts and pets, which sent their prices soaring",
+      "Ran to 21 booster expansions between 2006 and 2013",
+      "One of the first card games where a card had direct value inside a video game"
+    ],
+    "estimatedValue": "$1 – $60 for most cards; unredeemed loot cards go far higher",
+    "image": "warcraft.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "despicable-me-2017-topps",
+    "franchise": "Despicable Me",
+    "character": "Minions",
+    "year": 2017,
+    "setInfo": "Topps Despicable Me 3 Trading Card Game",
+    "description": "The Minions became one of the most merchandised characters of the 2010s, but their first proper trading cards did not arrive until Topps produced a Despicable Me 3 Trading Card Game in 2017 — seven years after the first film. A full Minions collectible card game from Card Fun followed years later, in 2024.",
+    "funFacts": [
+      "Seven years passed between the first film and the first Topps trading card set",
+      "The Minions out-merchandised the films themselves long before anyone printed a card",
+      "A dedicated Minions collectible card game only arrived in 2024, well over a decade in"
+    ],
+    "estimatedValue": "$1 – $15 per card; sealed 2017 packs carry a small premium",
+    "image": "despicableme.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "star-trek-1967-leaf",
+    "franchise": "Star Trek",
+    "character": "Star Trek: The Original Series",
+    "year": 1967,
+    "setInfo": "Leaf Star Trek, 72 cards",
+    "description": "Leaf produced the first Star Trek trading cards in 1967, a 72-card black-and-white set drawn from episode stills and on-set bloopers. It barely reached the public: Leaf only distributed in Ohio and Illinois, and the set was pulled almost immediately over a licensing dispute. That makes it one of the rarest and most sought-after television card sets in the hobby.",
+    "funFacts": [
+      "Recalled shortly after release over a licensing problem, which is why so few survive",
+      "Only ever distributed across Ohio and Illinois — it never went national",
+      "The text on the backs was largely invented and often has nothing to do with the episode shown"
+    ],
+    "estimatedValue": "$50 – $500+ per card; complete 1967 sets are genuinely rare",
+    "image": "startrek.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "dragon-ball-1988-carddass",
+    "franchise": "Dragon Ball",
+    "character": "Son Goku",
+    "year": 1988,
+    "setInfo": "Bandai Dragon Ball Carddass Set 1 (November 1988), 42 cards",
+    "description": "Bandai launched Dragon Ball Carddass in November 1988, and Set 1 runs to 42 cards — 36 regular plus 6 prism cards. They were never sold in shops as packs: you fed coins into a Carddass vending machine and it dispensed cards one at a time. The format was a Japanese phenomenon and became the template Bandai reused for countless anime properties.",
+    "funFacts": [
+      "Dispensed from coin-operated vending machines rather than sold in packs",
+      "Japan-only, which is why Western collectors discovered them decades late",
+      "The six prism cards in Set 1 are the original Dragon Ball chase cards"
+    ],
+    "estimatedValue": "$10 – $500+ depending on card and condition; early prisms are the prize",
+    "image": "dragonball.jpg",
+    "noCardReason": ""
   }
 ]
