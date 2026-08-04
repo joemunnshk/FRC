@@ -19,6 +19,12 @@ export function getCardDisplay(card: CardLike): { title: string; badge: string |
   const nf = normalize(franchise)
   const nc = normalize(character)
 
+  // Identical (Batman / Batman) — a badge would just repeat the title.
+  if (nf === nc) {
+    return { title: character, badge: null }
+  }
+
+  // One contains the other (Super Mario / Mario) — the badge still adds context.
   if (nf.includes(nc) || nc.includes(nf)) {
     return { title: character, badge: franchise }
   }

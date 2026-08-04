@@ -166,12 +166,15 @@ p {
   box-shadow: var(--shadow-hover);
 }
 
+/* Cards vary wildly in shape — graded slabs, raw cards, landscape esports
+   cards, even boxed sets — so contain them rather than cropping. */
 .card-tile img {
   width: 100%;
-  aspect-ratio: 3 / 5;
-  object-fit: cover;
+  aspect-ratio: 3 / 4;
+  object-fit: contain;
   display: block;
-  background: var(--border);
+  padding: 0.5rem;
+  background: var(--bg);
 }
 
 .card-tile .card-tile-info {
@@ -244,8 +247,10 @@ p {
   width: 100%;
   border-radius: 14px;
   box-shadow: var(--shadow);
-  aspect-ratio: 3 / 5;
-  object-fit: cover;
+  aspect-ratio: 3 / 4;
+  object-fit: contain;
+  padding: 0.5rem;
+  background: var(--bg-raised);
 }
 
 .detail-info .franchise {
@@ -282,6 +287,58 @@ p {
   margin-top: 0.35rem;
   color: var(--text-h);
   line-height: 1.6;
+}
+
+/* Franchises that never had a trading card */
+
+.no-card-art {
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  padding: 1rem;
+  text-align: center;
+  background:
+    repeating-linear-gradient(
+      45deg,
+      transparent,
+      transparent 10px,
+      var(--accent-bg) 10px,
+      var(--accent-bg) 20px
+    ),
+    var(--bg-raised);
+  border-radius: 14px;
+}
+
+.no-card-mark {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  color: var(--accent);
+  opacity: 0.55;
+}
+
+.no-card-label {
+  font-size: 0.8rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--text);
+  opacity: 0.65;
+}
+
+.no-card-note {
+  margin-top: 1rem;
+  padding: 0.85rem 1rem;
+  border-left: 3px solid var(--accent-border);
+  border-radius: 0 8px 8px 0;
+  background: var(--accent-bg);
+  color: var(--text-h);
+  line-height: 1.55;
+  font-size: 0.95rem;
 }
 
 .fact-list {

@@ -1,5 +1,5 @@
 import { createFileRoute, Link, notFound } from '@tanstack/react-router'
-import cards from '../data/cards.json'
+import { cards } from '../lib/cards'
 import { getCardDisplay } from '../lib/cardDisplay'
 
 export const Route = createFileRoute('/cards/$cardId')({
@@ -22,7 +22,14 @@ function CardDetailPage() {
       </Link>
 
       <div className="detail-layout">
-        <img src={`${import.meta.env.BASE_URL}cards/${card.image}`} alt={card.character} />
+        {card.image ? (
+          <img src={`${import.meta.env.BASE_URL}cards/${card.image}`} alt={card.character} />
+        ) : (
+          <div className="no-card-art">
+            <span className="no-card-mark">?</span>
+            <span className="no-card-label">No card ever released</span>
+          </div>
+        )}
 
         <div className="detail-info">
           {display.badge && <div className="franchise">{display.badge}</div>}
@@ -31,10 +38,12 @@ function CardDetailPage() {
             {card.year} · {card.setInfo}
           </div>
 
+          {card.noCardReason && <div className="no-card-note">{card.noCardReason}</div>}
+
           <div className="field-label">History</div>
           <div className="field-value">{card.description}</div>
 
-          {card.funFacts && card.funFacts.length > 0 && (
+          {card.funFacts.length > 0 && (
             <>
               <div className="field-label">Why It Matters</div>
               <ul className="fact-list">
@@ -45,7 +54,7 @@ function CardDetailPage() {
             </>
           )}
 
-          <div className="field-label">Estimated Value</div>
+          <div className="field-label">{card.image ? 'Estimated Value' : 'Collectibility'}</div>
           <div className="value-badge">{card.estimatedValue}</div>
         </div>
       </div>

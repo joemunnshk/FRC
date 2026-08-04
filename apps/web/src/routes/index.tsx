@@ -1,6 +1,6 @@
 import { createFileRoute, Link } from '@tanstack/react-router'
 import { useMemo, useState } from 'react'
-import cards from '../data/cards.json'
+import { cards } from '../lib/cards'
 import { getCardDisplay } from '../lib/cardDisplay'
 
 export const Route = createFileRoute('/')({
@@ -54,7 +54,14 @@ function HomePage() {
           const display = getCardDisplay(card)
           return (
             <Link key={card.id} to="/cards/$cardId" params={{ cardId: card.id }} className="card-tile">
-              <img src={`${import.meta.env.BASE_URL}cards/${card.image}`} alt={card.character} />
+              {card.image ? (
+                <img src={`${import.meta.env.BASE_URL}cards/${card.image}`} alt={card.character} />
+              ) : (
+                <div className="no-card-art">
+                  <span className="no-card-mark">?</span>
+                  <span className="no-card-label">No card ever released</span>
+                </div>
+              )}
               <div className="card-tile-info">
                 {display.badge && <div className="franchise">{display.badge}</div>}
                 <h3>{display.title}</h3>

@@ -10,6 +10,7 @@ interface Card {
   funFacts: string[]
   estimatedValue: string
   image: string
+  noCardReason: string
   imagePreview?: string
 }
 
@@ -42,6 +43,7 @@ function blankCard(): Card {
     funFacts: [],
     estimatedValue: '',
     image: '',
+    noCardReason: '',
   }
 }
 
@@ -280,6 +282,17 @@ export default function App() {
               placeholder="e.g. $20 – $300+"
               value={editingCard.estimatedValue}
               onChange={(e) => updateEditingCard({ estimatedValue: e.target.value })}
+              style={fieldStyle}
+            />
+          </label>
+
+          <label style={{ display: 'block', marginTop: '1rem' }}>
+            No card was ever released? Explain why (leave blank if a card exists)
+            <textarea
+              placeholder="e.g. Candy Crush is a mobile game and never had a physical trading card set."
+              value={editingCard.noCardReason}
+              onChange={(e) => updateEditingCard({ noCardReason: e.target.value })}
+              rows={3}
               style={fieldStyle}
             />
           </label>

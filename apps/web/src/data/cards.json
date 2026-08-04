@@ -6,13 +6,14 @@
     "year": 1996,
     "setInfo": "CoroCoro Comic #223 glossy promo (unnumbered), Japan",
     "description": "The genuine first Pokémon card ever released to the public. On October 15, 1996, the November issue of CoroCoro Comic — a Japanese monthly manga magazine from Shogakukan — hit newsstands with a two-card glossy insert of Pikachu and Jigglypuff. It landed five days before the Pokémon Trading Card Game officially went on sale. The cards were glued onto a sheet bound inside the magazine and had to be physically peeled out, which is why genuinely undamaged copies barely exist.",
-    "estimatedValue": "Enormous but volatile — sealed CoroCoro #223 issues have been valued near $150,000, while peeled singles vary wildly with condition",
-    "image": "pikachu.jpg",
     "funFacts": [
       "Predates the official Pokémon TCG launch by five days — manga readers had it before the game was on shelves",
       "The card credits Ken Sugimori as illustrator, but the real artist was Keiji Kinebuchi — an error on the very first Pokémon card ever printed",
       "Because the cards were glued into the magazine, decades of damage means not a single PSA 10 is known to exist"
-    ]
+    ],
+    "estimatedValue": "Enormous but volatile — sealed CoroCoro #223 issues have been valued near $150,000, while peeled singles vary wildly with condition",
+    "image": "pikachu.jpg",
+    "noCardReason": ""
   },
   {
     "id": "tmnt-1989-topps",
@@ -21,13 +22,14 @@
     "year": 1989,
     "setInfo": "Topps TMNT Series 1, 88 cards + 11 stickers",
     "description": "The first ever Teenage Mutant Ninja Turtles trading card set, released by Topps to ride the wave of the franchise's animated series and first feature film. It kicked off a run of TMNT card sets that continued into the 1990s.",
-    "estimatedValue": "$5 – $50 for common cards, more for high-grade or rare inserts",
-    "image": "tmnt.jpg",
     "funFacts": [
       "Arrived at the peak of \"Turtlemania,\" riding the first animated series and feature film",
       "One of the earliest properties to successfully cross from Saturday-morning cartoon to trading card aisle",
       "Set the template Topps would reuse for countless licensed-cartoon card sets through the '90s"
-    ]
+    ],
+    "estimatedValue": "$5 – $50 for common cards, more for high-grade or rare inserts",
+    "image": "tmnt.jpg",
+    "noCardReason": ""
   },
   {
     "id": "yugioh-bandai-1998",
@@ -36,13 +38,14 @@
     "year": 1998,
     "setInfo": "Bandai 1st Generation, Japan, #9",
     "description": "Most fans assume Konami's 1999 Official Card Game (Vol.1) was the first Yu-Gi-Oh! trading card, but Bandai actually released cards a year earlier, starting April 4, 1998, to tie into Toei's original anime. Blue-Eyes White Dragon appeared as card #9 in that very first Bandai generation — making this, not Vol.1, the true first Yu-Gi-Oh! trading card. Konami only took over the license in early 1999 after Bandai's final set.",
-    "estimatedValue": "$20 – $300, more for high-grade examples — these thin, glossy cards are notoriously hard to find in top condition",
-    "image": "yugioh.jpg",
     "funFacts": [
       "Predates the Yu-Gi-Oh! OCG that most fans think of as \"the first\" set by almost a year",
       "Used a simpler dice-and-life-points system, not the card-battle rules Konami introduced in 1999",
       "Bandai's cards are notoriously hard to find in top grades, making high-grade copies genuinely rare"
-    ]
+    ],
+    "estimatedValue": "$20 – $300, more for high-grade examples — these thin, glossy cards are notoriously hard to find in top condition",
+    "image": "yugioh.jpg",
+    "noCardReason": ""
   },
   {
     "id": "mario-1989-topps-nintendo",
@@ -51,13 +54,14 @@
     "year": 1989,
     "setInfo": "Topps Nintendo Game Pack (with an earlier 1982 Topps Donkey Kong \"Jumpman\" card predating the Mario name)",
     "description": "Mario's trading card history is a bit tangled: his earliest card appearance is arguably the 1982 Topps Donkey Kong set, where he appears as \"Jumpman\" before the Mario name existed. The first card set to use the Mario/Nintendo branding directly was the 1989 Topps Nintendo Game Pack. A proper full \"Super Mario Bros.\" set from Topps in the US never actually happened.",
-    "estimatedValue": "$5 – $40 depending on card and condition",
-    "image": "mario.jpg",
     "funFacts": [
       "His actual first card appearance predates the \"Mario\" name itself",
       "Nintendo's mascot never got a proper dedicated Super Mario Bros. set from Topps in the US — a genuine gap in the hobby",
       "A great example of how \"the first card\" can be a legitimately disputed title"
-    ]
+    ],
+    "estimatedValue": "$5 – $40 depending on card and condition",
+    "image": "mario.jpg",
+    "noCardReason": ""
   },
   {
     "id": "spongebob-2003-upper-deck",
@@ -66,13 +70,14 @@
     "year": 2003,
     "setInfo": "Upper Deck Entertainment SpongeBob SquarePants Trading Card Game, Base Set",
     "description": "The first SpongeBob SquarePants trading card set, published by Upper Deck Entertainment on May 27, 2003 as a collectible card game tied to the show, four years after it first aired.",
-    "estimatedValue": "$5 – $30, more for first-edition or holo variants",
-    "image": "spongebob.jpg",
     "funFacts": [
       "Arrived four years after the show's debut, once its popularity was undeniable",
       "One of the first major 2000s cartoons to get a full collectible card GAME, not just a sticker set",
       "Rode the early-2000s CCG boom that followed in the wake of Pokémon and Yu-Gi-Oh!"
-    ]
+    ],
+    "estimatedValue": "$5 – $30, more for first-edition or holo variants",
+    "image": "spongebob.jpg",
+    "noCardReason": ""
   },
   {
     "id": "mickey-mouse-1935-gum-inc",
@@ -81,12 +86,173 @@
     "year": 1935,
     "setInfo": "Gum, Inc. Mickey Mouse Set (R89/R90), 120 cards",
     "description": "Long before modern licensed card sets, Philadelphia's Gum, Inc. produced the first widely-distributed Mickey Mouse trading cards in 1935. Card fronts featured colorful comic-style artwork of Mickey and friends, while the backs carried jokes and trivia questions — one of the earliest examples of Disney characters hitting the collectible card market.",
-    "estimatedValue": "$20 – $500+ depending on card and grade; rare high-grade examples can go much higher",
-    "image": "mickey.jpg",
     "funFacts": [
       "Among the very first licensed non-sports trading cards of any Disney character, decades before modern sets",
       "The 120-card set paired jokes and trivia on the back — an early example of \"edutainment\" card design",
       "A cornerstone of the vintage non-sports card hobby; well-preserved examples are genuinely rare"
-    ]
+    ],
+    "estimatedValue": "$20 – $500+ depending on card and grade; rare high-grade examples can go much higher",
+    "image": "mickey.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "winnie-the-pooh-1965-pepys",
+    "franchise": "Winnie-the-Pooh",
+    "character": "Winnie-the-Pooh",
+    "year": 1965,
+    "setInfo": "Walt Disney's Winnie the Pooh 'Card Library' — Pooh Rummy / Concentration / Honey Tree (1965)",
+    "description": "Pooh is one of the hardest 'first cards' to pin down. Despite being the third highest-grossing franchise on earth, he never got a classic gum-card debut. The earliest widely-collected Pooh card product is this 1965 Walt Disney 'Card Library' boxed set — three card games in one 39-cent pack — rather than a true collectible trading set. Dedicated Pooh trading cards only really arrive decades later.",
+    "funFacts": [
+      "One of the biggest franchises in history with no clean 'rookie card' — a genuine gap in the hobby",
+      "The 1965 Pepys release is a card game in the Happy Families tradition, not a collectible trading set",
+      "A. A. Milne created Pooh in 1926; Disney only licensed him in 1961, which is why no pre-war card exists"
+    ],
+    "estimatedValue": "$30 – $200 for a complete boxed 1965 set, depending on condition",
+    "image": "pooh.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "star-wars-1977-topps",
+    "franchise": "Star Wars",
+    "character": "Luke Skywalker",
+    "year": 1977,
+    "setInfo": "Topps Star Wars Series 1 (Blue Border), #1 of 66",
+    "description": "Released in June 1977, weeks after A New Hope hit cinemas, Topps' blue-bordered Series 1 was the first Star Wars trading card set ever made. Card #1 is a profile portrait of Luke Skywalker, and it sits at the head of the checklist as the franchise's undisputed rookie card. Packs held seven cards and one sticker, with card backs carrying story summaries and multi-card puzzles.",
+    "funFacts": [
+      "A PSA-graded Luke Skywalker #1 has sold for $268,400, one of the highest prices ever paid for a non-sports card",
+      "Topps rushed the set out mid-release because nobody predicted how big the film would be",
+      "The blue border is the tell — Topps ran five colour-coded series for the first film alone"
+    ],
+    "estimatedValue": "$20 – $2,400 for a PSA 8; six figures for top-pop examples of card #1",
+    "image": "starwars.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "disney-princess-no-card",
+    "franchise": "Disney Princess",
+    "character": "Disney Princess (franchise)",
+    "year": 2000,
+    "setInfo": "No first card — a marketing umbrella, not a character",
+    "description": "Disney Princess is not a story or a character; it is a licensing banner Andy Mooney created in 2000 to sell Snow White, Cinderella, Ariel, Belle and others as one product line. Because it was assembled from characters who already existed, there is no single debut card for the brand itself.",
+    "funFacts": [
+      "Snow White predates the Disney Princess brand by 63 years — her own card history starts far earlier",
+      "Mooney reportedly came up with the idea after seeing girls at a Disney On Ice show dressed in homemade princess costumes",
+      "Any \"first Disney Princess card\" would really be a first card for one of the individual princesses"
+    ],
+    "estimatedValue": "Not applicable — individual princess cards are collected instead",
+    "image": "",
+    "noCardReason": "Disney Princess is a marketing brand launched in 2000 that bundles pre-existing characters together, so it has no debut trading card of its own. The individual princesses each have their own, much earlier, card histories."
+  },
+  {
+    "id": "anpanman-no-card",
+    "franchise": "Anpanman",
+    "character": "Anpanman",
+    "year": 1973,
+    "setInfo": "No documented collectible trading card release",
+    "description": "Anpanman is one of the highest-grossing franchises ever made, but almost all of that revenue comes from toys, food licensing and home video aimed at Japanese pre-schoolers. Unlike Pokémon or Dragon Ball, it never got a Carddass, Amada or menko-style collector set that the trading card hobby recognises or tracks.",
+    "funFacts": [
+      "Earns tens of billions of dollars almost entirely from toddler merchandise, not collectibles",
+      "Japanese card makers like Bandai and Amada built collector sets around shonen anime, not pre-school shows",
+      "A rare case of enormous commercial success with essentially zero presence in the card hobby"
+    ],
+    "estimatedValue": "Not applicable — no collectible card market exists",
+    "image": "",
+    "noCardReason": "Anpanman is aimed at Japanese pre-schoolers and its merchandising went into toys and food rather than collectibles, so no trading card set tracked by the hobby was ever released."
+  },
+  {
+    "id": "barbie-1990-mattel",
+    "franchise": "Barbie",
+    "character": "Barbie",
+    "year": 1990,
+    "setInfo": "Mattel Barbie Series 1 / Deluxe First Edition Portfolio (No. 5533), 300 cards",
+    "description": "Barbie had been on shelves for three decades before she got trading cards. Mattel's 1990 Series 1 set ran to 300 cards documenting Barbie's outfits and eras, and was also sold as a Deluxe First Edition portfolio in a vinyl binder containing all 300 plus 20 cards exclusive to that package.",
+    "funFacts": [
+      "Arrived 31 years after the doll launched in 1959 — an unusually long wait for a first card",
+      "The cards function as a fashion archive, cataloguing outfits year by year rather than telling a story",
+      "The 20 portfolio-exclusive cards are the chase pieces for set collectors"
+    ],
+    "estimatedValue": "$25 – $120 for a complete sealed Deluxe First Edition portfolio",
+    "image": "barbie.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "mcu-no-card",
+    "franchise": "Marvel Cinematic Universe",
+    "character": "Marvel Cinematic Universe (film series)",
+    "year": 2008,
+    "setInfo": "No first card — the characters long predate the film series",
+    "description": "The MCU began with Iron Man in 2008, and plenty of film-tie-in card sets followed from Upper Deck and others. But the MCU is a film continuity rather than a character, and every hero in it already had decades of card history through Marvel's comics. Asking for the MCU's rookie card really means asking for Iron Man's, or Spider-Man's.",
+    "funFacts": [
+      "Iron Man, Captain America and Thor all had trading cards decades before the MCU existed",
+      "Marvel character cards go back to the 1960s, nearly 50 years before the first MCU film",
+      "Film-tie-in sets are collected as movie memorabilia rather than character debuts"
+    ],
+    "estimatedValue": "Not applicable — individual Marvel character cards are collected instead",
+    "image": "",
+    "noCardReason": "The MCU is a film continuity launched in 2008, not a character, and every hero in it already had decades of comic-era trading cards. There is no meaningful \"first MCU card\"."
+  },
+  {
+    "id": "harry-potter-2001-wotc",
+    "franchise": "Wizarding World",
+    "character": "Harry Potter",
+    "year": 2001,
+    "setInfo": "Wizards of the Coast Harry Potter TCG Base Set, #8/116 (Holo)",
+    "description": "Wizards of the Coast — the publisher of Magic: The Gathering — launched the Harry Potter Trading Card Game in August 2001, three months ahead of the first film. The 116-card Base Set drew entirely on Harry Potter and the Philosopher's Stone. It became the second best-selling toy in the United States before Wizards abruptly stopped printing it after the 2003 expansion.",
+    "funFacts": [
+      "Launched before the first film, so the artwork is book-based rather than film-based",
+      "Briefly the second best-selling toy in the entire US market",
+      "Wizards killed the game in 2003 and never publicly explained why"
+    ],
+    "estimatedValue": "$2 – $60 per card; holographic Harry Potter and Quidditch cards command the most",
+    "image": "harrypotter.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "hello-kitty-sanrio-cards",
+    "franchise": "Hello Kitty",
+    "character": "Hello Kitty",
+    "year": 2023,
+    "setInfo": "Sanrio Collector's Card Plus (line launched 9 August 2023)",
+    "description": "Hello Kitty launched in 1974 and has appeared on virtually every product imaginable, but a properly collectible trading card line took nearly 50 years to arrive. Sanrio's Collectors Card Plus, released on 9 August 2023, is the first structured, hobby-recognised Sanrio card set. Earlier Hello Kitty cards existed as stationery and sticker-card novelties rather than as a graded, collected series.",
+    "funFacts": [
+      "A near 50-year gap between the character launching and getting a real collector card set",
+      "Sanrio built its empire on stationery and plush, which is why cards came so late",
+      "Hello Kitty's earlier 'cards' were sold as stationery novelties, not sealed collectible packs"
+    ],
+    "estimatedValue": "$1 – $40 per card; chase and secret rares run higher",
+    "image": "hellokitty.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "call-of-duty-2021-upper-deck",
+    "franchise": "Call of Duty",
+    "character": "Call of Duty League",
+    "year": 2021,
+    "setInfo": "Upper Deck Call of Duty League, first full trading card release",
+    "description": "Call of Duty has been one of the biggest entertainment franchises since 2003, but it took until 2021 to get real trading cards. Upper Deck's Call of Duty League set — alongside a Mountain Dew Game Fuel promotional release the same year — put professional esports players rather than in-game characters on cardboard, covering the Modern Warfare 2019 and Cold War seasons.",
+    "funFacts": [
+      "The cards feature real esports pros, not the game characters — unusual for a video game franchise",
+      "An 18-year wait between the first game and the first official card set",
+      "Part of a broader push to make competitive gaming collectable like traditional sport"
+    ],
+    "estimatedValue": "$1 – $50 per card; autographed pro cards fetch more",
+    "image": "callofduty.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "batman-1966-topps",
+    "franchise": "Batman",
+    "character": "Batman",
+    "year": 1966,
+    "setInfo": "Topps Batman \"Black Bat\" #1",
+    "description": "Topps rushed out several Batman sets in 1966 to ride the Adam West television series, and the Black Bat #1 is recognised as the first mainstream trading card of the character. The artwork across the 1966 Batman releases was painted by Norman Saunders, the illustrator behind Mars Attacks, giving the cards their lurid pulp-comic look.",
+    "funFacts": [
+      "A Black Bat #1 has sold at auction for $45,000",
+      "Painted by Norman Saunders, the same artist behind the notorious Mars Attacks set",
+      "Topps ran Black Bat, Blue Bat and Red Bat variants in the same year, which still confuses collectors"
+    ],
+    "estimatedValue": "$50 – $45,000 depending on grade; the #1 card carries a huge premium",
+    "image": "batman.jpg",
+    "noCardReason": ""
   }
 ]
