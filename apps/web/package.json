@@ -9,6 +9,7 @@
     "predev": "npm run generate-routes",
     "prebuild": "npm run generate-routes",
     "build": "tsc -b && vite build",
+    "postbuild": "cp dist/index.html dist/404.html",
     "lint": "oxlint",
     "preview": "vite preview"
   },
