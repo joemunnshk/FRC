@@ -104,7 +104,7 @@
     "description": "Pooh is one of the hardest 'first cards' to pin down. Despite being the third highest-grossing franchise on earth, he never got a classic gum-card debut. The earliest widely-collected Pooh card product is this 1965 Walt Disney 'Card Library' boxed set — three card games in one 39-cent pack — rather than a true collectible trading set. Dedicated Pooh trading cards only really arrive decades later.",
     "funFacts": [
       "One of the biggest franchises in history with no clean 'rookie card' — a genuine gap in the hobby",
-      "The 1965 Pepys release is a card game in the Happy Families tradition, not a collectible trading set",
+      "The 1965 release is a boxed set of card games, not a collectible trading set",
       "A. A. Milne created Pooh in 1926; Disney only licensed him in 1961, which is why no pre-war card exists"
     ],
     "estimatedValue": "$30 – $200 for a complete boxed 1965 set, depending on condition",
@@ -574,5 +574,246 @@
     "estimatedValue": "$10 – $500+ depending on card and condition; early prisms are the prize",
     "image": "dragonball.jpg",
     "noCardReason": ""
+  },
+  {
+    "id": "street-fighter-1992-carddass",
+    "franchise": "Street Fighter",
+    "character": "Chun-Li",
+    "year": 1992,
+    "setInfo": "Bandai Street Fighter II Carddass (Japan), #27 Chun-Li vs Chun-Li prism",
+    "description": "Street Fighter follows the same pattern as Yu-Gi-Oh! and Naruto: the Japanese cards came first. Bandai was producing Street Fighter II Carddass prism cards in Japan by 1992, dispensed from vending machines with the same hand-drawn anime artwork Capcom used in its Japanese marketing. Topps only brought Street Fighter II to Western card shops the following year, in 1993, with an 88-card photo-based set.",
+    "funFacts": [
+      "Japanese Carddass prisms beat the American Topps set to market by a year",
+      "Dispensed from coin-operated vending machines, exactly like Dragon Ball Carddass",
+      "The Japanese cards use hand-drawn anime art; the 1993 Topps set used arcade screen grabs"
+    ],
+    "estimatedValue": "$10 – $200 for prism cards depending on character and condition",
+    "image": "streetfighter.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "demon-slayer-cards",
+    "franchise": "Demon Slayer",
+    "character": "Tanjiro Kamado",
+    "year": 2020,
+    "setInfo": "Bandai Demon Slayer wafer card #1 (Japan), Tanjiro & Nezuko",
+    "description": "Demon Slayer exploded into one of the highest-grossing franchises on earth almost overnight, driven by the Mugen Train film. Its cards followed the modern Japanese pattern: wafer cards, bromides and collectible card releases produced in Japan around 2020 as the anime peaked, rather than a single defining debut set.",
+    "funFacts": [
+      "One of the fastest franchises in history to reach the top 40 highest-grossing list",
+      "Its cards arrived during the boom rather than ahead of it, unlike Pokémon",
+      "Japanese wafer and bromide cards remain the main collectible format for the series"
+    ],
+    "estimatedValue": "$2 – $150 per card depending on rarity and character",
+    "image": "demonslayer.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "jurassic-park-1993-topps",
+    "franchise": "Jurassic Park",
+    "character": "Dr. Ian Malcolm",
+    "year": 1993,
+    "setInfo": "Topps Jurassic Park #16, 88-card base set",
+    "description": "Topps released the first Jurassic Park cards alongside the film in 1993. The 88-card base set walks through the plot and covers the characters and dinosaurs, with a sticker in every pack — a Topps house style by that point — and four holograms as the chase inserts.",
+    "funFacts": [
+      "The stickers focus almost entirely on the dinosaurs rather than the human cast",
+      "Only four holograms exist in the set, and they are relatively easy to pull",
+      "Topps later reissued the artwork as a hardback art book, a rare honour for a movie card set"
+    ],
+    "estimatedValue": "$20 – $60 for a complete base set with stickers",
+    "image": "jurassicpark.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "gta-no-card",
+    "franchise": "Grand Theft Auto",
+    "character": "Grand Theft Auto (game series)",
+    "year": 1997,
+    "setInfo": "No trading card release",
+    "description": "Grand Theft Auto has earned around ten billion dollars and is one of the most recognisable entertainment brands in the world, yet it has never had a trading card set. Rockstar keeps merchandising deliberately minimal, and the adult content rating makes the property a poor fit for a category built largely around kids and family audiences.",
+    "funFacts": [
+      "Rockstar has always kept GTA merchandising unusually sparse by choice",
+      "Its mature rating makes it a difficult fit for a traditionally family-facing product category",
+      "One of the very few top-40 franchises with essentially no licensed collectibles"
+    ],
+    "estimatedValue": "Not applicable — no trading cards exist",
+    "image": "",
+    "noCardReason": "Rockstar keeps Grand Theft Auto merchandising deliberately minimal, and the series’ adult rating makes it a poor fit for trading cards. No set has ever been produced."
+  },
+  {
+    "id": "rilakkuma-no-card",
+    "franchise": "Rilakkuma",
+    "character": "Rilakkuma",
+    "year": 2003,
+    "setInfo": "No trading card release",
+    "description": "Rilakkuma is a San-X character with no story, no dialogue and no cast — a relaxing bear designed for stationery, plush toys and homeware. That is exactly why no trading card set exists: card sets need characters, conflict and a checklist, and Rilakkuma deliberately has none of those things.",
+    "funFacts": [
+      "The name means \"relax bear\" — the character has no plot to build a card set around",
+      "San-X built the brand on stationery and plush, exactly like Sanrio did with Hello Kitty",
+      "Hello Kitty eventually got cards after 49 years; Rilakkuma still has not"
+    ],
+    "estimatedValue": "Not applicable — no trading cards exist",
+    "image": "",
+    "noCardReason": "Rilakkuma is a character-goods brand with no story or cast, built for stationery and plush rather than collectibles. No trading card set has ever been released."
+  },
+  {
+    "id": "monster-strike-no-card",
+    "franchise": "Monster Strike",
+    "character": "Monster Strike (game)",
+    "year": 2013,
+    "setInfo": "No trading card release",
+    "description": "Monster Strike is a Japanese mobile game that has earned roughly ten billion dollars, almost entirely from in-app purchases in Japan. Its monsters live inside a gacha system that already functions like a card collection — which is precisely why a physical trading card set was never needed.",
+    "funFacts": [
+      "Its in-game gacha already works like a card collection, digitally",
+      "Revenue is overwhelmingly Japanese, with little Western merchandising",
+      "A recurring modern pattern: mobile games monetise collecting without printing anything"
+    ],
+    "estimatedValue": "Not applicable — no trading cards exist",
+    "image": "",
+    "noCardReason": "Monster Strike is a Japanese mobile gacha game whose in-game monster collecting already fills the role a card set would. No physical trading card release exists."
+  },
+  {
+    "id": "james-bond-1965-philadelphia",
+    "franchise": "James Bond",
+    "character": "James Bond",
+    "year": 1965,
+    "setInfo": "Philadelphia Gum James Bond #1, 66 cards (PSA labels the set 1966)",
+    "description": "Philadelphia Gum produced the first widely available James Bond cards in North America in 1965, a 66-card set drawing on Dr. No, From Russia with Love and Goldfinger. The cards are black-and-white movie stills and promotional shots inside a thin white border, capturing Sean Connery's Bond at the height of the first wave of Bondmania.",
+    "funFacts": [
+      "Covers the first three Connery films in a single 66-card run",
+      "Black-and-white photography, at a time when colour card printing already existed",
+      "Considered a cornerstone set of 1960s non-sports collecting",
+      "Card references disagree on the year — most sources say 1965, PSA slabs it as 1966"
+    ],
+    "estimatedValue": "$5 – $80 per card; complete graded sets run into the thousands",
+    "image": "jamesbond.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "angry-birds-cards",
+    "franchise": "Angry Birds",
+    "character": "Red",
+    "year": 2012,
+    "setInfo": "E-Max / Rovio Angry Birds TCG #001 Red",
+    "description": "Angry Birds was the defining mobile game of the early 2010s and, unusually for a mobile title, it merchandised hard — plush, films, theme parks and cards. Its trading cards arrived in the early 2010s through European publishers, at the point where the game was briefly one of the most recognised brands on earth.",
+    "funFacts": [
+      "One of very few mobile games to get real trading cards, unlike Candy Crush",
+      "Rovio pushed merchandising aggressively while the game was at peak popularity",
+      "The card sets are mostly European releases rather than US hobby product"
+    ],
+    "estimatedValue": "Under $1 per card; complete albums carry the value",
+    "image": "angrybirds.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "thomas-1992-banpresto",
+    "franchise": "Thomas & Friends",
+    "character": "Thomas the Tank Engine",
+    "year": 1992,
+    "setInfo": "Banpresto Thomas the Tank Engine prism cards (Japan), © Britt Allcroft 1992",
+    "description": "The Railway Series began in 1945, making Thomas one of the oldest franchises on this list, and his first cards are not British or American — they are Japanese. Banpresto produced holographic prism cards in Japan carrying a 1992 Britt Allcroft copyright, using photographs of the original model-railway television series. ERTL followed with a Series 1 trading card set in 1998, and a 100-card Gullane and Briarpatch release came in 2002.",
+    "funFacts": [
+      "Nearly fifty years passed between the first Railway Series book and the first Thomas cards",
+      "The earliest Thomas cards are Japanese prism cards, not British or American ones",
+      "They use photographs of the physical model railway, years before the show went computer-animated"
+    ],
+    "estimatedValue": "$5 – $60 per prism card; Japanese sets are scarce in the West",
+    "image": "thomas.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "fortnite-2019-panini",
+    "franchise": "Fortnite",
+    "character": "Skull Trooper",
+    "year": 2019,
+    "setInfo": "Panini Fortnite Series 1 #235 (Crystal Shard parallel)",
+    "description": "Panini produced the first Fortnite trading cards in 2019, at the peak of the game's cultural dominance. Series 1 covers the outfits and characters players actually recognised from the battle royale, and it worked: unlike most game tie-ins, Fortnite cards found a genuine collector market and high-grade rare outfits climbed quickly.",
+    "funFacts": [
+      "Reached cards just two years after launch — one of the fastest turnarounds on this list",
+      "Rare and Legendary outfit cards became genuine chase pieces almost immediately",
+      "Proved a free-to-play game could still support a real physical card market"
+    ],
+    "estimatedValue": "$1 – $500+ depending on rarity tier and grade",
+    "image": "fortnite.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "power-rangers-1994",
+    "franchise": "Power Rangers",
+    "character": "Mighty Morphin Power Rangers",
+    "year": 1994,
+    "setInfo": "Collect-A-Card Mighty Morphin Power Rangers Series 1",
+    "description": "Toei's Super Sentai began in Japan in 1975, but the franchise only became a global phenomenon when Saban reworked it into Mighty Morphin Power Rangers in 1993. Collect-A-Card put out the first Power Rangers trading cards in 1994, right as the show became the biggest thing on children's television in the West.",
+    "funFacts": [
+      "The franchise is Japanese and dates to 1975, but its first cards are American and from 1994",
+      "Arrived at the exact peak of Power Rangers mania, so print runs were enormous",
+      "High print numbers mean the cards stayed cheap despite the show’s huge audience"
+    ],
+    "estimatedValue": "$1 – $25 per card; sealed 1994 packs are worth more",
+    "image": "powerrangers.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "lotr-2001-topps",
+    "franchise": "Middle-earth",
+    "character": "Frodo Baggins",
+    "year": 2001,
+    "setInfo": "Topps Lord of the Rings: The Fellowship of the Ring (shown: Frodo travel-jacket relic card)",
+    "description": "Tolkien published The Hobbit in 1937, but Middle-earth reached mainstream trading cards only when Peter Jackson's films arrived. Topps released The Fellowship of the Ring set in 2001 alongside the first film, built from film stills and character portraits, and it became one of the most collected movie card sets of the 2000s.",
+    "funFacts": [
+      "A 64-year gap between Tolkien’s first book and the first mainstream Middle-earth cards",
+      "Middle-earth had a collectible card game in the 1990s, but the mass-market cards are Jackson-era",
+      "Topps embedded actual pieces of screen-worn costume into relic cards like this one"
+    ],
+    "estimatedValue": "$1 – $40 for base cards; signed inserts run into the hundreds",
+    "image": "lotr.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "xmen-1992-impel",
+    "franchise": "X-Men",
+    "character": "Wolverine",
+    "year": 1992,
+    "setInfo": "Impel X-Men Series 1, 100 cards",
+    "description": "X-Men characters appear on the 1966 Donruss Marvel Super Heroes set, but the first trading card release built specifically around the X-Men is Impel's 1992 Series 1. Its 100 cards arrived at the height of the Jim Lee era, when X-Men comics were selling in numbers the industry has never matched since.",
+    "funFacts": [
+      "Landed during the X-Men boom that produced the best-selling comic issue of all time",
+      "Wolverine cards from the set remain the most chased, decades later",
+      "Printed in vast quantities, so most cards stayed affordable despite huge demand"
+    ],
+    "estimatedValue": "$10 – $40 for a complete set; graded Wolverine cards go higher",
+    "image": "xmen.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "superman-1940-gum-inc",
+    "franchise": "Superman",
+    "character": "Superman",
+    "year": 1940,
+    "setInfo": "Gum, Inc. Superman (1940) — shown: #47 Horror Beneath the Sea",
+    "description": "Superman first appeared in Action Comics #1 in 1938, and Gum, Inc. — the same Philadelphia company behind the 1935 Mickey Mouse cards — put him on cardboard just two years later. The 1940 Superman set is one of the earliest superhero card releases in existence, and card #1 is among the most valuable non-sports cards ever printed.",
+    "funFacts": [
+      "A Gum, Inc. Superman #1 has sold at auction for $36,250",
+      "Produced by the same company as the 1935 Mickey Mouse set on this list",
+      "Predates the first Batman cards by twenty-six years despite the characters debuting a year apart"
+    ],
+    "estimatedValue": "$200 – $36,000+ depending on grade; card #1 carries an enormous premium",
+    "image": "superman.jpg",
+    "noCardReason": ""
+  },
+  {
+    "id": "dceu-no-card",
+    "franchise": "DC Extended Universe",
+    "character": "DC Extended Universe (film series)",
+    "year": 2013,
+    "setInfo": "No first card — the characters long predate the film series",
+    "description": "The DCEU began with Man of Steel in 2013 and film tie-in cards followed, but the DCEU is a film continuity rather than a character. Superman had cards in 1940 and Batman in 1966 — decades before this shared universe existed — so asking for the DCEU's first card really means asking for theirs.",
+    "funFacts": [
+      "Superman’s first card predates the DCEU by seventy-three years",
+      "Batman and Superman both appear separately on this list with far older debut cards",
+      "The film series was retired and rebooted as the DCU before it ever established a card identity"
+    ],
+    "estimatedValue": "Not applicable — individual DC character cards are collected instead",
+    "image": "",
+    "noCardReason": "The DCEU is a film continuity launched in 2013, not a character. Superman and Batman already had trading cards decades earlier, so there is no meaningful \"first DCEU card\"."
   }
 ]
