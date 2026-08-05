@@ -113,27 +113,52 @@ p {
   outline-offset: 1px;
 }
 
-.filter-chips {
+/* With 50+ franchises a chip per franchise filled the whole screen,
+   so the filter lives in a dropdown instead. */
+.control-row {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  align-items: flex-end;
+  gap: 0.75rem;
 }
 
-.filter-chip {
-  padding: 0.4rem 0.9rem;
-  border-radius: 999px;
+.control {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 700;
+  color: var(--text);
+  opacity: 0.75;
+}
+
+.control select {
+  font-size: 0.95rem;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: normal;
+  padding: 0.5rem 0.75rem;
+  border-radius: 8px;
   border: 1px solid var(--border);
   background: var(--bg-raised);
-  color: var(--text);
-  font-size: 0.9rem;
+  color: var(--text-h);
+  min-width: 190px;
   cursor: pointer;
 }
 
-.filter-chip.active {
-  background: var(--accent-bg);
-  border-color: var(--accent-border);
-  color: var(--accent);
-  font-weight: 600;
+.control select:focus {
+  outline: 2px solid var(--accent-border);
+  outline-offset: 1px;
+}
+
+.result-count {
+  margin-left: auto;
+  padding-bottom: 0.6rem;
+  font-size: 0.9rem;
+  color: var(--text);
+  opacity: 0.7;
 }
 
 /* Grid */

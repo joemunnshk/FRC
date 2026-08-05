@@ -7,23 +7,35 @@ export const Route = createFileRoute('/')({
   component: HomePage,
 })
 
+type SortKey = 'oldest' | 'newest' | 'name'
+
 function HomePage() {
   const [search, setSearch] = useState('')
-  const [franchise, setFranchise] = useState<string>('All')
+  const [franchise, setFranchise] = useState('All')
+  const [sort, setSort] = useState<SortKey>('oldest')
 
-  const franchises = useMemo(() => ['All', ...new Set(cards.map((card) => card.franchise))], [])
+  const franchises = useMemo(
+    () => [...new Set(cards.map((card) => card.franchise))].sort((a, b) => a.localeCompare(b)),
+    [],
+  )
 
   const filtered = useMemo(() => {
     const query = search.trim().toLowerCase()
-    return cards.filter((card) => {
+    const result = cards.filter((card) => {
       const matchesFranchise = franchise === 'All' || card.franchise === franchise
       const matchesSearch =
         query === '' ||
         card.character.toLowerCase().includes(query) ||
-        card.franchise.toLowerCase().includes(query)
+        card.franchise.toLowerCase().includes(query) ||
+        card.setInfo.toLowerCase().includes(query)
       return matchesFranchise && matchesSearch
     })
-  }, [search, franchise])
+
+    return result.sort((a, b) => {
+      if (sort === 'name') return getCardDisplay(a).title.localeCompare(getCardDisplay(b).title)
+      return sort === 'newest' ? b.year - a.year : a.year - b.year
+    })
+  }, [search, franchise, sort])
 
   return (
     <>
@@ -31,20 +43,36 @@ function HomePage() {
         <input
           type="search"
           className="search-input"
-          placeholder="Search by character or franchise..."
+          placeholder="Search by character, franchise or card set..."
           value={search}
           onChange={(e) => setSearch(e.target.value)}
         />
-        <div className="filter-chips">
-          {franchises.map((f) => (
-            <button
-              key={f}
-              className={`filter-chip${f === franchise ? ' active' : ''}`}
-              onClick={() => setFranchise(f)}
-            >
-              {f}
-            </button>
-          ))}
+
+        <div className="control-row">
+          <label className="control">
+            <span>Franchise</span>
+            <select value={franchise} onChange={(e) => setFranchise(e.target.value)}>
+              <option value="All">All ({cards.length})</option>
+              {franchises.map((f) => (
+                <option key={f} value={f}>
+                  {f}
+                </option>
+              ))}
+            </select>
+          </label>
+
+          <label className="control">
+            <span>Sort by</span>
+            <select value={sort} onChange={(e) => setSort(e.target.value as SortKey)}>
+              <option value="oldest">Oldest first</option>
+              <option value="newest">Newest first</option>
+              <option value="name">Name (A–Z)</option>
+            </select>
+          </label>
+
+          <div className="result-count">
+            {filtered.length} {filtered.length === 1 ? 'card' : 'cards'}
+          </div>
         </div>
       </div>
 
@@ -55,7 +83,7 @@ function HomePage() {
           return (
             <Link key={card.id} to="/cards/$cardId" params={{ cardId: card.id }} className="card-tile">
               {card.image ? (
-                <img src={`${import.meta.env.BASE_URL}cards/${card.image}`} alt={card.character} />
+                <img src={`${import.meta.env.BASE_URL}cards/${card.image}`} alt={card.character} loading="lazy" />
               ) : (
                 <div className="no-card-art">
                   <span className="no-card-mark">?</span>
