@@ -13,7 +13,13 @@
     ],
     "estimatedValue": "Enormous but volatile — sealed CoroCoro #223 issues have been valued near $150,000, while peeled singles vary wildly with condition",
     "image": "pikachu.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 1,
+    "revenueBillions": 130.7,
+    "categories": [
+      "media",
+      "tcg"
+    ]
   },
   {
     "id": "tmnt-1989-topps",
@@ -29,7 +35,12 @@
     ],
     "estimatedValue": "$5 – $50 for common cards, more for high-grade or rare inserts",
     "image": "tmnt.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 20,
+    "revenueBillions": 17.4,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "yugioh-bandai-1998",
@@ -45,7 +56,12 @@
     ],
     "estimatedValue": "$20 – $300, more for high-grade examples — these thin, glossy cards are notoriously hard to find in top condition",
     "image": "yugioh.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "tcg"
+    ]
   },
   {
     "id": "mario-1989-topps-nintendo",
@@ -61,7 +77,12 @@
     ],
     "estimatedValue": "$5 – $40 depending on card and condition",
     "image": "mario.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 42,
+    "revenueBillions": 9.74,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "spongebob-2003-upper-deck",
@@ -77,7 +98,12 @@
     ],
     "estimatedValue": "$5 – $30, more for first-edition or holo variants",
     "image": "spongebob.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 21,
+    "revenueBillions": 16.6,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "mickey-mouse-1935-gum-inc",
@@ -93,7 +119,12 @@
     ],
     "estimatedValue": "$20 – $500+ depending on card and grade; rare high-grade examples can go much higher",
     "image": "mickey.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 2,
+    "revenueBillions": 61.2,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "winnie-the-pooh-1965-pepys",
@@ -109,7 +140,12 @@
     ],
     "estimatedValue": "$30 – $200 for a complete boxed 1965 set, depending on condition",
     "image": "pooh.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 3,
+    "revenueBillions": 50.2,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "star-wars-1977-topps",
@@ -125,7 +161,12 @@
     ],
     "estimatedValue": "$20 – $2,400 for a PSA 8; six figures for top-pop examples of card #1",
     "image": "starwars.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 4,
+    "revenueBillions": 46.7,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "disney-princess-no-card",
@@ -141,7 +182,12 @@
     ],
     "estimatedValue": "Not applicable — individual princess cards are collected instead",
     "image": "",
-    "noCardReason": "Disney Princess is a marketing brand launched in 2000 that bundles pre-existing characters together, so it has no debut trading card of its own. The individual princesses each have their own, much earlier, card histories."
+    "noCardReason": "Disney Princess is a marketing brand launched in 2000 that bundles pre-existing characters together, so it has no debut trading card of its own. The individual princesses each have their own, much earlier, card histories.",
+    "mediaRank": 5,
+    "revenueBillions": 45.4,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "anpanman-no-card",
@@ -157,7 +203,12 @@
     ],
     "estimatedValue": "Not applicable — no collectible card market exists",
     "image": "",
-    "noCardReason": "Anpanman is aimed at Japanese pre-schoolers and its merchandising went into toys and food rather than collectibles, so no trading card set tracked by the hobby was ever released."
+    "noCardReason": "Anpanman is aimed at Japanese pre-schoolers and its merchandising went into toys and food rather than collectibles, so no trading card set tracked by the hobby was ever released.",
+    "mediaRank": 6,
+    "revenueBillions": 38.4,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "barbie-1990-mattel",
@@ -173,7 +224,12 @@
     ],
     "estimatedValue": "$25 – $120 for a complete sealed Deluxe First Edition portfolio",
     "image": "barbie.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 7,
+    "revenueBillions": 36.3,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "mcu-no-card",
@@ -189,7 +245,12 @@
     ],
     "estimatedValue": "Not applicable — individual Marvel character cards are collected instead",
     "image": "",
-    "noCardReason": "The MCU is a film continuity launched in 2008, not a character, and every hero in it already had decades of comic-era trading cards. There is no meaningful \"first MCU card\"."
+    "noCardReason": "The MCU is a film continuity launched in 2008, not a character, and every hero in it already had decades of comic-era trading cards. There is no meaningful \"first MCU card\".",
+    "mediaRank": 8,
+    "revenueBillions": 35.2,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "harry-potter-2001-wotc",
@@ -205,7 +266,12 @@
     ],
     "estimatedValue": "$2 – $60 per card; holographic Harry Potter and Quidditch cards command the most",
     "image": "harrypotter.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 9,
+    "revenueBillions": 34.7,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "hello-kitty-sanrio-cards",
@@ -221,7 +287,12 @@
     ],
     "estimatedValue": "$1 – $40 per card; chase and secret rares run higher",
     "image": "hellokitty.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 10,
+    "revenueBillions": 33.5,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "call-of-duty-2021-upper-deck",
@@ -237,7 +308,12 @@
     ],
     "estimatedValue": "$1 – $50 per card; autographed pro cards fetch more",
     "image": "callofduty.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 11,
+    "revenueBillions": 31,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "batman-1966-topps",
@@ -253,7 +329,12 @@
     ],
     "estimatedValue": "$50 – $45,000 depending on grade; the #1 card carries a huge premium",
     "image": "batman.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 12,
+    "revenueBillions": 29.9,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "spiderman-1966-donruss",
@@ -269,7 +350,12 @@
     ],
     "estimatedValue": "$100 – $3,000+ depending on grade; high-grade #34 examples are scarce",
     "image": "spiderman.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 13,
+    "revenueBillions": 26.8,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "transformers-1985-action-cards",
@@ -285,7 +371,12 @@
     ],
     "estimatedValue": "$1 – $30 per card; sealed 1985 packs command a strong premium",
     "image": "transformers.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 14,
+    "revenueBillions": 25,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "naruto-2002-bandai",
@@ -301,7 +392,13 @@
     ],
     "estimatedValue": "$1 – $80 per card; early rare foils are the chase pieces",
     "image": "naruto.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 15,
+    "revenueBillions": 22.8,
+    "categories": [
+      "media",
+      "tcg"
+    ]
   },
   {
     "id": "dungeon-fighter-online-no-card",
@@ -317,7 +414,12 @@
     ],
     "estimatedValue": "Not applicable — no trading cards exist",
     "image": "",
-    "noCardReason": "Dungeon Fighter Online earns its money through in-game microtransactions in Asian markets and has almost no physical merchandising, so no trading card set was ever made."
+    "noCardReason": "Dungeon Fighter Online earns its money through in-game microtransactions in Asian markets and has almost no physical merchandising, so no trading card set was ever made.",
+    "mediaRank": 16,
+    "revenueBillions": 22,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "cars-2025-topps-chrome",
@@ -333,7 +435,12 @@
     ],
     "estimatedValue": "$5 for a base card up to five figures for the 1/1 Superfractor",
     "image": "cars.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 17,
+    "revenueBillions": 21.5,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "candy-crush-no-card",
@@ -349,7 +456,12 @@
     ],
     "estimatedValue": "Not applicable — no trading cards exist",
     "image": "",
-    "noCardReason": "Candy Crush is a mobile puzzle game with no characters or story to build a card set around, so no trading cards were ever released."
+    "noCardReason": "Candy Crush is a mobile puzzle game with no characters or story to build a card set around, so no trading cards were ever released.",
+    "mediaRank": 18,
+    "revenueBillions": 20,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "looney-tunes-1990-comic-ball",
@@ -365,7 +477,12 @@
     ],
     "estimatedValue": "$1 – $40 per card; Bugs Bunny and Nolan Ryan cards carry the premium",
     "image": "looneytunes.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 19,
+    "revenueBillions": 17.46,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "toy-story-1995-skybox",
@@ -381,7 +498,12 @@
     ],
     "estimatedValue": "$15 – $60 for a complete 90-card base set",
     "image": "toystory.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 22,
+    "revenueBillions": 16,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "lion-king-1994-skybox",
@@ -397,7 +519,12 @@
     ],
     "estimatedValue": "$15 – $50 for a complete Series 1 set; inserts are worth more",
     "image": "lionking.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 23,
+    "revenueBillions": 15.9,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "dora-the-explorer-no-card",
@@ -413,7 +540,12 @@
     ],
     "estimatedValue": "Not applicable — no collectible card market exists",
     "image": "",
-    "noCardReason": "Nickelodeon only ever released playable Dora card games such as Go Fish and Crazy Eights, never a collectible trading card set with a checklist."
+    "noCardReason": "Nickelodeon only ever released playable Dora card games such as Go Fish and Crazy Eights, never a collectible trading card set with a checklist.",
+    "mediaRank": 24,
+    "revenueBillions": 15.8,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "pacman-1980-fleer",
@@ -429,7 +561,12 @@
     ],
     "estimatedValue": "$2 – $40 per card; sealed wax packs and complete sets fetch more",
     "image": "pacman.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 25,
+    "revenueBillions": 15.43,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "paw-patrol-no-card",
@@ -445,7 +582,12 @@
     ],
     "estimatedValue": "Not applicable — no trading card market exists",
     "image": "",
-    "noCardReason": "Paw Patrol has only ever had Panini sticker albums sold through supermarkets, never a numbered trading card set with a checklist for collectors to chase."
+    "noCardReason": "Paw Patrol has only ever had Panini sticker albums sold through supermarkets, never a numbered trading card set with a checklist for collectors to chase.",
+    "mediaRank": 26,
+    "revenueBillions": 15.4,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "peanuts-1991-prosport",
@@ -461,7 +603,12 @@
     ],
     "estimatedValue": "$10 – $40 for a complete 33-card set",
     "image": "peanuts.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 27,
+    "revenueBillions": 14.4,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "avengers-1966-donruss",
@@ -477,7 +624,12 @@
     ],
     "estimatedValue": "$50 – $1,500 depending on hero and grade",
     "image": "avengers.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 28,
+    "revenueBillions": 14.3,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "frozen-2014-panini",
@@ -493,7 +645,12 @@
     ],
     "estimatedValue": "$20 – $70 for a complete filled album",
     "image": "frozen.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 29,
+    "revenueBillions": 13.9,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "space-invaders-no-card",
@@ -509,7 +666,12 @@
     ],
     "estimatedValue": "Not applicable — no collectible trading cards exist",
     "image": "",
-    "noCardReason": "No collectible Space Invaders trading card set has ever been produced. The only Space Invaders cards are modern novelty playing-card decks, which have no checklist and no collector market."
+    "noCardReason": "No collectible Space Invaders trading card set has ever been produced. The only Space Invaders cards are modern novelty playing-card decks, which have no checklist and no collector market.",
+    "mediaRank": 30,
+    "revenueBillions": 13.9,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "warcraft-2006-upper-deck",
@@ -525,7 +687,12 @@
     ],
     "estimatedValue": "$1 – $60 for most cards; unredeemed loot cards go far higher",
     "image": "warcraft.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 31,
+    "revenueBillions": 12.4,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "despicable-me-2017-topps",
@@ -541,7 +708,12 @@
     ],
     "estimatedValue": "$1 – $15 per card; sealed 2017 packs carry a small premium",
     "image": "despicableme.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 32,
+    "revenueBillions": 12.3,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "star-trek-1967-leaf",
@@ -557,7 +729,12 @@
     ],
     "estimatedValue": "$50 – $500+ per card; complete 1967 sets are genuinely rare",
     "image": "startrek.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 33,
+    "revenueBillions": 11.2,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "dragon-ball-1988-carddass",
@@ -573,7 +750,13 @@
     ],
     "estimatedValue": "$10 – $500+ depending on card and condition; early prisms are the prize",
     "image": "dragonball.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 34,
+    "revenueBillions": 10.7,
+    "categories": [
+      "media",
+      "tcg"
+    ]
   },
   {
     "id": "street-fighter-1992-carddass",
@@ -589,7 +772,12 @@
     ],
     "estimatedValue": "$10 – $200 for prism cards depending on character and condition",
     "image": "streetfighter.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 35,
+    "revenueBillions": 10.7,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "demon-slayer-cards",
@@ -605,7 +793,12 @@
     ],
     "estimatedValue": "$2 – $150 per card depending on rarity and character",
     "image": "demonslayer.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 36,
+    "revenueBillions": 10.1,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "jurassic-park-1993-topps",
@@ -621,7 +814,12 @@
     ],
     "estimatedValue": "$20 – $60 for a complete base set with stickers",
     "image": "jurassicpark.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 37,
+    "revenueBillions": 10.1,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "gta-no-card",
@@ -637,7 +835,12 @@
     ],
     "estimatedValue": "Not applicable — no trading cards exist",
     "image": "",
-    "noCardReason": "Rockstar keeps Grand Theft Auto merchandising deliberately minimal, and the series’ adult rating makes it a poor fit for trading cards. No set has ever been produced."
+    "noCardReason": "Rockstar keeps Grand Theft Auto merchandising deliberately minimal, and the series’ adult rating makes it a poor fit for trading cards. No set has ever been produced.",
+    "mediaRank": 38,
+    "revenueBillions": 10,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "rilakkuma-no-card",
@@ -653,7 +856,12 @@
     ],
     "estimatedValue": "Not applicable — no trading cards exist",
     "image": "",
-    "noCardReason": "Rilakkuma is a character-goods brand with no story or cast, built for stationery and plush rather than collectibles. No trading card set has ever been released."
+    "noCardReason": "Rilakkuma is a character-goods brand with no story or cast, built for stationery and plush rather than collectibles. No trading card set has ever been released.",
+    "mediaRank": 39,
+    "revenueBillions": 10,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "monster-strike-no-card",
@@ -669,7 +877,12 @@
     ],
     "estimatedValue": "Not applicable — no trading cards exist",
     "image": "",
-    "noCardReason": "Monster Strike is a Japanese mobile gacha game whose in-game monster collecting already fills the role a card set would. No physical trading card release exists."
+    "noCardReason": "Monster Strike is a Japanese mobile gacha game whose in-game monster collecting already fills the role a card set would. No physical trading card release exists.",
+    "mediaRank": 40,
+    "revenueBillions": 10,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "james-bond-1965-philadelphia",
@@ -686,7 +899,12 @@
     ],
     "estimatedValue": "$5 – $80 per card; complete graded sets run into the thousands",
     "image": "jamesbond.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 41,
+    "revenueBillions": 9.75,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "angry-birds-cards",
@@ -702,7 +920,12 @@
     ],
     "estimatedValue": "Under $1 per card; complete albums carry the value",
     "image": "angrybirds.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 43,
+    "revenueBillions": 9.54,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "thomas-1992-banpresto",
@@ -718,7 +941,12 @@
     ],
     "estimatedValue": "$5 – $60 per prism card; Japanese sets are scarce in the West",
     "image": "thomas.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 44,
+    "revenueBillions": 9.12,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "fortnite-2019-panini",
@@ -734,7 +962,12 @@
     ],
     "estimatedValue": "$1 – $500+ depending on rarity tier and grade",
     "image": "fortnite.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 45,
+    "revenueBillions": 9,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "power-rangers-1994",
@@ -750,7 +983,12 @@
     ],
     "estimatedValue": "$1 – $25 per card; sealed 1994 packs are worth more",
     "image": "powerrangers.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 46,
+    "revenueBillions": 8.67,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "lotr-2001-topps",
@@ -766,7 +1004,12 @@
     ],
     "estimatedValue": "$1 – $40 for base cards; signed inserts run into the hundreds",
     "image": "lotr.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 47,
+    "revenueBillions": 8.46,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "xmen-1992-impel",
@@ -782,7 +1025,12 @@
     ],
     "estimatedValue": "$10 – $40 for a complete set; graded Wolverine cards go higher",
     "image": "xmen.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 48,
+    "revenueBillions": 8.35,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "superman-1940-gum-inc",
@@ -798,7 +1046,12 @@
     ],
     "estimatedValue": "$200 – $36,000+ depending on grade; card #1 carries an enormous premium",
     "image": "superman.jpg",
-    "noCardReason": ""
+    "noCardReason": "",
+    "mediaRank": 49,
+    "revenueBillions": 8.2,
+    "categories": [
+      "media"
+    ]
   },
   {
     "id": "dceu-no-card",
@@ -814,6 +1067,179 @@
     ],
     "estimatedValue": "Not applicable — individual DC character cards are collected instead",
     "image": "",
-    "noCardReason": "The DCEU is a film continuity launched in 2013, not a character. Superman and Batman already had trading cards decades earlier, so there is no meaningful \"first DCEU card\"."
+    "noCardReason": "The DCEU is a film continuity launched in 2013, not a character. Superman and Batman already had trading cards decades earlier, so there is no meaningful \"first DCEU card\".",
+    "mediaRank": 50,
+    "revenueBillions": 8,
+    "categories": [
+      "media"
+    ]
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "tcg"
+    ],
+    "noCardReason": "",
+    "id": "magic-1993-alpha",
+    "franchise": "Magic: The Gathering",
+    "character": "Black Lotus",
+    "year": 1993,
+    "setInfo": "Limited Edition Alpha, 295 cards",
+    "description": "Magic: The Gathering invented the trading card game. Richard Garfield's design launched in August 1993 as Limited Edition Alpha, a 295-card print run that sold out almost immediately — Wizards of the Coast had expected it to last months. Black Lotus is the most famous card in the game and arguably in the entire hobby: it produces three mana for free and was banned from serious play almost immediately.",
+    "funFacts": [
+      "Created the entire trading card game category — every game in this tab descends from it",
+      "Alpha cards have visibly rounder corners than every later printing, a production quirk that makes them instantly identifiable",
+      "An Alpha Black Lotus graded PSA 10 sold for $540,000, and a signed copy later went for over $3 million"
+    ],
+    "estimatedValue": "Alpha commons run into the hundreds; Black Lotus into six and seven figures",
+    "image": "magic.jpg"
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "tcg"
+    ],
+    "noCardReason": "",
+    "id": "one-piece-2022-romance-dawn",
+    "franchise": "One Piece Card Game",
+    "character": "Monkey D. Luffy",
+    "year": 2022,
+    "setInfo": "Bandai OP-01 Romance Dawn — OP01-003 Luffy Leader (alt art)",
+    "description": "Bandai launched the One Piece Card Game in Japan on 22 July 2022 with OP-01 Romance Dawn, named after the very first chapter of Eiichiro Oda's manga. The 121-card set introduced the Leader mechanic that defines the game, with eight Leaders anchoring deck construction. It reached the US that December and by late 2025 was outselling Yu-Gi-Oh! in monthly sales.",
+    "funFacts": [
+      "Named after the first chapter of the One Piece manga, published back in 1997",
+      "Grew fast enough to overtake Yu-Gi-Oh! in monthly sales within three years of launch",
+      "Now the third best-selling trading card game in the world behind Magic and Pokémon"
+    ],
+    "estimatedValue": "$1 for commons up to several thousand for graded Romance Dawn secret rares",
+    "image": "onepiece.jpg"
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "tcg"
+    ],
+    "noCardReason": "",
+    "id": "lorcana-2023-first-chapter",
+    "franchise": "Disney Lorcana",
+    "character": "Elsa",
+    "year": 2023,
+    "setInfo": "Ravensburger The First Chapter, 204 cards — Elsa Enchanted 207/204",
+    "description": "Ravensburger launched Disney Lorcana on 18 August 2023 with The First Chapter, giving Disney its first proper trading card game after nearly a century of characters. The 204-card set reimagines Disney characters as 'Illumineers' summoning glimmers, and demand was so far beyond forecast that early print runs sold out instantly and reprints had to be scheduled within months.",
+    "funFacts": [
+      "Disney's first real trading card game, arriving 88 years after the 1935 Mickey Mouse gum cards",
+      "Launch stock sold out so fast that Ravensburger announced reprints within weeks",
+      "Reached the sixth best-selling TCG in the world within two years of existing"
+    ],
+    "estimatedValue": "$1 – $600 depending on rarity; enchanted-rare cards drive the market",
+    "image": "lorcana.jpg"
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "tcg"
+    ],
+    "noCardReason": "",
+    "id": "digimon-1999-bandai",
+    "franchise": "Digimon",
+    "character": "MetalGreymon",
+    "year": 1999,
+    "setInfo": "Bandai Digital Monster Card Game (Japan, June 1999) — shown: Digi-Battle Series 1 #BO-01",
+    "description": "Bandai released the first Digimon cards in June 1999 as the Digital Monster Card Game, with two further boosters following the same year. An English adaptation, Digi-Battle, arrived shortly after and is what most Western collectors from that era remember. The original game ran until 2005; Bandai rebooted the franchise entirely with a new Digimon Card Game in 2020.",
+    "funFacts": [
+      "Launched the same year Digimon hit Western television, riding the Pokémon boom",
+      "The 1999 game ran for six years before being retired in 2005",
+      "The English Digi-Battle cards are slabbed as 2000, but the card itself is printed © 1999 BANDAI"
+    ],
+    "estimatedValue": "$2 – $300 for 1999 originals; sealed first-edition product goes higher",
+    "image": "digimon.jpg"
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "tcg"
+    ],
+    "noCardReason": "",
+    "id": "star-wars-ccg-1995-decipher",
+    "franchise": "Star Wars CCG",
+    "character": "Darth Vader",
+    "year": 1995,
+    "setInfo": "Decipher Star Wars Customizable Card Game, Premiere set",
+    "description": "Star Wars appears twice in this database. Its first trading cards are the 1977 Topps set in the media tab; its first trading card GAME is Decipher's Star Wars Customizable Card Game, whose Premiere set launched in December 1995. It ran until 2001 and was one of the biggest CCGs of the 1990s. Fantasy Flight's Star Wars: Unlimited revived the idea in 2024 and is now a global top-10 seller.",
+    "funFacts": [
+      "Star Wars is the rare franchise with two separate firsts — 1977 for cards, 1995 for a card game",
+      "Decipher ran the game for six years before losing the licence in 2001",
+      "Star Wars: Unlimited brought the franchise back to the TCG top ten in 2024"
+    ],
+    "estimatedValue": "$1 – $200 for Premiere singles; sealed 1995 product is scarce",
+    "image": "starwarsccg.jpg"
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "tcg"
+    ],
+    "noCardReason": "",
+    "id": "flesh-and-blood-2019",
+    "franchise": "Flesh and Blood",
+    "character": "Welcome to Rathe",
+    "year": 2019,
+    "setInfo": "Legend Story Studios Welcome to Rathe (Alpha) — WTR041 Cold Foil",
+    "description": "Flesh and Blood launched in October 2019 from Legend Story Studios, a small New Zealand publisher, with Welcome to Rathe. It was built deliberately for in-store play rather than online, with no digital client at all — a contrarian bet in 2019. It worked: the game became a genuine competitor to Magic in the hobby channel and remains a top-10 seller.",
+    "funFacts": [
+      "Made by a small New Zealand studio competing directly with Wizards of the Coast and Bandai",
+      "Deliberately launched with no digital version, betting entirely on in-store play",
+      "Its rarest early cards, the Cold Foil legendaries, trade for five figures"
+    ],
+    "estimatedValue": "$1 – $30,000; first-edition Cold Foil legendaries are the trophy cards",
+    "image": "fleshandblood.jpg"
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "tcg"
+    ],
+    "noCardReason": "",
+    "id": "gundam-2025-card-game",
+    "franchise": "Gundam Card Game",
+    "character": "RX-78-2 Gundam",
+    "year": 2025,
+    "setInfo": "Bandai Gundam Card Game GD01 Newtype Rising — GD01-001 RX-78-2",
+    "description": "Bandai launched the Gundam Card Game in July 2025, and it went straight into the global top five best-selling trading card games in its first quarter — an almost unheard-of debut. Gundam had carried decades of Japanese card products before this, but GD01 is the first unified global trading card game for the franchise.",
+    "funFacts": [
+      "Broke into the worldwide top five best-selling TCGs within a single quarter of launching",
+      "Gundam is nearly fifty years old, but this is its first unified global card game",
+      "Bandai now runs three of the top ten TCGs: One Piece, Digimon and Gundam"
+    ],
+    "estimatedValue": "$1 – $500 depending on rarity; the market is still young and volatile",
+    "image": "gundam.jpg"
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "tcg"
+    ],
+    "noCardReason": "",
+    "id": "riftbound-2025-origins",
+    "franchise": "League of Legends",
+    "character": "Tryndamere",
+    "year": 2025,
+    "setInfo": "Riot Games / UVS Games — Riftbound: Origins, OGN 034/298",
+    "description": "Riot Games brought League of Legends to physical cardboard with Riftbound, whose first set Origins launched globally on 31 October 2025. Riot had tried digital cards before with Legends of Runeterra, but Riftbound is the first physical League of Legends trading card game, and it posted one of the strongest debut quarters the category has seen.",
+    "funFacts": [
+      "Riot's first physical card game after years of the digital-only Legends of Runeterra",
+      "Launched in China months ahead of the global release, an unusual order of operations",
+      "Posted one of the biggest debut quarters of any new TCG on record"
+    ],
+    "estimatedValue": "$1 – $400; chase champion cards drive the early market",
+    "image": "riftbound.jpg"
   }
 ]

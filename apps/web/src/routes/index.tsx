@@ -1,27 +1,32 @@
 import { createFileRoute, Link } from '@tanstack/react-router'
 import { useMemo, useState } from 'react'
-import { cards } from '../lib/cards'
+import { cards, CATEGORY_LABELS, type Category } from '../lib/cards'
 import { getCardDisplay } from '../lib/cardDisplay'
 
 export const Route = createFileRoute('/')({
   component: HomePage,
 })
 
-type SortKey = 'oldest' | 'newest' | 'name'
+type SortKey = 'oldest' | 'newest' | 'revenue' | 'name'
+
+const CATEGORIES: Category[] = ['media', 'tcg']
 
 function HomePage() {
+  const [tab, setTab] = useState<Category>('media')
   const [search, setSearch] = useState('')
   const [franchise, setFranchise] = useState('All')
-  const [sort, setSort] = useState<SortKey>('oldest')
+  const [sort, setSort] = useState<SortKey>('revenue')
+
+  const inTab = useMemo(() => cards.filter((c) => c.categories.includes(tab)), [tab])
 
   const franchises = useMemo(
-    () => [...new Set(cards.map((card) => card.franchise))].sort((a, b) => a.localeCompare(b)),
-    [],
+    () => [...new Set(inTab.map((c) => c.franchise))].sort((a, b) => a.localeCompare(b)),
+    [inTab],
   )
 
   const filtered = useMemo(() => {
     const query = search.trim().toLowerCase()
-    const result = cards.filter((card) => {
+    const result = inTab.filter((card) => {
       const matchesFranchise = franchise === 'All' || card.franchise === franchise
       const matchesSearch =
         query === '' ||
@@ -33,12 +38,40 @@ function HomePage() {
 
     return result.sort((a, b) => {
       if (sort === 'name') return getCardDisplay(a).title.localeCompare(getCardDisplay(b).title)
+      if (sort === 'revenue') {
+        // TCG-only entries have no media revenue figure — sort those last.
+        if (a.revenueBillions === null && b.revenueBillions === null) return a.year - b.year
+        if (a.revenueBillions === null) return 1
+        if (b.revenueBillions === null) return -1
+        return b.revenueBillions - a.revenueBillions
+      }
       return sort === 'newest' ? b.year - a.year : a.year - b.year
     })
-  }, [search, franchise, sort])
+  }, [inTab, search, franchise, sort])
+
+  function switchTab(next: Category) {
+    setTab(next)
+    setFranchise('All')
+    setSort(next === 'media' ? 'revenue' : 'oldest')
+  }
 
   return (
     <>
+      <div className="tabs" role="tablist">
+        {CATEGORIES.map((c) => (
+          <button
+            key={c}
+            role="tab"
+            aria-selected={tab === c}
+            className={`tab${tab === c ? ' active' : ''}`}
+            onClick={() => switchTab(c)}
+          >
+            {CATEGORY_LABELS[c]}
+            <span className="tab-count">{cards.filter((x) => x.categories.includes(c)).length}</span>
+          </button>
+        ))}
+      </div>
+
       <div className="controls">
         <input
           type="search"
@@ -52,7 +85,7 @@ function HomePage() {
           <label className="control">
             <span>Franchise</span>
             <select value={franchise} onChange={(e) => setFranchise(e.target.value)}>
-              <option value="All">All ({cards.length})</option>
+              <option value="All">All ({inTab.length})</option>
               {franchises.map((f) => (
                 <option key={f} value={f}>
                   {f}
@@ -64,6 +97,7 @@ function HomePage() {
           <label className="control">
             <span>Sort by</span>
             <select value={sort} onChange={(e) => setSort(e.target.value as SortKey)}>
+              <option value="revenue">Franchise revenue</option>
               <option value="oldest">Oldest first</option>
               <option value="newest">Newest first</option>
               <option value="name">Name (A–Z)</option>
@@ -93,7 +127,12 @@ function HomePage() {
               <div className="card-tile-info">
                 {display.badge && <div className="franchise">{display.badge}</div>}
                 <h3>{display.title}</h3>
-                <div className="year">{card.year}</div>
+                <div className="year">
+                  {card.year}
+                  {sort === 'revenue' && card.revenueBillions !== null && (
+                    <span className="revenue"> · ${card.revenueBillions}B</span>
+                  )}
+                </div>
               </div>
             </Link>
           )
