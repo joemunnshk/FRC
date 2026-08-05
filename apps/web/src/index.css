@@ -215,8 +215,9 @@ p {
 }
 
 .card-tile h3 {
-  font-size: 1.05rem;
-  margin-top: 0.2rem;
+  font-size: 1.15rem;
+  line-height: 1.25;
+  margin-top: 0.25rem;
 }
 
 .card-tile .year {

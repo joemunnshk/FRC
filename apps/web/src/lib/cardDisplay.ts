@@ -8,26 +8,19 @@ function normalize(value: string): string {
 }
 
 /**
- * IP-style franchises (Pokémon, Disney) get "Franchise (Character)" so the
- * specific character is clear. When the franchise name already is the
- * character (Super Mario / Mario, SpongeBob SquarePants / SpongeBob
- * SquarePants), showing both would just be redundant.
+ * Every card reads as a franchise label above the character name — the
+ * franchise in small caps, the character as the headline.
+ *
+ * The one exception is when the two are character-for-character identical
+ * (Batman / Batman), where printing the same word twice reads as a bug.
  */
 export function getCardDisplay(card: CardLike): { title: string; badge: string | null } {
   const franchise = card.franchise.trim()
   const character = card.character.trim()
-  const nf = normalize(franchise)
-  const nc = normalize(character)
 
-  // Identical (Batman / Batman) — a badge would just repeat the title.
-  if (nf === nc) {
+  if (normalize(franchise) === normalize(character)) {
     return { title: character, badge: null }
   }
 
-  // One contains the other (Super Mario / Mario) — the badge still adds context.
-  if (nf.includes(nc) || nc.includes(nf)) {
-    return { title: character, badge: franchise }
-  }
-
-  return { title: `${franchise} (${character})`, badge: null }
+  return { title: character, badge: franchise }
 }
