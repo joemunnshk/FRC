@@ -3,24 +3,15 @@ interface CardLike {
   character: string
 }
 
-function normalize(value: string): string {
-  return value.toLowerCase().replace(/[^a-z0-9]/g, '')
-}
-
 /**
- * Every card reads as a franchise label above the character name — the
- * franchise in small caps, the character as the headline.
- *
- * The one exception is when the two are character-for-character identical
- * (Batman / Batman), where printing the same word twice reads as a bug.
+ * Every card reads the same way: the franchise as a purple label above, the
+ * card's name as the white headline below. Franchises named after their own
+ * character (Batman, Hello Kitty, Superman) repeat the name across both lines
+ * — that repetition is intentional, so the grid stays visually consistent.
  */
-export function getCardDisplay(card: CardLike): { title: string; badge: string | null } {
-  const franchise = card.franchise.trim()
-  const character = card.character.trim()
-
-  if (normalize(franchise) === normalize(character)) {
-    return { title: character, badge: null }
+export function getCardDisplay(card: CardLike): { title: string; badge: string } {
+  return {
+    title: card.character.trim(),
+    badge: card.franchise.trim(),
   }
-
-  return { title: character, badge: franchise }
 }
