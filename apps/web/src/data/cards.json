@@ -274,18 +274,18 @@
     ]
   },
   {
-    "id": "hello-kitty-sanrio-cards",
+    "id": "hello-kitty-1976-sanrio",
     "franchise": "Hello Kitty",
     "character": "Hello Kitty",
-    "year": 2023,
-    "setInfo": "Sanrio Collector's Card Plus (line launched 9 August 2023)",
-    "description": "Hello Kitty launched in 1974 and has appeared on virtually every product imaginable, but a properly collectible trading card line took nearly 50 years to arrive. Sanrio's Collectors Card Plus, released on 9 August 2023, is the first structured, hobby-recognised Sanrio card set. Earlier Hello Kitty cards existed as stationery and sticker-card novelties rather than as a graded, collected series.",
+    "year": 1976,
+    "setInfo": "Sanrio Hello Kitty playing card deck (Japan, © 1976)",
+    "description": "Hello Kitty launched in 1974, and Sanrio was printing her onto cards within two years. The 1976 Japanese playing card deck is the earliest Hello Kitty card product collectors track — a playing deck rather than a collectible set, the same pattern as Winnie-the-Pooh's 1965 boxed card games. Prism and sticker cards followed through the 1980s and 90s, but a structured collectible trading card line only arrived with Sanrio Collector's Card Plus in 2023, a 47-year wait.",
     "funFacts": [
-      "A near 50-year gap between the character launching and getting a real collector card set",
-      "Sanrio built its empire on stationery and plush, which is why cards came so late",
-      "Hello Kitty's earlier 'cards' were sold as stationery novelties, not sealed collectible packs"
+      "Sanrio was printing Hello Kitty onto cards within two years of creating her",
+      "Beware the date: Sanrio prints the copyright year, so a 1976 mark does not always mean a 1976 printing",
+      "A proper collectible trading card line took until 2023 — 47 years after the first deck"
     ],
-    "estimatedValue": "$1 – $40 per card; chase and secret rares run higher",
+    "estimatedValue": "$30 – $250 for a sealed vintage deck depending on condition",
     "image": "hellokitty.jpg",
     "noCardReason": "",
     "mediaRank": 10,
@@ -691,7 +691,8 @@
     "mediaRank": 31,
     "revenueBillions": 12.4,
     "categories": [
-      "media"
+      "media",
+      "tcg"
     ]
   },
   {
@@ -991,19 +992,19 @@
     ]
   },
   {
-    "id": "lotr-2001-topps",
+    "id": "middle-earth-1995-meccg",
     "franchise": "Middle-earth",
-    "character": "Frodo Baggins",
-    "year": 2001,
-    "setInfo": "Topps Lord of the Rings: The Fellowship of the Ring (shown: Frodo travel-jacket relic card)",
-    "description": "Tolkien published The Hobbit in 1937, but Middle-earth reached mainstream trading cards only when Peter Jackson's films arrived. Topps released The Fellowship of the Ring set in 2001 alongside the first film, built from film stills and character portraits, and it became one of the most collected movie card sets of the 2000s.",
+    "character": "Rivendell",
+    "year": 1995,
+    "setInfo": "Iron Crown Enterprises Middle-earth CCG: The Wizards (1995)",
+    "description": "Tolkien published The Hobbit in 1937, and Middle-earth waited nearly sixty years for cards. Iron Crown Enterprises released the Middle-earth Collectible Card Game in late 1995 — the first Middle-earth cards of any kind — using original artwork from longtime Tolkien illustrators including John Howe, Ted Nasmith and Angus McBride. Topps' familiar photo cards only arrived in 2001 with the Peter Jackson films, six years later.",
     "funFacts": [
-      "A 64-year gap between Tolkien’s first book and the first mainstream Middle-earth cards",
-      "Middle-earth had a collectible card game in the 1990s, but the mass-market cards are Jackson-era",
-      "Topps embedded actual pieces of screen-worn costume into relic cards like this one"
+      "Predates the Peter Jackson films entirely — the art is painted, not photographed",
+      "Won the Origins Award for Best Card Game of 1995",
+      "Iron Crown lost the Tolkien licence in 1999, ending the game two years before the films arrived"
     ],
-    "estimatedValue": "$1 – $40 for base cards; signed inserts run into the hundreds",
-    "image": "lotr.jpg",
+    "estimatedValue": "$1 – $200; original ICE artwork cards are the collector draw",
+    "image": "middleearth.jpg",
     "noCardReason": "",
     "mediaRank": 47,
     "revenueBillions": 8.46,
@@ -1016,12 +1017,12 @@
     "franchise": "X-Men",
     "character": "Wolverine",
     "year": 1992,
-    "setInfo": "Impel X-Men Series 1, 100 cards",
-    "description": "X-Men characters appear on the 1966 Donruss Marvel Super Heroes set, but the first trading card release built specifically around the X-Men is Impel's 1992 Series 1. Its 100 cards arrived at the height of the Jim Lee era, when X-Men comics were selling in numbers the industry has never matched since.",
+    "setInfo": "Impel Uncanny X-Men Series 1, 100 cards — the first set built around the X-Men",
+    "description": "This one comes with a caveat. The X-Men debuted in 1963, and they turn up on cardboard well before 1992 — Topps put X-Men content into Marvel sticker sets in the 1970s, and the team was absent from the famous 1966 Donruss set that gave Spider-Man and Captain America their debuts. What Impel's 1992 Uncanny X-Men Series 1 was first at is being a set built entirely around the X-Men, with 100 cards of original Jim Lee artwork rather than reused comic panels.",
     "funFacts": [
-      "Landed during the X-Men boom that produced the best-selling comic issue of all time",
-      "Wolverine cards from the set remain the most chased, decades later",
-      "Printed in vast quantities, so most cards stayed affordable despite huge demand"
+      "Not the X-Men's first card appearance — they featured in 1970s Topps Marvel sticker sets",
+      "The 1966 Donruss set that debuted Spider-Man covered only Cap, Iron Man, Daredevil, Spidey, Hulk and Thor — no X-Men",
+      "Landed during the Jim Lee boom that produced the best-selling comic issue of all time"
     ],
     "estimatedValue": "$10 – $40 for a complete set; graded Wolverine cards go higher",
     "image": "xmen.jpg",
@@ -1241,5 +1242,152 @@
     ],
     "estimatedValue": "$1 – $400; chase champion cards drive the early market",
     "image": "riftbound.jpg"
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "tcg"
+    ],
+    "noCardReason": "",
+    "id": "lotr-tcg-2001-decipher",
+    "franchise": "The Lord of the Rings TCG",
+    "character": "Aragorn",
+    "year": 2001,
+    "setInfo": "Decipher The Fellowship of the Ring, 365 cards",
+    "description": "Decipher launched The Lord of the Rings TCG in November 2001 alongside the first film, with a 365-card Fellowship of the Ring set. It was not the first Middle-earth card game — Iron Crown's MECCG beat it by six years and appears in the media tab — but it was the first built on the film licence, and it became far the bigger seller of the two.",
+    "funFacts": [
+      "Not the first Middle-earth card game — Iron Crown's 1995 MECCG came first",
+      "Decipher had already done the same trick with Star Wars in 1995",
+      "Won the Origins Award for best trading card game of its year"
+    ],
+    "estimatedValue": "$1 – $150; foil Aragorn and Gandalf cards lead the market",
+    "image": "lotrtcg.jpg"
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "tcg"
+    ],
+    "noCardReason": "",
+    "id": "duel-masters-2002",
+    "franchise": "Duel Masters",
+    "character": "Bolshack Dragon",
+    "year": 2002,
+    "setInfo": "Wizards of the Coast / Takara DM-01 Base Set (Japan)",
+    "description": "Duel Masters is the game Wizards of the Coast built specifically for Japan. Launched in May 2002 with Takara, DM-01 simplified Magic's design into something faster and tied it to a manga and anime. It became one of the biggest card games in Japan — outselling Magic there for years — while barely registering in the West.",
+    "funFacts": [
+      "Designed by Magic's own publisher as a deliberately simpler game for the Japanese market",
+      "Outsold Magic: The Gathering in Japan for much of the 2000s",
+      "The English release was discontinued in 2006 while the Japanese game kept going"
+    ],
+    "estimatedValue": "$1 – $400; early Japanese DM-01 rares carry the value",
+    "image": "duelmasters.jpg"
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "tcg"
+    ],
+    "noCardReason": "",
+    "id": "weiss-schwarz-2007",
+    "franchise": "Weiss Schwarz",
+    "character": "Little Busters!",
+    "year": 2007,
+    "setInfo": "Bushiroad Weiss Schwarz, first trial decks (Little Busters! / D.C. II)",
+    "description": "Bushiroad launched Weiss Schwarz in Japan in 2007 as a crossover engine: any anime, manga or game licence can be printed into the same rules. The first decks covered Little Busters! and Da Capo II. Nearly two decades on it has absorbed hundreds of franchises, from Attack on Titan to Hatsune Miku to Disney.",
+    "funFacts": [
+      "Built from the start as a crossover system rather than around a single franchise",
+      "Has now printed cards for several hundred different anime and game licences",
+      "The name means \"White Black\" in German — the two halves of its colour system"
+    ],
+    "estimatedValue": "$1 – $500; signed and SP-rarity character cards go far higher",
+    "image": "weissschwarz.jpg"
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "tcg"
+    ],
+    "noCardReason": "",
+    "id": "cardfight-vanguard-2011",
+    "franchise": "Cardfight!! Vanguard",
+    "character": "Dragonic Overlord",
+    "year": 2011,
+    "setInfo": "Bushiroad Booster Set 1: Descent of the King of Knights — BT01/S04 SP",
+    "description": "Bushiroad followed Weiss Schwarz with an original property of its own. Cardfight!! Vanguard launched on 12 March 2011 with Booster Set 1, Descent of the King of Knights, alongside a manga and anime built to promote it. Blaster Blade is the game's signature unit and the face of its first set.",
+    "funFacts": [
+      "Launched simultaneously with its own manga and anime, all designed together as one product",
+      "Notably had no cost or mana system, an unusual design choice for a major TCG",
+      "Spent years as a top-ten seller before slipping out of the leading pack in 2025"
+    ],
+    "estimatedValue": "$1 – $300; early Japanese SP-rarity cards command the most",
+    "image": "vanguard.jpg"
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "tcg"
+    ],
+    "noCardReason": "",
+    "id": "union-arena-2023",
+    "franchise": "Union Arena",
+    "character": "Gon Freecss",
+    "year": 2023,
+    "setInfo": "Bandai Union Arena (24 March 2023) — Hunter x Hunter promo",
+    "description": "Bandai launched Union Arena on 24 March 2023 as a crossover card game spanning its licence portfolio — Hunter x Hunter, Jujutsu Kaisen, Bleach, Code Geass and more sharing one rule set. It followed the Weiss Schwarz model of a franchise-agnostic system, and Bandai brought an English edition to the West at the end of the year.",
+    "funFacts": [
+      "Bandai's answer to Weiss Schwarz, built to monetise its entire anime licence catalogue at once",
+      "Launched in Japan first, with the English edition announced only in December 2023",
+      "Sells strongly through Japanese channels even where it under-registers on Western marketplaces"
+    ],
+    "estimatedValue": "$1 – $250 depending on series and rarity",
+    "image": "unionarena.jpg"
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "tcg"
+    ],
+    "noCardReason": "",
+    "id": "star-wars-unlimited-2024",
+    "franchise": "Star Wars: Unlimited",
+    "character": "Darth Vader",
+    "year": 2024,
+    "setInfo": "Fantasy Flight Games Spark of Rebellion (8 March 2024)",
+    "description": "Star Wars returned to the trading card game shelf in March 2024, twenty-three years after Decipher's version ended. Fantasy Flight's Spark of Rebellion introduced a leader-and-base structure and landed straight in the global top ten best-selling card games, where it has stayed.",
+    "funFacts": [
+      "The third distinct Star Wars entry in this database — 1977 Topps cards, the 1995 CCG, and now this",
+      "Reached the worldwide top ten within its first year on sale",
+      "Its Hyperspace and Showcase parallel treatments drive most of the secondary market"
+    ],
+    "estimatedValue": "$1 – $700; Showcase leaders are the chase cards",
+    "image": "swunlimited.jpg"
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "tcg"
+    ],
+    "noCardReason": "",
+    "id": "sorcery-contested-realm-2023",
+    "franchise": "Sorcery: Contested Realm",
+    "character": "Donnybrook Inn",
+    "year": 2023,
+    "setInfo": "Curiosa — Alpha set (2023), Foil Unique",
+    "description": "Sorcery: Contested Realm is the most deliberately old-fashioned game in this tab. Designed by Erik Olofsson and published by Curiosa, its Alpha set arrived in 2023 with hand-painted artwork and a board-based playing field, aimed squarely at players who miss what early Magic felt like. A tiny Alpha print run made it an immediate speculation target.",
+    "funFacts": [
+      "Deliberately styled after early-1990s Magic, down to the painted artwork",
+      "Played across a spatial board rather than an abstract battlefield, unusual for a TCG",
+      "A tiny Alpha print run meant singles were trading for hundreds within weeks of release"
+    ],
+    "estimatedValue": "$5 – $2,000; Alpha foils reach four figures",
+    "image": "sorcery.jpg"
   }
 ]
