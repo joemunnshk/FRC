@@ -325,7 +325,7 @@
     "funFacts": [
       "A Black Bat #1 has sold at auction for $45,000",
       "Painted by Norman Saunders, the same artist behind the notorious Mars Attacks set",
-      "Topps ran Black Bat, Blue Bat and Red Bat variants in the same year, which still confuses collectors"
+      "Superman got cards in 1940, but Batman waited until the TV show — 26 years with no Batman card at all"
     ],
     "estimatedValue": "$50 – $45,000 depending on grade; the #1 card carries a huge premium",
     "image": "batman.jpg",
@@ -683,7 +683,7 @@
     "funFacts": [
       "Loot cards redeemed for real in-game mounts and pets, which sent their prices soaring",
       "Ran to 21 booster expansions between 2006 and 2013",
-      "One of the first card games where a card had direct value inside a video game"
+      "The Warcraft games date to 1994, but nobody printed cards until World of Warcraft made it a phenomenon"
     ],
     "estimatedValue": "$1 – $60 for most cards; unredeemed loot cards go far higher",
     "image": "warcraft.jpg",
@@ -895,7 +895,7 @@
     "funFacts": [
       "Covers the first three Connery films in a single 66-card run",
       "Black-and-white photography, at a time when colour card printing already existed",
-      "Considered a cornerstone set of 1960s non-sports collecting",
+      "Bond began as novels in 1953, but the cards track the films — this set arrived three years after Goldfinger",
       "Card references disagree on the year — most sources say 1965, PSA slabs it as 1966"
     ],
     "estimatedValue": "$5 – $80 per card; complete graded sets run into the thousands",
@@ -971,18 +971,18 @@
     ]
   },
   {
-    "id": "power-rangers-1994",
+    "id": "power-rangers-1970s-gorenger",
     "franchise": "Power Rangers",
-    "character": "Mighty Morphin Power Rangers",
-    "year": 1994,
-    "setInfo": "Collect-A-Card Mighty Morphin Power Rangers Series 1",
-    "description": "Toei's Super Sentai began in Japan in 1975, but the franchise only became a global phenomenon when Saban reworked it into Mighty Morphin Power Rangers in 1993. Collect-A-Card put out the first Power Rangers trading cards in 1994, right as the show became the biggest thing on children's television in the West.",
+    "character": "Akaranger",
+    "year": 1975,
+    "setInfo": "Himitsu Sentai Gorenger menko cards (Japan, mid-1970s)",
+    "description": "Saban's Mighty Morphin Power Rangers reached American cards in 1994 via Collect-A-Card, but the franchise is Japanese and started in April 1975 with Himitsu Sentai Gorenger. Japanese children were buying Gorenger menko — thick paper cards used in a floor-slapping game — during that original run, nearly twenty years before Power Rangers existed in the West. Menko was the dominant Japanese card format from the 1970s until roughly 1985.",
     "funFacts": [
-      "The franchise is Japanese and dates to 1975, but its first cards are American and from 1994",
-      "Arrived at the exact peak of Power Rangers mania, so print runs were enormous",
-      "High print numbers mean the cards stayed cheap despite the show’s huge audience"
+      "Menko are playing pieces first and collectibles second — you slam them down to flip your opponent's card",
+      "The Japanese cards predate the American Power Rangers cards by around nineteen years",
+      "Exact menko sets are notoriously hard to date: most carry no year and no manufacturer mark"
     ],
-    "estimatedValue": "$1 – $25 per card; sealed 1994 packs are worth more",
+    "estimatedValue": "$10 – $150 for vintage 1970s menko depending on condition and character",
     "image": "powerrangers.jpg",
     "noCardReason": "",
     "mediaRank": 46,
