@@ -20,7 +20,20 @@
       "media",
       "tcg"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Bulbapedia — Pikachu and Jigglypuff (CoroCoro promos)",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Draft:Pikachu_and_Jigglypuff_(CoroCoro_promos)"
+      },
+      {
+        "label": "Bank TCG — Early Japanese Pokémon cards guide",
+        "url": "https://www.banktcg.com/blog/early-japanese-pokemon-cards-guide"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "tmnt-1989-topps",
@@ -115,7 +128,7 @@
     "franchise": "Disney",
     "character": "Mickey Mouse",
     "year": 1935,
-    "setInfo": "Gum, Inc. Mickey Mouse Set (R89/R90), 120 cards",
+    "setInfo": "Gum, Inc. Mickey Mouse (R89/R90) — card #75, Type II; R89 runs to 96 cards",
     "description": "Long before modern licensed card sets, Philadelphia's Gum, Inc. produced the first widely-distributed Mickey Mouse trading cards in 1935. Card fronts featured colorful comic-style artwork of Mickey and friends, while the backs carried jokes and trivia questions — one of the earliest examples of Disney characters hitting the collectible card market.",
     "funFacts": [
       "Among the very first licensed non-sports trading cards of any Disney character, decades before modern sets",
@@ -130,10 +143,23 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "PSA CardFacts — 1935 Gum, Inc. Mickey Mouse (R89 and R90)",
+        "url": "https://www.psacard.com/cardfacts/non-sports-cards/1935-gum-inc-mickey-mouse-r89-r90/27725"
+      },
+      {
+        "label": "Pre-War Cards — 1935 R89 Gum, Inc. Mickey Mouse set and checklist",
+        "url": "https://prewarcards.com/2016/09/06/1935-r89-gum-inc-mickey-mouse-set-and-checklist/"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
-    "id": "winnie-the-pooh-1965-pepys",
+    "id": "winnie-the-pooh-1965-card-library",
     "franchise": "Winnie-the-Pooh",
     "character": "Winnie-the-Pooh",
     "year": 1965,
@@ -174,7 +200,20 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "PSA Set Registry — 1977 Topps Star Wars",
+        "url": "https://www.psacard.com/articles/articleview/8520/psa-set-registry-collecting-1977-topps-star-wars-trading-card-one-started-all"
+      },
+      {
+        "label": "Cardboard Connection — 1977 Topps Star Wars Series 1",
+        "url": "https://www.cardboardconnection.com/star-wars-series-1-trading-cards-topps-1977"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "disney-princess-1938-menier",
@@ -186,7 +225,7 @@
     "funFacts": [
       "Predates the Disney Princess brand by sixty-two years",
       "Given away with chocolate bars rather than sold — the standard way European trade cards reached children",
-      "Snow White was Disney's first animated feature and the first Disney Princess, so her cards start the whole line"
+      "Dating is contested: Menier launched the promotion before Christmas 1938, but graded examples are usually catalogued as 1939"
     ],
     "estimatedValue": "$5 – $40 per card; complete numbered runs are much scarcer",
     "image": "disneyprincess.jpg",
@@ -196,7 +235,20 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Snow White Museum — Chocolat Menier's 1938 Snow White albums",
+        "url": "https://snowwhitemuseum.com/merchandising/food/chocolat-meniers-1938-snow-white-albums-and-merchandise/"
+      },
+      {
+        "label": "Filmic Light — 1939 Menier chocolate card promotion",
+        "url": "https://filmic-light.blogspot.com/2017/04/1939-menier-chocolate-sticker-card.html"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "anpanman-1991-carddass",
@@ -218,7 +270,20 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia (Japanese) — カードダス (Carddass)",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%89%E3%83%80%E3%82%B9"
+      },
+      {
+        "label": "Bandai — Soreike! Anpanman character page",
+        "url": "https://www.bandai.co.jp/character/anpanman.php"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "barbie-1990-mattel",
@@ -240,7 +305,20 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Trading Card Database — 1990 Mattel Barbie Series 1",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/96313/1990-Mattel-Barbie-Series-1"
+      },
+      {
+        "label": "Non-Sport Lists — Barbie Series 1 checklist",
+        "url": "https://www.nslists.com/barbie1.htm"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "mcu-1966-donruss-ironman",
@@ -262,7 +340,24 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "PSA Set Registry — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.psacard.com/articles/articleview/7501/psa-set-registry-1966-donruss-marvel-super-heroes-trading-card-first-series"
+      },
+      {
+        "label": "Cardboard Connection — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.cardboardconnection.com/1966-donruss-marvel-super-heroes-trading-cards"
+      },
+      {
+        "label": "Trading Card Database — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/74952/1966-Donruss-Marvel-Super-Heroes"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "harry-potter-2001-wotc",
@@ -284,7 +379,20 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Harry Potter Wiki — Trading Card Game Base Set",
+        "url": "https://harrypotter.fandom.com/wiki/Harry_Potter_Trading_Card_Game_Base_Set"
+      },
+      {
+        "label": "Trading Card Database — 2001 Wizards Harry Potter TCG",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/91182/2001-Wizards-Harry-Potter-TCG"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "hello-kitty-1976-sanrio",
@@ -306,7 +414,16 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Hello Kitty Wiki — Hello Kitty",
+        "url": "https://hellokitty.fandom.com/wiki/Hello_Kitty"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "call-of-duty-2021-upper-deck",
