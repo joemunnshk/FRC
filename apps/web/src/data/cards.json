@@ -116,7 +116,20 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Super Mario Wiki — Nintendo Game Pack",
+        "url": "https://www.mariowiki.com/Nintendo_Game_Pack"
+      },
+      {
+        "label": "Cardboard Connection — classic video game trading card sets",
+        "url": "https://www.cardboardconnection.com/classic-video-game-trading-cards"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "spongebob-2003-upper-deck",
@@ -1418,7 +1431,20 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1965 Philadelphia Gum James Bond",
+        "url": "https://www.cardboardconnection.com/1965-philadelphia-gum-james-bond-trading-cards"
+      },
+      {
+        "label": "Toys of Bond — James Bond trading cards",
+        "url": "https://toysofbond.co.uk/Toys-Games/james-bond-trading-cards.html"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "angry-birds-cards",
@@ -1440,7 +1466,24 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Cardboard Connection — 2012 E-Max Angry Birds",
+        "url": "https://www.cardboardconnection.com/2012-e-max-angry-birds-trading-cards"
+      },
+      {
+        "label": "Kidscreen — E-Max to produce Angry Birds trading cards",
+        "url": "https://kidscreen.com/2012/08/17/e-max-to-produce-angry-birds-trading-cards/"
+      },
+      {
+        "label": "Trading Card Database — 2012 E-Max Angry Birds",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/84417/2012-E-Max-Angry-Birds"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "thomas-1992-banpresto",
@@ -1484,7 +1527,24 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Cardboard Connection — 2019 Panini Fortnite Series 1",
+        "url": "https://www.cardboardconnection.com/2019-panini-fortnite-series-1-trading-cards"
+      },
+      {
+        "label": "Beckett — 2019 Panini Fortnite Series 1 checklist and details",
+        "url": "https://www.beckett.com/news/2019-panini-fortnite-series-1-trading-cards/"
+      },
+      {
+        "label": "Trading Card Database — 2019 Panini Fortnite Series 1 Crystal Shard",
+        "url": "https://www.tcdb.com/Checklist.cfm/sid/205978/2019-Panini-Fortnite-Series-1---Crystal-Shard"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "power-rangers-1970s-gorenger",
@@ -1513,7 +1573,7 @@
     "franchise": "Middle-earth",
     "character": "Rivendell",
     "year": 1995,
-    "setInfo": "Iron Crown Enterprises Middle-earth CCG: The Wizards (1995)",
+    "setInfo": "Iron Crown Enterprises Middle-earth CCG: The Wizards — Limited release December 1995",
     "description": "Tolkien published The Hobbit in 1937, and Middle-earth waited nearly sixty years for cards. Iron Crown Enterprises released the Middle-earth Collectible Card Game in late 1995 — the first Middle-earth cards of any kind — using original artwork from longtime Tolkien illustrators including John Howe, Ted Nasmith and Angus McBride. Topps' familiar photo cards only arrived in 2001 with the Peter Jackson films, six years later.",
     "funFacts": [
       "Predates the Peter Jackson films entirely — the art is painted, not photographed",
@@ -1528,7 +1588,24 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — Middle-earth Collectible Card Game",
+        "url": "https://en.wikipedia.org/wiki/Middle-earth_Collectible_Card_Game"
+      },
+      {
+        "label": "Tolkien Gateway — Middle-earth Collectible Card Game",
+        "url": "https://tolkiengateway.net/wiki/Middle-earth_Collectible_Card_Game"
+      },
+      {
+        "label": "MECCG.com — the Middle-earth CCG community archive",
+        "url": "https://meccg.com/"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "xmen-1976-topps-cyclops",
@@ -1550,7 +1627,20 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1976 Topps Marvel Super Heroes Stickers",
+        "url": "https://www.cardboardconnection.com/1976-topps-marvel-super-heroes-stickers"
+      },
+      {
+        "label": "PSA Set Registry — 1966 Donruss Marvel Super Heroes (the set with no X-Men)",
+        "url": "https://www.psacard.com/articles/articleview/7501/psa-set-registry-1966-donruss-marvel-super-heroes-trading-card-first-series"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "superman-1940-gum-inc",
@@ -1562,7 +1652,8 @@
     "funFacts": [
       "A Gum, Inc. Superman #1 has sold at auction for $36,250",
       "Produced by the same company as the 1935 Mickey Mouse set on this list",
-      "Predates the first Batman cards by twenty-six years despite the characters debuting a year apart"
+      "Predates the first Batman cards by twenty-six years despite the characters debuting a year apart",
+      "Dating is not settled: PSA and most guides call it the 1940 set, while the Trading Card Database catalogues it as 1941"
     ],
     "estimatedValue": "$200 – $36,000+ depending on grade; card #1 carries an enormous premium",
     "image": "superman.jpg",
@@ -1572,7 +1663,28 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1940 Gum, Inc. Superman",
+        "url": "https://www.cardboardconnection.com/1940-gum-inc-superman-trading-cards"
+      },
+      {
+        "label": "PSA Set Registry — 1940 Gum Inc. Superman (R145), the Man of Steel's first set",
+        "url": "https://www.psacard.com/articles/articleview/7306/psa-set-registry-1940-gum-inc-superman-trading-card-r145-man-steels-first"
+      },
+      {
+        "label": "Pre-War Cards — 1940 Gum, Inc. Superman set and checklist",
+        "url": "https://prewarcards.com/2019/07/18/1940-gum-inc-superman-set-checklist-play-ball-cards/"
+      },
+      {
+        "label": "Trading Card Database — Gum, Inc. Superman (R145)",
+        "url": "https://www.tcdb.com/Checklist.cfm/sid/74371/1941-Gum-Inc.-Superman-(R145)"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "dceu-1940-superman-12",
@@ -1594,7 +1706,28 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1940 Gum, Inc. Superman",
+        "url": "https://www.cardboardconnection.com/1940-gum-inc-superman-trading-cards"
+      },
+      {
+        "label": "PSA Set Registry — 1940 Gum Inc. Superman (R145), the Man of Steel's first set",
+        "url": "https://www.psacard.com/articles/articleview/7306/psa-set-registry-1940-gum-inc-superman-trading-card-r145-man-steels-first"
+      },
+      {
+        "label": "Pre-War Cards — 1940 Gum, Inc. Superman set and checklist",
+        "url": "https://prewarcards.com/2019/07/18/1940-gum-inc-superman-set-checklist-play-ball-cards/"
+      },
+      {
+        "label": "Trading Card Database — Gum, Inc. Superman (R145)",
+        "url": "https://www.tcdb.com/Checklist.cfm/sid/74371/1941-Gum-Inc.-Superman-(R145)"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "mediaRank": null,
