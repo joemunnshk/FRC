@@ -79,7 +79,7 @@
     "franchise": "Yu-Gi-Oh!",
     "character": "Blue-Eyes White Dragon",
     "year": 1998,
-    "setInfo": "Bandai 1st Generation, Japan, #9",
+    "setInfo": "Bandai 1st Generation, released 4 April 1998 (Japan) — 42 cards, Blue-Eyes White Dragon #9",
     "description": "Most fans assume Konami's 1999 Official Card Game (Vol.1) was the first Yu-Gi-Oh! trading card, but Bandai actually released cards a year earlier, starting April 4, 1998, to tie into Toei's original anime. Blue-Eyes White Dragon appeared as card #9 in that very first Bandai generation — making this, not Vol.1, the true first Yu-Gi-Oh! trading card. Konami only took over the license in early 1999 after Bandai's final set.",
     "funFacts": [
       "Predates the Yu-Gi-Oh! OCG that most fans think of as \"the first\" set by almost a year",
@@ -94,7 +94,20 @@
     "categories": [
       "tcg"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Yugipedia — Yu-Gi-Oh! Bandai's Official Card Game",
+        "url": "https://yugipedia.com/wiki/Yu-Gi-Oh!_Bandai's_Official_Card_Game"
+      },
+      {
+        "label": "Beckett — 1998 Yu-Gi-Oh! Bandai OCG 1st Generation #9 Blue-Eyes White Dragon",
+        "url": "https://www.beckett.com/yugioh/1998/yu-gi-oh-bandai-ocg-1st-generation/9-blue-eyes-white-dragon-sr-12559636"
+      },
+      {
+        "label": "PSA — 1998 Yu-Gi-Oh! Japanese Bandai 1st Generation auction prices",
+        "url": "https://www.psacard.com/auctionprices/tcg-cards/1998-yu-gi-oh-japanese-bandai-1st-generation/134535"
+      }
+    ]
   },
   {
     "id": "mario-1989-topps-nintendo",
@@ -1749,7 +1762,16 @@
     ],
     "estimatedValue": "Alpha commons run into the hundreds; Black Lotus into six and seven figures",
     "image": "magic.jpg",
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — Magic: The Gathering",
+        "url": "https://en.wikipedia.org/wiki/Magic:_The_Gathering"
+      },
+      {
+        "label": "Wikipedia — Black Lotus",
+        "url": "https://en.wikipedia.org/wiki/Black_Lotus_(Magic:_The_Gathering)"
+      }
+    ]
   },
   {
     "mediaRank": null,
@@ -1771,7 +1793,16 @@
     ],
     "estimatedValue": "$1 for commons up to several thousand for graded Romance Dawn secret rares",
     "image": "onepiece.jpg",
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — One Piece Card Game",
+        "url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game"
+      },
+      {
+        "label": "One Piece Card Game — official site",
+        "url": "https://en.onepiece-cardgame.com/"
+      }
+    ]
   },
   {
     "mediaRank": null,
@@ -1793,7 +1824,16 @@
     ],
     "estimatedValue": "$1 – $600 depending on rarity; enchanted-rare cards drive the market",
     "image": "lorcana.jpg",
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — Disney Lorcana",
+        "url": "https://en.wikipedia.org/wiki/Disney_Lorcana"
+      },
+      {
+        "label": "Disney Lorcana — official site",
+        "url": "https://www.disneylorcana.com/en-US/"
+      }
+    ]
   },
   {
     "mediaRank": null,
@@ -1815,7 +1855,16 @@
     ],
     "estimatedValue": "$2 – $300 for 1999 originals; sealed first-edition product goes higher",
     "image": "digimon.jpg",
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikimon — Digital Monster Card Game",
+        "url": "https://wikimon.net/Digital_Monster_Card_Game"
+      },
+      {
+        "label": "Wikipedia — Digimon Card Game",
+        "url": "https://en.wikipedia.org/wiki/Digimon_Card_Game"
+      }
+    ]
   },
   {
     "mediaRank": null,
@@ -1837,7 +1886,12 @@
     ],
     "estimatedValue": "$1 – $200 for Premiere singles; sealed 1995 product is scarce",
     "image": "starwarsccg.jpg",
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — Star Wars Customizable Card Game",
+        "url": "https://en.wikipedia.org/wiki/Star_Wars_Customizable_Card_Game"
+      }
+    ]
   },
   {
     "mediaRank": null,
@@ -1859,7 +1913,16 @@
     ],
     "estimatedValue": "$1 – $30,000; first-edition Cold Foil legendaries are the trophy cards",
     "image": "fleshandblood.jpg",
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — Flesh and Blood",
+        "url": "https://en.wikipedia.org/wiki/Flesh_and_Blood_(card_game)"
+      },
+      {
+        "label": "Legend Story Studios — official site",
+        "url": "https://fabtcg.com/"
+      }
+    ]
   },
   {
     "mediaRank": null,
@@ -1881,7 +1944,12 @@
     ],
     "estimatedValue": "$1 – $500 depending on rarity; the market is still young and volatile",
     "image": "gundam.jpg",
-    "sources": []
+    "sources": [
+      {
+        "label": "Gundam Card Game — official site",
+        "url": "https://www.gundam-gcg.com/en/"
+      }
+    ]
   },
   {
     "mediaRank": null,
@@ -1903,7 +1971,16 @@
     ],
     "estimatedValue": "$1 – $400; chase champion cards drive the early market",
     "image": "riftbound.jpg",
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — Riftbound",
+        "url": "https://en.wikipedia.org/wiki/Riftbound"
+      },
+      {
+        "label": "Riftbound — official Riot Games site",
+        "url": "https://riftbound.leagueoflegends.com/en-us/"
+      }
+    ]
   },
   {
     "mediaRank": null,
@@ -1925,7 +2002,12 @@
     ],
     "estimatedValue": "$1 – $150; foil Aragorn and Gandalf cards lead the market",
     "image": "lotrtcg.jpg",
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — The Lord of the Rings Trading Card Game",
+        "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_Trading_Card_Game"
+      }
+    ]
   },
   {
     "mediaRank": null,
@@ -1947,7 +2029,12 @@
     ],
     "estimatedValue": "$1 – $400; early Japanese DM-01 rares carry the value",
     "image": "duelmasters.jpg",
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — Duel Masters Trading Card Game",
+        "url": "https://en.wikipedia.org/wiki/Duel_Masters_Trading_Card_Game"
+      }
+    ]
   },
   {
     "mediaRank": null,
@@ -1969,7 +2056,12 @@
     ],
     "estimatedValue": "$1 – $500; signed and SP-rarity character cards go far higher",
     "image": "weissschwarz.jpg",
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — Weiß Schwarz",
+        "url": "https://en.wikipedia.org/wiki/Wei%C3%9F_Schwarz"
+      }
+    ]
   },
   {
     "mediaRank": null,
@@ -1991,7 +2083,12 @@
     ],
     "estimatedValue": "$1 – $300; early Japanese SP-rarity cards command the most",
     "image": "vanguard.jpg",
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — Cardfight!! Vanguard",
+        "url": "https://en.wikipedia.org/wiki/Cardfight!!_Vanguard"
+      }
+    ]
   },
   {
     "mediaRank": null,
@@ -2013,7 +2110,12 @@
     ],
     "estimatedValue": "$1 – $250 depending on series and rarity",
     "image": "unionarena.jpg",
-    "sources": []
+    "sources": [
+      {
+        "label": "Union Arena — official site",
+        "url": "https://www.unionarena-tcg.com/en/"
+      }
+    ]
   },
   {
     "mediaRank": null,
@@ -2035,7 +2137,16 @@
     ],
     "estimatedValue": "$1 – $700; Showcase leaders are the chase cards",
     "image": "swunlimited.jpg",
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — Star Wars: Unlimited",
+        "url": "https://en.wikipedia.org/wiki/Star_Wars:_Unlimited"
+      },
+      {
+        "label": "Star Wars: Unlimited — official site",
+        "url": "https://www.starwarsunlimited.com/"
+      }
+    ]
   },
   {
     "mediaRank": null,
@@ -2057,6 +2168,15 @@
     ],
     "estimatedValue": "$5 – $2,000; Alpha foils reach four figures",
     "image": "sorcery.jpg",
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — Sorcery: Contested Realm",
+        "url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm"
+      },
+      {
+        "label": "Sorcery: Contested Realm — official site",
+        "url": "https://www.sorcerytcg.com/"
+      }
+    ]
   }
 ]
