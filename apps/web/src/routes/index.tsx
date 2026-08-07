@@ -9,7 +9,14 @@ export const Route = createFileRoute('/')({
 
 type SortKey = 'oldest' | 'newest' | 'revenue' | 'name'
 
-const CATEGORIES: Category[] = ['media', 'tcg']
+const CATEGORIES: Category[] = ['media', 'tcg', 'icons']
+
+/** Only the media list is ranked by revenue; the other tabs read best chronologically. */
+const DEFAULT_SORT: Record<Category, SortKey> = {
+  media: 'revenue',
+  tcg: 'oldest',
+  icons: 'oldest',
+}
 
 function HomePage() {
   const [tab, setTab] = useState<Category>('media')
@@ -52,7 +59,7 @@ function HomePage() {
   function switchTab(next: Category) {
     setTab(next)
     setFranchise('All')
-    setSort(next === 'media' ? 'revenue' : 'oldest')
+    setSort(DEFAULT_SORT[next])
   }
 
   return (

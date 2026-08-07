@@ -1,6 +1,6 @@
 import raw from '../data/cards.json'
 
-export type Category = 'media' | 'tcg'
+export type Category = 'media' | 'tcg' | 'icons'
 
 /** A reference backing up the claims in a card's entry. */
 export interface Source {
@@ -37,4 +37,5 @@ export const cards = raw as Card[]
 export const CATEGORY_LABELS: Record<Category, string> = {
   media: 'Media Franchises',
   tcg: 'Trading Card Games',
+  icons: 'Icons',
 }

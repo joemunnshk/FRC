@@ -5,6 +5,16 @@ interface Source {
   url: string
 }
 
+type Category = 'media' | 'tcg' | 'icons'
+
+const CATEGORY_LABELS: Record<Category, string> = {
+  media: 'Media Franchises',
+  tcg: 'Trading Card Games',
+  icons: 'Icons',
+}
+
+const ALL_CATEGORIES = Object.keys(CATEGORY_LABELS) as Category[]
+
 interface Card {
   id: string
   franchise: string
@@ -16,6 +26,10 @@ interface Card {
   estimatedValue: string
   image: string
   noCardReason: string
+  /** Which tabs this card appears in. A card with none is invisible on the site. */
+  categories: Category[]
+  mediaRank: number | null
+  revenueBillions: number | null
   sources: Source[]
   imagePreview?: string
 }
@@ -50,6 +64,9 @@ function blankCard(): Card {
     estimatedValue: '',
     image: '',
     noCardReason: '',
+    categories: ['media'],
+    mediaRank: null,
+    revenueBillions: null,
     sources: [],
   }
 }
@@ -63,8 +80,16 @@ export default function App() {
   useEffect(() => {
     fetch('/api/cards')
       .then((res) => res.json())
-      // Older entries predate the sources field, so fill it in rather than crash on it.
-      .then((loaded: Card[]) => setCards(loaded.map((card) => ({ ...card, sources: card.sources ?? [] }))))
+      // Older entries predate some fields, so fill them in rather than crash on them.
+      .then((loaded: Card[]) =>
+        setCards(
+          loaded.map((card) => ({
+            ...card,
+            sources: card.sources ?? [],
+            categories: card.categories ?? [],
+          })),
+        ),
+      )
   }, [])
 
   function updateEditingCard(patch: Partial<Card>) {
@@ -320,6 +345,35 @@ export default function App() {
               style={fieldStyle}
             />
           </label>
+
+          <div style={{ marginTop: '1rem' }}>
+            <strong>Tabs</strong>
+            <p style={{ fontSize: '0.85rem', opacity: 0.75, margin: '0.25rem 0 0' }}>
+              Which tabs this card shows up in. Tick at least one — a card with none is invisible on the site.
+            </p>
+            {ALL_CATEGORIES.map((category) => (
+              <label key={category} style={{ display: 'block', marginTop: '0.4rem' }}>
+                <input
+                  type="checkbox"
+                  checked={editingCard.categories.includes(category)}
+                  onChange={(e) =>
+                    updateEditingCard({
+                      categories: e.target.checked
+                        ? [...editingCard.categories, category]
+                        : editingCard.categories.filter((c) => c !== category),
+                    })
+                  }
+                  style={{ marginRight: '0.5rem' }}
+                />
+                {CATEGORY_LABELS[category]}
+              </label>
+            ))}
+            {editingCard.categories.length === 0 && (
+              <p style={{ fontSize: '0.85rem', color: '#c0392b', margin: '0.5rem 0 0' }}>
+                This card will not appear anywhere on the site.
+              </p>
+            )}
+          </div>
 
           <div style={{ marginTop: '1rem' }}>
             <strong>Sources</strong>
