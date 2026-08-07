@@ -93,7 +93,8 @@
     "mediaRank": null,
     "revenueBillions": null,
     "categories": [
-      "tcg"
+      "tcg",
+      "icons"
     ],
     "sources": [
       {
@@ -1909,8 +1910,7 @@
     "mediaRank": null,
     "revenueBillions": null,
     "categories": [
-      "tcg",
-      "icons"
+      "tcg"
     ],
     "noCardReason": "",
     "id": "star-wars-ccg-1995-decipher",
@@ -2360,6 +2360,186 @@
       {
         "label": "Wikipedia — Super Smash Bros. (1999), for the launch roster",
         "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._(video_game)"
+      }
+    ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "darth-vader-1977-topps",
+    "franchise": "Star Wars",
+    "character": "Darth Vader",
+    "year": 1977,
+    "setInfo": "Topps Star Wars Series 1 (Blue Border) — shown: #7 'The villainous Darth Vader', MGC 9",
+    "description": "Vader's first card is #7 in the same blue-bordered Topps series that opens with Luke Skywalker, printed in June 1977 within weeks of the film reaching cinemas. The first eight cards of the set are essentially a cast list — Luke, the droids, Han, Leia, Ben Kenobi, Vader, Tarkin — so the most famous villain in cinema arrived on cardboard as card seven of sixty-six, before anyone knew what the character would become.",
+    "funFacts": [
+      "Card #7 of 66, in the first eight cards that function as a cast list for the film",
+      "Printed in June 1977, weeks after A New Hope opened, before the sequels existed",
+      "The card credits no actor: Vader was played by David Prowse and voiced by James Earl Jones",
+      "Series 1 packs held seven cards and one sticker"
+    ],
+    "estimatedValue": "$15 – $600+, rising steeply above PSA 8",
+    "image": "darthvader.jpg",
+    "sources": [
+      {
+        "label": "StarWarsCards.net — 1977 Topps Star Wars Series 1 checklist",
+        "url": "https://starwarscards.net/checklists/1977-topps-star-wars-series-1/"
+      },
+      {
+        "label": "Non-Sport Lists — Star Wars Series 1 (Blue)",
+        "url": "https://nslists.com/swanh1.htm"
+      },
+      {
+        "label": "PSA Set Registry — 1977 Topps Star Wars",
+        "url": "https://www.psacard.com/articles/articleview/8520/psa-set-registry-collecting-1977-topps-star-wars-trading-card-one-started-all"
+      }
+    ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "princess-leia-1977-topps",
+    "franchise": "Star Wars",
+    "character": "Princess Leia",
+    "year": 1977,
+    "setInfo": "Topps Star Wars Series 1 (Blue Border) — shown: #5 'Princess Leia Organa', PSA 4.5",
+    "description": "Leia is card #5 in the 1977 Topps Series 1 set, a straight portrait of Carrie Fisher in the white senatorial robe. She is one of only a handful of women to headline a card in a major 1970s non-sport set, and the only one in the first ten cards here. The set was assembled fast from publicity stills, which is why several cards including this one are lifted from promotional photography rather than the film itself.",
+    "funFacts": [
+      "Card #5, one of the eight portrait cards that open the set",
+      "One of very few women to headline a card in a major 1970s non-sport release",
+      "Carrie Fisher was 20 when the photograph was taken",
+      "Series 1 is the hardest of the five 1977 series to complete in high grade"
+    ],
+    "estimatedValue": "$10 – $500+, depending on grade",
+    "image": "princessleia.jpg",
+    "sources": [
+      {
+        "label": "StarWarsCards.net — 1977 Topps Star Wars Series 1 checklist",
+        "url": "https://starwarscards.net/checklists/1977-topps-star-wars-series-1/"
+      },
+      {
+        "label": "Non-Sport Lists — Star Wars Series 1 (Blue)",
+        "url": "https://nslists.com/swanh1.htm"
+      },
+      {
+        "label": "PSA Set Registry — 1977 Topps Star Wars",
+        "url": "https://www.psacard.com/articles/articleview/8520/psa-set-registry-collecting-1977-topps-star-wars-trading-card-one-started-all"
+      }
+    ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "han-solo-1977-topps",
+    "franchise": "Star Wars",
+    "character": "Han Solo",
+    "year": 1977,
+    "setInfo": "Topps Star Wars Series 1 (Blue Border) — shown: #4 'Space pirate Han Solo'",
+    "description": "Han Solo is card #4, captioned \"Space pirate Han Solo\" — a description the films themselves never quite use, and a reminder that the set was written before anyone had settled on how to talk about these characters. Harrison Ford was a working carpenter when he was cast, and this card, printed weeks after the film opened, is the first piece of trading card cardboard he ever appeared on.",
+    "funFacts": [
+      "The caption calls him a \"space pirate\", a phrase the films never use",
+      "Card #4 of 66, ahead of Leia at #5 and Vader at #7",
+      "Harrison Ford's first appearance on any trading card",
+      "Topps printed five separate 1977 Star Wars series as the film kept selling"
+    ],
+    "estimatedValue": "$10 – $500+, depending on grade",
+    "image": "hansolo.jpg",
+    "sources": [
+      {
+        "label": "StarWarsCards.net — 1977 Topps Star Wars Series 1 checklist",
+        "url": "https://starwarscards.net/checklists/1977-topps-star-wars-series-1/"
+      },
+      {
+        "label": "Non-Sport Lists — Star Wars Series 1 (Blue)",
+        "url": "https://nslists.com/swanh1.htm"
+      },
+      {
+        "label": "PSA Set Registry — 1977 Topps Star Wars",
+        "url": "https://www.psacard.com/articles/articleview/8520/psa-set-registry-collecting-1977-topps-star-wars-trading-card-one-started-all"
+      }
+    ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "hulk-1966-donruss",
+    "franchise": "Marvel",
+    "character": "The Incredible Hulk",
+    "year": 1966,
+    "setInfo": "Donruss Marvel Super Heroes #45 — Hulk run, cards 45–55; shown: 'Write Your Own Caption', PSA 4",
+    "description": "The Hulk's first card is #45 in the 1966 Donruss Marvel Super Heroes set, the same 66-card run that gave Captain America, Iron Man and Spider-Man theirs. The set divides into six blocks of eleven and prints the boundaries on the cards themselves: this one reads \"45 HULK CARDS NUMBERS 45-55\". Donruss built the set by lifting panels from Marvel comics and replacing the dialogue with jokes, and #45 goes further by leaving the speech bubble empty for the reader to fill in.",
+    "funFacts": [
+      "The card prints its own run on the front: \"45 HULK CARDS NUMBERS 45-55\"",
+      "The speech bubble is deliberately blank — you were meant to write the caption yourself",
+      "Shares a set with Captain America, Iron Man, Daredevil, Spider-Man and Thor",
+      "Donruss lifted real comic panels and swapped the dialogue for gags"
+    ],
+    "estimatedValue": "$20 – $400+, depending on grade",
+    "image": "hulk.jpg",
+    "sources": [
+      {
+        "label": "PSA Set Registry — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.psacard.com/articles/articleview/7501/psa-set-registry-1966-donruss-marvel-super-heroes-trading-card-first-series"
+      },
+      {
+        "label": "Cardboard Connection — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.cardboardconnection.com/1966-donruss-marvel-super-heroes-trading-cards"
+      },
+      {
+        "label": "Trading Card Database — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/74952/1966-Donruss-Marvel-Super-Heroes"
+      }
+    ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "thor-1966-donruss",
+    "franchise": "Marvel",
+    "character": "Thor",
+    "year": 1966,
+    "setInfo": "Donruss Marvel Super Heroes #56 — Thor run, cards 56–66; shown: 'She's Always Hiding The Soap!', PSA 3",
+    "description": "Thor closes out the 1966 Donruss Marvel Super Heroes set: his eleven cards run from #56 to #66, the last block of the 66-card run. Card #56 is his first, and like the rest of the set it takes a real comic panel and replaces the dialogue with a domestic joke. Thor was one of the six heroes Marvel and Donruss judged famous enough to carry a block of cards in 1966, three years after the Avengers formed.",
+    "funFacts": [
+      "His run closes the set — cards 56 to 66, the final block of 66",
+      "Card #56 prints \"56 THOR CARDS NUMBERS 56-66\" along the bottom",
+      "One of only six Marvel heroes given a block of cards in 1966",
+      "The original panel art is buried under a joke about hiding the soap"
+    ],
+    "estimatedValue": "$20 – $400+, depending on grade",
+    "image": "thor.jpg",
+    "sources": [
+      {
+        "label": "PSA Set Registry — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.psacard.com/articles/articleview/7501/psa-set-registry-1966-donruss-marvel-super-heroes-trading-card-first-series"
+      },
+      {
+        "label": "Cardboard Connection — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.cardboardconnection.com/1966-donruss-marvel-super-heroes-trading-cards"
+      },
+      {
+        "label": "Trading Card Database — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/74952/1966-Donruss-Marvel-Super-Heroes"
       }
     ]
   }
