@@ -55,7 +55,24 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "TMNTPedia — Teenage Mutant Ninja Turtles (1989 trading cards)",
+        "url": "https://turtlepedia.fandom.com/wiki/Teenage_Mutant_Ninja_Turtles_(1989_trading_cards)"
+      },
+      {
+        "label": "Trader Cracks — 1989 Topps Teenage Mutant Ninja Turtles checklist",
+        "url": "https://www.tradercracks.com/1989-90-topps-teenage-mutant-ninja-turtles-trading-cards-checklist"
+      },
+      {
+        "label": "Non-Sport Lists — Teenage Mutant Ninja Turtles 1",
+        "url": "https://www.nslists.com/tmnt1.htm"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "yugioh-bandai-1998",
@@ -445,14 +462,27 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Upper Deck — Call of Duty League trading cards checklist",
+        "url": "https://upperdeck.com/call-of-duty-league-trading-cards-checklist-now-available/"
+      },
+      {
+        "label": "DA Card World — 2021 Call of Duty League hobby box",
+        "url": "https://www.dacardworld.com/entertainment/2021-call-of-duty-league-hobby-box-upper-deck-2022"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "batman-1966-topps",
     "franchise": "Batman",
     "character": "Batman",
     "year": 1966,
-    "setInfo": "Topps Batman \"Black Bat\" #1",
+    "setInfo": "Topps Batman \"Black Bat\" #1 \"The Batman\" — 55 cards, art by Norman Saunders",
     "description": "Topps rushed out several Batman sets in 1966 to ride the Adam West television series, and the Black Bat #1 is recognised as the first mainstream trading card of the character. The artwork across the 1966 Batman releases was painted by Norman Saunders, the illustrator behind Mars Attacks, giving the cards their lurid pulp-comic look.",
     "funFacts": [
       "A Black Bat #1 has sold at auction for $45,000",
@@ -467,7 +497,24 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "PSA — 1966 Topps Batman trading card sets",
+        "url": "https://www.psacard.com/articles/articleview/6630/1966-topps-batman-trading-card-sets-black-bat-series-b"
+      },
+      {
+        "label": "Cardboard Connection — 1966 Topps Batman Black Bat",
+        "url": "https://www.cardboardconnection.com/1966-topps-batman-black-bat-trading-cards"
+      },
+      {
+        "label": "Trading Card Database — 1966 Topps Batman (Black Bat Logo)",
+        "url": "https://www.tcdb.com/Checklist.cfm/sid/74131/1966-Topps-Batman-(Black-Bat-Logo)"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "spiderman-1966-donruss",
@@ -489,7 +536,24 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "PSA Set Registry — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.psacard.com/articles/articleview/7501/psa-set-registry-1966-donruss-marvel-super-heroes-trading-card-first-series"
+      },
+      {
+        "label": "Cardboard Connection — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.cardboardconnection.com/1966-donruss-marvel-super-heroes-trading-cards"
+      },
+      {
+        "label": "Trading Card Database — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/74952/1966-Donruss-Marvel-Super-Heroes"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "transformers-1985-action-cards",
@@ -511,14 +575,31 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Transformers Wiki — Action Cards",
+        "url": "https://tfwiki.net/wiki/Action_Cards"
+      },
+      {
+        "label": "Cardboard Connection — 1985 Hasbro Transformers Action Cards",
+        "url": "https://www.cardboardconnection.com/1985-hasbro-transformers-action-cards-trading-cards"
+      },
+      {
+        "label": "Trading Card Database — 1985 Hasbro Transformers",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/85524/1985-Hasbro-Transformers"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "naruto-2002-bandai",
     "franchise": "Naruto",
     "character": "Naruto Uzumaki",
     "year": 2002,
-    "setInfo": "Bandai Naruto: The Path to Hokage (Japan), card 忍-1 / Ninja-1, 127 cards",
+    "setInfo": "Bandai Naruto Card Game vol. 1 (巻ノ壱), released 13 December 2002 (Japan) — card 忍-1 / Ninja-1",
     "description": "Like Yu-Gi-Oh!, Naruto's real first card is Japanese and predates the version Western fans know. Bandai launched Naruto: The Path to Hokage in Japan in 2002, a 127-card set built from Ninja, Jutsu and Mission cards. Uzumaki Naruto is card 忍-1 — literally Ninja-1, the first card of the first set. The English-language Naruto CCG only followed in 2006 and ran until 2013.",
     "funFacts": [
       "Card 忍-1 means Ninja-1 — it is literally the first card of the first Naruto set",
@@ -534,7 +615,24 @@
       "media",
       "tcg"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Trading Card Database — 2002 Bandai Naruto: The Path to Hokage",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/256824/2002-Bandai-Naruto:-The-Path-to-Hokage"
+      },
+      {
+        "label": "Slab-Z — The definitive 2002 Naruto card game vintage guide",
+        "url": "https://www.slab-z.com/post/the-definitive-2002-naruto-card-game-vintage-guide-rookies-grails"
+      },
+      {
+        "label": "Narutopedia — Naruto Collectible Card Game",
+        "url": "https://naruto.fandom.com/wiki/Naruto_Collectible_Card_Game"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "dungeon-fighter-online-no-card",
@@ -578,7 +676,20 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Checklist Insider — 2025 Topps Chrome Disney",
+        "url": "https://www.checklistinsider.com/2025-topps-chrome-disney"
+      },
+      {
+        "label": "Trader Cracks — 2025 Topps Chrome Disney checklist",
+        "url": "https://www.tradercracks.com/2025-topps-chrome-disney-trading-cards-checklist"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "candy-crush-no-card",
@@ -622,7 +733,20 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Trading Card Database — 1990 Upper Deck Comic Ball",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/81752/1990-Upper-Deck-Comic-Ball"
+      },
+      {
+        "label": "Non-Sport Lists — Comic Ball 1 checklist",
+        "url": "https://www.nslists.com/comball1.htm"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "toy-story-1995-skybox",
