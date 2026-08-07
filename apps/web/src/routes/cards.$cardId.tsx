@@ -56,6 +56,21 @@ function CardDetailPage() {
 
           <div className="field-label">{card.image ? 'Estimated Value' : 'Collectibility'}</div>
           <div className="value-badge">{card.estimatedValue}</div>
+
+          {card.sources.length > 0 && (
+            <>
+              <div className="field-label">Sources</div>
+              <ul className="source-list">
+                {card.sources.map((source) => (
+                  <li key={source.url}>
+                    <a href={source.url} target="_blank" rel="noreferrer">
+                      {source.label}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </>
+          )}
         </div>
       </div>
     </div>

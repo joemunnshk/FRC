@@ -2,6 +2,13 @@ import raw from '../data/cards.json'
 
 export type Category = 'media' | 'tcg'
 
+/** A reference backing up the claims in a card's entry. */
+export interface Source {
+  /** What the reader sees, e.g. "PSA CardFacts" — not a bare URL. */
+  label: string
+  url: string
+}
+
 export interface Card {
   id: string
   franchise: string
@@ -21,6 +28,8 @@ export interface Card {
   revenueBillions: number | null
   /** Which tabs this card appears in. A card can belong to both. */
   categories: Category[]
+  /** References for this entry's claims. Empty until the entry has been checked. */
+  sources: Source[]
 }
 
 export const cards = raw as Card[]

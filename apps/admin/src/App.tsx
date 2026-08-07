@@ -1,5 +1,10 @@
 import { useEffect, useRef, useState, type ChangeEvent, type CSSProperties } from 'react'
 
+interface Source {
+  label: string
+  url: string
+}
+
 interface Card {
   id: string
   franchise: string
@@ -11,6 +16,7 @@ interface Card {
   estimatedValue: string
   image: string
   noCardReason: string
+  sources: Source[]
   imagePreview?: string
 }
 
@@ -44,6 +50,7 @@ function blankCard(): Card {
     estimatedValue: '',
     image: '',
     noCardReason: '',
+    sources: [],
   }
 }
 
@@ -56,7 +63,8 @@ export default function App() {
   useEffect(() => {
     fetch('/api/cards')
       .then((res) => res.json())
-      .then(setCards)
+      // Older entries predate the sources field, so fill it in rather than crash on it.
+      .then((loaded: Card[]) => setCards(loaded.map((card) => ({ ...card, sources: card.sources ?? [] }))))
   }, [])
 
   function updateEditingCard(patch: Partial<Card>) {
@@ -92,6 +100,22 @@ export default function App() {
   function removeFact(index: number) {
     if (!editingCard) return
     updateEditingCard({ funFacts: editingCard.funFacts.filter((_, i) => i !== index) })
+  }
+
+  function updateSource(index: number, patch: Partial<Source>) {
+    if (!editingCard) return
+    const sources = editingCard.sources.map((source, i) => (i === index ? { ...source, ...patch } : source))
+    updateEditingCard({ sources })
+  }
+
+  function addSource() {
+    if (!editingCard) return
+    updateEditingCard({ sources: [...editingCard.sources, { label: '', url: '' }] })
+  }
+
+  function removeSource(index: number) {
+    if (!editingCard) return
+    updateEditingCard({ sources: editingCard.sources.filter((_, i) => i !== index) })
   }
 
   function handleImageChange(e: ChangeEvent<HTMLInputElement>) {
@@ -296,6 +320,37 @@ export default function App() {
               style={fieldStyle}
             />
           </label>
+
+          <div style={{ marginTop: '1rem' }}>
+            <strong>Sources</strong>
+            <p style={{ fontSize: '0.85rem', opacity: 0.75, margin: '0.25rem 0 0' }}>
+              References backing up this entry. These appear at the bottom of the card's page.
+            </p>
+            {editingCard.sources.map((source, index) => (
+              <div key={index} style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', marginTop: '0.5rem' }}>
+                <input
+                  type="text"
+                  placeholder="Name, e.g. PSA CardFacts"
+                  value={source.label}
+                  onChange={(e) => updateSource(index, { label: e.target.value })}
+                  style={{ ...fieldStyle, marginTop: 0, flex: 1 }}
+                />
+                <input
+                  type="url"
+                  placeholder="https://..."
+                  value={source.url}
+                  onChange={(e) => updateSource(index, { url: e.target.value })}
+                  style={{ ...fieldStyle, marginTop: 0, flex: 2 }}
+                />
+                <button onClick={() => removeSource(index)} aria-label="Remove source">
+                  Remove
+                </button>
+              </div>
+            ))}
+            <button onClick={addSource} style={{ marginTop: '0.75rem' }}>
+              + Add source
+            </button>
+          </div>
 
           <label style={{ display: 'block', marginTop: '1rem' }}>
             Card Image
