@@ -169,20 +169,20 @@
     ]
   },
   {
-    "id": "disney-princess-no-card",
+    "id": "disney-princess-1938-menier",
     "franchise": "Disney Princess",
-    "character": "Disney Princess (franchise)",
-    "year": 2000,
-    "setInfo": "No first card — a marketing umbrella, not a character",
-    "description": "Disney Princess is not a story or a character; it is a licensing banner Andy Mooney created in 2000 to sell Snow White, Cinderella, Ariel, Belle and others as one product line. Because it was assembled from characters who already existed, there is no single debut card for the brand itself.",
+    "character": "Snow White",
+    "year": 1938,
+    "setInfo": "Chocolat Menier Snow White and the Seven Dwarfs trade cards (France)",
+    "description": "Disney Princess is a licensing banner created in 2000, so it has no debut card of its own. The nearest real card belongs to the princess who started it. Snow White and the Seven Dwarfs opened in 1937, and by 1938 the French chocolate maker Menier was giving away numbered Snow White trade cards with its bars — sixty-two years before anyone thought to group the princesses into a brand.",
     "funFacts": [
-      "Snow White predates the Disney Princess brand by 63 years — her own card history starts far earlier",
-      "Mooney reportedly came up with the idea after seeing girls at a Disney On Ice show dressed in homemade princess costumes",
-      "Any \"first Disney Princess card\" would really be a first card for one of the individual princesses"
+      "Predates the Disney Princess brand by sixty-two years",
+      "Given away with chocolate bars rather than sold — the standard way European trade cards reached children",
+      "Snow White was Disney's first animated feature and the first Disney Princess, so her cards start the whole line"
     ],
-    "estimatedValue": "Not applicable — individual princess cards are collected instead",
-    "image": "",
-    "noCardReason": "Disney Princess is a marketing brand launched in 2000 that bundles pre-existing characters together, so it has no debut trading card of its own. The individual princesses each have their own, much earlier, card histories.",
+    "estimatedValue": "$5 – $40 per card; complete numbered runs are much scarcer",
+    "image": "disneyprincess.jpg",
+    "noCardReason": "",
     "mediaRank": 5,
     "revenueBillions": 45.4,
     "categories": [
@@ -190,20 +190,20 @@
     ]
   },
   {
-    "id": "anpanman-no-card",
+    "id": "anpanman-1991-carddass",
     "franchise": "Anpanman",
     "character": "Anpanman",
-    "year": 1973,
-    "setInfo": "No documented collectible trading card release",
-    "description": "Anpanman is one of the highest-grossing franchises ever made, but almost all of that revenue comes from toys, food licensing and home video aimed at Japanese pre-schoolers. Unlike Pokémon or Dragon Ball, it never got a Carddass, Amada or menko-style collector set that the trading card hobby recognises or tracks.",
+    "year": 1991,
+    "setInfo": "Banpresto Anpanman Carddass prism cards (Japan)",
+    "description": "Anpanman does have trading cards — they are simply Japanese and almost invisible to Western collectors. Banpresto produced Anpanman Carddass prism cards from at least 1991, dispensed from the same coin-operated vending machines that sold Dragon Ball Carddass. Sets continued through the 1990s. The franchise earns tens of billions from toys and food licensing, so the cards remain a minor footnote, but they exist.",
     "funFacts": [
-      "Earns tens of billions of dollars almost entirely from toddler merchandise, not collectibles",
-      "Japanese card makers like Bandai and Amada built collector sets around shonen anime, not pre-school shows",
-      "A rare case of enormous commercial success with essentially zero presence in the card hobby"
+      "Sold through Carddass vending machines, the same system as Dragon Ball",
+      "Almost unknown outside Japan, which is why the franchise is often assumed to have no cards at all",
+      "Anpanman out-earns most household names on this list almost entirely through toddler merchandise"
     ],
-    "estimatedValue": "Not applicable — no collectible card market exists",
-    "image": "",
-    "noCardReason": "Anpanman is aimed at Japanese pre-schoolers and its merchandising went into toys and food rather than collectibles, so no trading card set tracked by the hobby was ever released.",
+    "estimatedValue": "$5 – $60 per prism card; Western supply is thin",
+    "image": "anpanman.jpg",
+    "noCardReason": "",
     "mediaRank": 6,
     "revenueBillions": 38.4,
     "categories": [
@@ -232,20 +232,20 @@
     ]
   },
   {
-    "id": "mcu-no-card",
+    "id": "mcu-1966-donruss-ironman",
     "franchise": "Marvel Cinematic Universe",
-    "character": "Marvel Cinematic Universe (film series)",
-    "year": 2008,
-    "setInfo": "No first card — the characters long predate the film series",
-    "description": "The MCU began with Iron Man in 2008, and plenty of film-tie-in card sets followed from Upper Deck and others. But the MCU is a film continuity rather than a character, and every hero in it already had decades of card history through Marvel's comics. Asking for the MCU's rookie card really means asking for Iron Man's, or Spider-Man's.",
+    "character": "Iron Man",
+    "year": 1966,
+    "setInfo": "Donruss Marvel Super Heroes #12 — Iron Man run, cards 12–22",
+    "description": "The MCU is a film continuity rather than a character, so it has no debut card of its own. The nearest thing is the card of the hero who started it: Iron Man launched the MCU in 2008, and his own first card is #12 in the 1966 Donruss Marvel Super Heroes set — the same 66-card run that debuted Spider-Man and Captain America, forty-two years earlier.",
     "funFacts": [
-      "Iron Man, Captain America and Thor all had trading cards decades before the MCU existed",
-      "Marvel character cards go back to the 1960s, nearly 50 years before the first MCU film",
-      "Film-tie-in sets are collected as movie memorabilia rather than character debuts"
+      "Iron Man launched the MCU in 2008, but his first card predates the film by forty-two years",
+      "Shares its set with Spider-Man and Captain America — all three debut in the same 66 cards",
+      "Every MCU hero already had decades of card history before the film series existed"
     ],
-    "estimatedValue": "Not applicable — individual Marvel character cards are collected instead",
-    "image": "",
-    "noCardReason": "The MCU is a film continuity launched in 2008, not a character, and every hero in it already had decades of comic-era trading cards. There is no meaningful \"first MCU card\".",
+    "estimatedValue": "$50 – $1,500 depending on grade; high-grade 1966 Donruss is scarce",
+    "image": "mcu.jpg",
+    "noCardReason": "",
     "mediaRank": 8,
     "revenueBillions": 35.2,
     "categories": [
@@ -527,20 +527,20 @@
     ]
   },
   {
-    "id": "dora-the-explorer-no-card",
+    "id": "dora-panini-stickers",
     "franchise": "Dora the Explorer",
     "character": "Dora",
-    "year": 2000,
-    "setInfo": "Card games only — no collectible trading card set",
-    "description": "Dora the Explorer is a top-25 franchise worldwide, but Nickelodeon put its licensing into toys, DVDs and pre-school games. The Dora card products that exist are playable card games — Go Fish, Crazy Eights, Kidz Cards tins from around 2006 — rather than a collectible set with a checklist to chase.",
+    "year": 2011,
+    "setInfo": "Panini Dora the Explorer album stickers (Nickelodeon licensed)",
+    "description": "Dora never got a collectible trading card set, but she is not entirely absent from cardboard. Panini ran licensed Dora album sticker collections through the early 2010s, sold in supermarket packs to be stuck into a book. These are stickers rather than numbered trading cards — the nearest equivalent the franchise has, and typical of how pre-school properties are merchandised.",
     "funFacts": [
-      "The Dora cards that exist are Go Fish and Crazy Eights decks, not collectibles",
-      "Pre-school franchises rarely get collectible sets because the audience is too young to chase a checklist",
-      "Follows the same pattern as Anpanman: huge revenue, no hobby presence"
+      "Stickers to be glued into an album, not numbered cards to collect and grade",
+      "Sold in supermarkets across Europe and Latin America rather than hobby shops",
+      "Pre-school franchises rarely get true card sets — the audience is too young to chase a checklist"
     ],
-    "estimatedValue": "Not applicable — no collectible card market exists",
-    "image": "",
-    "noCardReason": "Nickelodeon only ever released playable Dora card games such as Go Fish and Crazy Eights, never a collectible trading card set with a checklist.",
+    "estimatedValue": "Under $1 per sticker; sealed packs and filled albums carry the value",
+    "image": "dora.jpg",
+    "noCardReason": "",
     "mediaRank": 24,
     "revenueBillions": 15.8,
     "categories": [
@@ -569,20 +569,20 @@
     ]
   },
   {
-    "id": "paw-patrol-no-card",
+    "id": "paw-patrol-2015-panini",
     "franchise": "Paw Patrol",
-    "character": "Paw Patrol",
-    "year": 2013,
-    "setInfo": "Sticker albums only — no trading card set",
-    "description": "Paw Patrol is one of the biggest pre-school properties on earth, but its card presence is entirely Panini sticker collections sold in supermarkets — Big Truck Pups, Search & Rescue and others. These are sticker albums to fill, not trading card sets with a checklist of numbered cards to chase and grade.",
+    "character": "Marshall",
+    "year": 2015,
+    "setInfo": "Panini Paw Patrol album stickers — sticker #1 (Spin Master / Nickelodeon)",
+    "description": "Paw Patrol has no collectible trading card set, but Panini has run licensed album sticker collections since 2015 — Big Truck Pups, Search & Rescue and others, sold in supermarket packs. These are stickers to fill a book rather than numbered cards to chase and grade, which is the standard pattern for pre-school properties.",
     "funFacts": [
-      "Every Paw Patrol Panini release is a sticker collection, not a trading card set",
-      "Follows the same pattern as Dora and Anpanman: pre-school shows rarely get collector cards",
-      "The audience is too young to chase a checklist, so publishers stick to sticker albums"
+      "Stickers for an album, not numbered trading cards with a gradeable checklist",
+      "Panini has run several Paw Patrol collections since 2015 and still does",
+      "Same pattern as Dora: enormous pre-school revenue, almost no collector card culture"
     ],
-    "estimatedValue": "Not applicable — no trading card market exists",
-    "image": "",
-    "noCardReason": "Paw Patrol has only ever had Panini sticker albums sold through supermarkets, never a numbered trading card set with a checklist for collectors to chase.",
+    "estimatedValue": "Under $1 per sticker; filled albums are the collectible unit",
+    "image": "pawpatrol.jpg",
+    "noCardReason": "",
     "mediaRank": 26,
     "revenueBillions": 15.4,
     "categories": [
@@ -653,20 +653,20 @@
     ]
   },
   {
-    "id": "space-invaders-no-card",
+    "id": "space-invaders-1985-menko",
     "franchise": "Space Invaders",
-    "character": "Space Invaders (game)",
-    "year": 1978,
-    "setInfo": "No trading card release",
-    "description": "Space Invaders effectively created the video game industry as a mass phenomenon in 1978, and it sits inside the top 30 highest-grossing franchises of all time. Despite that, no trading card set was ever made for it. Taito has licensed modern novelty playing-card decks, but nothing that functions as a collectible set with a checklist.",
+    "character": "Space Invaders",
+    "year": 1985,
+    "setInfo": "Taito Space Invaders menko card (Japan), © Taito Corp. 1985",
+    "description": "Space Invaders does have cards, and they are Japanese. Taito licensed Space Invaders menko — thick paper cards used in a floor-slapping game — printed with the arcade's UFO and pixel invaders and stamped © TAITO CORP. 1985. A Shinseisha Taito Game History card followed in 1998. No Western set was ever made, which is why the franchise is usually assumed to have none at all.",
     "funFacts": [
-      "Fleer put Pac-Man on cards in 1980, but nobody ever did the same for Space Invaders",
-      "The only Space Invaders cards are modern novelty poker decks, not collectibles",
-      "Its abstract pixel aliens gave illustrators almost nothing to build a card set around"
+      "The card is stamped © TAITO CORP. 1985, so it is officially licensed rather than a bootleg",
+      "Menko was the dominant Japanese card format from the 1970s to about 1985 — this one lands right at the end",
+      "Fleer put Pac-Man on cards in 1980, but no Western publisher ever did the same for Space Invaders"
     ],
-    "estimatedValue": "Not applicable — no collectible trading cards exist",
-    "image": "",
-    "noCardReason": "No collectible Space Invaders trading card set has ever been produced. The only Space Invaders cards are modern novelty playing-card decks, which have no checklist and no collector market.",
+    "estimatedValue": "$15 – $120 for vintage licensed menko depending on condition",
+    "image": "spaceinvaders.jpg",
+    "noCardReason": "",
     "mediaRank": 30,
     "revenueBillions": 13.9,
     "categories": [
@@ -844,20 +844,20 @@
     ]
   },
   {
-    "id": "rilakkuma-no-card",
+    "id": "rilakkuma-sanx-trading-cards",
     "franchise": "Rilakkuma",
     "character": "Rilakkuma",
     "year": 2003,
-    "setInfo": "No trading card release",
-    "description": "Rilakkuma is a San-X character with no story, no dialogue and no cast — a relaxing bear designed for stationery, plush toys and homeware. That is exactly why no trading card set exists: card sets need characters, conflict and a checklist, and Rilakkuma deliberately has none of those things.",
+    "setInfo": "San-X Rilakkuma trading cards (Japan) — 20-card set with holo chase",
+    "description": "Rilakkuma turns out to have proper trading cards after all. San-X and Bandai have produced Japanese Rilakkuma card sets — the packs are marked トレーディングカード, promise a twenty-card checklist and a possible rare holo, and come one card to a pack. There are Rilakkuma wafer cards too. None of it reaches the West in quantity, which is why the character is usually assumed to be stationery-only.",
     "funFacts": [
-      "The name means \"relax bear\" — the character has no plot to build a card set around",
-      "San-X built the brand on stationery and plush, exactly like Sanrio did with Hello Kitty",
-      "Hello Kitty eventually got cards after 49 years; Rilakkuma still has not"
+      "The packs advertise a twenty-card set and a rare holo chase — a real checklist, not a novelty",
+      "San-X built the brand on stationery and plush, so the cards are a small sideline",
+      "Rilakkuma means 'relax bear' and has no story or cast, which makes a card set an odd fit"
     ],
-    "estimatedValue": "Not applicable — no trading cards exist",
-    "image": "",
-    "noCardReason": "Rilakkuma is a character-goods brand with no story or cast, built for stationery and plush rather than collectibles. No trading card set has ever been released.",
+    "estimatedValue": "$2 – $25 per card; sealed Japanese packs go for more",
+    "image": "rilakkuma.jpg",
+    "noCardReason": "",
     "mediaRank": 39,
     "revenueBillions": 10,
     "categories": [
@@ -865,20 +865,20 @@
     ]
   },
   {
-    "id": "monster-strike-no-card",
+    "id": "monster-strike-wafer-cards",
     "franchise": "Monster Strike",
-    "character": "Monster Strike (game)",
-    "year": 2013,
-    "setInfo": "No trading card release",
-    "description": "Monster Strike is a Japanese mobile game that has earned roughly ten billion dollars, almost entirely from in-app purchases in Japan. Its monsters live inside a gacha system that already functions like a card collection — which is precisely why a physical trading card set was never needed.",
+    "character": "Monster Strike",
+    "year": 2014,
+    "setInfo": "Japanese Monster Strike wafer cards and TCG (mid-2010s onward)",
+    "description": "Monster Strike does have physical cards, contrary to what its all-digital reputation suggests. After the game launched in 2013 it spread into Japanese wafer cards — foil cards packaged with a biscuit — plus a full trading card game and movie tie-in sets. They circulate almost entirely within Japan, which is why the franchise is often assumed to be digital-only.",
     "funFacts": [
-      "Its in-game gacha already works like a card collection, digitally",
-      "Revenue is overwhelmingly Japanese, with little Western merchandising",
-      "A recurring modern pattern: mobile games monetise collecting without printing anything"
+      "Wafer cards are sold with a biscuit in the pack, a distinctly Japanese format",
+      "The in-game gacha already works like a card collection, so the physical cards are a supplement rather than the main event",
+      "Almost all of its ten-billion-dollar revenue is Japanese, and so is its card market"
     ],
-    "estimatedValue": "Not applicable — no trading cards exist",
-    "image": "",
-    "noCardReason": "Monster Strike is a Japanese mobile gacha game whose in-game monster collecting already fills the role a card set would. No physical trading card release exists.",
+    "estimatedValue": "$1 – $40 per card; sealed Japanese wafer packs carry a premium",
+    "image": "monsterstrike.jpg",
+    "noCardReason": "",
     "mediaRank": 40,
     "revenueBillions": 10,
     "categories": [
@@ -1055,20 +1055,20 @@
     ]
   },
   {
-    "id": "dceu-no-card",
+    "id": "dceu-1940-superman-12",
     "franchise": "DC Extended Universe",
-    "character": "DC Extended Universe (film series)",
-    "year": 2013,
-    "setInfo": "No first card — the characters long predate the film series",
-    "description": "The DCEU began with Man of Steel in 2013 and film tie-in cards followed, but the DCEU is a film continuity rather than a character. Superman had cards in 1940 and Batman in 1966 — decades before this shared universe existed — so asking for the DCEU's first card really means asking for theirs.",
+    "character": "Superman",
+    "year": 1940,
+    "setInfo": "Gum, Inc. Superman #12 'Superman's Arch Enemy'",
+    "description": "The DCEU is a film continuity launched in 2013, not a character, so it has no debut card. The nearest real card belongs to the hero who started it: Man of Steel opened the DCEU, and Superman's own first cards are the 1940 Gum, Inc. set — seventy-three years earlier. Card #12, 'Superman's Arch Enemy', even anticipates the conflict the film series would build itself around.",
     "funFacts": [
-      "Superman’s first card predates the DCEU by seventy-three years",
-      "Batman and Superman both appear separately on this list with far older debut cards",
-      "The film series was retired and rebooted as the DCU before it ever established a card identity"
+      "Man of Steel launched the DCEU in 2013; Superman's first cards predate it by seventy-three years",
+      "Same Philadelphia publisher, Gum Inc., that made the 1935 Mickey Mouse cards in this database",
+      "The film series was retired and rebooted as the DCU before it ever established a card identity of its own"
     ],
-    "estimatedValue": "Not applicable — individual DC character cards are collected instead",
-    "image": "",
-    "noCardReason": "The DCEU is a film continuity launched in 2013, not a character. Superman and Batman already had trading cards decades earlier, so there is no meaningful \"first DCEU card\".",
+    "estimatedValue": "$150 – $3,000 depending on grade; 1940 Gum Inc. cards are fragile and scarce",
+    "image": "dceu.jpg",
+    "noCardReason": "",
     "mediaRank": 50,
     "revenueBillions": 8,
     "categories": [
