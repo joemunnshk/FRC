@@ -1092,7 +1092,24 @@
       "media",
       "tcg"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — World of Warcraft Trading Card Game",
+        "url": "https://en.wikipedia.org/wiki/World_of_Warcraft_Trading_Card_Game"
+      },
+      {
+        "label": "Warcraft Wiki — World of Warcraft Trading Card Game",
+        "url": "https://warcraft.wiki.gg/wiki/World_of_Warcraft_Trading_Card_Game"
+      },
+      {
+        "label": "Trading Card Database — 2006 Upper Deck WoW: Heroes of Azeroth",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/87447/2006-Upper-Deck-World-of-Warcraft-Heroes-of-Azeroth"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "despicable-me-2017-topps",
@@ -1114,14 +1131,23 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Coleka — Topps Despicable Me 3 cards",
+        "url": "https://www.coleka.com/en/stickers/topps-stickers/despicable-me-3/despicable-me-3-topps-card-n-69_i126847"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "star-trek-1967-leaf",
     "franchise": "Star Trek",
     "character": "Star Trek: The Original Series",
     "year": 1967,
-    "setInfo": "Leaf Star Trek, 72 cards",
+    "setInfo": "Leaf Star Trek, 72 cards — recalled over licensing, distributed only in Ohio and Illinois",
     "description": "Leaf produced the first Star Trek trading cards in 1967, a 72-card black-and-white set drawn from episode stills and on-set bloopers. It barely reached the public: Leaf only distributed in Ohio and Illinois, and the set was pulled almost immediately over a licensing dispute. That makes it one of the rarest and most sought-after television card sets in the hobby.",
     "funFacts": [
       "Recalled shortly after release over a licensing problem, which is why so few survive",
@@ -1136,7 +1162,24 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "PSA CardFacts — 1967 Leaf Star Trek",
+        "url": "https://www.psacard.com/cardfacts/non-sports-cards/1967-leaf-star-trek/28672"
+      },
+      {
+        "label": "Cardboard Connection — 1967 Leaf Star Trek",
+        "url": "https://www.cardboardconnection.com/1967-leaf-star-trek-trading-cards"
+      },
+      {
+        "label": "Memory Alpha — Star Trek (Leaf)",
+        "url": "https://memory-alpha.fandom.com/wiki/Star_Trek_(Leaf)"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "dragon-ball-1988-carddass",
@@ -1159,7 +1202,20 @@
       "media",
       "tcg"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Dragon Ball Wiki — Dragon Ball Carddass",
+        "url": "https://dragonball.fandom.com/wiki/Dragon_Ball_Carddass"
+      },
+      {
+        "label": "Dragon Ball Center — Carddass Hondan catalogue",
+        "url": "https://dragonball.center/catalogo/coleccion/99/dragon-ball-carddass-hondan"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "street-fighter-1992-carddass",
@@ -1181,14 +1237,23 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Lulu Berlu — Bandai Street Fighter Carddass, Japan 1992–1995",
+        "url": "https://www.lulu-berlu.com/street-fighter-bandai-collection-of-247-carddass-trading-cards-japan-1992-1995-a72420-en.html"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "demon-slayer-cards",
     "franchise": "Demon Slayer",
     "character": "Tanjiro Kamado",
     "year": 2020,
-    "setInfo": "Bandai Demon Slayer wafer card #1 (Japan), Tanjiro & Nezuko",
+    "setInfo": "Bandai 鬼滅の刃ウエハース series 1, released 24 February 2020 (Japan) — 26 cards; Tanjiro & Nezuko visual card",
     "description": "Demon Slayer exploded into one of the highest-grossing franchises on earth almost overnight, driven by the Mugen Train film. Its cards followed the modern Japanese pattern: wafer cards, bromides and collectible card releases produced in Japan around 2020 as the anime peaked, rather than a single defining debut set.",
     "funFacts": [
       "One of the fastest franchises in history to reach the top 40 highest-grossing list",
@@ -1203,7 +1268,16 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Bandai Candy — 鬼滅の刃ウエハース (official product page)",
+        "url": "https://www.bandai.co.jp/candy/products/2020/4549660464662000.html"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "jurassic-park-1993-topps",
@@ -1225,7 +1299,24 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Beckett — A brief history of Jurassic Park trading cards",
+        "url": "https://www.beckett.com/news/dino-mite-jurassic-park-trading-cards/"
+      },
+      {
+        "label": "Trading Card Database — 1993 Topps Jurassic Park",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/91972/1993-Topps-Jurassic-Park"
+      },
+      {
+        "label": "Non-Sport Lists — Jurassic Park I",
+        "url": "https://www.nslists.com/jurass1.htm"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "gta-no-card",
@@ -1291,7 +1382,20 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Bandai Candy — モンスターストライク ウエハース (official product page)",
+        "url": "https://www.bandai.co.jp/candy/products/2019/4549660339793000.html"
+      },
+      {
+        "label": "Monster Strike official site — wafer card announcement",
+        "url": "https://www.monster-strike.com/news/20191227_2.html"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "james-bond-1965-philadelphia",
