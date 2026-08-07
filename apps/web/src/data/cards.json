@@ -2738,5 +2738,137 @@
         "url": "https://www.tcdb.com/ViewSet.cfm/sid/74952/1966-Donruss-Marvel-Super-Heroes"
       }
     ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "bart-simpson-1990-topps",
+    "franchise": "The Simpsons",
+    "character": "Bart Simpson",
+    "year": 1990,
+    "setInfo": "Topps The Simpsons — 88 cards and 22 stickers; shown: sticker #11 'I'm Bart Simpson. Who the Hell Are You?', MGC 9",
+    "description": "The Simpsons had been a half-hour show for barely a year when Topps put out 88 cards and 22 stickers in 1990, and Bart was the reason. Sticker #11 carries the line that got the character banned from T-shirts in American schools that year: 'I'm Bart Simpson. Who the hell are you?'. Matt Groening's signature is printed on the artwork itself, which is unusual for a licensed card of the period.",
+    "funFacts": [
+      "The sticker prints the line that got Bart T-shirts banned from schools in 1990",
+      "Matt Groening's signature is printed on the art itself",
+      "Stickers came one per pack, alongside 88 base cards",
+      "The show had only been a half-hour series for about a year when the set appeared"
+    ],
+    "estimatedValue": "$5 – $200+, depending on grade",
+    "image": "bart.jpg",
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1990 Topps The Simpsons",
+        "url": "https://www.cardboardconnection.com/1990-topps-simpsons-trading-cards"
+      },
+      {
+        "label": "Wikipedia — The Simpsons",
+        "url": "https://en.wikipedia.org/wiki/The_Simpsons"
+      }
+    ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "homer-simpson-1990-topps",
+    "franchise": "The Simpsons",
+    "character": "Homer Simpson",
+    "year": 1990,
+    "setInfo": "Topps The Simpsons #74 'Why You Little…!!!' / 'Let's Break For A Commercial'",
+    "description": "Homer's first cards are in the same 1990 Topps set as Bart's, and card #74 is the one that matters: the strangle, captioned 'Why you little…!!!'. The whole set is designed as though you are looking at an animated television set, frame and dials included, which is why the scene sits inside a screen. In 1990 Homer was still the supporting character in Bart's show; the balance would take a few more years to flip.",
+    "funFacts": [
+      "Card #74 captures the strangle, the running gag that became the character’s signature",
+      "Every card in the set is framed as an animated television set, complete with dials",
+      "A second caption on the card reads \"Let's break for a commercial\"",
+      "In 1990 Homer was still the supporting character in what was very much Bart's show"
+    ],
+    "estimatedValue": "$3 – $80+, depending on grade",
+    "image": "homer.jpg",
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1990 Topps The Simpsons",
+        "url": "https://www.cardboardconnection.com/1990-topps-simpsons-trading-cards"
+      },
+      {
+        "label": "Wikipedia — The Simpsons",
+        "url": "https://en.wikipedia.org/wiki/The_Simpsons"
+      }
+    ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "spock-1967-leaf",
+    "franchise": "Star Trek",
+    "character": "Spock",
+    "year": 1967,
+    "setInfo": "Leaf Star Trek #4 'Come In, Captain Kirk' — the card is titled for Kirk but pictures Spock; PSA 6",
+    "description": "Spock's first card comes from the 1967 Leaf Star Trek set, the 72-card release that was pulled almost immediately over a licensing dispute and only ever properly distributed in Ohio and Illinois. Card #4 is a small joke on the collector: it is captioned 'Come In, Captain Kirk', but the photograph is Leonard Nimoy, communicator in hand, calling him. Leaf captioned the set from the dialogue rather than the subject.",
+    "funFacts": [
+      "The card is named after Kirk but the man in the photograph is Spock",
+      "Leaf captioned the set from the dialogue, not from who was pictured",
+      "The set was recalled over licensing and reached shops only in Ohio and Illinois",
+      "That recall is why a 72-card set from a franchise this size is genuinely scarce"
+    ],
+    "estimatedValue": "$40 – $500+, scarce because of the recall",
+    "image": "spock.jpg",
+    "sources": [
+      {
+        "label": "PSA CardFacts — 1967 Leaf Star Trek",
+        "url": "https://www.psacard.com/cardfacts/non-sports-cards/1967-leaf-star-trek/28672"
+      },
+      {
+        "label": "Cardboard Connection — 1967 Leaf Star Trek",
+        "url": "https://www.cardboardconnection.com/1967-leaf-star-trek-trading-cards"
+      },
+      {
+        "label": "Wikipedia — Spock",
+        "url": "https://en.wikipedia.org/wiki/Spock"
+      }
+    ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "robotnik-1993-topps",
+    "franchise": "Sonic the Hedgehog",
+    "character": "Doctor Robotnik",
+    "year": 1993,
+    "setInfo": "Topps Sonic the Hedgehog — shown: sticker #18 'Beat Robotnik'",
+    "description": "Robotnik reaches cardboard in the same 1993 Topps set as Sonic, two years after the first game. Sticker #18 puts the pair together and names him outright: Sonic spinning in a ball on the left, Robotnik recoiling on the right, moustache first. He is called Doctor Robotnik throughout the Western releases of this era; Sega's Japanese material had always called him Doctor Eggman, and the two names were only formally reconciled years later.",
+    "funFacts": [
+      "Called Robotnik in the West and Eggman in Japan — the same character under two names for years",
+      "Shares his first set with Sonic, two years after the first game",
+      "The 1993 Topps set is only 33 base cards and 33 stickers",
+      "Sega gave him the moustache-first silhouette so he would read instantly at Mega Drive resolution"
+    ],
+    "estimatedValue": "$3 – $60+, depending on grade",
+    "image": "robotnik.jpg",
+    "sources": [
+      {
+        "label": "Trader Cracks — 1993 Topps Sonic the Hedgehog checklist",
+        "url": "https://www.tradercracks.com/video-games-trading-cards/1993-topps-sonic-the-hedgehog-trading-cards-checklist"
+      },
+      {
+        "label": "Wikipedia — Doctor Eggman",
+        "url": "https://en.wikipedia.org/wiki/Doctor_Eggman"
+      }
+    ]
   }
 ]
