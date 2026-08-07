@@ -138,7 +138,20 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — SpongeBob SquarePants Trading Card Game",
+        "url": "https://en.wikipedia.org/wiki/SpongeBob_SquarePants_Trading_Card_Game"
+      },
+      {
+        "label": "Encyclopedia SpongeBobia — SpongeBob SquarePants TCG",
+        "url": "https://spongebob.fandom.com/wiki/SpongeBob_SquarePants_Trading_Card_Game"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "mickey-mouse-1935-gum-inc",
@@ -768,7 +781,24 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Trading Card Database — 1995 SkyBox Toy Story",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/80942/1995-SkyBox-Toy-Story"
+      },
+      {
+        "label": "Trader Cracks — 1995 SkyBox Toy Story checklist",
+        "url": "https://www.tradercracks.com/1995-skybox-toy-story-trading-cards"
+      },
+      {
+        "label": "Non-Sport Lists — Toy Story 1",
+        "url": "https://www.nslists.com/toysto1.htm"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "lion-king-1994-skybox",
@@ -790,7 +820,20 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1994 SkyBox Lion King",
+        "url": "https://www.cardboardconnection.com/1994-skybox-lion-king-trading-cards"
+      },
+      {
+        "label": "Trading Card Database — 1994 SkyBox The Lion King Series 1 & 2",
+        "url": "https://www.tcdb.com/Checklist.cfm/sid/80445"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "dora-panini-stickers",
@@ -812,14 +855,23 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Coleka — Panini Dora the Explorer 2011 stickers",
+        "url": "https://www.coleka.com/en/stickers/panini-stickers/2010-to-2014/dora-the-explorer-2011/sticker-n-93_i218563"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "pacman-1980-fleer",
     "franchise": "Pac-Man",
     "character": "Pac-Man",
     "year": 1980,
-    "setInfo": "Fleer Pac-Man Stickers & Rub-Offs, 54 cards",
+    "setInfo": "Fleer Pac-Man Stickers & Rub-Offs, 54 stickers — 1980 copyright, likely on shelves in 1981",
     "description": "Fleer put Pac-Man on cardboard in 1980, the same year the arcade cabinet arrived, making it one of the earliest video game trading card sets ever produced. The 54-card run pairs stickers with scratch-off rub-off game cards, and packs shipped with three stickers, three rub-offs and a stick of gum. Fleer followed it with Ms. Pac-Man in 1981 and Super Pac-Man in 1982.",
     "funFacts": [
       "One of the first trading card sets built around a video game rather than a film or TV show",
@@ -834,7 +886,24 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "PSA Set Registry — 1980 Fleer Pac-Man Stickers",
+        "url": "https://www.psacard.com/articles/articleview/10012/psa-set-registry-pac-man-fever-taking-bite-out-1980-fleer-stickers"
+      },
+      {
+        "label": "Trading Card Database — 1980 Fleer Pac-Man Stickers & Rub-Offs",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/144200/1980-Fleer-Pac-Man-Stickers-&-Rub-Offs"
+      },
+      {
+        "label": "Non-Sport Lists — Pac-Man Stickers",
+        "url": "https://nslists.com/pacman80.htm"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "paw-patrol-2015-panini",
@@ -856,15 +925,28 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Coleka — Panini Paw Patrol sticker album",
+        "url": "https://www.coleka.com/en/stickers/panini-stickers/2015-to-2019/paw-patrol/sticker-album_i738937"
+      },
+      {
+        "label": "Sticker Manager — Paw Patrol (Panini)",
+        "url": "https://www.stickermanager.com/en/collection/2064/paw-patrol-panini"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "peanuts-1991-prosport",
     "franchise": "Peanuts",
     "character": "Charlie Brown & Snoopy",
     "year": 1991,
-    "setInfo": "Peanuts trading cards, first collectible series (1991)",
-    "description": "Peanuts ran in newspapers from 1950 and its characters appeared on all kinds of printed novelties, some carrying 1958 and 1965 copyright dates. But the first proper Peanuts trading cards the hobby tracks arrive in 1991, timed to the strip's 40th anniversary, followed by ProSport's Peanuts Classics series. Four decades is one of the longest waits for a first card of any major franchise.",
+    "setInfo": "ProSport Specialties Peanuts preview set, 33 cards (1991)",
+    "description": "Peanuts ran in newspapers from 1950 and its characters appeared on all kinds of printed novelties, some carrying 1958 and 1965 copyright dates. But the first proper Peanuts trading cards the hobby tracks arrive in 1991: a 33-card preview set from ProSport Specialties, timed to the strip's 40th anniversary and sold mostly as a sealed factory set. ProSport's full Peanuts Classics series followed in 1992. Four decades is one of the longest waits for a first card of any major franchise.",
     "funFacts": [
       "Peanuts waited four decades from its 1950 debut before getting a real trading card set",
       "Earlier Peanuts card novelties exist with 1958 and 1965 copyright dates, but none were collectible sets",
@@ -878,7 +960,20 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Non-Sport Lists — Peanuts Preview Set",
+        "url": "https://nslists.com/peanprev.htm"
+      },
+      {
+        "label": "CollectPeanuts.com — Peanuts trading cards",
+        "url": "https://collectpeanuts.com/toys/trading-cards/"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "avengers-1966-donruss",
@@ -900,7 +995,24 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "PSA Set Registry — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.psacard.com/articles/articleview/7501/psa-set-registry-1966-donruss-marvel-super-heroes-trading-card-first-series"
+      },
+      {
+        "label": "Cardboard Connection — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.cardboardconnection.com/1966-donruss-marvel-super-heroes-trading-cards"
+      },
+      {
+        "label": "Trading Card Database — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/74952/1966-Donruss-Marvel-Super-Heroes"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "frozen-2014-topps",
@@ -922,7 +1034,20 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Cardboard Connection — 2014 Topps Frozen",
+        "url": "https://www.cardboardconnection.com/2014-topps-frozen-trading-cards"
+      },
+      {
+        "label": "Frozen Wiki — Frozen Trading Card Game",
+        "url": "https://frozen.fandom.com/wiki/Frozen_Trading_Card_Game"
+      },
+      {
+        "label": "Wikipedia — List of highest-grossing media franchises",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises"
+      }
+    ]
   },
   {
     "id": "space-invaders-1985-menko",
