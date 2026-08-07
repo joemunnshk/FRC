@@ -2670,5 +2670,73 @@
         "url": "https://www.tradercracks.com/1966-topps-batman-black-bat-trading-cards-checklist"
       }
     ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "obi-wan-1977-topps",
+    "franchise": "Star Wars",
+    "character": "Obi-Wan Kenobi",
+    "year": 1977,
+    "setInfo": "Topps Star Wars Series 1 (Blue Border) — shown: #6 'Ben (Obi-Wan) Kenobi'",
+    "description": "Obi-Wan is card #6, and the caption gives both names — 'Ben (Obi-Wan) Kenobi' — because in 1977 nobody outside the production knew which one would stick. The photograph is a close portrait of Alec Guinness, who was 63 and already an Academy Award winner when he took the part, and who was famously unenthusiastic about the film that would define him for a new generation.",
+    "funFacts": [
+      "The caption hedges between both names, 'Ben' and 'Obi-Wan'",
+      "Card #6, in the run of portraits that opens the set",
+      "Alec Guinness had won an Oscar 20 years earlier for The Bridge on the River Kwai",
+      "He negotiated a share of the gross, which made him very wealthy and rather irritated"
+    ],
+    "estimatedValue": "$10 – $400+, depending on grade",
+    "image": "obiwan.jpg",
+    "sources": [
+      {
+        "label": "StarWarsCards.net — 1977 Topps Star Wars Series 1 checklist",
+        "url": "https://starwarscards.net/checklists/1977-topps-star-wars-series-1/"
+      },
+      {
+        "label": "Non-Sport Lists — Star Wars Series 1 (Blue)",
+        "url": "https://nslists.com/swanh1.htm"
+      }
+    ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "daredevil-1966-donruss",
+    "franchise": "Marvel",
+    "character": "Daredevil",
+    "year": 1966,
+    "setInfo": "Donruss Marvel Super Heroes #23 — Daredevil run, cards 23–33; shown: 'But Halloween Is Next Week!', CGC 7",
+    "description": "Daredevil's block sits in the middle of the 1966 Donruss set, cards 23 to 33, printed on the card itself as '23 DAREDEVIL CARDS NUMBERS 23-33'. There is a joke buried in his first card: Daredevil is not on it. Donruss lifted a panel showing the villain he was fighting, dropped in a gag about Halloween, and filed it under his name — a reminder that these were built as jokes first and hero cards second.",
+    "funFacts": [
+      "Daredevil does not actually appear on his own first card — only the monster he was fighting",
+      "The card prints its own run: '23 DAREDEVIL CARDS NUMBERS 23-33'",
+      "He had only existed since 1964, making him the newest hero in the set",
+      "Shares the set with Captain America, Iron Man, Spider-Man, the Hulk and Thor"
+    ],
+    "estimatedValue": "$20 – $500+, depending on grade",
+    "image": "daredevil.jpg",
+    "sources": [
+      {
+        "label": "PSA Set Registry — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.psacard.com/articles/articleview/7501/psa-set-registry-1966-donruss-marvel-super-heroes-trading-card-first-series"
+      },
+      {
+        "label": "Cardboard Connection — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.cardboardconnection.com/1966-donruss-marvel-super-heroes-trading-cards"
+      },
+      {
+        "label": "Trading Card Database — 1966 Donruss Marvel Super Heroes",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/74952/1966-Donruss-Marvel-Super-Heroes"
+      }
+    ]
   }
 ]
