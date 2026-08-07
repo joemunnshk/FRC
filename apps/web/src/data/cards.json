@@ -2870,5 +2870,69 @@
         "url": "https://en.wikipedia.org/wiki/Doctor_Eggman"
       }
     ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "penguin-1966-topps",
+    "franchise": "Batman",
+    "character": "The Penguin",
+    "year": 1966,
+    "setInfo": "Topps Batman 'Black Bat' — Penguin on cards #16, #23 and #24; shown: #24 'Penguin Captured', PSA 7",
+    "description": "The Penguin gets three cards in the 1966 Topps Black Bat set, opening at #16 'The Penguin's Trap' and closing at #24 'Penguin Captured'. The last of the three is the one worth showing: top hat, monocle, cigarette holder and red bow tie, being cuffed by Batman while three policemen crowd in. Burgess Meredith's performance in the television series made him the most-used villain of the show's first season, which is why he made the set at all.",
+    "funFacts": [
+      "Three cards in the set: #16 'The Penguin's Trap', #23 'Umbrella Duel' and #24 'Penguin Captured'",
+      "Painted by Norman Saunders, the artist behind Mars Attacks",
+      "Burgess Meredith's Penguin was the most-used villain of the TV show's first season",
+      "Created in 1941, so his first card came 25 years after his first comic"
+    ],
+    "estimatedValue": "$25 – $700+, depending on grade",
+    "image": "penguin.jpg",
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1966 Topps Batman Black Bat checklist",
+        "url": "https://www.cardboardconnection.com/1966-topps-batman-black-bat-trading-cards"
+      },
+      {
+        "label": "Trader Cracks — 1966 Topps Batman Black Bat checklist",
+        "url": "https://www.tradercracks.com/1966-topps-batman-black-bat-trading-cards-checklist"
+      }
+    ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "daffy-duck-1990-comic-ball",
+    "franchise": "Looney Tunes",
+    "character": "Daffy Duck",
+    "year": 1990,
+    "setInfo": "Upper Deck Comic Ball #2 — Daffy Duck",
+    "description": "Daffy is card #2 in Upper Deck's 1990 Comic Ball, one place behind Bugs Bunny, in what is one of the strangest licensed sets ever printed: a Looney Tunes baseball card set, drawn as a baseball card set, with the characters playing an actual game across the checklist. Upper Deck was a baseball card company that had just launched, and Comic Ball was its attempt to sell cards to children who did not care about baseball.",
+    "funFacts": [
+      "Card #2, directly behind Bugs Bunny at #1",
+      "The whole set is Looney Tunes characters playing baseball, laid out like a real baseball set",
+      "Upper Deck was barely two years old and used the set to reach children who had no interest in the sport",
+      "Daffy had been on screen since 1937, so his first card came 53 years later"
+    ],
+    "estimatedValue": "$2 – $40+, common but rarely found sharp",
+    "image": "daffy.jpg",
+    "sources": [
+      {
+        "label": "Trading Card Database — 1990 Upper Deck Comic Ball",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/81752/1990-Upper-Deck-Comic-Ball"
+      },
+      {
+        "label": "Non-Sport Lists — Comic Ball 1 checklist",
+        "url": "https://www.nslists.com/comball1.htm"
+      }
+    ]
   }
 ]
