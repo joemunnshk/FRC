@@ -2218,5 +2218,149 @@
         "url": "https://www.sorcerytcg.com/"
       }
     ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "donkey-kong-1982-topps",
+    "franchise": "Donkey Kong",
+    "character": "Donkey Kong",
+    "year": 1982,
+    "setInfo": "Topps Donkey Kong, 32 stickers and 4 rub-offs, unnumbered — shown: 'Donkey Kong Is King!', CGC 10",
+    "description": "Donkey Kong reached arcades in 1981 and Topps had cards out the following year, which makes him one of the first video game characters ever printed on cardboard. The set is 32 stickers and four rub-off game cards, none of them numbered, sold with a stick of gum. It is also where Mario makes his own first card appearance — still called Jumpman, because the Mario name did not exist yet. Nintendo's oldest character and the company's future mascot share a debut set.",
+    "funFacts": [
+      "One of the earliest trading card sets for any video game character, arriving about a year after the arcade cabinet",
+      "The same set carries Mario's first card appearance, printed while he was still called Jumpman",
+      "None of the 36 cards are numbered, so collectors identify them by their slogans instead",
+      "A launch fighter in Super Smash Bros. in 1999, seventeen years after this sticker"
+    ],
+    "estimatedValue": "$10 – $400+, almost entirely dependent on grade",
+    "image": "donkeykong.jpg",
+    "sources": [
+      {
+        "label": "Cardboard Connection — classic video game trading cards, incl. 1982 Topps Donkey Kong",
+        "url": "https://www.cardboardconnection.com/classic-video-game-trading-cards"
+      },
+      {
+        "label": "Wikipedia — Donkey Kong",
+        "url": "https://en.wikipedia.org/wiki/Donkey_Kong"
+      },
+      {
+        "label": "Wikipedia — Super Smash Bros. (1999), for the launch roster",
+        "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._(video_game)"
+      }
+    ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "link-1989-topps-nintendo",
+    "franchise": "The Legend of Zelda",
+    "character": "Link",
+    "year": 1989,
+    "setInfo": "Topps Nintendo Game Pack — shown: The Legend of Zelda game tip sticker #32, PSA 8",
+    "description": "Link reached cardboard in the same 1989 Topps Nintendo Game Pack that gave Mario his first Nintendo-branded card. The set covers six NES games across 60 scratch-off cards and 33 tip cards, with ten scratch-offs each for The Legend of Zelda and Zelda II: The Adventure of Link. Topps printed only three characters on the pack wrappers — Mario, Princess Toadstool and Link — so he was a headline name from the start rather than a supporting entry.",
+    "funFacts": [
+      "Shares a debut set with Mario: the 1989 Game Pack covers six NES games at once",
+      "One of only three characters Topps put on the wrappers, alongside Mario and Princess Toadstool",
+      "The Zelda cards are scratch-offs — you played a small game of Zelda on the card itself",
+      "A launch fighter in Super Smash Bros. in 1999, ten years after this sticker"
+    ],
+    "estimatedValue": "$5 – $150+, higher for graded scratch-offs left unscratched",
+    "image": "link.jpg",
+    "sources": [
+      {
+        "label": "Super Mario Wiki — Nintendo Game Pack",
+        "url": "https://www.mariowiki.com/Nintendo_Game_Pack"
+      },
+      {
+        "label": "Wikipedia — The Legend of Zelda",
+        "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda"
+      },
+      {
+        "label": "Wikipedia — Super Smash Bros. (1999), for the launch roster",
+        "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._(video_game)"
+      }
+    ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "yoshi-1991-carddass",
+    "franchise": "Super Mario",
+    "character": "Yoshi",
+    "year": 1991,
+    "setInfo": "Bandai Carddass Super Mario World (Japan) — shown: card #11, 助っ人ヨッシーの登場だ!",
+    "description": "Yoshi arrived in Super Mario World in November 1990 and Bandai had him on a Carddass vending card in Japan within a year. The set walks through the game in order, and card 11 is the one that introduces him: 助っ人ヨッシーの登場だ!, roughly \"Yoshi the helper appears!\". Carddass machines dispensed cards for a coin a pull, which is why the set is common in Japan and was almost invisible everywhere else.",
+    "funFacts": [
+      "Reached a trading card within roughly a year of his first appearance, unusually fast for the era",
+      "Card 11 is the one that introduces him by name, following the game’s story in order",
+      "Sold from Carddass vending machines rather than in packs, so it barely circulated outside Japan",
+      "A launch fighter in Super Smash Bros. in 1999"
+    ],
+    "estimatedValue": "$5 – $100+, more for graded or prism versions",
+    "image": "yoshi.jpg",
+    "sources": [
+      {
+        "label": "Wikipedia — Yoshi",
+        "url": "https://en.wikipedia.org/wiki/Yoshi"
+      },
+      {
+        "label": "Super Mario Wiki — Super Mario World",
+        "url": "https://www.mariowiki.com/Super_Mario_World"
+      },
+      {
+        "label": "Wikipedia — Super Smash Bros. (1999), for the launch roster",
+        "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._(video_game)"
+      }
+    ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "sonic-1993-topps",
+    "franchise": "Sonic the Hedgehog",
+    "character": "Sonic the Hedgehog",
+    "year": 1993,
+    "setInfo": "Topps Sonic the Hedgehog, 33 cards and 33 stickers — shown: sticker #15 'Dude With A 'Tude', PSA 9",
+    "description": "Sonic launched in 1991 as Sega’s answer to Mario and became the face of the console war almost immediately, but his first trading cards did not arrive until Topps produced a Sonic the Hedgehog set in 1993. It is a small release: 33 base cards built from game screens, 33 stickers, and a six-card foil Prism chase set falling roughly one in every eighteen packs. The sticker titles are pure early-nineties Sega marketing, which is most of their charm now.",
+    "funFacts": [
+      "Two years passed between the game and the cards, by which point Sonic was already Sega’s mascot",
+      "Only 33 base cards, small for a franchise of that size",
+      "The six-card foil Prism chase set fell about one in every eighteen packs",
+      "Not a Nintendo character, but he joined Super Smash Bros. in 2007 — the most famous guest fighter in the series"
+    ],
+    "estimatedValue": "$3 – $120+, with graded Prisms well above that",
+    "image": "sonic.jpg",
+    "sources": [
+      {
+        "label": "Trader Cracks — 1993 Topps Sonic the Hedgehog checklist and details",
+        "url": "https://www.tradercracks.com/video-games-trading-cards/1993-topps-sonic-the-hedgehog-trading-cards-checklist"
+      },
+      {
+        "label": "Wikipedia — Sonic the Hedgehog",
+        "url": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog"
+      },
+      {
+        "label": "Wikipedia — Super Smash Bros. (1999), for the launch roster",
+        "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._(video_game)"
+      }
+    ]
   }
 ]
