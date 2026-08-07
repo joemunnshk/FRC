@@ -276,7 +276,7 @@
     "franchise": "Disney Princess",
     "character": "Snow White",
     "year": 1938,
-    "setInfo": "Chocolat Menier Snow White and the Seven Dwarfs trade cards (France)",
+    "setInfo": "Chocolat Menier Snow White and the Seven Dwarfs trade cards (France) — shown: N° 60, asleep in the dwarfs’ beds",
     "description": "Disney Princess is a licensing banner created in 2000, so it has no debut card of its own. The nearest real card belongs to the princess who started it. Snow White and the Seven Dwarfs opened in 1937, and by 1938 the French chocolate maker Menier was giving away numbered Snow White trade cards with its bars — sixty-two years before anyone thought to group the princesses into a brand.",
     "funFacts": [
       "Predates the Disney Princess brand by sixty-two years",
@@ -1006,10 +1006,10 @@
     "franchise": "Avengers",
     "character": "Captain America",
     "year": 1966,
-    "setInfo": "Donruss Marvel Super Heroes — no dedicated Avengers debut set",
+    "setInfo": "Donruss Marvel Super Heroes — no dedicated Avengers set; shown: #1 'I Love These Class Parties!', SGC 4",
     "description": "The Avengers have no debut card of their own. The team formed in 1963, and its members first reached cardboard in the 1966 Donruss Marvel Super Heroes set — the same 66-card run that gave Spider-Man his first card — where Captain America, Thor and the others appear as individual heroes. A trading card set built specifically around the Avengers as a team would not arrive for decades.",
     "funFacts": [
-      "Shares its debut set with Spider-Man: the same 1966 Donruss release covers both",
+      "Card #1 of the 66-card set is a Captain America card — the Avengers start the set without ever appearing as a team",
       "The Avengers appear as separate heroes, never as a team, on their earliest cards",
       "The MCU made the Avengers a household name 45 years after their first cards"
     ],
@@ -1393,12 +1393,13 @@
     "franchise": "Monster Strike",
     "character": "Monster Strike",
     "year": 2014,
-    "setInfo": "Japanese Monster Strike wafer cards and TCG (mid-2010s onward)",
+    "setInfo": "Japanese Monster Strike wafer cards and TCG (mid-2010s onward) — shown: Card Game vol. 1 #0007-SR, Walpurgis",
     "description": "Monster Strike does have physical cards, contrary to what its all-digital reputation suggests. After the game launched in 2013 it spread into Japanese wafer cards — foil cards packaged with a biscuit — plus a full trading card game and movie tie-in sets. They circulate almost entirely within Japan, which is why the franchise is often assumed to be digital-only.",
     "funFacts": [
       "Wafer cards are sold with a biscuit in the pack, a distinctly Japanese format",
       "The in-game gacha already works like a card collection, so the physical cards are a supplement rather than the main event",
-      "Almost all of its ten-billion-dollar revenue is Japanese, and so is its card market"
+      "Almost all of its ten-billion-dollar revenue is Japanese, and so is its card market",
+      "The standalone Monster Strike Card Game, for up to four players, followed on 2 March 2018"
     ],
     "estimatedValue": "$1 – $40 per card; sealed Japanese wafer packs carry a premium",
     "image": "monsterstrike.jpg",
@@ -1409,6 +1410,10 @@
       "media"
     ],
     "sources": [
+      {
+        "label": "Wikipedia (Japanese) — モンスターストライク: Monster Strike Card Game, released 2 March 2018",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF"
+      },
       {
         "label": "Bandai Candy — モンスターストライク ウエハース (official product page)",
         "url": "https://www.bandai.co.jp/candy/products/2019/4549660339793000.html"
