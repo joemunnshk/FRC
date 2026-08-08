@@ -2998,5 +2998,77 @@
         "url": "https://en.wikipedia.org/wiki/Garfield"
       }
     ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "indiana-jones-1981-topps",
+    "franchise": "Indiana Jones",
+    "character": "Indiana Jones",
+    "year": 1981,
+    "setInfo": "Topps Raiders of the Lost Ark #2 'Indiana Jones — Freelance Adventurer', PSA 6",
+    "description": "Indiana Jones reaches cardboard in Topps' 88-card Raiders of the Lost Ark set, printed the same year as the film. Card #2 is his introduction and reads like a job title: 'Indiana Jones — Freelance Adventurer'. The design frames every photograph inside a yellow temple lintel, a nice touch for a set about an archaeologist, and the portrait is the hat-and-leather-jacket image the character has never really escaped.",
+    "funFacts": [
+      "Card #2 introduces him with the job description 'Freelance Adventurer'",
+      "Printed in 1981, the same year the film opened",
+      "Every card frames its photograph inside a drawn temple lintel",
+      "Harrison Ford was on his second defining role in four years, after Han Solo in 1977"
+    ],
+    "estimatedValue": "$10 – $300+, depending on grade",
+    "image": "indianajones.jpg",
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1981 Topps Raiders of the Lost Ark",
+        "url": "https://www.cardboardconnection.com/1981-topps-raiders-of-the-lost-ark-trading-cards"
+      },
+      {
+        "label": "Non-Sport Lists — Raiders of the Lost Ark",
+        "url": "https://www.nslists.com/raiders.htm"
+      },
+      {
+        "label": "Wikipedia — Indiana Jones",
+        "url": "https://en.wikipedia.org/wiki/Indiana_Jones"
+      }
+    ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "et-1982-topps",
+    "franchise": "E.T. the Extra-Terrestrial",
+    "character": "E.T.",
+    "year": 1982,
+    "setInfo": "Topps E.T. the Extra-Terrestrial — 87 cards and 12 stickers; shown: sticker #11, PSA 9",
+    "description": "Topps put out 87 cards and 12 stickers for E.T. in 1982, the year the film became the highest-grossing ever made. Sticker #11 is a plain portrait of the creature against a flat yellow field, and it is one of the three short prints in the sticker run — #10, #11 and #12 turn up markedly less often than the other nine. The set also preserves something the film does not: two cards show a school sequence cut from the final edit, and the arm holding Elliott belongs to Harrison Ford.",
+    "funFacts": [
+      "Sticker #11 is one of three short prints in the twelve-sticker run",
+      "Two cards preserve a scene cut from the film — the arm belongs to Harrison Ford",
+      "Packs held ten cards, one sticker and a stick of gum",
+      "Printed the year E.T. became the highest-grossing film ever made"
+    ],
+    "estimatedValue": "$10 – $250+, more for the short-printed stickers in high grade",
+    "image": "et.jpg",
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1982 Topps E.T. the Extra-Terrestrial",
+        "url": "https://www.cardboardconnection.com/1982-topps-et-the-extra-terrestrial-trading-cards"
+      },
+      {
+        "label": "Trader Cracks — 1982 Topps E.T. checklist",
+        "url": "https://www.tradercracks.com/1982-topps-et-the-extra-terrestrial-trading-cards-checklist"
+      },
+      {
+        "label": "Wikipedia — E.T. the Extra-Terrestrial",
+        "url": "https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial"
+      }
+    ]
   }
 ]
