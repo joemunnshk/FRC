@@ -3106,5 +3106,69 @@
         "url": "https://en.wikipedia.org/wiki/Gremlins"
       }
     ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "ripley-1979-topps",
+    "franchise": "Alien",
+    "character": "Ellen Ripley",
+    "year": 1979,
+    "setInfo": "Topps Alien — 84 cards and 22 stickers; shown: #81 'Ripley Strikes Back!'",
+    "description": "Topps issued 84 cards and 22 stickers for Alien in 1979, an unusually grim licence for a company whose business was children's gum. Card #81 is Ripley in the compression suit at the end of the film, and it is one of the earliest cards of a woman as an action lead rather than a love interest — Sigourney Weaver was largely unknown when it was printed, and the part had been written without a fixed gender.",
+    "funFacts": [
+      "One of the earliest trading cards of a woman as the action lead of a film",
+      "Topps sold a hard R-rated horror licence in packs of bubble gum",
+      "Sigourney Weaver was almost unknown when the card was printed",
+      "The set is 84 cards and 22 stickers, an unusually large sticker run for the period"
+    ],
+    "estimatedValue": "$10 – $200+, depending on grade",
+    "image": "ripley.jpg",
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1979 Topps Alien",
+        "url": "https://www.cardboardconnection.com/1979-topps-alien-trading-cards"
+      },
+      {
+        "label": "Wikipedia — Alien (1979 film)",
+        "url": "https://en.wikipedia.org/wiki/Alien_(film)"
+      }
+    ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "terminator-1991-impel",
+    "franchise": "Terminator",
+    "character": "The Terminator",
+    "year": 1991,
+    "setInfo": "Impel Terminator 2: Judgment Day #34 'Terminator' — 140 cards, PSA 7",
+    "description": "The 1984 original never got a trading card set, so the Terminator waited until Judgment Day in 1991 — by which point the character had been rewritten from villain to protector. Impel's 140-card set is the larger of the two that greeted the film, and card #34 is simply captioned 'Terminator': Schwarzenegger with the shotgun, in the leather jacket, in the pose that sold the sequel.",
+    "funFacts": [
+      "The 1984 film had no card set at all — the character waited seven years",
+      "Two mainstream T2 sets appeared in 1991; Impel's 140-card run is the larger",
+      "The factory set included an Arnold Schwarzenegger hologram",
+      "By the time he reached cardboard the character had been rewritten from villain to protector"
+    ],
+    "estimatedValue": "$2 – $60+, common except in high grade",
+    "image": "terminator.jpg",
+    "sources": [
+      {
+        "label": "Non-Sport Lists — Terminator 2 (Impel)",
+        "url": "https://www.nslists.com/term2imp.htm"
+      },
+      {
+        "label": "Trader Cracks — 1991 Impel Terminator 2 checklist",
+        "url": "https://www.tradercracks.com/1991-impel-terminator-2-judgement-day-trading-cards-checklist"
+      }
+    ]
   }
 ]
