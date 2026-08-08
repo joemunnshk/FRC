@@ -3070,5 +3070,41 @@
         "url": "https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial"
       }
     ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "gizmo-1984-topps",
+    "franchise": "Gremlins",
+    "character": "Gizmo",
+    "year": 1984,
+    "setInfo": "Topps Gremlins — 82 cards and 11 stickers; shown: sticker #3, Gizmo",
+    "description": "Topps put out 82 cards and 11 die-cut stickers for Gremlins in 1984, the year the film's rating controversy helped push the American industry into inventing PG-13. Sticker #3 is Gizmo alone, cut to his outline against a repeating blue GREMLINS wordmark, and it is the piece of the set people actually kept — the Mogwai was the merchandising engine, not the monsters the film is named after.",
+    "funFacts": [
+      "Die-cut to the character outline rather than printed as a rectangle",
+      "Gremlins and Indiana Jones and the Temple of Doom, both 1984, pushed the MPAA into creating PG-13",
+      "The set is 82 cards and only 11 stickers, so the stickers are the harder half",
+      "Gizmo was the merchandising engine — the creatures the film is named after sold far less"
+    ],
+    "estimatedValue": "$5 – $80+, stickers command more than base cards",
+    "image": "gizmo.jpg",
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1984 Topps Gremlins",
+        "url": "https://www.cardboardconnection.com/1984-topps-gremlins-trading-cards"
+      },
+      {
+        "label": "Trader Cracks — 1984 Topps Gremlins checklist",
+        "url": "https://www.tradercracks.com/1984-topps-gremlins-trading-cards-checklist"
+      },
+      {
+        "label": "Wikipedia — Gremlins",
+        "url": "https://en.wikipedia.org/wiki/Gremlins"
+      }
+    ]
   }
 ]
