@@ -2934,5 +2934,69 @@
         "url": "https://www.nslists.com/comball1.htm"
       }
     ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "wolverine-1986-comic-images",
+    "franchise": "Marvel",
+    "character": "Wolverine",
+    "year": 1986,
+    "setInfo": "Comic Images Marvel Universe Stickers #10 — Wolverine, PSA 10",
+    "description": "Wolverine arrived in comics in 1974 but missed every Marvel card set of the following decade: he is not in the 1966 Donruss run, and the 1976 Topps Marvel stickers took only Cyclops and Ice Man from the X-Men. The earliest Wolverine card the hobby documents is sticker #10 from the Comic Images Marvel Universe set, printed on a halftone dot background with the character in the brown and tan costume, claws out.",
+    "funFacts": [
+      "Twelve years passed between his first comic appearance and his first card",
+      "He is absent from the 1966 Donruss set and the 1976 Topps Marvel stickers entirely",
+      "The dating is disputed: checklist sites file the set under 1987, but the sticker is printed \"TM & © 1986 MARVEL\" and PSA slabs it as 1986",
+      "The artwork carries the initials \"FM\" in the lower right corner"
+    ],
+    "estimatedValue": "$20 – $600+, with a steep premium for PSA 10",
+    "image": "wolverine.jpg",
+    "sources": [
+      {
+        "label": "Trader Cracks — Comic Images Marvel Universe checklist",
+        "url": "https://www.tradercracks.com/1987-comic-images-marvel-universe-checklist-and-trading-cards-details"
+      },
+      {
+        "label": "Wikipedia — Wolverine",
+        "url": "https://en.wikipedia.org/wiki/Wolverine_(character)"
+      }
+    ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "garfield-1992-skybox",
+    "franchise": "Garfield",
+    "character": "Garfield",
+    "year": 1992,
+    "setInfo": "SkyBox Garfield Premier Edition #1 — 100 base cards, plus tattoos and holograms",
+    "description": "Garfield started as a newspaper strip in 1978 and was one of the most heavily merchandised characters of the 1980s — the suction-cup window version was everywhere — but a proper trading card set did not arrive until SkyBox's Garfield Premier Edition in 1992. Card #1 is simply the cat, arms up, grinning on a fence in front of a moon. The 100-card set runs through his nine lives, his cameos in other strips and a run of trivia and zodiac cards.",
+    "funFacts": [
+      "Fourteen years passed between the first strip and the first trading card set",
+      "Card #1 is a straight portrait, unusual for a set otherwise built around gags and trivia",
+      "The set came with tattoo inserts and a hologram chase run",
+      "By 1992 Garfield had already been one of the most merchandised characters in the world for a decade"
+    ],
+    "estimatedValue": "$1 – $30+, common and inexpensive",
+    "image": "garfield.jpg",
+    "sources": [
+      {
+        "label": "Trader Cracks — 1992 SkyBox Garfield Premier Edition checklist",
+        "url": "https://www.tradercracks.com/1992-skybox-garfield-premier-edition-trading-cards-checklist"
+      },
+      {
+        "label": "Wikipedia — Garfield",
+        "url": "https://en.wikipedia.org/wiki/Garfield"
+      }
+    ]
   }
 ]
