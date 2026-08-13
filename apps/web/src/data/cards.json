@@ -3274,5 +3274,41 @@
         "url": "https://www.tradercracks.com/1990-topps-robocop-2-trading-cards-checklist"
       }
     ]
+  },
+  {
+    "id": "rocky-1979-topps",
+    "franchise": "Rocky",
+    "character": "Rocky Balboa",
+    "year": 1979,
+    "setInfo": "Topps Rocky II #35 'Feelin' Strong Now!'",
+    "description": "Rocky's cards arrive with Topps' Rocky II set in 1979, three years after the first film had already won Best Picture. Card #35 is the training montage in a single frame: grey sweatsuit, red headband, fists up. The caption 'Feelin' Strong Now!' is lifted straight from the lyric of 'Gonna Fly Now', which is about as economical as movie-card writing gets.",
+    "funFacts": [
+      "The caption quotes 'Gonna Fly Now', the training montage theme",
+      "Three years after the first film, which had already won Best Picture",
+      "Sylvester Stallone wrote the original screenplay in a matter of days",
+      "The copyright line on the card is United Artists, not Topps alone"
+    ],
+    "estimatedValue": "$2 – $80+, depending on grade",
+    "image": "rocky.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Non-Sport Lists — Rocky II",
+        "url": "https://www.nslists.com/rocky2.htm"
+      },
+      {
+        "label": "Trader Cracks — 1979 Topps Rocky II checklist",
+        "url": "https://www.tradercracks.com/1979-topps-rocky-ii-trading-cards-checklist"
+      },
+      {
+        "label": "Wikipedia — Rocky Balboa",
+        "url": "https://en.wikipedia.org/wiki/Rocky_Balboa_(character)"
+      }
+    ]
   }
 ]
