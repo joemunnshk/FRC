@@ -3206,5 +3206,41 @@
         "url": "https://en.wikipedia.org/wiki/Freddy_Krueger"
       }
     ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "kirk-1967-leaf",
+    "franchise": "Star Trek",
+    "character": "Captain Kirk",
+    "year": 1967,
+    "setInfo": "Leaf Star Trek #33 'Fight For Lithium' — 72 cards, PSA 8",
+    "description": "Kirk's first card comes from the recalled 1967 Leaf set, the only Star Trek cards printed while the original series was still on air. Card #33 is a clean solo shot of William Shatner with a phaser rifle, captioned 'Fight For Lithium' — a reference to the lithium crystals of the first season, before the show quietly renamed them dilithium. Leaf pulled the set over a licensing dispute and it reached shops only in Ohio and Illinois.",
+    "funFacts": [
+      "The caption says lithium, not dilithium — the show renamed the crystals after the first season",
+      "The only Star Trek cards printed while the original series was still being broadcast",
+      "Recalled over licensing, so it was distributed only in Ohio and Illinois",
+      "Just 72 cards, which is why a set from a franchise this large is genuinely scarce"
+    ],
+    "estimatedValue": "$50 – $600+, scarce because of the recall",
+    "image": "kirk.jpg",
+    "sources": [
+      {
+        "label": "PSA CardFacts — 1967 Leaf Star Trek",
+        "url": "https://www.psacard.com/cardfacts/non-sports-cards/1967-leaf-star-trek/28672"
+      },
+      {
+        "label": "Cardboard Connection — 1967 Leaf Star Trek",
+        "url": "https://www.cardboardconnection.com/1967-leaf-star-trek-trading-cards"
+      },
+      {
+        "label": "Wikipedia — James T. Kirk",
+        "url": "https://en.wikipedia.org/wiki/James_T._Kirk"
+      }
+    ]
   }
 ]
