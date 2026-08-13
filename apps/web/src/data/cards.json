@@ -3514,5 +3514,137 @@
         "url": "https://en.wikipedia.org/wiki/Tasmanian_Devil_(Looney_Tunes)"
       }
     ]
+  },
+  {
+    "id": "lisa-simpson-1990-topps",
+    "franchise": "The Simpsons",
+    "character": "Lisa Simpson",
+    "year": 1990,
+    "setInfo": "Topps The Simpsons #3 'I'm Lisa Simpson — I'm Above Domestic Cleaning!', PSA 6",
+    "description": "Card #3 from the first Simpsons set, drawn inside a television frame in Matt Groening’s own hand — Lisa stands in a room buried in toys, refusing on principle to tidy any of it.",
+    "funFacts": [
+      "Matt Groening named Homer and Marge after his own parents and Lisa and Maggie after his two sisters; Bart is the only invented name in the family, an anagram of \"brat\".",
+      "Yeardley Smith originally auditioned for Bart, and was told her voice was too high for a boy; she was given Lisa instead and has voiced her ever since."
+    ],
+    "estimatedValue": "$15–40 graded",
+    "image": "lisa.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1990 Topps The Simpsons",
+        "url": "https://www.cardboardconnection.com/1990-topps-simpsons-trading-cards"
+      },
+      {
+        "label": "Wikipedia — Lisa Simpson",
+        "url": "https://en.wikipedia.org/wiki/Lisa_Simpson"
+      }
+    ]
+  },
+  {
+    "id": "hermione-granger-2001-wotc",
+    "franchise": "Harry Potter",
+    "character": "Hermione Granger",
+    "year": 2001,
+    "setInfo": "Wizards of the Coast Harry Potter TCG Base Set, #10/116 — Character • Witch • Gryffindor • Unique",
+    "description": "Card #10 of the base set, painted by Kevin McCann. The flavour text is Rowling’s first description of her — \"a bossy sort of voice, lots of bushy brown hair and rather large front teeth\" — and the card’s power lets you play two Lessons at once, which is about right.",
+    "funFacts": [
+      "The TCG shipped in August 2001, three months before the first film, so the earliest Hermione card shows a painted illustration rather than Emma Watson.",
+      "Rowling has said Hermione is heavily based on herself at eleven — insecure and driven, with a fear of failure out of proportion to any real risk of it."
+    ],
+    "estimatedValue": "$10–35 holo",
+    "image": "hermione.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Harry Potter Wiki — Trading Card Game Base Set",
+        "url": "https://harrypotter.fandom.com/wiki/Harry_Potter_Trading_Card_Game_Base_Set"
+      },
+      {
+        "label": "Trading Card Database — 2001 Wizards Harry Potter TCG",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/91182/2001-Wizards-Harry-Potter-TCG"
+      },
+      {
+        "label": "Wikipedia — Hermione Granger",
+        "url": "https://en.wikipedia.org/wiki/Hermione_Granger"
+      }
+    ]
+  },
+  {
+    "id": "ron-weasley-2001-wotc",
+    "franchise": "Harry Potter",
+    "character": "Ron Weasley",
+    "year": 2001,
+    "setInfo": "Wizards of the Coast Harry Potter TCG Base Set, #17/116 (Holo) — Character • Wizard • Gryffindor • Unique",
+    "description": "Card #17 of the base set, illustrated by D. Alexander Gregory and quoting Ron on the Hogwarts Express: \"I’m the sixth in our family to go to Hogwarts. You could say I’ve got a lot to live up to.\"",
+    "funFacts": [
+      "Rupert Grint got the part by sending in a video of himself rapping about why he wanted to be Ron — he was eleven and had never acted professionally.",
+      "Ron is the only member of the trio whose card ability speeds up your other Characters rather than your own resources, which is a neat read of him as the one who makes the group work."
+    ],
+    "estimatedValue": "$15–45 holo",
+    "image": "ron.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Harry Potter Wiki — Trading Card Game Base Set",
+        "url": "https://harrypotter.fandom.com/wiki/Harry_Potter_Trading_Card_Game_Base_Set"
+      },
+      {
+        "label": "Trading Card Database — 2001 Wizards Harry Potter TCG",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/91182/2001-Wizards-Harry-Potter-TCG"
+      },
+      {
+        "label": "Wikipedia — Ron Weasley",
+        "url": "https://en.wikipedia.org/wiki/Ron_Weasley"
+      }
+    ]
+  },
+  {
+    "id": "severus-snape-2001-wotc",
+    "franchise": "Harry Potter",
+    "character": "Severus Snape",
+    "year": 2001,
+    "setInfo": "Wizards of the Coast Harry Potter TCG Base Set, #16/116 — Character • Wizard • Slytherin • Unique",
+    "description": "Card #16, painted by Scott M. Fischer in Slytherin red-black, with Snape’s face surfacing out of the dark. The flavour text is Harry’s first look at him: eyes \"black like Hagrid’s, but they had none of Hagrid’s warmth\".",
+    "funFacts": [
+      "Snape’s card is the set’s healer — once per game he shuffles seven cards back out of your discard pile, an oddly generous mechanic for the character everyone assumed was the villain.",
+      "Rowling told Alan Rickman one crucial fact about Snape’s ending before filming began, which Rickman kept from the other actors and the directors for a decade."
+    ],
+    "estimatedValue": "$10–30 holo",
+    "image": "snape.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Harry Potter Wiki — Trading Card Game Base Set",
+        "url": "https://harrypotter.fandom.com/wiki/Harry_Potter_Trading_Card_Game_Base_Set"
+      },
+      {
+        "label": "Trading Card Database — 2001 Wizards Harry Potter TCG",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/91182/2001-Wizards-Harry-Potter-TCG"
+      },
+      {
+        "label": "Wikipedia — Severus Snape",
+        "url": "https://en.wikipedia.org/wiki/Severus_Snape"
+      }
+    ]
   }
 ]
