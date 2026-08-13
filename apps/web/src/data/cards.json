@@ -3242,5 +3242,37 @@
         "url": "https://en.wikipedia.org/wiki/James_T._Kirk"
       }
     ]
+  },
+  {
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "id": "robocop-1990-topps",
+    "franchise": "RoboCop",
+    "character": "RoboCop",
+    "year": 1990,
+    "setInfo": "Topps RoboCop 2 — 88 cards and 11 stickers; shown: #15 'A Blow Against Evil'",
+    "description": "The 1987 original got no cards at all, so RoboCop's first is the 1990 Topps set for the sequel — 88 cards and 11 stickers, sold with gum, off the back of two films rated hard R for extreme violence. The set does something unusual for a sequel release: a sizeable part of the checklist covers the first film, so the cards quietly fill in the origin the set is not officially about.",
+    "funFacts": [
+      "The 1987 film had no card set — his first cards are for the sequel, three years later",
+      "A large part of the checklist covers the original film despite being sold as a RoboCop 2 set",
+      "Topps sold two hard R-rated films to children in packs of bubble gum",
+      "The factory set added 22 behind-the-scenes cards that never appeared in packs"
+    ],
+    "estimatedValue": "$2 – $60+, common except in top grade",
+    "image": "robocop.jpg",
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1990 Topps RoboCop 2",
+        "url": "https://www.cardboardconnection.com/1990-topps-robocop-2-trading-cards"
+      },
+      {
+        "label": "Trader Cracks — 1990 Topps RoboCop 2 checklist",
+        "url": "https://www.tradercracks.com/1990-topps-robocop-2-trading-cards-checklist"
+      }
+    ]
   }
 ]
