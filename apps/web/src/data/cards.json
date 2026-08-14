@@ -4236,5 +4236,73 @@
         "url": "https://en.wikipedia.org/wiki/Namor"
       }
     ]
+  },
+  {
+    "id": "godzilla-1950s-menko",
+    "franchise": "Godzilla",
+    "character": "Godzilla",
+    "year": 1955,
+    "setInfo": "Japanese menko card, Toho Godzilla — 1950s, attributed to the Godzilla Raids Again era; menko carry no printed date",
+    "description": "A small rectangular menko — a Japanese playing/slamming card sold at candy stalls — showing Godzilla rearing over a wrecked green-and-yellow train while soldiers fire from the foreground. The halftone screen and paper stock are both consistent with 1950s Japanese printing.",
+    "funFacts": [
+      "Menko were gambling toys rather than collectibles: children slammed them onto the ground to flip an opponent’s card and win it, which is why surviving examples are almost always creased.",
+      "Menko were never dated or numbered by the makers, so attributions rest on the artwork, the printing and the film being promoted rather than anything printed on the card. Treat the 1955 date as an estimate."
+    ],
+    "estimatedValue": "$40–150 depending on condition",
+    "image": "godzilla.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia — Menko",
+        "url": "https://en.wikipedia.org/wiki/Menko"
+      },
+      {
+        "label": "Wikipedia — Godzilla",
+        "url": "https://en.wikipedia.org/wiki/Godzilla"
+      },
+      {
+        "label": "Wikipedia — Godzilla Raids Again",
+        "url": "https://en.wikipedia.org/wiki/Godzilla_Raids_Again"
+      }
+    ]
+  },
+  {
+    "id": "falcon-1975-topps",
+    "franchise": "Marvel",
+    "character": "The Falcon",
+    "year": 1975,
+    "setInfo": "Topps Comic Book Heroes sticker 'The Falcon — You Bet Your Bird!'",
+    "description": "Sam Wilson in the original red-and-white costume with Redwing perched on his fist, under one of the set’s worse puns.",
+    "funFacts": [
+      "The Falcon was the first African-American superhero in mainstream American comics — Black Panther predates him by three years but is Wakandan, not American.",
+      "Sam had no wings when he debuted in 1969; the flight harness was a gift from Black Panther two years later."
+    ],
+    "estimatedValue": "$30–70 raw",
+    "image": "falcon.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1975 Topps Comic Book Heroes stickers",
+        "url": "https://www.cardboardconnection.com/1975-topps-comic-book-heroes-trading-cards"
+      },
+      {
+        "label": "PSA Set Registry — 1975 Topps Comic Book Heroes",
+        "url": "https://www.psacard.com/articles/articleview/9578/psa-set-registry-collecting-1975-topps-comic-book-heroes-sticker"
+      },
+      {
+        "label": "Wikipedia — Falcon (comics)",
+        "url": "https://en.wikipedia.org/wiki/Falcon_(comics)"
+      }
+    ]
   }
 ]
