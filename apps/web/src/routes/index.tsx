@@ -9,7 +9,10 @@ export const Route = createFileRoute('/')({
 
 type SortKey = 'oldest' | 'newest' | 'revenue' | 'name'
 
-const CATEGORIES: Category[] = ['media', 'tcg', 'icons']
+const CATEGORIES: Category[] = ['icons', 'media', 'tcg']
+
+/** The tab the site opens on. Must be a member of CATEGORIES. */
+const DEFAULT_TAB: Category = 'icons'
 
 /** Only the media list is ranked by revenue; the other tabs read best chronologically. */
 const DEFAULT_SORT: Record<Category, SortKey> = {
@@ -19,10 +22,10 @@ const DEFAULT_SORT: Record<Category, SortKey> = {
 }
 
 function HomePage() {
-  const [tab, setTab] = useState<Category>('media')
+  const [tab, setTab] = useState<Category>(DEFAULT_TAB)
   const [search, setSearch] = useState('')
   const [franchise, setFranchise] = useState('All')
-  const [sort, setSort] = useState<SortKey>('revenue')
+  const [sort, setSort] = useState<SortKey>(DEFAULT_SORT[DEFAULT_TAB])
 
   const inTab = useMemo(() => cards.filter((c) => c.categories.includes(tab)), [tab])
 
