@@ -4403,5 +4403,39 @@
         "url": "https://en.wikipedia.org/wiki/The_Flintstones"
       }
     ]
+  },
+  {
+    "id": "jasmine-1993-skybox",
+    "franchise": "Aladdin",
+    "character": "Princess Jasmine",
+    "year": 1993,
+    "setInfo": "SkyBox Disney's Aladdin #69 'Jasmine Plays For Time' — 90-card base set",
+    "image": "jasmine.jpg",
+    "description": "Jasmine lit red in Jafar’s throne room, buying Aladdin the seconds he needs while Jafar looms in silhouette across the left of the frame — one of the few cards in the set where the composition does real work.",
+    "funFacts": [
+      "Jasmine was the first Disney princess who is not European, and the first whose film is named after someone else.",
+      "Linda Larkin was told repeatedly during recording that her speaking voice was too high; she kept the part, but Lea Salonga sings all of Jasmine’s songs."
+    ],
+    "estimatedValue": "$2–8 raw",
+    "sources": [
+      {
+        "label": "Trading Card Database — 1993 SkyBox Aladdin",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/80432/1993-SkyBox-Aladdin"
+      },
+      {
+        "label": "Trader Cracks — 1993 SkyBox Aladdin checklist",
+        "url": "https://www.tradercracks.com/1993-skybox-aladdin-trading-cards-checklist"
+      },
+      {
+        "label": "Wikipedia — Princess Jasmine",
+        "url": "https://en.wikipedia.org/wiki/Princess_Jasmine"
+      }
+    ],
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ]
   }
 ]
