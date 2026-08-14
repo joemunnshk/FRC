@@ -4122,5 +4122,119 @@
         "url": "https://en.wikipedia.org/wiki/Doctor_Doom"
       }
     ]
+  },
+  {
+    "id": "human-torch-1975-topps",
+    "franchise": "Fantastic Four",
+    "character": "Human Torch",
+    "year": 1975,
+    "setInfo": "Topps Comic Book Heroes sticker 'Human Torch-1 — Tan…. Don't Burn!', PSA 9 (MC)",
+    "description": "Johnny Storm streaking across the sticker in full flame, with the set’s house style of pairing a hero with a bad pun. Two Human Torch stickers appear in the 40-piece checklist; this is the first.",
+    "funFacts": [
+      "The Human Torch is a revival, not a new character — the original android Torch was Marvel’s very first cover star back in 1939, and Stan Lee reused the name for Johnny Storm in 1961.",
+      "Johnny had his own solo strip in Strange Tales during the 1960s, sharing the book with Doctor Strange."
+    ],
+    "estimatedValue": "$50–120 graded",
+    "image": "torch.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1975 Topps Comic Book Heroes stickers",
+        "url": "https://www.cardboardconnection.com/1975-topps-comic-book-heroes-trading-cards"
+      },
+      {
+        "label": "PSA Set Registry — 1975 Topps Comic Book Heroes",
+        "url": "https://www.psacard.com/articles/articleview/9578/psa-set-registry-collecting-1975-topps-comic-book-heroes-sticker"
+      },
+      {
+        "label": "Trader Cracks — 1975 Topps Comic Book Heroes checklist",
+        "url": "https://www.tradercracks.com/1975-topps-comic-book-heroes-trading-cards-checklist"
+      },
+      {
+        "label": "Wikipedia — Human Torch (Johnny Storm)",
+        "url": "https://en.wikipedia.org/wiki/Human_Torch"
+      }
+    ]
+  },
+  {
+    "id": "hawkeye-1975-topps",
+    "franchise": "Marvel",
+    "character": "Hawkeye",
+    "year": 1975,
+    "setInfo": "Topps Comic Book Heroes sticker 'Hawkeye — Annie Oakley I Ain't!'",
+    "description": "Clint Barton mid-draw in the purple-and-blue costume, firing off the set’s standard-issue groaner. He is one of the Avengers recruits the 1966 Donruss set never got to.",
+    "funFacts": [
+      "Hawkeye started as a Iron Man villain in 1964 and only joined the Avengers a year later, as part of a lineup fans nicknamed \"Cap’s Kooky Quartet\" — three reformed criminals and Captain America.",
+      "The purple costume was Don Heck’s design; Hawkeye has kept some version of purple through sixty years of redesigns."
+    ],
+    "estimatedValue": "$30–80 raw",
+    "image": "hawkeye.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1975 Topps Comic Book Heroes stickers",
+        "url": "https://www.cardboardconnection.com/1975-topps-comic-book-heroes-trading-cards"
+      },
+      {
+        "label": "PSA Set Registry — 1975 Topps Comic Book Heroes",
+        "url": "https://www.psacard.com/articles/articleview/9578/psa-set-registry-collecting-1975-topps-comic-book-heroes-sticker"
+      },
+      {
+        "label": "Trader Cracks — 1975 Topps Comic Book Heroes checklist",
+        "url": "https://www.tradercracks.com/1975-topps-comic-book-heroes-trading-cards-checklist"
+      },
+      {
+        "label": "Wikipedia — Hawkeye (Clint Barton)",
+        "url": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)"
+      }
+    ]
+  },
+  {
+    "id": "sub-mariner-1975-topps",
+    "franchise": "Marvel",
+    "character": "Namor the Sub-Mariner",
+    "year": 1975,
+    "setInfo": "Topps Comic Book Heroes sticker 'Sub-Mariner — Don't Pollute My Waters!', GMA 8",
+    "description": "Namor braced against a red sun with his trident, delivering an environmental warning that reads as a gag in 1975 and considerably less so now. One of the set’s four known variation cards.",
+    "funFacts": [
+      "Namor is the oldest character Marvel still publishes — he debuted in 1939, two years before Captain America, which makes him arguably the first Marvel superhero.",
+      "Bill Everett drew him for a giveaway comic that was never distributed, then reused the character in Marvel Comics #1."
+    ],
+    "estimatedValue": "$40–100 graded",
+    "image": "namor.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1975 Topps Comic Book Heroes stickers",
+        "url": "https://www.cardboardconnection.com/1975-topps-comic-book-heroes-trading-cards"
+      },
+      {
+        "label": "PSA Set Registry — 1975 Topps Comic Book Heroes",
+        "url": "https://www.psacard.com/articles/articleview/9578/psa-set-registry-collecting-1975-topps-comic-book-heroes-sticker"
+      },
+      {
+        "label": "Trader Cracks — 1975 Topps Comic Book Heroes checklist",
+        "url": "https://www.tradercracks.com/1975-topps-comic-book-heroes-trading-cards-checklist"
+      },
+      {
+        "label": "Wikipedia — Namor",
+        "url": "https://en.wikipedia.org/wiki/Namor"
+      }
+    ]
   }
 ]
