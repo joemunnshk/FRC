@@ -4304,5 +4304,104 @@
         "url": "https://en.wikipedia.org/wiki/Falcon_(comics)"
       }
     ]
+  },
+  {
+    "id": "mr-fantastic-1975-topps",
+    "franchise": "Fantastic Four",
+    "character": "Mr. Fantastic",
+    "year": 1975,
+    "setInfo": "Topps Comic Book Heroes sticker 'Mr. Fantastic — I'm the Long Arm of the Law!'",
+    "description": "Reed Richards stretched into an improbable S-curve across the die-cut, arm extended off the edge of the sticker so the gag and the power do the same joke.",
+    "funFacts": [
+      "Reed’s stretching was Jack Kirby reworking Plastic Man for Marvel; Stan Lee has said the Fantastic Four were built to be a family that argues, in deliberate contrast to DC’s Justice League.",
+      "He is the only member of the team whose codename is a boast rather than a description, which the comics have had characters point out for sixty years."
+    ],
+    "estimatedValue": "$30–70 raw",
+    "image": "mrfantastic.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1975 Topps Comic Book Heroes stickers",
+        "url": "https://www.cardboardconnection.com/1975-topps-comic-book-heroes-trading-cards"
+      },
+      {
+        "label": "PSA Set Registry — 1975 Topps Comic Book Heroes",
+        "url": "https://www.psacard.com/articles/articleview/9578/psa-set-registry-collecting-1975-topps-comic-book-heroes-sticker"
+      },
+      {
+        "label": "Wikipedia — Mister Fantastic",
+        "url": "https://en.wikipedia.org/wiki/Mister_Fantastic"
+      }
+    ]
+  },
+  {
+    "id": "sailor-moon-1992-carddass",
+    "franchise": "Sailor Moon",
+    "character": "Usagi Tsukino",
+    "year": 1992,
+    "setInfo": "Bandai Sailor Moon Carddass Part 1, #22 「交換日記」(Exchange Diary)",
+    "description": "Card #22 from the first Sailor Moon Carddass series, released the same year the anime began. Usagi is in her Juban school uniform rather than the sailor fuku, being handed a diary by classmate Umino, with a glitter-foil shoe printed beside the logo.",
+    "funFacts": [
+      "Naoko Takeuchi drew the manga and the anime ran simultaneously from 1992, so early merchandise like this had to be designed before most of the story existed.",
+      "The Carddass vending machines these came from dispensed one card for ¥20 — the same machines Bandai used for Dragon Ball, which is why the card stock and size match Goku’s."
+    ],
+    "estimatedValue": "$10–40 depending on rarity",
+    "image": "sailormoon.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia — Sailor Moon",
+        "url": "https://en.wikipedia.org/wiki/Sailor_Moon"
+      },
+      {
+        "label": "Wikipedia — Usagi Tsukino",
+        "url": "https://en.wikipedia.org/wiki/Usagi_Tsukino"
+      },
+      {
+        "label": "Wikipedia — Carddass",
+        "url": "https://en.wikipedia.org/wiki/Carddass"
+      }
+    ]
+  },
+  {
+    "id": "fred-flintstone-monty-gum",
+    "franchise": "The Flintstones",
+    "character": "Fred Flintstone",
+    "year": 1970,
+    "setInfo": "Monty Gum The Flintstones #006 (Netherlands) — the set carries no printed date; catalogue estimates run from the 1960s to the 1970s",
+    "description": "A Dutch Monty Gum card with Fred mid-sentence beside Barney, in the flat two-colour printing those gum cards used. Fred is the foreground figure and the card is his; Barney shares the frame.",
+    "funFacts": [
+      "Monty Gum printed licensed cards in Breda without numbering their sets by year, so Flintstones cards are dated by printing style and paper rather than anything on the card. Treat the 1970 date as a mid-point estimate, not a fact.",
+      "The Flintstones was the first animated series to air in US prime time, and held the record as the longest-running prime-time cartoon for thirty years until The Simpsons passed it.",
+      "Fred’s voice, Alan Reed, invented \"yabba dabba doo\" himself — the script said only \"yahoo\"."
+    ],
+    "estimatedValue": "$3–12 raw",
+    "image": "fred.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia — Fred Flintstone",
+        "url": "https://en.wikipedia.org/wiki/Fred_Flintstone"
+      },
+      {
+        "label": "Wikipedia — The Flintstones",
+        "url": "https://en.wikipedia.org/wiki/The_Flintstones"
+      }
+    ]
   }
 ]
