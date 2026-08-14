@@ -3862,5 +3862,129 @@
         "url": "https://en.wikipedia.org/wiki/Lando_Calrissian"
       }
     ]
+  },
+  {
+    "id": "genie-1993-skybox",
+    "franchise": "Aladdin",
+    "character": "Genie",
+    "year": 1993,
+    "setInfo": "SkyBox Disney's Aladdin #43 'Genie of the Lamp' — 90-card base set",
+    "description": "The Genie unfurling out of the lamp in the Cave of Wonders, conjuring the ALADDIN marquee in lights while Aladdin, Abu and the carpet watch from the rocks below.",
+    "funFacts": [
+      "Robin Williams recorded roughly sixteen hours of improvisation for the part; animator Eric Goldberg built the Genie’s shape-shifting around whatever Williams happened to become mid-take.",
+      "Williams took scale — about $75,000 — on condition Disney not use the Genie to sell merchandise. The studio did anyway, and he refused to return for the direct-to-video sequel."
+    ],
+    "estimatedValue": "$2–8 raw",
+    "image": "genie.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Trading Card Database — 1993 SkyBox Aladdin",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/80432/1993-SkyBox-Aladdin"
+      },
+      {
+        "label": "Trader Cracks — 1993 SkyBox Aladdin checklist",
+        "url": "https://www.tradercracks.com/1993-skybox-aladdin-trading-cards-checklist"
+      },
+      {
+        "label": "Wikipedia — Genie (Disney)",
+        "url": "https://en.wikipedia.org/wiki/Genie_(Disney)"
+      }
+    ]
+  },
+  {
+    "id": "belle-1992-pro-set",
+    "franchise": "Beauty and the Beast",
+    "character": "Belle",
+    "year": 1992,
+    "setInfo": "Pro Set Disney's Beauty and the Beast #19 'Belle's Dreams'",
+    "description": "A full-bleed frame of Belle on the hillside above the village at sunset, mid-line in \"Belle (Reprise)\" — the moment the film states outright that she wants more than provincial life.",
+    "funFacts": [
+      "Beauty and the Beast was the first animated film nominated for the Academy Award for Best Picture, three years before the category had any competition from Pixar.",
+      "Paige O’Hara sang Belle’s parts live during recording rather than to a click track, so several takes in the finished film are first passes."
+    ],
+    "estimatedValue": "$1–5 raw",
+    "image": "belle.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Non-Sport Lists — Beauty and the Beast (Pro Set)",
+        "url": "https://www.nslists.com/beauty.htm"
+      },
+      {
+        "label": "Wikipedia — Belle (Beauty and the Beast)",
+        "url": "https://en.wikipedia.org/wiki/Belle_(Beauty_and_the_Beast)"
+      }
+    ]
+  },
+  {
+    "id": "shrek-2001-dart",
+    "franchise": "Shrek",
+    "character": "Shrek",
+    "year": 2001,
+    "setInfo": "Dart FlipCards Shrek #2 — 72-card base set",
+    "description": "Card #2 of the Dart set, with Shrek roaring straight down the lens in the forest. The back describes him as \"hideous, filthy and gross, and proud of it\".",
+    "funFacts": [
+      "Chris Farley recorded roughly 90% of Shrek’s dialogue before his death in 1997; the character was rewritten and re-recorded from scratch with Mike Myers.",
+      "Myers asked to redo all his lines in a Scottish accent after production had already animated to his first performance, costing the studio a reported $4 million."
+    ],
+    "estimatedValue": "$2–6 raw",
+    "image": "shrek.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Non-Sport Lists — Shrek (Dart, 2001)",
+        "url": "https://www.nslists.com/shrek.htm"
+      },
+      {
+        "label": "Wikipedia — Shrek (character)",
+        "url": "https://en.wikipedia.org/wiki/Shrek_(character)"
+      }
+    ]
+  },
+  {
+    "id": "donkey-2001-dart",
+    "franchise": "Shrek",
+    "character": "Donkey",
+    "year": 2001,
+    "setInfo": "Dart FlipCards Shrek #3 — 72-card base set",
+    "description": "Card #3, Donkey grinning up out of frame in the field outside the swamp. The back calls him Shrek’s \"reluctant protector\", which is one way of putting it.",
+    "funFacts": [
+      "Eddie Murphy recorded his lines alone rather than opposite Mike Myers, and the two reportedly did not meet during production of the first film.",
+      "The animators modelled Donkey on a real miniature donkey named Perry, kept at a farm in Barnesville, Pennsylvania."
+    ],
+    "estimatedValue": "$2–6 raw",
+    "image": "donkey.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Non-Sport Lists — Shrek (Dart, 2001)",
+        "url": "https://www.nslists.com/shrek.htm"
+      },
+      {
+        "label": "Wikipedia — Donkey (Shrek)",
+        "url": "https://en.wikipedia.org/wiki/Donkey_(Shrek)"
+      }
+    ]
   }
 ]
