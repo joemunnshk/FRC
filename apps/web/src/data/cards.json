@@ -4766,5 +4766,75 @@
     ],
     "estimatedValue": "$50–150 raw, $250+ in PSA 8",
     "image": "gohan-1989-carddass.jpg"
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "noCardReason": "",
+    "franchise": "Naruto",
+    "sources": [
+      {
+        "label": "Trading Card Database — 2002 Bandai Naruto: The Path to Hokage",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/256824/2002-Bandai-Naruto:-The-Path-to-Hokage"
+      },
+      {
+        "label": "Slab-Z — The definitive 2002 Naruto card game vintage guide",
+        "url": "https://www.slab-z.com/post/the-definitive-2002-naruto-card-game-vintage-guide-rookies-grails"
+      },
+      {
+        "label": "Narutopedia — Naruto Collectible Card Game",
+        "url": "https://naruto.fandom.com/wiki/Naruto_Collectible_Card_Game"
+      }
+    ],
+    "id": "sasuke-2002-bandai",
+    "character": "Sasuke Uchiha",
+    "year": 2002,
+    "setInfo": "Bandai Naruto Card Game (2002) — 忍-2 うちはサスケ, 3/1",
+    "description": "Bandai launched the Naruto Card Game in Japan on 13 December 2002, three months after the anime began. Every card in it is stamped 忍 (\"shinobi\") and numbered in that series, and prints BANDAI 2002 MADE IN JAPAN along the bottom edge. Sasuke is card 忍-2, printed second after Naruto himself, drawn with a kunai and labelled 木ノ葉 下忍 男 — Leaf Village, genin, male. His quote is the whole character in six words: オレはあいつらとは違うぜ (\"I'm not like those guys\").",
+    "funFacts": [
+      "Card two of the set, immediately behind Naruto at 忍-1",
+      "Bandai printed him more than once in the same run — he also appears at 忍-20",
+      "Rated 3/1: strong attack, almost no defence, which is roughly how the series treats him"
+    ],
+    "estimatedValue": "$40–150 raw for a clean 2002 Japanese print",
+    "image": "sasuke-2002-bandai.jpg"
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "noCardReason": "",
+    "franchise": "Naruto",
+    "sources": [
+      {
+        "label": "Trading Card Database — 2002 Bandai Naruto: The Path to Hokage",
+        "url": "https://www.tcdb.com/ViewSet.cfm/sid/256824/2002-Bandai-Naruto:-The-Path-to-Hokage"
+      },
+      {
+        "label": "Slab-Z — The definitive 2002 Naruto card game vintage guide",
+        "url": "https://www.slab-z.com/post/the-definitive-2002-naruto-card-game-vintage-guide-rookies-grails"
+      },
+      {
+        "label": "Narutopedia — Naruto Collectible Card Game",
+        "url": "https://naruto.fandom.com/wiki/Naruto_Collectible_Card_Game"
+      }
+    ],
+    "id": "sakura-2002-bandai",
+    "character": "Sakura Haruno",
+    "year": 2002,
+    "setInfo": "Bandai Naruto Card Game (2002) — 忍-21 春野サクラ, 0/1",
+    "description": "Bandai launched the Naruto Card Game in Japan on 13 December 2002, three months after the anime began. Every card in it is stamped 忍 (\"shinobi\") and numbered in that series, and prints BANDAI 2002 MADE IN JAPAN along the bottom edge. Sakura is 忍-21, mid-throw with a kunai. Her stat line reads 0/1 — no attack at all — and her ability only fires when she is on a team with a male genin, a piece of card design that has aged about as well as the early manga's treatment of her.",
+    "funFacts": [
+      "Rated 0 attack, 1 defence — the weakest line of the original Team 7 cards",
+      "Her ability only works when she is teamed with a 下忍 (genin) male card",
+      "The quote reads \"…hey, can I sit down?\""
+    ],
+    "estimatedValue": "$25–80 raw",
+    "image": "sakura-2002-bandai.jpg"
   }
 ]
