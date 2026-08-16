@@ -34,12 +34,12 @@ const FRANCHISE_UNIVERSE: Record<string, string> = {
   'Toy Story': 'Disney',
   'Cars': 'Disney',
 
-  // Nintendo's own characters. Pokémon stays out: it belongs to The Pokémon
-  // Company, a venture Nintendo only part-owns, and it is the biggest media
-  // franchise on the site in its own right.
+  // Nintendo, including Pokémon — owned by The Pokémon Company rather than
+  // Nintendo alone, but nobody browsing for Pikachu looks anywhere else.
   'Super Mario': 'Nintendo',
   'Donkey Kong': 'Nintendo',
   'The Legend of Zelda': 'Nintendo',
+  'Pokémon': 'Nintendo',
 
   'Wizarding World': 'Harry Potter',
 
