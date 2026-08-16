@@ -23,7 +23,7 @@ const FRANCHISE_UNIVERSE: Record<string, string> = {
   'Superman': 'DC',
   'DC Extended Universe': 'DC',
 
-  // Walt Disney Animation, including the Princess line and the Lorcana cards.
+  // Walt Disney Animation and Pixar, the Princess line and the Lorcana cards.
   'Disney Princess': 'Disney',
   'Aladdin': 'Disney',
   'Beauty and the Beast': 'Disney',
@@ -31,10 +31,15 @@ const FRANCHISE_UNIVERSE: Record<string, string> = {
   'The Lion King': 'Disney',
   'Winnie-the-Pooh': 'Disney',
   'Disney Lorcana': 'Disney',
+  'Toy Story': 'Disney',
+  'Cars': 'Disney',
 
-  // Pixar is Disney-owned but its own canon, so it stays a separate shelf.
-  'Toy Story': 'Pixar',
-  'Cars': 'Pixar',
+  // Nintendo's own characters. Pokémon stays out: it belongs to The Pokémon
+  // Company, a venture Nintendo only part-owns, and it is the biggest media
+  // franchise on the site in its own right.
+  'Super Mario': 'Nintendo',
+  'Donkey Kong': 'Nintendo',
+  'The Legend of Zelda': 'Nintendo',
 
   'Wizarding World': 'Harry Potter',
 
