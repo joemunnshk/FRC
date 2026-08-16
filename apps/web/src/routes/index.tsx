@@ -2,6 +2,7 @@ import { createFileRoute, Link } from '@tanstack/react-router'
 import { useMemo, useState } from 'react'
 import { cards, CATEGORY_LABELS, type Category } from '../lib/cards'
 import { getCardDisplay } from '../lib/cardDisplay'
+import { getUniverse } from '../lib/universes'
 
 export const Route = createFileRoute('/')({
   component: HomePage,
@@ -24,26 +25,35 @@ const DEFAULT_SORT: Record<Category, SortKey> = {
 function HomePage() {
   const [tab, setTab] = useState<Category>(DEFAULT_TAB)
   const [search, setSearch] = useState('')
-  const [franchise, setFranchise] = useState('All')
+  const [universe, setUniverse] = useState('All')
   const [sort, setSort] = useState<SortKey>(DEFAULT_SORT[DEFAULT_TAB])
 
   const inTab = useMemo(() => cards.filter((c) => c.categories.includes(tab)), [tab])
 
-  const franchises = useMemo(
-    () => [...new Set(inTab.map((c) => c.franchise))].sort((a, b) => a.localeCompare(b)),
-    [inTab],
-  )
+  /** How many cards sit in each universe, so the dropdown can show its size. */
+  const universes = useMemo(() => {
+    const counts = new Map<string, number>()
+    for (const card of inTab) {
+      const name = getUniverse(card.franchise)
+      counts.set(name, (counts.get(name) ?? 0) + 1)
+    }
+    return [...counts.entries()].sort(
+      // Biggest universes first, so Marvel and DC lead rather than hiding in the A-Z.
+      ([aName, aCount], [bName, bCount]) => bCount - aCount || aName.localeCompare(bName),
+    )
+  }, [inTab])
 
   const filtered = useMemo(() => {
     const query = search.trim().toLowerCase()
     const result = inTab.filter((card) => {
-      const matchesFranchise = franchise === 'All' || card.franchise === franchise
+      const matchesUniverse = universe === 'All' || getUniverse(card.franchise) === universe
       const matchesSearch =
         query === '' ||
         card.character.toLowerCase().includes(query) ||
         card.franchise.toLowerCase().includes(query) ||
+        getUniverse(card.franchise).toLowerCase().includes(query) ||
         card.setInfo.toLowerCase().includes(query)
-      return matchesFranchise && matchesSearch
+      return matchesUniverse && matchesSearch
     })
 
     return result.sort((a, b) => {
@@ -57,11 +67,11 @@ function HomePage() {
       }
       return sort === 'newest' ? b.year - a.year : a.year - b.year
     })
-  }, [inTab, search, franchise, sort])
+  }, [inTab, search, universe, sort])
 
   function switchTab(next: Category) {
     setTab(next)
-    setFranchise('All')
+    setUniverse('All')
     setSort(DEFAULT_SORT[next])
   }
 
@@ -94,11 +104,11 @@ function HomePage() {
         <div className="control-row">
           <label className="control">
             <span>Franchise</span>
-            <select value={franchise} onChange={(e) => setFranchise(e.target.value)}>
+            <select value={universe} onChange={(e) => setUniverse(e.target.value)}>
               <option value="All">All ({inTab.length})</option>
-              {franchises.map((f) => (
-                <option key={f} value={f}>
-                  {f}
+              {universes.map(([name, count]) => (
+                <option key={name} value={name}>
+                  {name} ({count})
                 </option>
               ))}
             </select>
@@ -123,7 +133,7 @@ function HomePage() {
       <div className="card-grid">
         {filtered.length === 0 && <p className="empty-state">No cards match your search.</p>}
         {filtered.map((card) => {
-          const display = getCardDisplay(card)
+          const display = getCardDisplay(card, tab)
           return (
             <Link key={card.id} to="/cards/$cardId" params={{ cardId: card.id }} className="card-tile">
               {card.image ? (

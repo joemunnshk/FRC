@@ -1,6 +1,7 @@
 import { createFileRoute, Link, notFound } from '@tanstack/react-router'
 import { cards } from '../lib/cards'
 import { getCardDisplay } from '../lib/cardDisplay'
+import { getUniverse } from '../lib/universes'
 
 export const Route = createFileRoute('/cards/$cardId')({
   loader: ({ params }) => {
@@ -14,6 +15,7 @@ export const Route = createFileRoute('/cards/$cardId')({
 function CardDetailPage() {
   const card = Route.useLoaderData()
   const display = getCardDisplay(card)
+  const universe = getUniverse(card.franchise)
 
   return (
     <div className="detail-page">
@@ -32,7 +34,14 @@ function CardDetailPage() {
         )}
 
         <div className="detail-info">
-          {display.badge && <div className="franchise">{display.badge}</div>}
+          {/* The universe leads, but the exact franchise is the more useful fact
+              — Belle reads "Disney · Beauty and the Beast" — so keep both here. */}
+          {universe && (
+            <div className="franchise">
+              {universe}
+              {card.franchise.trim() !== universe && ` · ${card.franchise.trim()}`}
+            </div>
+          )}
           <h1>{display.title}</h1>
           <div className="meta">
             {card.year} · {card.setInfo}
