@@ -5496,5 +5496,67 @@
         "url": "https://marvel-collectible-cards.fandom.com/wiki/Marvel_Super_Heroes_Stickers_-_Topps_-_1976"
       }
     ]
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "noCardReason": "",
+    "id": "kakashi-2002-bandai",
+    "franchise": "Naruto",
+    "character": "Kakashi Hatake",
+    "year": 2002,
+    "setInfo": "Bandai Naruto Card Game 忍-11 はたけカカシ — 上忍 (Jonin), 写輪眼 (Sharingan), cost 4",
+    "description": "Bandai's Naruto Card Game launched in Japan in December 2002 and numbered its ninja sequentially: Naruto is 忍-1, Sasuke 忍-2, and Team 7's teacher lands at 忍-11. The card lists him as a Jonin of the Leaf with the Sharingan, and prints his promise to the three of them — \"I'll protect you even if it kills me.\"",
+    "funFacts": [
+      "Numbered 忍-11, nine places behind his own student Sasuke",
+      "The card already lists 写輪眼 — the Sharingan — as one of his attributes",
+      "His mask stays on: Bandai never printed a card showing the face under it"
+    ],
+    "estimatedValue": "$20–70 raw",
+    "image": "kakashi-2002-bandai.jpg",
+    "sources": [
+      {
+        "label": "Narutopedia — Naruto Collectible Card Game",
+        "url": "https://naruto.fandom.com/wiki/Naruto_Collectible_Card_Game"
+      },
+      {
+        "label": "Slab-Z — 2002 Naruto Card Game vintage guide",
+        "url": "https://www.slab-z.com/post/the-definitive-2002-naruto-card-game-vintage-guide-rookies-grails"
+      }
+    ]
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "noCardReason": "",
+    "id": "chopper-2001-carddass",
+    "franchise": "One Piece",
+    "character": "Tony Tony Chopper",
+    "year": 2001,
+    "setInfo": "Bandai Carddass Hyper Battle #C435 チョッパー \"奇跡の医者\" (Miracle Doctor)",
+    "description": "Chopper joined the crew late enough to miss the first six Carddass sets entirely — his first card is C435, in Grand Line Compilation 2 from August 2001, nearly two years after Luffy's C01. He is drawn in his heavy Walk Point form against the walls of Drum Island, typed both 獣 (beast) and 知略 (cunning), and titled the Miracle Doctor.",
+    "funFacts": [
+      "C435 — the crew's first cards run C01 to C13, so he arrives 400-odd numbers later",
+      "One of the few cards typed as both a beast and a strategist",
+      "Chopper is a reindeer who ate the Human-Human Fruit, which is why the card art looks nothing like the mascot version most people picture"
+    ],
+    "estimatedValue": "$15–50 raw",
+    "image": "chopper-2001-carddass.jpg",
+    "sources": [
+      {
+        "label": "Grand Line Wiki — Carddass Hyper Battle checklists",
+        "url": "https://grandlinewiki.net/tcg/carddasshyper.html"
+      },
+      {
+        "label": "One Piece Wiki — Carddass Hyper Battle",
+        "url": "https://onepiece.fandom.com/wiki/Carddass_Hyper_Battle"
+      }
+    ]
   }
 ]
