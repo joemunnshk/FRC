@@ -5942,5 +5942,191 @@
         "url": "https://en.wikipedia.org/wiki/Princess_Zelda"
       }
     ]
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "noCardReason": "",
+    "id": "megaman-1992-carddass",
+    "franchise": "Mega Man",
+    "character": "Mega Man",
+    "year": 1992,
+    "setInfo": "Bandai Rockman Carddass #44 — prism holo, \"the Rock Buster explodes against wave after wave of enemies!\"",
+    "description": "Bandai ran Rockman through its Carddass vending machines from the early nineties, and #44 is a prism holo of the blue bomber mid-leap, Rock Buster raised, with Mets and Sniper Joes closing in. His portrait sits in the octagon bottom-right, the same badge the line used across the set. Capcom had been making Mega Man games for five years by this point.",
+    "funFacts": [
+      "He is Rockman in Japan — the Mega Man name was invented for the American release",
+      "The prism foil is cut into the background grid so the level geometry glitters behind him",
+      "Capcom's original brief was a boy who steals his enemies' weapons, which the card's Rock Buster is the base form of"
+    ],
+    "estimatedValue": "$20–70 raw",
+    "image": "megaman-1992-carddass.jpg",
+    "sources": [
+      {
+        "label": "Wikipedia — Mega Man (character)",
+        "url": "https://en.wikipedia.org/wiki/Mega_Man_(character)"
+      },
+      {
+        "label": "Wikipedia — Carddass",
+        "url": "https://en.wikipedia.org/wiki/Carddass"
+      }
+    ]
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "noCardReason": "",
+    "id": "tails-1993-topps",
+    "franchise": "Sonic the Hedgehog",
+    "character": "Tails",
+    "year": 1993,
+    "setInfo": "Topps Sonic the Hedgehog #11 \"Totally Tails!\" — peel-off sticker, PSA 9",
+    "description": "Topps put out its Sonic set in 1993, 33 cards and 33 stickers, the same release that holds Sonic's own first card. Tails gets sticker 11, drawn spinning his two tails like rotors under a banner reading TOTALLY TAILS!, on the orange-and-yellow check the set uses throughout.",
+    "funFacts": [
+      "Sticker 11 of 33, printed © 1993 SEGA and The Topps Company",
+      "His real name is Miles Prower — a pun on \"miles per hour\" — with Tails as the nickname",
+      "He had only existed since Sonic 2 in late 1992, so the card follows within months"
+    ],
+    "estimatedValue": "$10–40 raw, $100+ in PSA 9",
+    "image": "tails-1993-topps.jpg",
+    "sources": [
+      {
+        "label": "Wikipedia — Tails (Sonic the Hedgehog)",
+        "url": "https://en.wikipedia.org/wiki/Tails_(Sonic_the_Hedgehog)"
+      },
+      {
+        "label": "Wikipedia — Sonic the Hedgehog 2",
+        "url": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2"
+      }
+    ]
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "noCardReason": "",
+    "id": "dragoon-2001-beyblade-ccg",
+    "franchise": "Beyblade",
+    "character": "Dragoon",
+    "year": 2001,
+    "setInfo": "Takara / Hudson Soft Beyblade CCG #SP-002 ドラグーンストーム — full-foil holo, attack 4000 / defence 2000",
+    "description": "The 2001 Takara / Hudson Soft Beyblade card game cards each Beyblade as its own card: the top rendered large, its parts diagrammed down the right edge, attack and defence along the bottom, and the bit-beast itself printed on the bit-chip medallion in the middle — the same chip that slots into the real toy. Dragoon is Tyson's bit-beast, a blue wind dragon, and SP-002 is one of the set's premium foils — the whole card rainbows under light, with the dragon printed twice, once on the chip at the centre of the Beyblade and once on the medallion below it. The left-spin gear system marks it as Dragoon: almost every other Beyblade in the set turns the other way.",
+    "funFacts": [
+      "Dragoon spins left, against the grain of nearly every other Beyblade in the game",
+      "The original Spin Dragoon was the very first Beyblade Takara sold, in July 1999",
+      "The dragon appears twice on the card — on the top's own chip and on the medallion below"
+    ],
+    "estimatedValue": "$15–60 raw",
+    "image": "dragoon-2001-beyblade-ccg.jpg",
+    "sources": [
+      {
+        "label": "Beyblade Wiki — Beyblade Trading Card Game",
+        "url": "https://beyblade.fandom.com/wiki/Beyblade_Trading_Card_Game"
+      },
+      {
+        "label": "Wikipedia — Beyblade (franchise)",
+        "url": "https://en.wikipedia.org/wiki/Beyblade_(franchise)"
+      }
+    ]
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "noCardReason": "",
+    "id": "dranzer-2001-beyblade-ccg",
+    "franchise": "Beyblade",
+    "character": "Dranzer",
+    "year": 2001,
+    "setInfo": "Takara / Hudson Soft Beyblade CCG #007 フロスティックドランザー — holo, attack 4000 / defence 2000",
+    "description": "The 2001 Takara / Hudson Soft Beyblade card game cards each Beyblade as its own card: the top rendered large, its parts diagrammed down the right edge, attack and defence along the bottom, and the bit-beast itself printed on the bit-chip medallion in the middle — the same chip that slots into the real toy. Dranzer is Kai's phoenix, and this is the Frostic Dranzer build — a blue four-winged attack ring on a bronze foil card, with the phoenix itself picked out in white on the pink chip medallion. The card is typed balance rather than attack, which is the joke of it: a phoenix card that plays defensively.",
+    "funFacts": [
+      "The four-winged attack ring is meant to read as a bird cutting the air",
+      "Typed バランス (balance) despite a 4000 attack rating",
+      "Dranzer is the only one of the four bit-beasts that is a mythological creature rather than an animal"
+    ],
+    "estimatedValue": "$12–45 raw",
+    "image": "dranzer-2001-beyblade-ccg.jpg",
+    "sources": [
+      {
+        "label": "Beyblade Wiki — Beyblade Trading Card Game",
+        "url": "https://beyblade.fandom.com/wiki/Beyblade_Trading_Card_Game"
+      },
+      {
+        "label": "Wikipedia — Beyblade (franchise)",
+        "url": "https://en.wikipedia.org/wiki/Beyblade_(franchise)"
+      }
+    ]
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "noCardReason": "",
+    "id": "driger-2001-beyblade-ccg",
+    "franchise": "Beyblade",
+    "character": "Driger",
+    "year": 2001,
+    "setInfo": "Takara / Hudson Soft Beyblade CCG #012 デスドライガー — gold foil, attack 3000 / defence 4000",
+    "description": "The 2001 Takara / Hudson Soft Beyblade card game cards each Beyblade as its own card: the top rendered large, its parts diagrammed down the right edge, attack and defence along the bottom, and the bit-beast itself printed on the bit-chip medallion in the middle — the same chip that slots into the real toy. Driger is Ray's white tiger, and card 012 is the Death Driger build on solid gold foil — green star-shaped attack ring, right-spin gear, and the tiger on the purple chip below, scythe in hand. Defence 4000 against attack 3000 makes it the sturdiest of the four.",
+    "funFacts": [
+      "The only one of the four with defence rated higher than attack",
+      "Printed on gold foil rather than the rainbow prism used for the others",
+      "The chip art arms the tiger with a scythe, which the toy's sticker reproduces exactly"
+    ],
+    "estimatedValue": "$12–45 raw",
+    "image": "driger-2001-beyblade-ccg.jpg",
+    "sources": [
+      {
+        "label": "Beyblade Wiki — Beyblade Trading Card Game",
+        "url": "https://beyblade.fandom.com/wiki/Beyblade_Trading_Card_Game"
+      },
+      {
+        "label": "Wikipedia — Beyblade (franchise)",
+        "url": "https://en.wikipedia.org/wiki/Beyblade_(franchise)"
+      }
+    ]
+  },
+  {
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "noCardReason": "",
+    "id": "draciel-2001-beyblade-ccg",
+    "franchise": "Beyblade",
+    "character": "Draciel",
+    "year": 2001,
+    "setInfo": "Takara / Hudson Soft Beyblade CCG #182 フォートレスディフェンス — full-art bit-beast portrait",
+    "description": "Where the rest of the 2001 set draws the Beyblade and tucks the bit-beast onto a chip, card 182 gives Draciel the whole frame: Max's armoured turtle braced on all fours against a yellow-green burst, shell plated, claws out. It is a move card — Fortress Defense — and it adds 1500 defence to any Beyblade carrying a Draciel bit.",
+    "funFacts": [
+      "One of the few cards in the set to show a bit-beast at full size rather than on a chip",
+      "Costs three earth symbols, the heaviest element cost in the set",
+      "Draciel is a turtle, which is why every card it touches is about defence"
+    ],
+    "estimatedValue": "$12–45 raw",
+    "image": "draciel-2001-beyblade-ccg.jpg",
+    "sources": [
+      {
+        "label": "Beyblade Wiki — Beyblade Trading Card Game",
+        "url": "https://beyblade.fandom.com/wiki/Beyblade_Trading_Card_Game"
+      },
+      {
+        "label": "Wikipedia — Beyblade (franchise)",
+        "url": "https://en.wikipedia.org/wiki/Beyblade_(franchise)"
+      }
+    ]
   }
 ]
