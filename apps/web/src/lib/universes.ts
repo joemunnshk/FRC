@@ -40,6 +40,8 @@ const FRANCHISE_UNIVERSE: Record<string, string> = {
   'Donkey Kong': 'Nintendo',
   'The Legend of Zelda': 'Nintendo',
   'Pokémon': 'Nintendo',
+  'Kirby': 'Nintendo',
+  'Metroid': 'Nintendo',
 
   'Wizarding World': 'Harry Potter',
 
