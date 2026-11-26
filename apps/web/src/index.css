@@ -122,9 +122,20 @@ p {
 /* Header */
 
 .site-header {
-  padding: 3.25rem 1.5rem 2.25rem;
-  text-align: center;
+  padding: 2.25rem 0 2rem;
   border-bottom: 1px solid var(--border);
+}
+
+/* The logo sits beside its own description rather than above it: it halves
+   the masthead's height, and it lines the mark up with the tabs, filters and
+   grid below, which are all left-aligned. */
+.masthead-row {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 2.25rem;
 }
 
 .site-header a:focus-visible {
@@ -195,10 +206,10 @@ p {
 }
 
 .site-header .subtitle {
-  margin: 1rem auto 0;
-  max-width: 48ch;
-  font-size: 1rem;
-  line-height: 1.6;
+  margin: 0;
+  max-width: 42ch;
+  font-size: 1.05rem;
+  line-height: 1.55;
   color: var(--ink-faint);
 }
 
@@ -701,7 +712,20 @@ p {
 
 @media (max-width: 640px) {
   .site-header {
-    padding: 2.5rem 1.25rem 1.75rem;
+    padding: 2rem 0 1.5rem;
+  }
+
+  /* Too narrow to sit side by side — stack and centre instead. */
+  .masthead-row {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 1.1rem;
+    padding: 0 1.25rem;
+  }
+
+  .site-header .subtitle {
+    font-size: 0.95rem;
   }
 
   /* Pinned, the tabs and both dropdowns ate half a phone screen. */
