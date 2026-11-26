@@ -6459,5 +6459,79 @@
         "url": "https://lmb3.net/2013/11/16/blog-513-transformers-artifact-of-the-week-1985-transformers-action-cards/"
       }
     ]
+  },
+  {
+    "id": "uncharted-2012-gamestop-italia",
+    "franchise": "Uncharted",
+    "character": "Nathan Drake",
+    "year": 2012,
+    "setInfo": "2012 PlayStation All-Stars Battle Royale playing cards (GameStop Italia pre-order exclusive)",
+    "description": "Sony Italia gave a custom deck of playing cards to anyone who pre-ordered PlayStation All-Stars Battle Royale at GameStop. The official PlayStation Blog announced it on 15 October 2012, promising \"un mazzo di carte personalizzato con cinque protagonisti del gioco\" — a custom deck carrying five of the game's leads — and the game arrived on 21 November. Drake is the card facing out in Sony's own product photograph, in his Uncharted 3 shirt and shoulder holster.",
+    "funFacts": [
+      "Italy only, GameStop only, and never sold — it came free with a pre-order, which is why almost none survive on the open market",
+      "Three years before Sony began its numbered PlayStation Experience card series, and two before the Las Vegas playing-card deck",
+      "The faces are an ordinary deck — the five characters are printed on the backs, which is no use for playing cards and entirely the point for a giveaway"
+    ],
+    "estimatedValue": "Almost never traded — a single sold-out Italian listing asked €44.90, and eBay Italy shows nothing",
+    "image": "nathan-drake.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "PlayStation.Blog Italia — \"Il preorder di GameStop\", 15 October 2012",
+        "url": "https://blog.it.playstation.com/2012/10/15/playstation-all-stars-batte-royale-il-preorder-di-gamestop/"
+      },
+      {
+        "label": "Collector's Edition forums — \"Gamestop Italy is offering an exclusive deck of playing cards\", 26 October 2012",
+        "url": "https://collectorsedition.org/forums/showthread.php?t=9527"
+      },
+      {
+        "label": "Retro Gaming Shop (Italy) — PlayStation All-Stars Battle Royale Playing Cards, PAL ITA",
+        "url": "https://www.retrogamingshop.it/en/products/playstation-all-stars-battle-royale-3"
+      },
+      {
+        "label": "Wikipedia — PlayStation All-Stars Battle Royale",
+        "url": "https://en.wikipedia.org/wiki/PlayStation_All-Stars_Battle_Royale"
+      }
+    ]
+  },
+  {
+    "id": "sly-cooper-2012-gamestop-italia",
+    "franchise": "Sly Cooper",
+    "character": "Sly Cooper",
+    "year": 2012,
+    "setInfo": "2012 PlayStation All-Stars Battle Royale playing cards (GameStop Italia pre-order exclusive)",
+    "description": "The thieving raccoon had been a PlayStation mascot since 2002 and went a decade without a card of any kind. His first is one of the five designs in the deck Sony Italia gave away with GameStop pre-orders of PlayStation All-Stars Battle Royale in November 2012 — crouched mid-sneak with the gold hook of his cane swinging out in front of him.",
+    "funFacts": [
+      "Ten years after Sly Cooper and the Thievius Raccoonus, and it took an Italian shop promotion to put him on a card",
+      "The hooked cane is the giveaway — it is the one thing in the art that identifies him rather than any other masked thief",
+      "The deck was announced on Sony's Italian blog alongside a cosplay competition that ended at Lucca Comics"
+    ],
+    "estimatedValue": "Almost never traded — a single sold-out Italian listing asked €44.90, and eBay Italy shows nothing",
+    "image": "sly-cooper.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "PlayStation.Blog Italia — \"Il preorder di GameStop\", 15 October 2012",
+        "url": "https://blog.it.playstation.com/2012/10/15/playstation-all-stars-batte-royale-il-preorder-di-gamestop/"
+      },
+      {
+        "label": "Collector's Edition forums — \"Gamestop Italy is offering an exclusive deck of playing cards\", 26 October 2012",
+        "url": "https://collectorsedition.org/forums/showthread.php?t=9527"
+      },
+      {
+        "label": "Retro Gaming Shop (Italy) — PlayStation All-Stars Battle Royale Playing Cards, PAL ITA",
+        "url": "https://www.retrogamingshop.it/en/products/playstation-all-stars-battle-royale-3"
+      }
+    ]
   }
 ]
