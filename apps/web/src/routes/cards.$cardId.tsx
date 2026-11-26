@@ -34,6 +34,10 @@ function CardDetailPage() {
         )}
 
         <div className="detail-info">
+          <div className="year-line">
+            <span className="year">{card.year}</span>
+          </div>
+          <h1>{display.title}</h1>
           {/* The universe leads, but the exact franchise is the more useful fact
               — Belle reads "Disney · Beauty and the Beast" — so keep both here. */}
           {universe && (
@@ -42,10 +46,7 @@ function CardDetailPage() {
               {card.franchise.trim() !== universe && ` · ${card.franchise.trim()}`}
             </div>
           )}
-          <h1>{display.title}</h1>
-          <div className="meta">
-            {card.year} · {card.setInfo}
-          </div>
+          <div className="meta">{card.setInfo}</div>
 
           {card.noCardReason && <div className="no-card-note">{card.noCardReason}</div>}
 

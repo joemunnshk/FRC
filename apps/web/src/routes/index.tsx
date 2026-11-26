@@ -1,5 +1,5 @@
 import { createFileRoute, Link } from '@tanstack/react-router'
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { cards, CATEGORY_LABELS, type Category } from '../lib/cards'
 import { getCardDisplay } from '../lib/cardDisplay'
 import { getUniverse } from '../lib/universes'
@@ -27,6 +27,20 @@ function HomePage() {
   const [search, setSearch] = useState('')
   const [universe, setUniverse] = useState('All')
   const [sort, setSort] = useState<SortKey>(DEFAULT_SORT[DEFAULT_TAB])
+  const searchRef = useRef<HTMLInputElement>(null)
+
+  // "/" jumps to the search box, the way it does in every database UI.
+  useEffect(() => {
+    function onKeyDown(e: KeyboardEvent) {
+      if (e.key !== '/' || e.metaKey || e.ctrlKey || e.altKey) return
+      const el = document.activeElement
+      if (el instanceof HTMLInputElement || el instanceof HTMLSelectElement || el instanceof HTMLTextAreaElement) return
+      e.preventDefault()
+      searchRef.current?.focus()
+    }
+    window.addEventListener('keydown', onKeyDown)
+    return () => window.removeEventListener('keydown', onKeyDown)
+  }, [])
 
   const inTab = useMemo(() => cards.filter((c) => c.categories.includes(tab)), [tab])
 
@@ -75,33 +89,43 @@ function HomePage() {
     setSort(DEFAULT_SORT[next])
   }
 
+  function resetFilters() {
+    setSearch('')
+    setUniverse('All')
+    setSort(DEFAULT_SORT[tab])
+  }
+
   return (
     <>
-      <div className="tabs" role="tablist">
-        {CATEGORIES.map((c) => (
-          <button
-            key={c}
-            role="tab"
-            aria-selected={tab === c}
-            className={`tab${tab === c ? ' active' : ''}`}
-            onClick={() => switchTab(c)}
-          >
-            {CATEGORY_LABELS[c]}
-            <span className="tab-count">{cards.filter((x) => x.categories.includes(c)).length}</span>
-          </button>
-        ))}
-      </div>
+      <div className="toolbar">
+        <div className="tabs" role="tablist">
+          {CATEGORIES.map((c) => (
+            <button
+              key={c}
+              role="tab"
+              aria-selected={tab === c}
+              className={`tab${tab === c ? ' active' : ''}`}
+              onClick={() => switchTab(c)}
+            >
+              {CATEGORY_LABELS[c]}
+              <span className="tab-count">{cards.filter((x) => x.categories.includes(c)).length}</span>
+            </button>
+          ))}
+        </div>
 
-      <div className="controls">
-        <input
-          type="search"
-          className="search-input"
-          placeholder="Search by character, franchise or card set..."
-          value={search}
-          onChange={(e) => setSearch(e.target.value)}
-        />
+        <div className="controls">
+          <div className="search-field">
+            <input
+              ref={searchRef}
+              type="search"
+              className="search-input"
+              placeholder="Search by character, franchise or card set..."
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+            />
+            <span className="search-hint">/</span>
+          </div>
 
-        <div className="control-row">
           <label className="control">
             <span>Franchise</span>
             <select value={universe} onChange={(e) => setUniverse(e.target.value)}>
@@ -115,7 +139,7 @@ function HomePage() {
           </label>
 
           <label className="control">
-            <span>Sort by</span>
+            <span>Sort</span>
             <select value={sort} onChange={(e) => setSort(e.target.value as SortKey)}>
               <option value="revenue">Franchise revenue</option>
               <option value="oldest">Oldest first</option>
@@ -131,7 +155,14 @@ function HomePage() {
       </div>
 
       <div className="card-grid">
-        {filtered.length === 0 && <p className="empty-state">No cards match your search.</p>}
+        {filtered.length === 0 && (
+          <div className="empty-state">
+            <p>No cards match your search.</p>
+            <button className="reset-filters" onClick={resetFilters}>
+              Reset all filters
+            </button>
+          </div>
+        )}
         {filtered.map((card) => {
           const display = getCardDisplay(card, tab)
           return (
@@ -145,14 +176,14 @@ function HomePage() {
                 </div>
               )}
               <div className="card-tile-info">
-                {display.badge && <div className="franchise">{display.badge}</div>}
-                <h3>{display.title}</h3>
-                <div className="year">
-                  {card.year}
-                  {sort === 'revenue' && card.revenueBillions !== null && (
-                    <span className="revenue"> · ${card.revenueBillions}B</span>
-                  )}
+                <div className="year-line">
+                  <span className="year">{card.year}</span>
                 </div>
+                <h3>{display.title}</h3>
+                {display.badge && <div className="franchise">{display.badge}</div>}
+                {sort === 'revenue' && card.revenueBillions !== null && (
+                  <div className="revenue">${card.revenueBillions}B lifetime</div>
+                )}
               </div>
             </Link>
           )
