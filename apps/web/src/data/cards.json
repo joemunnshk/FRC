@@ -7578,5 +7578,102 @@
         "url": "https://wopc.co.uk/usa/western/whitman-card-games/paddington"
       }
     ]
+  },
+  {
+    "id": "got-2012-daenerys",
+    "franchise": "Game of Thrones",
+    "character": "Daenerys Targaryen",
+    "year": 2012,
+    "setInfo": "2012 Rittenhouse Game of Thrones Season One #66",
+    "description": "Rittenhouse held the HBO licence and launched its first set on 6 June 2012, a full year after the show premiered — so no Game of Thrones character has a 2011 card. The 72-card base set is a hybrid: cards 1 to 30 are episode plot recaps and only 31 to 71 are character cards, which is why a base number on its own tells you nothing about who is pictured.",
+    "funFacts": [
+      "Four Season One promos exist and Daenerys got the flagship general-distribution P1, \"Daenerys and Dragon\", which circulated ahead of the set's street date — Ned Stark got two of the remaining three",
+      "Because thirty of the seventy-two base cards are plot summaries, base #05's text is about Jon Snow leaving for the Wall without being a Jon Snow card",
+      "Fantasy Flight's A Game of Thrones card game launched in 2002 with illustrated character art, so this is the first photographic Game of Thrones card rather than the first of any kind"
+    ],
+    "estimatedValue": "$2 – $8 raw; $40 – $90 in PSA 9 or 10",
+    "image": "daenerys.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Jeff Allender's House of Checklists — Game of Thrones Season One, with the P1–P4 promo block",
+        "url": "https://nslists.com/gameoft1.htm"
+      },
+      {
+        "label": "Rittenhouse / Scifihobby — official promo card checklist",
+        "url": "https://www.scifihobby.com/products/promocardchecklist.cfm"
+      },
+      {
+        "label": "ICv2 — Game of Thrones Season One cards, 6 June 2012",
+        "url": "https://icv2.com/print/article/22726"
+      }
+    ]
+  },
+  {
+    "id": "potc-2004-sparrow",
+    "franchise": "Pirates of the Caribbean",
+    "character": "Jack Sparrow",
+    "year": 2004,
+    "setInfo": "Video Futur Cards No. 239, \"Pirates des Caraïbes – La Malédiction du Black Pearl\"",
+    "description": "Video Futur was a French video-rental chain that gave members a numbered collector card when they rented a new release, running a 391-card series from 1998 to 2007. Card 239 carries the French one-sheet with Depp front and centre and was issued around the film's French video release in February 2004 — two years before any packet-issued Pirates cards existed.",
+    "funFacts": [
+      "Panini's first Pirates collection was not until 2006, for Dead Man's Chest, and it opens with a recap section covering the first film — so Jack's first Panini stickers are retrospective",
+      "The 2005 Upper Deck Disneyland 50th Anniversary set has three Pirates cards, all ride art with no Sparrow on them: the attraction did not get its Sparrow animatronics until 2006",
+      "Its neighbours in the Video Futur run — Matrix Reloaded, Hulk, Underworld — are all 2003 theatrical films arriving on French rental, which is how the card gets dated"
+    ],
+    "estimatedValue": "$1 – $8 raw; a rental premium rather than a packet-issued card, so the market is thin",
+    "image": "jack-sparrow.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Coleka — Video Futur Cards No. 239, Pirates des Caraïbes",
+        "url": "https://www.coleka.com/en/trading-cards/video-futur-cards/pitates-des-caraibes_i107945"
+      },
+      {
+        "label": "klebebildchen.net — Panini Fluch der Karibik 2, 2006, the franchise's first sticker album",
+        "url": "https://klebebildchen.net/serie/info/panini/fluch-der-karibik-2"
+      }
+    ]
+  },
+  {
+    "id": "carebears-1985-tenderheart",
+    "franchise": "Care Bears",
+    "character": "Tenderheart Bear",
+    "year": 1985,
+    "setInfo": "1985 Panini Care Bears sticker collection, 216 stickers",
+    "description": "The Care Bears were painted for American Greetings in 1981 and reached plush in 1983, but no card or sticker existed until the property went global in 1985 — the year of both the Care Bears Movie in March and the DIC television series in September. Panini's 216-sticker album uses the original painted American Greetings artwork rather than screen stills, and the album spine carries a 1985 American Greetings copyright line.",
+    "funFacts": [
+      "Panini's complete 1980 to 1984 catalogue, forty collections deep, contains no Care Bears at all — so 1985 really is the franchise's first sticker year",
+      "The 1987 Panini \"Care Bears News\" album is a separate set, not a reissue: it runs 1 to 229 plus twenty-six lettered specials, which is where its 255 total comes from",
+      "The stickers are signed in the artwork by the illustrator, Elena, and carry only a small © AG line — no character names anywhere on the front"
+    ],
+    "estimatedValue": "$1 – $4 a loose sticker; $70 – $130 for a complete album",
+    "image": "tenderheart-bear.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Coleka — Panini Care Bears, 1985, 216 stickers plus album",
+        "url": "https://www.coleka.com/en/stickers/panini-stickers/1985-to-1989/care-bears_r13417"
+      },
+      {
+        "label": "klebebildchen.net — Panini Care Bears, 1985, 216 stickers numbered 1 to 216",
+        "url": "https://klebebildchen.net/serie/panini/care-bears"
+      }
+    ]
   }
 ]
