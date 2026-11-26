@@ -1,6 +1,6 @@
 import { createFileRoute, Link, notFound, useNavigate } from '@tanstack/react-router'
 import { useEffect, useMemo } from 'react'
-import { cards, type Card } from '../lib/cards'
+import { cards, compareChronologically, type Card } from '../lib/cards'
 import { getCardDisplay } from '../lib/cardDisplay'
 import { getUniverse } from '../lib/universes'
 
@@ -22,7 +22,7 @@ function neighbours(card: Card) {
   const tab = card.categories.includes('icons') ? 'icons' : card.categories[0]
   const run = cards
     .filter((c) => c.categories.includes(tab))
-    .sort((a, b) => a.year - b.year || a.character.localeCompare(b.character))
+    .sort((a, b) => compareChronologically(a, b))
   const i = run.findIndex((c) => c.id === card.id)
   return { prev: run[i - 1], next: run[i + 1], position: i + 1, total: run.length }
 }

@@ -1,4 +1,5 @@
 import raw from '../data/cards.json'
+import { getUniverse } from './universes'
 
 export type Category = 'media' | 'tcg' | 'icons'
 
@@ -50,4 +51,25 @@ export const CATEGORY_CAPTIONS: Record<Category, string> = {
     'The 50 highest-grossing media franchises of all time, ranked by lifetime revenue — and the first trading card for each one.',
   tcg: 'A landmark card from each major trading card game, from Magic’s Black Lotus to Lorcana and beyond.',
   icons: 'The first trading card ever printed for each character, however obscure the set it hid in.',
+}
+
+/**
+ * Chronological order, with a deliberate tiebreak. Plenty of years are busy —
+ * 2001 has 16 cards, 1975 has 15 — and left unsorted they arrive in whatever
+ * order the data file happens to hold, so a year's Marvel cards scatter among
+ * its Pokémon ones. Grouping by universe inside the year keeps a franchise's
+ * cards shoulder to shoulder, which is how you actually want to read a shelf.
+ */
+export function compareChronologically(a: Card, b: Card, newestFirst = false): number {
+  const byYear = newestFirst ? b.year - a.year : a.year - b.year
+  if (byYear !== 0) return byYear
+
+  const universeA = getUniverse(a.franchise)
+  const universeB = getUniverse(b.franchise)
+  if (universeA !== universeB) return universeA.localeCompare(universeB)
+
+  // Inside a universe, the exact franchise still separates Spider-Man from X-Men.
+  if (a.franchise !== b.franchise) return a.franchise.localeCompare(b.franchise)
+
+  return a.character.localeCompare(b.character)
 }

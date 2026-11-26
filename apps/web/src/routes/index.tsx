@@ -1,6 +1,6 @@
 import { createFileRoute, Link } from '@tanstack/react-router'
 import { useEffect, useMemo, useRef, useState } from 'react'
-import { cards, CATEGORY_CAPTIONS, CATEGORY_LABELS, type Category } from '../lib/cards'
+import { cards, CATEGORY_CAPTIONS, CATEGORY_LABELS, compareChronologically, type Category } from '../lib/cards'
 import { getCardDisplay } from '../lib/cardDisplay'
 import { getUniverse } from '../lib/universes'
 
@@ -76,12 +76,12 @@ function HomePage() {
       if (sort === 'name') return getCardDisplay(a).title.localeCompare(getCardDisplay(b).title)
       if (sort === 'revenue') {
         // TCG-only entries have no media revenue figure — sort those last.
-        if (a.revenueBillions === null && b.revenueBillions === null) return a.year - b.year
+        if (a.revenueBillions === null && b.revenueBillions === null) return compareChronologically(a, b)
         if (a.revenueBillions === null) return 1
         if (b.revenueBillions === null) return -1
         return b.revenueBillions - a.revenueBillions
       }
-      return sort === 'newest' ? b.year - a.year : a.year - b.year
+      return compareChronologically(a, b, sort === 'newest')
     })
   }, [inTab, search, universe, sort])
 
