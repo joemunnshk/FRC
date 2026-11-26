@@ -1563,19 +1563,19 @@
     "character": "Skull Trooper",
     "year": 2019,
     "setInfo": "Panini Fortnite Series 1 #235 (Crystal Shard parallel)",
-    "description": "Panini produced the first Fortnite trading cards in 2019, at the peak of the game's cultural dominance. Series 1 covers the outfits and characters players actually recognised from the battle royale, and it worked: unlike most game tie-ins, Fortnite cards found a genuine collector market and high-grade rare outfits climbed quickly.",
+    "description": "Panini's Series 1 was the first Fortnite set sold in shops, reaching US shelves on 12 June 2019 with 300 cards covering the outfits players actually recognised. It worked: unlike most game tie-ins, Fortnite cards found a genuine collector market, and high-grade rare outfits climbed fast. Skull Trooper is the set's nostalgia pick — a 2017 Halloween skin that early players wore as a badge of seniority.",
     "funFacts": [
-      "Reached cards just two years after launch — one of the fastest turnarounds on this list",
-      "Rare and Legendary outfit cards became genuine chase pieces almost immediately",
-      "Proved a free-to-play game could still support a real physical card market"
+      "Not the first Fortnite card — a PlayStation event card beat it to print by about ten months",
+      "The set's chase card is #252 Black Knight; a Crystal Shard parallel graded PSA 10 sold for $34,800 in May 2023",
+      "No Jonesy in the set — Fortnite's closest thing to a protagonist only arrived in the game in December 2020, well after Series 1 shipped"
     ],
     "estimatedValue": "$1 – $500+ depending on rarity tier and grade",
     "image": "fortnite.jpg",
     "noCardReason": "",
-    "mediaRank": 45,
-    "revenueBillions": 9,
+    "mediaRank": null,
+    "revenueBillions": null,
     "categories": [
-      "media"
+      "icons"
     ],
     "sources": [
       {
@@ -6314,5 +6314,45 @@
     ],
     "estimatedValue": "$20–70 raw, $180+ in PSA 9",
     "image": "shredder-1989-topps.jpg"
+  },
+  {
+    "id": "fortnite-2018-psx",
+    "franchise": "Fortnite",
+    "character": "Battle Bus",
+    "year": 2018,
+    "setInfo": "PlayStation Collectible Cards, SEA 2018 Set 1 #015",
+    "description": "Sony handed out numbered collectible cards at its PlayStation events from 2015, and Fortnite got one at PlayStation Experience 2018 South East Asia in Bangkok that August — earned by playing the demo at the booth. It beats Panini's first Fortnite set to print by roughly ten months. The art is the Battle Bus rather than a character, which is the honest answer for a game whose cast is a rotating wardrobe of skins: the bus is the one thing in Fortnite that has never changed.",
+    "funFacts": [
+      "Card #015 of 28, and the face is stamped \"ASIA\" — the 2018 set was handed out only in Bangkok, as there was no North American PlayStation Experience that year",
+      "Printed roughly ten months before Panini's Series 1 reached shelves in June 2019",
+      "Sony's event cards were never sold, so unlike almost every card on this site there is no pack, no print run and no checklist beyond the one collectors assembled themselves"
+    ],
+    "estimatedValue": "Rarely traded — a convention giveaway with no retail release and no graded population",
+    "image": "fortnite-battle-bus.jpg",
+    "noCardReason": "",
+    "mediaRank": 45,
+    "revenueBillions": 9,
+    "categories": [
+      "icons",
+      "media"
+    ],
+    "sources": [
+      {
+        "label": "PSX Cards — SEA 2018 Set 1 checklist (#015 Fortnite)",
+        "url": "https://psxcards.weebly.com/sea-2018---set-1.html"
+      },
+      {
+        "label": "PlayStation.Blog — PS Experience collectible cards are back",
+        "url": "https://blog.playstation.com/2016/10/21/ps-experience-2016-collectible-cards-are-back/"
+      },
+      {
+        "label": "Wikipedia — PlayStation Experience (SEA 2018, Bangkok, 18–19 August)",
+        "url": "https://en.wikipedia.org/wiki/PlayStation_Experience"
+      },
+      {
+        "label": "Sirus Gaming — PlayStation Experience 2018 SEA guide",
+        "url": "https://sirusgaming.com/psx-2018-sea-guide/"
+      }
+    ]
   }
 ]
