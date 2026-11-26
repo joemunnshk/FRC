@@ -7477,5 +7477,106 @@
         "url": "https://www.bandai.co.jp/candy/products/2022/4549660835509000.html"
       }
     ]
+  },
+  {
+    "id": "doctorwho-1965-dalek",
+    "franchise": "Doctor Who",
+    "character": "Dalek",
+    "year": 1965,
+    "setInfo": "Cadet Sweets \"Dr Who and the Daleks\", 50 sweet-cigarette cards, #42 \"Dr. Who Orders…\"",
+    "description": "Issued at the height of Dalekmania, one card to a packet of sweet cigarettes, with the album available for five cut-out packet flashes and a shilling postal order. The fifty cards are not a television adaptation but one continuous original comic strip in which Dr Who, the Daleks, their egg-headed Emperor and the Voord all appear. Collectors generally call it the first Doctor Who merchandise ever sold.",
+    "funFacts": [
+      "The Doctor spends much of the run in a spacesuit and his face is drawn differently from card to card — the artists had no photographic reference to work from",
+      "The story ends with the Doctor making peace with the Dalek Emperor and sharing a victory toast with the Daleks, which later canon would find unthinkable",
+      "The year is genuinely contested: PSA's own labels and part of the collecting literature say 1965, while the TARDIS wiki and others say 1964. Card 33 refers to The Dalek Book, published September 1964, which sets a floor but not a year"
+    ],
+    "estimatedValue": "£5 – £25 a single; a complete fifty-card set £250 – £600 depending on condition and imprint",
+    "image": "dalek.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "SciFiFX — the Cadet Sweets Doctor Who story cards",
+        "url": "https://scififx.com/2012/09/doctor-who-cadet-sweets-story-from-1964"
+      },
+      {
+        "label": "Animus Is Old One — Dr Who and the Daleks Cadet sweet cigarette cards, with card images",
+        "url": "https://animusisoldone.blogspot.com/2012/10/dr-who-and-daleks-cadet-sweet-cigarettes.html"
+      },
+      {
+        "label": "FlickFilosopher — 1960s Daleks trading cards, dating the set 1965",
+        "url": "https://www.flickfilosopher.com/?p=14051"
+      }
+    ]
+  },
+  {
+    "id": "wallacegromit-1995-wallace",
+    "franchise": "Wallace and Gromit",
+    "character": "Wallace",
+    "year": 1995,
+    "setInfo": "1995 Merlin Wallace & Gromit album stickers #106",
+    "description": "Merlin spent the early 1990s building a licensed-character sticker business alongside its Premier League albums, and the Wallace & Gromit collection landed in 1995 — the year Topps completed its takeover of Merlin, and the year A Close Shave premiered on Christmas Eve. One hundred and eighty stickers, at the peak of British Wallace and Gromit fame after The Wrong Trousers took the 1994 Oscar.",
+    "funFacts": [
+      "The \"Merlin 1989\" dating all over the market is a misreading — 1989 is the copyright line, dating from A Grand Day Out, not the issue year. Merlin in 1989 was a football-sticker start-up",
+      "The published checklist is useless for provenance: all 180 entries are titled only \"Sticker 1\" to \"Sticker 180\", with no subjects named, so the PSA labels do more identifying than the checklist does",
+      "Because A Close Shave only aired on 24 December 1995, a 1995 album most plausibly covers A Grand Day Out and The Wrong Trousers"
+    ],
+    "estimatedValue": "£0.50 – £2 a sticker; a complete 180-sticker set or filled album £60 – £150",
+    "image": "wallace.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia — Merlin Publishing, founded 1989, Topps takeover 1995, with the 1995 Wallace and Gromit issue listed",
+        "url": "https://en.wikipedia.org/wiki/Merlin_Publishing"
+      },
+      {
+        "label": "Wikipedia — A Close Shave, BBC Two, 24 December 1995",
+        "url": "https://en.wikipedia.org/wiki/A_Close_Shave"
+      }
+    ]
+  },
+  {
+    "id": "paddington-no-card",
+    "franchise": "Paddington",
+    "character": "Paddington Bear",
+    "year": 1958,
+    "setInfo": "No trading card release",
+    "description": "Paddington arrived in print in 1958 and on television in 1975, and in nearly seventy years nobody has put him on a trading card. The Cartophilic Society of Great Britain's own Card of the Day writer went looking for one to mark Michael Bond's centenary and concluded that Paddington \"is too young to have appeared on a cigarette card, and seemed never to have featured on a trade one\" — after canvassing contacts, the only Paddington card obtainable was an unlicensed parody.",
+    "funFacts": [
+      "The closest thing that exists is a 2018 Topps Wacky Packages parody sticker — and neither of its two cards even says Paddington, going by \"Puddington 2\" and \"Yucker's Marmalade\" instead",
+      "The V&A holds twenty-eight Paddington objects including FilmFair and Palitoy-era donations, and not one is a card or an album sticker",
+      "Two things routinely mis-sold as his first card: a 1976 pack of gift seals with no publisher or checklist, and a 1974 Whitman \"Paddington\" — which is a card game, not trade cards"
+    ],
+    "estimatedValue": "Not applicable — no licensed trading card exists",
+    "image": "",
+    "noCardReason": "No British trade-card issuer ever carded him. The Cartophilic Society of Great Britain, the body that catalogues exactly this kind of thing, went looking and found nothing licensed — only a 2018 Topps parody that avoids using his name. A 2014 or 2017 film tie-in album cannot be entirely excluded, so this entry is provisional.",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Cartophilic Society of Great Britain — Card of the Day, Michael Bond centenary",
+        "url": "https://csgb.co.uk/publications/newsletter/2026-01-10"
+      },
+      {
+        "label": "V&A — \"Paddington Bear Picture Set\", Denys Fisher 1978, which turns out to be vinyl wall clings",
+        "url": "https://collections.vam.ac.uk/item/O9082"
+      },
+      {
+        "label": "World of Playing Cards — Whitman \"Paddington\", UK 1974, a card game rather than trade cards",
+        "url": "https://wopc.co.uk/usa/western/whitman-card-games/paddington"
+      }
+    ]
   }
 ]
