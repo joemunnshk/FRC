@@ -7306,5 +7306,75 @@
         "url": "https://www.denofgeek.com/culture/topps-fright-flicks-card-horror-comedy/"
       }
     ]
+  },
+  {
+    "id": "metalgear-1987-snake",
+    "franchise": "Metal Gear",
+    "character": "Solid Snake",
+    "year": 1987,
+    "setInfo": "1987 Konami Famicom collector card, packed with Metal Gear (KDS-ME)",
+    "description": "From 1987 Konami slipped a collector card into the box of its Famicom releases, a programme it ran across about twenty titles and then dropped. Metal Gear was the seventeenth, which means Snake's first card is contemporaneous with his console debut on 22 December 1987 — eleven years before the Metal Gear Solid card set everyone knows. Lavender marbled stock, a painted Snake running and firing over a yellow triangle, and nothing on the front but the logo and \"© KONAMI 1987 TM\".",
+    "funFacts": [
+      "The MSX2 original came out five months earlier and has no card at all — Snake only has a 1987 card because the December Famicom port happened to fall inside Konami's insert programme",
+      "The 1998 Metal Gear Solid set names its parallels after the game's own stealth ranks: Chicken, Gazelle, Jackal, Jaws, Leopard and Falcon",
+      "Sibling cards in the same Konami programme run five or six per game, so Metal Gear probably had several — nobody has published a count"
+    ],
+    "estimatedValue": "No sold records found; sibling Konami cards trade at $15 – $60 and this one plausibly higher",
+    "image": "solid-snake.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Nintendo Sega Japan — Konami Famicom collector cards, with Metal Gear as title 17",
+        "url": "https://nintendosegajapan.com/2015/03/21/820-konami-famicom-collector-cards/"
+      },
+      {
+        "label": "Nintendo Sega Japan — photographs of the Konami Famicom collector cards",
+        "url": "https://nintendosegajapan.com/2015/08/06/konami-famicom-collector-cards/"
+      },
+      {
+        "label": "Arcade History — Famicom Metal Gear, Japan, 22 December 1987",
+        "url": "https://www.arcade-history.com/game/54372/"
+      }
+    ]
+  },
+  {
+    "id": "amongus-2021-crewmate",
+    "franchise": "Among Us",
+    "character": "Crewmate",
+    "year": 2021,
+    "setInfo": "2021 MIRA HQ Holographic Access Card, 1 of 12, packed with Among Us: Crewmate Edition",
+    "description": "Among Us has never had a standalone trading card set. Its only true collectible card is a holographic insert, one of twelve randomly packed into the Crewmate Edition console release that reached shelves in Europe on 14 December 2021. The card is styled as a MIRA HQ employee ID: a framed crewmate portrait over a pixelated holographic logo block, with a colour name strip beneath.",
+    "funFacts": [
+      "All three collector's editions draw from the same twelve-card pool, and the cheapest one shipped four months before the others — so every card in existence before April 2022 came out of the $30 box",
+      "The release date moved twice, and the final move was forward rather than back, from January 2022 into December 2021 for Christmas. Without it the rookie card would be a 2022 item",
+      "The art credit grew between announcements, from Hannako Lambert alone to Lambert and PuffballsUnited — the latter being Marcus Bromander, who co-created the game"
+    ],
+    "estimatedValue": "$8 – $25 loose; a full run of twelve means buying twelve boxes",
+    "image": "among-us-crewmate.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "WorthPlaying — Crewmate Edition retail dates and the 1-of-12 MIRA HQ holographic cards",
+        "url": "https://worthplaying.com/article/2021/12/8/news/129793-among-us-crewmate-edition-coming-to-retail-later-this-month/"
+      },
+      {
+        "label": "Game Watch — Japanese contents listing, 16 December 2021, 全12種 randomly inserted",
+        "url": "https://game.watch.impress.co.jp/docs/news/1373525.html"
+      },
+      {
+        "label": "WorthPlaying — Impostor and Ejected edition dates and contents",
+        "url": "https://www.worthplaying.com/article/2022/2/16/news/130711-among-us-collectors-editions-gets-retail-date/"
+      }
+    ]
   }
 ]
