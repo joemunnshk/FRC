@@ -683,3 +683,27 @@ p {
     padding: 2rem 1.25rem 4rem;
   }
 }
+
+/* Says what the open tab actually is — the counts alone implied a hierarchy
+   that does not exist, since a card can sit on all three tabs at once. */
+.tab-caption {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2.25rem 1.5rem 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--ink-faint);
+}
+
+@media (max-width: 640px) {
+  .tab-caption {
+    padding: 1.75rem 1.25rem 0;
+    font-size: 0.9rem;
+  }
+}
+
+/* The caption already introduces the grid, so it does not need its own gap. */
+.tab-caption + .card-grid {
+  padding-top: 1.75rem;
+}

@@ -1,6 +1,6 @@
 import { createFileRoute, Link } from '@tanstack/react-router'
 import { useEffect, useMemo, useRef, useState } from 'react'
-import { cards, CATEGORY_LABELS, type Category } from '../lib/cards'
+import { cards, CATEGORY_CAPTIONS, CATEGORY_LABELS, type Category } from '../lib/cards'
 import { getCardDisplay } from '../lib/cardDisplay'
 import { getUniverse } from '../lib/universes'
 
@@ -87,6 +87,8 @@ function HomePage() {
     setTab(next)
     setUniverse('All')
     setSort(DEFAULT_SORT[next])
+    // The caption explaining the new tab sits above the grid, so go back up to it.
+    window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
   function resetFilters() {
@@ -153,6 +155,8 @@ function HomePage() {
           </div>
         </div>
       </div>
+
+      <p className="tab-caption">{CATEGORY_CAPTIONS[tab]}</p>
 
       <div className="card-grid">
         {filtered.length === 0 && (
