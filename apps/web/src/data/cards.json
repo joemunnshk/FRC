@@ -7108,5 +7108,40 @@
         "url": "https://www.guinnessworldrecords.com/world-records/519045-first-minecraft-card-game"
       }
     ]
+  },
+  {
+    "id": "bttf-1985-marty",
+    "franchise": "Back to the Future",
+    "character": "Marty McFly",
+    "year": 1985,
+    "setInfo": "1985 Panini Back to the Future sticker #9",
+    "description": "The first film got no mainstream US card set — Topps did not enter the franchise until 1989 and Part II. What 1985 produced instead was Panini's 180-sticker album, distributed internationally, and a scarce eight-card Kellogg's cereal-box set believed to have been Canada-only. Marty's sticker #9 catches him in the denim jacket with the guitar across his knees.",
+    "funFacts": [
+      "The same 180-sticker series had four different national issuers: Minicards in the UK, Scanlens in Australia, O-Pee-Chee in Canada and Panini in America",
+      "The rival 1985 Kellogg's cards had bilingual English and French backs and came in Corn Pops, Froot Loops, Frosted Flakes and Marshmallow Krispies",
+      "There is no 1985 Topps Back to the Future set at all — Topps' first was 1989's Part II, where Marty mostly appears inside a stopwatch-shaped logo on pack-inserted stickers"
+    ],
+    "estimatedValue": "$3 – $12 raw; a complete 180-sticker set or filled album $150 – $400",
+    "image": "marty-mcfly.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Card Collectors Society GB — Panini Back to the Future (1985), 180 stickers, four national issuers",
+        "url": "https://csgb.co.uk/cardoftheday/2023-10-18"
+      },
+      {
+        "label": "Cardboard Connection — 1989 Topps Back to the Future II, noting no set for the first film",
+        "url": "https://www.cardboardconnection.com/1989-topps-back-to-the-future-ii-trading-cards"
+      },
+      {
+        "label": "Wikipedia — list of non-sports trading cards",
+        "url": "https://en.wikipedia.org/wiki/List_of_non-sports_trading_cards"
+      }
+    ]
   }
 ]
