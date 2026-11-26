@@ -7675,5 +7675,164 @@
         "url": "https://klebebildchen.net/serie/panini/care-bears"
       }
     ]
+  },
+  {
+    "id": "felix-1930-juncosa",
+    "franchise": "Felix the Cat",
+    "character": "Felix the Cat",
+    "year": 1930,
+    "setInfo": "Chocolates Evaristo Juncosa (Barcelona), \"Félix Trotamundos\" Serie A #8",
+    "description": "Juncosa was a Barcelona chocolate and candy firm that had been inserting cards in its bars since the 1920s. Its cartoon issue runs to four series of fifteen, each retelling one animated short: Serie A is Felix in the 1923 Sullivan film Felix the Globe Trotter, Serie B is Mickey in The Haunted House, Serie C is Fleischer, Serie D is Oswald. This is the oldest card in the whole database.",
+    "funFacts": [
+      "The dating is a genuine band rather than a fact: CGC says c.1930, SGC labels say 1929/30, Heritage dates the companion Mickey series to 1929, and Serie C depicts a film released in September 1931 — so the issue spans roughly 1929 to 1931",
+      "The card illustrates a 1923 short but was printed around 1930, so the artwork and the cardboard are seven years apart",
+      "There is no evidence Juncosa ever licensed Felix from Pat Sullivan — Spanish cartoon cromos of this era were frequently unauthorised"
+    ],
+    "estimatedValue": "$60 – $150 raw; $100 – $500 graded; a complete fifteen-card Serie A $1,200 – $3,000",
+    "image": "felix-the-cat.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "CGC Grading — Spanish c. 1930 Evaristo Juncosa Felix Globetrotter Series A, fifteen cards",
+        "url": "https://www.cgcgrading.com/news/articles/vintage-disney-cards-hakes-4sFQ8Mj8bKU14s8iXaTZci/"
+      },
+      {
+        "label": "Prewar Cards — Evaristo Juncosa sets and checklists",
+        "url": "https://prewarcards.com/2016/12/08/evaristo-juncosa-sets-and-checklists/"
+      },
+      {
+        "label": "Tebeosfera — Periquito (1927), the unlicensed Spanish Felix imitation behind the fake \"1920 Felix\" cards",
+        "url": "https://tebeosfera.com/sagas/periquito_1927_marco.html"
+      }
+    ]
+  },
+  {
+    "id": "popeye-1933-orbit",
+    "franchise": "Popeye",
+    "character": "Popeye",
+    "year": 1933,
+    "setInfo": "1933 Orbit Gum \"Popeye Comics\" #18, issued with Tattoo Gum",
+    "description": "Orbit Gum of Chicago issued thirty folder cards with its Tattoo Gum in 1933, the year Fleischer's theatrical shorts launched and four years after Popeye first appeared in Thimble Theatre. Each card opens out into a four-page comic on one side and a puzzle, maze or dot game on the other. Card eighteen is \"Popeye Comic and Dot Game\", and it carries its own date: © 1933 King Features Syndicate Inc., printed on the front.",
+    "funFacts": [
+      "The year comes off the artefact rather than a catalogue — the King Features copyright line is printed on the card itself",
+      "Because the backs are games, most surviving cards have the puzzle filled in or the fold worn through; genuinely unplayed copies are the scarce tier",
+      "Bluto appears on exactly one card in the thirty-card run"
+    ],
+    "estimatedValue": "$15 – $50 raw depending on wear; $50 – $110 in excellent condition. Effectively no graded population",
+    "image": "popeye.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Jeff Allender's House of Checklists — Popeye Comics (Orbit / Tattoo Gum), full thirty-card checklist",
+        "url": "https://nslists.com/popeycom.htm"
+      },
+      {
+        "label": "PSA non-sports price guide — the earliest Popeye set it lists is 1959, so no graded 1933 population exists",
+        "url": "https://www.psacard.com/priceguide/non-sports-card-values/7"
+      }
+    ]
+  },
+  {
+    "id": "woody-1953-carnation",
+    "franchise": "Woody Woodpecker",
+    "character": "Woody Woodpecker",
+    "year": 1953,
+    "setInfo": "1953 Carnation Corn Flakes / Albers Oats \"Woody Woodpecker's Drawing Lesson\" #1",
+    "description": "A West Coast cereal premium, one card per packet, with full-colour Walter Lantz character art on the front and a step-by-step drawing lesson on the back. Eighteen cards came out in 1953 and a markedly scarcer second eighteen followed in 1954. Card one is Woody at an easel painting his own portrait — and it is the only Woody Woodpecker card issue of any kind before 1968.",
+    "funFacts": [
+      "Two independent negative checks back that claim: the main non-sports checklist index has no Woody entry at all, and the dedicated Walter Lantz card category begins here",
+      "The scarcity sits in the second half of the checklist — cards 19 to 36 were West-Coast-only and are much harder than the first eighteen",
+      "Fleer's Woody tattoo gum, often assumed to be vintage, is 1968"
+    ],
+    "estimatedValue": "Low tens of dollars for a collector-grade single, with series-two cards at a real premium. Sold comps are hard to reach, so treat this as provisional",
+    "image": "woody-woodpecker.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Walter Lantz wiki — Carnation Trading Cards, full 36-card checklist and the 1953/1954 series split",
+        "url": "https://walterlantz.fandom.com/api.php?action=parse&page=Carnation%20Trading%20Cards&prop=wikitext&format=json"
+      },
+      {
+        "label": "Jeff Allender's House of Checklists — the non-sports index, which carries no earlier Woody set",
+        "url": "https://nslists.com/actdc.htm"
+      }
+    ]
+  },
+  {
+    "id": "yogi-1961-barratt",
+    "franchise": "Yogi Bear",
+    "character": "Yogi Bear",
+    "year": 1961,
+    "setInfo": "1961 Barratt & Co. \"T.V.'s Huckleberry Hound and Friends\" #3, \"Artist Yogi\"",
+    "description": "Barratt, the British confectionery firm, put the Hanna-Barbera television roster onto a thirty-five-card sweet-cigarette-style issue in 1961. Yogi had been a supporting segment on The Huckleberry Hound Show since 1958 and did not yet have a show of his own — which is why his first card comes inside somebody else's set. Card three shows him in the green porkpie hat and bow tie at an easel.",
+    "funFacts": [
+      "He is not in the 1974 Wonder Bread Hanna-Barbera set that gave this database Scooby-Doo: that one runs to twenty-five cards and its roster is entirely 1972 to 1974 properties",
+      "Barratt's own \"T.V.'s Yogi Bear and Friends\" is 1964, not 1961 — it includes Snagglepuss and Ding-A-Ling, who are absent from the earlier roster",
+      "Barratt cards carry no printed date, so 1961 rests on the collecting literature rather than the cardboard"
+    ],
+    "estimatedValue": "About £42 for a Yogi single in excellent condition against £6 for a common from the same set; a complete thirty-five-card set £120 – £250",
+    "image": "yogi-bear.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Jeff Allender's House of Checklists — 1961 Barratt T.V.'s Huckleberry Hound and Friends, full checklist",
+        "url": "https://nslists.com/61huck.htm"
+      },
+      {
+        "label": "Jeff Allender's House of Checklists — 1974 Wonder Bread Hanna-Barbera Magic Trick Cards, with per-card attributions and no Yogi",
+        "url": "https://nslists.com/hanmagic.htm"
+      }
+    ]
+  },
+  {
+    "id": "pinkpanther-1972-fher",
+    "franchise": "The Pink Panther",
+    "character": "The Pink Panther",
+    "year": 1972,
+    "setInfo": "1972 Editorial Fher (Bilbao) \"La Pantera Rosa y el Inspector\" sticker collection",
+    "description": "The Panther arrived in a title sequence in 1963 and went nine years without a card. The first is a Spanish cromo album from Editorial Fher that reprints frames straight out of four cartoons — Pink-A-Boo, Pink Pistons, We Give Pink Stamps and the Inspector's Sea? Si', Sir! — with a fold-out Panther poster in the middle.",
+    "funFacts": [
+      "No 1960s Pink Panther card or sticker issue appears to exist at all: Anglo, Primrose, Barratt, Trebor, Dandy Gum, Monty Gum and Panini were all checked and none has one",
+      "The \"Panini 1973\" French album sold online is a seller error — Panini's own catalogue dates that 288-sticker collection to 1980",
+      "The centre poster is the condition killer; complete albums with it intact are the hard find"
+    ],
+    "estimatedValue": "About €0.65 a loose cromo; a complete album with its poster probably €150 – €350, though no confirmed sale exists",
+    "image": "pink-panther.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Antonio Saz — the complete 1972 Fher album photographed and described",
+        "url": "https://antoniosaz.blogspot.com/2015/08/la-pantera-rosa-album-de-cromos-fher.html"
+      },
+      {
+        "label": "Paninimania — Panini's La Panthère Rose, first published 1980, which rules out the claimed 1973 Panini album",
+        "url": "https://paninimania.com/?idf=15&idm=486&pag=cid508_alb"
+      }
+    ]
   }
 ]
