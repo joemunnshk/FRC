@@ -204,15 +204,19 @@
      overrule the aspect ratio, and the rows stop lining up. */
   min-height: 0;
   overflow: hidden;
-  display: grid;
-  place-items: center;
-  padding: 1.5rem 1.25rem 1rem;
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.045), transparent 70%);
 }
 
+/* Absolute, not a centred grid item: a percentage max-height cannot resolve
+   against a height that only aspect-ratio supplies, so a tall slab simply
+   overflowed and got cropped. Positioned against the box, 100% is definite. */
 .cc-thumb img {
+  position: absolute;
+  inset: 0;
   width: 100%;
   height: 100%;
+  padding: 1.5rem 1.25rem 1rem;
+  box-sizing: border-box;
   object-fit: contain;
   /* Graded slabs photograph against black; a soft lift stops them merging
      into the page without putting a box around the card. */
@@ -220,6 +224,10 @@
 }
 
 .cc-nocard {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
   font-family: var(--cc-mono);
   font-size: 0.7rem;
   letter-spacing: 0.1em;
@@ -305,7 +313,7 @@
     padding: 0 0.85rem 1rem;
   }
 
-  .cc-thumb {
+  .cc-thumb img {
     padding: 1rem 0.85rem 0.75rem;
   }
 
