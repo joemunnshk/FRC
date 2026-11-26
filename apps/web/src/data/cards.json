@@ -224,14 +224,15 @@
     "franchise": "Winnie-the-Pooh",
     "character": "Winnie-the-Pooh",
     "year": 1965,
-    "setInfo": "Walt Disney's Winnie the Pooh 'Card Library' — Pooh Rummy / Concentration / Honey Tree (1965)",
-    "description": "Pooh is one of the hardest 'first cards' to pin down. Despite being the third highest-grossing franchise on earth, he never got a classic gum-card debut. The earliest widely-collected Pooh card product is this 1965 Walt Disney 'Card Library' boxed set — three card games in one 39-cent pack — rather than a true collectible trading set. Dedicated Pooh trading cards only really arrive decades later.",
+    "setInfo": "1965 Pepys Series by Castell Brothers Ltd., London — \"Winnie the Pooh\", 44 cards, card #1 \"Winnie the Pooh\"",
+    "description": "Pooh is one of the hardest first cards to pin down: despite being one of the highest-grossing franchises on earth he never got a gum-card debut. What he got instead was a Pepys card game, published in London by Castell Brothers in 1965 — 44 cards and a rules booklet, with four numbered character cards at the front of the deck and Pooh himself as number one. The artwork is after Walt Disney Studios and E. H. Shepard, and the rules booklet opens on a redrawn Shepard map of the Hundred Acre Wood.",
     "funFacts": [
-      "One of the biggest franchises in history with no clean 'rookie card' — a genuine gap in the hobby",
-      "The 1965 release is a boxed set of card games, not a collectible trading set",
-      "A. A. Milne created Pooh in 1926; Disney only licensed him in 1961, which is why no pre-war card exists"
+      "The cards illustrate Winnie the Pooh and the Honey Tree — which was not released until 1966, so the cards reached shops a year before the film they depict",
+      "That featurette was the first Disney Pooh film and the last short Walt Disney personally supervised before his death in December 1966",
+      "The deck is weighted towards its stars: four Pooh, four Piglet, four Kanga and Roo, but only two Christopher Robin, and three each of the ten remaining cards",
+      "A. A. Milne created Pooh in 1926 and Disney only bought the film rights in 1961, which is why nothing pre-war exists"
     ],
-    "estimatedValue": "$30 – $200 for a complete boxed 1965 set, depending on condition",
+    "estimatedValue": "£25 – £70 for a complete boxed game with its rules booklet; singles rarely trade on their own",
     "image": "pooh.jpg",
     "noCardReason": "",
     "mediaRank": 3,
@@ -240,7 +241,16 @@
       "media",
       "icons"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Collecting Pepys — Winnie the Pooh, A Pepys Game: first published 1965 by Castell Brothers Ltd., 44 cards plus rules booklet, with the full card breakdown",
+        "url": "https://www.collectingpepys.org/post/winnie-the-pooh"
+      },
+      {
+        "label": "Collecting Pepys — Pepys and Walt Disney, the complete games, 1938 to 1967",
+        "url": "https://www.collectingpepys.org/post/pepys-and-walt-disney-the-complete-games"
+      }
+    ]
   },
   {
     "id": "star-wars-1977-topps",
@@ -710,7 +720,16 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — Dungeon Fighter Online, its revenue and its Asian free-to-play model",
+        "url": "https://en.wikipedia.org/wiki/Dungeon_Fighter_Online"
+      },
+      {
+        "label": "Jeff Allender's House of Checklists — the complete index of non-sports card sets, which carries no entry for this franchise",
+        "url": "https://nslists.com/jaall.htm"
+      }
+    ]
   },
   {
     "id": "cars-2025-topps-chrome",
@@ -768,7 +787,16 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — Candy Crush Saga, its earnings and its licensing history",
+        "url": "https://en.wikipedia.org/wiki/Candy_Crush_Saga"
+      },
+      {
+        "label": "Jeff Allender's House of Checklists — the complete index of non-sports card sets, which carries no entry for this franchise",
+        "url": "https://nslists.com/jaall.htm"
+      }
+    ]
   },
   {
     "id": "looney-tunes-1990-comic-ball",
@@ -1110,7 +1138,8 @@
     "funFacts": [
       "The card is stamped © TAITO CORP. 1985, so it is officially licensed rather than a bootleg",
       "Menko was the dominant Japanese card format from the 1970s to about 1985 — this one lands right at the end",
-      "Fleer put Pac-Man on cards in 1980, but no Western publisher ever did the same for Space Invaders"
+      "Fleer put Pac-Man on cards in 1980, but no Western publisher ever did the same for Space Invaders",
+      "Sourcing caveat: the card itself is documented only by Japanese marketplace listings — no checklist, catalogue or publisher page for it could be found, so treat the set details as provisional. The © TAITO CORP. 1985 line printed on the card is the only hard evidence of its year"
     ],
     "estimatedValue": "$15 – $120 for vintage licensed menko depending on condition",
     "image": "spaceinvaders.jpg",
@@ -1120,7 +1149,16 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — Space Invaders, Taito, 1978",
+        "url": "https://en.wikipedia.org/wiki/Space_Invaders"
+      },
+      {
+        "label": "Jeff Allender's House of Checklists — the complete index of non-sports card sets, which carries no entry for this franchise",
+        "url": "https://nslists.com/jaall.htm"
+      }
+    ]
   },
   {
     "id": "warcraft-2006-upper-deck",
@@ -1392,7 +1430,16 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — Grand Theft Auto, the series and its merchandising",
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto"
+      },
+      {
+        "label": "Jeff Allender's House of Checklists — the complete index of non-sports card sets, which carries no entry for this franchise",
+        "url": "https://nslists.com/jaall.htm"
+      }
+    ]
   },
   {
     "id": "rilakkuma-sanx-trading-cards",
@@ -1404,7 +1451,8 @@
     "funFacts": [
       "The packs advertise a twenty-card set and a rare holo chase — a real checklist, not a novelty",
       "San-X built the brand on stationery and plush, so the cards are a small sideline",
-      "Rilakkuma means 'relax bear' and has no story or cast, which makes a card set an odd fit"
+      "Rilakkuma means 'relax bear' and has no story or cast, which makes a card set an odd fit",
+      "Sourcing caveat: the card itself is documented only by Japanese marketplace listings — no checklist, catalogue or publisher page for it could be found, so treat the set details as provisional"
     ],
     "estimatedValue": "$2 – $25 per card; sealed Japanese packs go for more",
     "image": "rilakkuma.jpg",
@@ -1415,7 +1463,16 @@
       "media",
       "icons"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "San-X — official Rilakkuma 20th anniversary site, dating the character to 2003",
+        "url": "https://www.san-x.co.jp/rilakkuma/20th_anniversary/"
+      },
+      {
+        "label": "Jeff Allender's House of Checklists — the complete index of non-sports card sets, which carries no entry for this franchise",
+        "url": "https://nslists.com/jaall.htm"
+      }
+    ]
   },
   {
     "id": "monster-strike-wafer-cards",
@@ -1544,7 +1601,8 @@
     "funFacts": [
       "Nearly fifty years passed between the first Railway Series book and the first Thomas cards",
       "The earliest Thomas cards are Japanese prism cards, not British or American ones",
-      "They use photographs of the physical model railway, years before the show went computer-animated"
+      "They use photographs of the physical model railway, years before the show went computer-animated",
+      "Sourcing caveat: the card itself is documented only by Japanese marketplace listings — no checklist, catalogue or publisher page for it could be found, so treat the set details as provisional. Numbered Banpresto prism cards do turn up in Japanese auction listings, but no checklist for them exists"
     ],
     "estimatedValue": "$5 – $60 per prism card; Japanese sets are scarce in the West",
     "image": "thomas.jpg",
@@ -1555,7 +1613,16 @@
       "media",
       "icons"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Wikipedia — Thomas & Friends, the television series and its licensing",
+        "url": "https://en.wikipedia.org/wiki/Thomas_%26_Friends"
+      },
+      {
+        "label": "Jeff Allender's House of Checklists — the complete index of non-sports card sets, which carries no entry for this franchise",
+        "url": "https://nslists.com/jaall.htm"
+      }
+    ]
   },
   {
     "id": "fortnite-2019-panini",
@@ -1606,7 +1673,8 @@
     "funFacts": [
       "Menko are playing pieces first and collectibles second — you slam them down to flip your opponent's card",
       "The Japanese cards predate the American Power Rangers cards by around nineteen years",
-      "Exact menko sets are notoriously hard to date: most carry no year and no manufacturer mark"
+      "Exact menko sets are notoriously hard to date: most carry no year and no manufacturer mark",
+      "Sourcing caveat: the card itself is documented only by Japanese marketplace listings — no checklist, catalogue or publisher page for it could be found, so treat the set details as provisional. The 1975 date here is the series, not the menko: menko carry no year and no maker, so the cards cannot be dated precisely"
     ],
     "estimatedValue": "$10 – $150 for vintage 1970s menko depending on condition and character",
     "image": "powerrangers.jpg",
@@ -1616,7 +1684,16 @@
     "categories": [
       "media"
     ],
-    "sources": []
+    "sources": [
+      {
+        "label": "Japanese Wikipedia — 秘密戦隊ゴレンジャー, broadcast 5 April 1975 to 26 March 1977, the first Super Sentai series",
+        "url": "https://ja.wikipedia.org/wiki/%E7%A7%98%E5%AF%86%E6%88%A6%E9%9A%8A%E3%82%B4%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC"
+      },
+      {
+        "label": "Wikipedia — Super Sentai, with Gorenger as the 1975 original",
+        "url": "https://en.wikipedia.org/wiki/Super_Sentai"
+      }
+    ]
   },
   {
     "id": "middle-earth-1995-meccg",
@@ -6140,23 +6217,24 @@
     "franchise": "Disney",
     "character": "Donald Duck",
     "year": 1938,
-    "setInfo": "Castell Brothers \"Mickey's Fun Fair\" #13 — blue back, PSA 6",
-    "description": "Castell Brothers, a London card-game maker, licensed Disney for a set of children's game packs in the late thirties, and Donald is card 13 of Mickey's Fun Fair. He is drawn in top hat and tails against a loose red brushstroke, four years after his debut in The Wise Little Hen — and a good deal angrier-looking than the formal wear suggests.",
+    "setInfo": "1938 Castell Brothers \"Shuffled Symphonies\" #1, \"Donald Duck\" (red- and blue-backed twin packs)",
+    "description": "Castell Brothers of London published Shuffled Symphonies anonymously in 1938 — 45 cards, two each of twenty-two Disney characters plus a single Big Bad Wolf, sold in twin red and blue boxes and pushed hard through a Pears Soap promotion. Donald is card number one, drawn mid-strut in his sailor top with one hand thrown out, his name printed along the bottom edge. He had arrived in The Wise Little Hen in 1934, so four years passed between his debut and his first card.",
     "funFacts": [
-      "A British card game, not an American gum card — Castell Brothers were a London firm",
-      "Donald had only existed since 1934, when he turned up as a supporting player in a Silly Symphony",
-      "He went on to appear in more films than any other Disney character, Mickey included"
+      "He is card #1 of the set, the number printed in both top-left and bottom-right corners like a playing card, because Shuffled Symphonies is a game rather than a collectible issue",
+      "The game was published anonymously — Castell Brothers put no Pepys branding on it at all — but it was advertised alongside their Snow White game and carries a Pears Soap advert on the back of its rule book",
+      "Its date is anchored by a newspaper advertisement in the Daily Herald of Wednesday 23 November 1938, which is firmer evidence than most pre-war card sets can offer",
+      "The grade spread is brutal for a card this old: a PSA 2 can be had for a few dollars while a PSA 6 is listed near $500"
     ],
-    "estimatedValue": "$150–400 in PSA 6",
-    "image": "donald-duck-1938-castell.jpg",
+    "estimatedValue": "$25 – $140 raw depending on condition and back colour; about $4 in PSA 2, and listed near $500 in PSA 6",
+    "image": "donald-duck-shuffled.jpg",
     "sources": [
       {
-        "label": "Wikipedia — Donald Duck",
-        "url": "https://en.wikipedia.org/wiki/Donald_Duck"
+        "label": "Collecting Pepys — Shuffled Symphonies: first published 1938 by Castell Brothers, 45 cards, with the full character list and the Daily Herald advertisement of 23 November 1938",
+        "url": "https://www.collectingpepys.org/post/shuffled-symphonies"
       },
       {
-        "label": "Wikipedia — The Wise Little Hen",
-        "url": "https://en.wikipedia.org/wiki/The_Wise_Little_Hen"
+        "label": "Collecting Pepys — Mickey's Fun Fair, first published 1939, the set this card was previously and wrongly attributed to",
+        "url": "https://www.collectingpepys.org/post/mickey-s-fun-fair"
       }
     ]
   },
@@ -8045,6 +8123,73 @@
       {
         "label": "Wikipedia — \"Joker's Favor\", first broadcast 11 September 1992, Harley Quinn's debut",
         "url": "https://en.wikipedia.org/wiki/Joker%27s_Favor"
+      }
+    ]
+  },
+  {
+    "id": "venom-1988-comicimages",
+    "franchise": "Venom",
+    "character": "Venom",
+    "year": 1988,
+    "setInfo": "1988 Comic Images \"World of Spider-Man\" sticker #50",
+    "description": "Venom was only months old when this came out — he had taken proper form in Amazing Spider-Man #300 in May 1988 — and Comic Images put him at the very end of its fifty-sticker Spider-Man set the same year. Sticker #50 is the symbiote head alone against a yellow crescent, jaw open, tongue out. The stickers measure 2 x 3 inches, came four to a pack, and were split across six different frame designs; this one uses the black \"Brickwork\" border.",
+    "funFacts": [
+      "The stickers carry a number on the front but no title at all — the only text printed on #50 is \"TM & © 1988 MARVEL ENT. GP., INC.\", so the name Venom comes from graders and databases rather than from the set itself",
+      "Collation on the set was dreadful: the collector who documented it bought a complete sealed box, got a dozen copies of sticker #1 and not a single #50",
+      "It is routinely mis-credited. Sellers who know the set advertise it as the \"true RC, not 1989\" — the 1989 Comic Images Todd McFarlane #3 and the 1990 Impel Marvel Universe I #73 are both later"
+    ],
+    "estimatedValue": "$40 – $150 raw; graded copies are listed at $1,000 and up, though those are asking prices rather than settled sales",
+    "image": "venom.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "SpiderFan.org — 1988 Comic Images World of Spider-Man Stickers: fifty 2\" x 3\" stickers, four to a pack, six sub-set designs, numbered but untitled",
+        "url": "https://spiderfan.org/title/cards/1988_ci_world_of_spiderman.html"
+      },
+      {
+        "label": "SpiderFan.org — 1989 Comic Images Marvel Comics: Todd McFarlane, the 45-card set whose #3 Venom is often wrongly called the first",
+        "url": "https://spiderfan.org/title/cards/1989_mcfarlane1.html"
+      },
+      {
+        "label": "Wikipedia — Venom, first full appearance in The Amazing Spider-Man #300, May 1988",
+        "url": "https://en.wikipedia.org/wiki/Venom_(character)"
+      }
+    ]
+  },
+  {
+    "id": "goofy-1938-castell",
+    "franchise": "Disney",
+    "character": "Goofy",
+    "year": 1938,
+    "setInfo": "1938 Castell Brothers \"Shuffled Symphonies\", \"Goofy\" (red- and blue-backed twin packs)",
+    "description": "Goofy had been on screen since 1932, first as Dippy Dawg, and spent the whole of the thirties without a card — he is absent from the 1935 Gum, Inc. Mickey Mouse set, whose supporting cast runs to Minnie, Pluto, Horace Horsecollar and Clarabelle Cow and stops there. He finally turns up in Britain, in a Castell Brothers card game of 45 cards covering twenty-two Disney characters, standing in his red shirt and patched blue trousers with his name printed along the bottom edge.",
+    "funFacts": [
+      "The 1935 Gum, Inc. R89 set and its R90 continuation between them run to 120 cards without a single Goofy, which is how a character six years into his career ended up with a British card game for a rookie",
+      "The card names him on the front, which matters here: the project's recurring trap is sets where the checklist title and the figure pictured are not the same thing",
+      "Sellers who know the set advertise it as his rookie outright — \"GOOFY ROOKIE 1ST DISNEY CARD 1938 CASTELL SHUFFLED SYMPHONIES\"",
+      "The year is contested within one source: Collecting Pepys dates the game 1938 on its own page, citing a Daily Herald advertisement of 23 November 1938, but lists it as 1939 on its Disney overview page. The dated newspaper advert is the stronger evidence"
+    ],
+    "estimatedValue": "$25 – $150 raw depending on condition and back colour, with the better copies at the top of that band",
+    "image": "goofy.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Collecting Pepys — Shuffled Symphonies: first published 1938 by Castell Brothers, 45 cards, with Goofy named in the character list and the Daily Herald advertisement of 23 November 1938",
+        "url": "https://www.collectingpepys.org/post/shuffled-symphonies"
+      },
+      {
+        "label": "Jeff Allender's House of Checklists — 1935 Gum, Inc. Mickey Mouse (R89) and the R90 continuation, neither of which contains Goofy",
+        "url": "https://nslists.com/mickey35.htm"
       }
     ]
   }
