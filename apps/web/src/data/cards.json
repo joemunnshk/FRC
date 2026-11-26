@@ -6354,5 +6354,75 @@
         "url": "https://sirusgaming.com/psx-2018-sea-guide/"
       }
     ]
+  },
+  {
+    "id": "horizon-2016-psx",
+    "franchise": "Horizon",
+    "character": "Aloy",
+    "year": 2016,
+    "setInfo": "PlayStation Collectible Cards, Series 2 #045",
+    "description": "Sony's second series of event cards was handed out at PlayStation Experience in Anaheim on 3 December 2016 — three months before Horizon Zero Dawn reached shops. Aloy's first card therefore pictures a character almost nobody had played yet, bow drawn on a Thunderjaw, from a game that was still a promise.",
+    "funFacts": [
+      "Printed before the game existed: Horizon Zero Dawn did not reach shops until 28 February 2017",
+      "Commons were run five to ten times as often as the holographic rares, which are marked with an asterisk after the card number",
+      "Sony ran the whole programme in-house — no card manufacturer was ever involved, and the printer has never been named in public"
+    ],
+    "estimatedValue": "$8 – $20 asking; no graded population exists",
+    "image": "horizon-aloy.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "PlayStation.Blog — PS Experience 2016: collectible cards are back",
+        "url": "https://blog.playstation.com/2016/10/21/ps-experience-2016-collectible-cards-are-back/"
+      },
+      {
+        "label": "PSX Cards — 2016 Set 2 checklist (#045 Horizon Zero Dawn)",
+        "url": "https://psxcards.weebly.com/2016---set-2.html"
+      },
+      {
+        "label": "GamesRadar+ — Everything we know about Sony's PlayStation collectible cards",
+        "url": "https://www.gamesradar.com/sony-playstation-collectible-cards/"
+      }
+    ]
+  },
+  {
+    "id": "detroit-2017-psx",
+    "franchise": "Detroit: Become Human",
+    "character": "Connor",
+    "year": 2017,
+    "setInfo": "PlayStation Collectible Cards, Series 3 #089",
+    "description": "Quantic Dream's androids got their first card at PlayStation Experience in Anaheim on 9–10 December 2017, five months before the game shipped. The art carries all three playable leads — Connor at the top, Kara below him and Markus filling the right half — so one card is technically the rookie card for the entire cast.",
+    "funFacts": [
+      "Printed five months before release: Detroit: Become Human did not ship until 25 May 2018",
+      "Detroit was announced at Paris Games Week in October 2015, yet Sony skipped it for two whole card series before this one",
+      "Series 3 cards were earned through quests tracked in the Experience PlayStation app, as well as by scanning a badge at a booth"
+    ],
+    "estimatedValue": "$8 – $20 asking; no graded population exists",
+    "image": "detroit-connor.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "PlayStation.Blog — PlayStation collectible cards return to PlayStation Experience 2017",
+        "url": "https://blog.playstation.com/2017/10/19/playstation-collectible-cards-return-to-playstation-experience-2017/"
+      },
+      {
+        "label": "PSX Cards — 2017 Set 3 checklist (#089 Detroit: Become Human)",
+        "url": "https://psxcards.weebly.com/2017---set-3.html"
+      },
+      {
+        "label": "GamesRadar+ — Everything we know about Sony's PlayStation collectible cards",
+        "url": "https://www.gamesradar.com/sony-playstation-collectible-cards/"
+      }
+    ]
   }
 ]
