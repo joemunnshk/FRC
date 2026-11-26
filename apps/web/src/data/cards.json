@@ -7376,5 +7376,106 @@
         "url": "https://www.worthplaying.com/article/2022/2/16/news/130711-among-us-collectors-editions-gets-retail-date/"
       }
     ]
+  },
+  {
+    "id": "totoro-no-card",
+    "franchise": "Studio Ghibli",
+    "character": "Totoro",
+    "year": 1988,
+    "setInfo": "No trading card release",
+    "description": "My Neighbour Totoro opened in April 1988 and Studio Ghibli refused almost all character merchandising around it. Miyazaki only relented on soft toys when Sun Arrow brought him samples he liked, and those sold 666,920 units during the theatrical run. Tokuma Shoten's own 1995 catalogue of seven years of licensed Totoro goods photographs hundreds of items — plush, tableware, puzzles, calendars, posters, telephone cards, CDs — and not one trading card. Nothing has appeared since.",
+    "funFacts": [
+      "The \"1988 Ensky Totoro playing cards\" sold all over the internet are mis-dated: that deck is from 2010, and the © 1988 on its back is the film's copyright line, not a print date — Ensky did not even exist as a separate company until 2005",
+      "Ghibli did licence telephone cards in 1988, which are card-shaped and collected but are not trading cards; the same is true of the Totoro karuta",
+      "Nothing earlier exists either — Nausicaä (1984) and Castle in the Sky (1986) have no trading card between them"
+    ],
+    "estimatedValue": "Not applicable — no trading cards exist",
+    "image": "",
+    "noCardReason": "Studio Ghibli kept Totoro out of the card market entirely. Tokuma Shoten's own 1988–1995 merchandise catalogue lists telephone cards but no trading cards, and the long-running anime card checklists — which carry Akira, Ghost in the Shell, Sailor Moon and Ranma ½ — have no Ghibli entry at all. Beware the Chinese \"Ghibli CCG\" boosters dated 2023–24: they name no licensor and are not official.",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "World of Playing Cards — dates the Ensky Totoro deck to 2010, not 1988",
+        "url": "https://www.wopc.co.uk/japan/my-neighbor-totoro"
+      },
+      {
+        "label": "GhibliWiki — All Things Totoro 1988–1995, Tokuma's own merchandise catalogue",
+        "url": "https://nausicaa.net/wiki/All_Things_Totoro_1988-1995"
+      },
+      {
+        "label": "Jeff Allender's House of Checklists — anime and manga card index, with no Ghibli entry",
+        "url": "https://nslists.com/actdc.htm"
+      }
+    ]
+  },
+  {
+    "id": "jjk-2021-gojo",
+    "franchise": "Jujutsu Kaisen",
+    "character": "Satoru Gojo",
+    "year": 2021,
+    "setInfo": "2021 Bandai Candy 呪術廻戦ウエハース (Jujutsu Kaisen Wafer) series 1",
+    "description": "The manga had run in Weekly Shonen Jump since March 2018 with no card merchandise at all. Cards arrived only once MAPPA's anime did: Bandai Candy announced this wafer on 22 September 2020, eleven days before episode one aired, and shipped it that January. One metallic card and a wafer for ¥120, twenty-five cards in all — fourteen character, four visual and seven gold-foil specials with newly drawn art.",
+    "funFacts": [
+      "Announced before the anime aired, so Gojo's first card was in production before anyone had seen a single episode",
+      "They are not paper: opaque metallic plastic placards, marketed on the strength of an eerie sheen",
+      "Two official release dates coexist — the anime's own site says 18 January for the convenience-store advance, Bandai Candy says 25 January for the general release"
+    ],
+    "estimatedValue": "$4 – $15 for a loose single; the gold-foil special meaningfully more",
+    "image": "satoru-gojo.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Bandai Candy — official product page, 25 January 2021",
+        "url": "https://www.bandai.co.jp/candy/products/2021/4549660551485000.html"
+      },
+      {
+        "label": "Dengeki Online — release-day article, 25 January 2021, with the 14/4/7 breakdown",
+        "url": "https://dengekionline.com/articles/64147/"
+      },
+      {
+        "label": "Dengeki Hobby — the announcement, 22 September 2020",
+        "url": "https://hobby.dengeki.com/news/1078768"
+      }
+    ]
+  },
+  {
+    "id": "spyfamily-2022-anya",
+    "franchise": "Spy × Family",
+    "character": "Anya Forger",
+    "year": 2022,
+    "setInfo": "2022 Ensky SPY×FAMILY クリアカードコレクションガム #02 (July 2022)",
+    "description": "Spy × Family began on Shonen Jump+ in March 2019 and produced no trading cards through its manga-only years. Anya's first card followed the April 2022 anime: Ensky's clear PVC cards, two per ¥220 pack with soda gum, thirty-two in the set. It beat Bandai Candy's metallic Spy × Family wafer to shelves by about three months and Bushiroad's Weiss Schwarz booster by a year, so her rookie is a gum card rather than a game card.",
+    "funFacts": [
+      "A month later Ensky reissued the identical thirty-two designs without the gum as a ¥110 single-card pack, so the same Anya card exists in two 2022 products",
+      "She appears on at least five of the thirty-two cards — unusual saturation even for the character who sells the show",
+      "Watch the numbering: the widely listed \"No.024 Anya Forger\" belongs to Bandai's later November 2022 wafer, not this set"
+    ],
+    "estimatedValue": "$2 – $6 for a single; a complete thirty-two-card set about $10",
+    "image": "anya-forger.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "HobbyLink Japan — Ensky clear card collection gum, original release 26 July 2022",
+        "url": "https://www.hlj.co.jp/product/AMD48756"
+      },
+      {
+        "label": "Bandai Candy — SPY×FAMILY wafer, 7 November 2022, i.e. the later product",
+        "url": "https://www.bandai.co.jp/candy/products/2022/4549660835509000.html"
+      }
+    ]
   }
 ]
