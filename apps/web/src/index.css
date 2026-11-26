@@ -122,7 +122,7 @@ p {
 /* Header */
 
 .site-header {
-  padding: 2.25rem 0 2rem;
+  padding: 1.75rem 0 1.5rem;
   border-bottom: 1px solid var(--border);
 }
 
@@ -170,7 +170,7 @@ p {
 
 .masthead-full {
   display: block;
-  width: clamp(165px, 20vw, 210px);
+  width: clamp(142px, 16vw, 172px);
   height: auto;
   margin: 0 auto;
 }
