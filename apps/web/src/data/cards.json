@@ -7038,5 +7038,75 @@
         "url": "https://en.wikipedia.org/wiki/Scooby-Doo,_Where_Are_You!"
       }
     ]
+  },
+  {
+    "id": "motu-1984-heman",
+    "franchise": "Masters of the Universe",
+    "character": "He-Man",
+    "year": 1984,
+    "setInfo": "1984 Topps Masters of the Universe, peel-off sticker #19 \"He-Man & Battle Cat\"",
+    "description": "The toy line began in 1982 and Filmation's cartoon entered US syndication in September 1983, but Topps' 88-card set with its 21 peel-off stickers is the first firmly dated US card issue. The base cards tell the story in comic panels and are mostly scenery — #3 is Snake Mountain, #25 is Skeletor monologuing — so the stickers are where the characters themselves appear. Number 19 puts He-Man on Battle Cat with the sword up.",
+    "funFacts": [
+      "Panini issued a 216-sticker Masters of the Universe album in Europe credited 1983, a year earlier — but every \"1983\" traces back to the same printed copyright line, and the cartoon did not reach Italian television until 1984, so the shelf date is genuinely disputed",
+      "Topps shipped the set in four different wrappers: He-Man, Skeletor, Orko and Teela",
+      "Sticker #19 exists with both blue- and red-bordered puzzle backs"
+    ],
+    "estimatedValue": "$5 – $20 raw; $40 – $120 graded",
+    "image": "he-man.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1984 Topps Masters of the Universe",
+        "url": "https://www.cardboardconnection.com/1984-topps-masters-universe-trading-cards"
+      },
+      {
+        "label": "Jeff Allender's House of Checklists — 1984 Topps Masters of the Universe",
+        "url": "https://nslists.com/mastuniv.htm"
+      },
+      {
+        "label": "Internet Archive — Panini Masters of the Universe sticker album, dated 1983",
+        "url": "https://archive.org/details/he-man-and-the-masters-of-the-universe-panini-sticker-album"
+      }
+    ]
+  },
+  {
+    "id": "minecraft-2015-steve",
+    "franchise": "Minecraft",
+    "character": "Steve",
+    "year": 2015,
+    "setInfo": "2015 Just Toys Intl. / J!NX Minecraft Collectible Sticker-Cards (unnumbered)",
+    "description": "Mojang's first physical card product was a cheap sticker-card line released in July 2015 and sold in J!NX-branded three-sticker packs. The fronts are die-cut stickers and the backs are poster-puzzle pieces, covering Steve, the Creeper, Endermen, villagers and mobs. It arrived at the peak of Minecraft's mainstream moment, a year after Microsoft bought Mojang for $2.5bn.",
+    "funFacts": [
+      "The widely repeated \"2014 Panini Minecraft\" set does not exist — Panini did not touch Minecraft until 2021, and its first actual trading cards are 2024",
+      "The whole set is unnumbered, so there is no \"#1 Steve\" — part of why graded copies barely exist",
+      "Steve had no official name for years: Notch jokingly called him \"Mr. Minecraft\", then tweeted the name with a question mark, and Pocket Edition Lite called him \"Stevie\""
+    ],
+    "estimatedValue": "$3 – $12 raw; $10 – $25 for the foil parallel",
+    "image": "steve.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "ToyWiz — July 2015 release, UCC Distributing, three stickers per pack",
+        "url": "https://toywiz.com/minecraft-trading-card-stickers-pack/"
+      },
+      {
+        "label": "Minecraft Wiki — Steve naming history",
+        "url": "https://minecraft.wiki/w/Steve"
+      },
+      {
+        "label": "Guinness World Records — first Minecraft card game (Mattel, 2015), a game rather than trading cards",
+        "url": "https://www.guinnessworldrecords.com/world-records/519045-first-minecraft-card-game"
+      }
+    ]
   }
 ]
