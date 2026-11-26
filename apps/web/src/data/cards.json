@@ -6770,5 +6770,168 @@
         "url": "https://www.coleka.com/en/stickers/panini-stickers/2000-to-2004/finding-nemo_r17665"
       }
     ]
+  },
+  {
+    "id": "halo-2007-masterchief",
+    "franchise": "Halo",
+    "character": "Master Chief",
+    "year": 2007,
+    "setInfo": "2007 Topps Halo #1",
+    "description": "Topps' Halo set was the first and only licensed Halo card release of the Xbox era, issued around the September 2007 launch of Halo 3 — the biggest entertainment launch of its day. The 90-card base set opens with Master Chief at #1, then Cortana, Captain Keyes, the UNSC Marine Corps and Sgt. Johnson, and mixes game art with an \"Art of Halo\" subset, Halo 3 previews, cards tied to Marvel's Halo Uprising comic and newly commissioned artwork.",
+    "funFacts": [
+      "Topps handed out two promos at San Diego Comic-Con in July 2007, two months before the set reached shops — P1 is \"The Master Chief\", so strictly speaking that is his earliest card",
+      "He is #1 in three different subsets at once: the base set, the Embossed Foil parallel and the retail-only Flix-Pix lenticulars",
+      "Hobby packs carried hand-drawn sketch cards at 1:24 and never went to retail, while the lenticulars were retail-only at 1:12, so no single box configuration could complete the master set"
+    ],
+    "estimatedValue": "$5 – $20 raw; $150 – $400 in PSA 10",
+    "image": "master-chief.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Jeff Allender's House of Checklists — 2007 Topps Halo, with the P1 and P2 promos",
+        "url": "https://www.nslists.com/halo07.htm"
+      },
+      {
+        "label": "Trader Cracks — 2007 Topps Halo checklist and box configuration",
+        "url": "https://www.tradercracks.com/2007-topps-halo-trading-cards-checklist"
+      },
+      {
+        "label": "Halopedia — Halo Trading Cards (Topps)",
+        "url": "https://halopedia.org/Halo_Trading_Cards"
+      }
+    ]
+  },
+  {
+    "id": "finalfantasy-1997-cloud",
+    "franchise": "Final Fantasy",
+    "character": "Cloud Strife",
+    "year": 1997,
+    "setInfo": "1997 Bandai Carddass Masters Final Fantasy VII #1 (prism foil)",
+    "description": "Final Fantasy VII shipped in Japan on 31 January 1997 and became the best-selling PlayStation game. Bandai, which had run the Carddass vending licence since 1988, put it into both its ¥20-a-card vending machines and its collector-oriented sealed-pack Carddass Masters line the same year. Cloud anchors both at #1. The cards reproduce Square's own renders with profiles and story excerpts on the back — appreciation cards with no game attached.",
+    "funFacts": [
+      "Bandai's Final Fantasy cards had no playable element at all until the 1999 FFVIII release, which finally reproduced Triple Triad",
+      "Both 1997 lines were reprinted, so Japanese sellers grade them by 初版 — first print — and later runs trade for a fraction",
+      "PSA confusingly slabs the companion vending set as \"1996 Final Fantasy VII Carddass Vending\", a year before the game existed"
+    ],
+    "estimatedValue": "$5 – $200+ depending on print, parallel and grade",
+    "image": "cloud-strife.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Jeff Allender's House of Checklists — 1997 Bandai FFVII Carddass Masters (#1 Cloud Strife)",
+        "url": "https://nslists.com/finfa7cm.htm"
+      },
+      {
+        "label": "Jeff Allender's House of Checklists — 1997 Bandai FFVII Vending Collection Series 1",
+        "url": "https://nslists.com/finfa7v1.htm"
+      },
+      {
+        "label": "Wikipedia — Final Fantasy VII (Japanese release 31 January 1997)",
+        "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII"
+      }
+    ]
+  },
+  {
+    "id": "evangelion-1996-rei",
+    "franchise": "Neon Genesis Evangelion",
+    "character": "Rei Ayanami",
+    "year": 1996,
+    "setInfo": "1996 Bandai Carddass Masters Neon Genesis Evangelion, Volume 1 #04 (first edition)",
+    "description": "Evangelion aired from October 1995 to March 1996 with almost no card merchandise during its run. The first cards came about five months after the finale, when Bandai launched the 172-card Carddass Masters 第壱集 on 31 August 1996 at ¥300 for ten. The brief was to reproduce every existing Evangelion illustration, so only four of the 172 were newly drawn. Rei shares the set with Shinji and Unit-01 — nothing separates them by date.",
+    "funFacts": [
+      "First printing is identified by a blank space above the Bandai logo at the lower right of the pack; later runs print 第2版 or 第3版 there",
+      "Bandai's mail-in lottery for Rei and Kaworu cards was so oversubscribed that it had to extend the deadline and raise the prize count above a thousand",
+      "Bandai reprinted all 172 in July 2021 and stated outright that the reprints are not the same designs — the cleanest reprint tell this franchise has"
+    ],
+    "estimatedValue": "$2 – $12 for first-edition commons; a Rei SP has reached about $110",
+    "image": "rei-ayanami.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "evacollector — Carddass Masters 第壱集 unopened box: edition tells, lottery, contents",
+        "url": "https://evacollector.com/eva-no1242-cdm1-box/"
+      },
+      {
+        "label": "EVA-info — 2021 reprint announcement confirming the 1996 original and its 172 cards",
+        "url": "https://www.eva-info.jp/13316"
+      }
+    ]
+  },
+  {
+    "id": "animalcrossing-2002-tomnook",
+    "franchise": "Animal Crossing",
+    "character": "Tom Nook",
+    "year": 2002,
+    "setInfo": "2002 Nintendo Animal Crossing-e Series 1 #004 (SP)",
+    "description": "The e-Reader cards beat the famous amiibo cards by thirteen years. Four Dōbutsu no Mori+ Card-e series ran in Japan from February to October 2002, and the North American Animal Crossing-e line followed from October 2002, mostly localised from the Japanese cards. Tom Nook is #004, right behind K.K. Slider, Rover and Porter.",
+    "funFacts": [
+      "Scanning the card at the in-game post office's e-Reader Transfer Machine delivers a letter and a tape deck from Nook himself",
+      "The card data is region-locked — a Japanese card will not scan on a North American e-Reader, and the e-Reader never launched in Europe at all",
+      "The Series 4 Classic Game Cards deliver NES games from Tom Nook but are not Tom Nook cards, which is an easy cataloguing trap"
+    ],
+    "estimatedValue": "$4 – $15 loose; sealed Japanese Series 1 packs $25 – $60",
+    "image": "tom-nook.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Nookipedia — 004 Tom Nook (Animal Crossing-e)",
+        "url": "https://nookipedia.com/wiki/004_Tom_Nook_(Animal_Crossing-e)"
+      },
+      {
+        "label": "Nookipedia — e-Reader card series, counts and February 2002 start",
+        "url": "https://nookipedia.com/wiki/E-Reader_card"
+      }
+    ]
+  },
+  {
+    "id": "incredibles-2004-mrincredible",
+    "franchise": "The Incredibles",
+    "character": "Mr. Incredible",
+    "year": 2004,
+    "setInfo": "2004 Upper Deck Disney Pixar Treasures #DPT-106 (Memorable Scenes)",
+    "description": "The Incredibles opened on 5 November 2004 and Upper Deck's 100-card Disney Pixar Treasures set came out that October, covering the first six Pixar films. The Incredibles base subset runs DPT-83 to DPT-90; the fifty Memorable Scenes inserts that follow give the brand-new film far more room than its eight base cards. This one catches Bob Parr slumped at his insurance desk — Mr. Incredible with the costume packed away.",
+    "funFacts": [
+      "Upper Deck gave a film nobody had seen yet fifty Memorable Scenes inserts, five times its eight base cards",
+      "The same 100-card base set also carries DPT-100 \"Young Mr. Incredible\" in its Concept Art subset, so two different eras of him appear in one set",
+      "Panini's 198-sticker Incredibles album of the same year included two one-of-25 prize vouchers for GameCube and Game Boy Advance bundles"
+    ],
+    "estimatedValue": "$1 – $4 raw; sealed 2004 boxes $40 – $100",
+    "image": "mr-incredible.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Trader Cracks — 2004 Upper Deck Disney Pixar Treasures checklist",
+        "url": "https://www.tradercracks.com/2004-upper-deck-disney-pixar-treasures-trading-cards"
+      },
+      {
+        "label": "Jeff Allender's House of Checklists — The Incredibles album stickers (Panini, 2004)",
+        "url": "https://nslists.com/incredas.htm"
+      }
+    ]
   }
 ]
