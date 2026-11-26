@@ -1,0 +1,343 @@
+/* Collector Crypt branding applied to the FRC gallery.
+   Everything is scoped under .cc so it cannot leak into the live design.
+
+   Colours are sampled from the brand deck itself, not guessed:
+   the page black, the gradient ramp stops and the mono label amber all come
+   from pixel samples of "Collector Crypt Brand Kit #1". The surface greys and
+   the mint value colour come from computed styles on collectorcrypt.com. */
+/* The mockup supplies its own masthead, so the live one steps aside. */
+#root:has(.cc) .site-header {
+  display: none;
+}
+
+.cc {
+  --cc-black: #101010;
+  --cc-panel: #1b1b1d;
+  --cc-raised: #161618;
+  --cc-line: rgba(117, 117, 117, 0.3);
+  --cc-line-strong: #44444b;
+  --cc-white: #ffffff;
+  --cc-grey: #9f9fa8;
+  --cc-faint: #6c6c75;
+  --cc-amber: #f7b70d;
+  --cc-mint: #2ef098;
+
+  --cc-serif: 'Instrument Serif', Georgia, serif;
+  --cc-sans: 'Inter', system-ui, sans-serif;
+  --cc-mono: 'Space Mono', ui-monospace, monospace;
+
+  position: relative;
+  min-height: 100vh;
+  padding: 0 0 4rem;
+  background: var(--cc-black);
+  color: var(--cc-white);
+  font-family: var(--cc-sans);
+}
+
+/* The deck prints everything over a fine paper grain. A single SVG turbulence
+   layer at very low opacity gets the same effect without an image request. */
+.cc-grain {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.4;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='0.22'/%3E%3C/svg%3E");
+}
+
+.cc > *:not(.cc-grain) {
+  position: relative;
+}
+
+/* Masthead */
+
+.cc-head {
+  padding: 3rem 2rem 2.25rem;
+}
+
+.cc-head-row {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+}
+
+.cc-logo {
+  width: clamp(150px, 15vw, 180px);
+  height: auto;
+  flex: none;
+  color: var(--cc-white);
+}
+
+.cc-tagline {
+  margin: 0;
+  max-width: 44ch;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--cc-grey);
+}
+
+/* The signature ramp: blue through white to red, exactly the deck's stops. */
+.cc-ramp {
+  height: 3px;
+  background: linear-gradient(
+    90deg,
+    #0d57fb 0%,
+    #0b82f9 12%,
+    #49bbf4 24%,
+    #f3f5e8 38%,
+    #fdf5d6 48%,
+    #f3c309 62%,
+    #f7b70d 72%,
+    #ec7808 86%,
+    #d4090b 100%
+  );
+}
+
+/* Toolbar */
+
+.cc-bar {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 1.5rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.cc-tabs {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.cc-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.55rem 1rem;
+  border: 1px solid var(--cc-line);
+  border-radius: 999px;
+  background: var(--cc-panel);
+  color: var(--cc-grey);
+  font-family: var(--cc-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.cc-pill:hover {
+  border-color: var(--cc-line-strong);
+  color: var(--cc-white);
+}
+
+.cc-pill.on {
+  background: var(--cc-white);
+  border-color: var(--cc-white);
+  color: #101010;
+}
+
+.cc-pill-n {
+  font-size: 0.65rem;
+  opacity: 0.55;
+}
+
+.cc-bar-right {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.cc-search {
+  min-width: 300px;
+  padding: 0.6rem 1rem;
+  border: 1px solid var(--cc-line);
+  border-radius: 8px;
+  background: var(--cc-raised);
+  color: var(--cc-faint);
+  font-size: 0.85rem;
+}
+
+.cc-count {
+  font-family: var(--cc-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--cc-amber);
+  white-space: nowrap;
+}
+
+/* Grid — hairline rules between tiles, the way the marketplace draws them:
+   a 1px gap over a lighter backdrop reads as a ruled table, not as cards
+   floating on a page. It suits a database. */
+
+.cc-grid {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(215px, 1fr));
+  gap: 1px;
+  background: var(--cc-line);
+  border-block: 1px solid var(--cc-line);
+  align-items: stretch;
+}
+
+.cc-tile {
+  background: var(--cc-black);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  transition: background 150ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.cc-tile:hover {
+  background: var(--cc-raised);
+}
+
+.cc-thumb {
+  position: relative;
+  aspect-ratio: 4 / 5;
+  /* min-height:0 matters: without it the image's own min-content height can
+     overrule the aspect ratio, and the rows stop lining up. */
+  min-height: 0;
+  overflow: hidden;
+  display: grid;
+  place-items: center;
+  padding: 1.5rem 1.25rem 1rem;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.045), transparent 70%);
+}
+
+.cc-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  /* Graded slabs photograph against black; a soft lift stops them merging
+     into the page without putting a box around the card. */
+  filter: drop-shadow(0 6px 18px rgba(0, 0, 0, 0.7));
+}
+
+.cc-nocard {
+  font-family: var(--cc-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  color: var(--cc-faint);
+}
+
+.cc-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 0 1.25rem 1.25rem;
+}
+
+.cc-meta {
+  font-family: var(--cc-mono);
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--cc-faint);
+  margin-bottom: 0.5rem;
+}
+
+.cc-dot {
+  opacity: 0.6;
+}
+
+.cc-name {
+  margin: 0 0 0.3rem;
+  font-family: var(--cc-sans);
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  color: var(--cc-white);
+}
+
+.cc-set {
+  font-size: 0.78rem;
+  line-height: 1.4;
+  color: var(--cc-grey);
+  margin-bottom: 0.7rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.cc-value {
+  margin-top: auto;
+  font-family: var(--cc-mono);
+  font-size: 0.85rem;
+  color: var(--cc-mint);
+}
+
+/* Footer — the three-column mono rule the brand posters all carry. */
+
+.cc-foot {
+  max-width: 1400px;
+  margin: 3rem auto 0;
+  padding: 1.25rem 2rem;
+  border-top: 1px solid var(--cc-line);
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  font-family: var(--cc-mono);
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  color: var(--cc-faint);
+}
+
+@media (max-width: 720px) {
+  .cc-head {
+    padding: 2rem 1.25rem 1.5rem;
+  }
+
+  /* Two across on a phone. One column makes each slab enormous and turns the
+     gallery into a scroll marathon. */
+  .cc-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .cc-body {
+    padding: 0 0.85rem 1rem;
+  }
+
+  .cc-thumb {
+    padding: 1rem 0.85rem 0.75rem;
+  }
+
+  .cc-name {
+    font-size: 0.9rem;
+  }
+
+  .cc-set {
+    font-size: 0.72rem;
+  }
+
+  .cc-head-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.25rem;
+  }
+
+  .cc-bar {
+    padding: 1.25rem;
+  }
+
+  .cc-tabs {
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .cc-search {
+    display: none;
+  }
+
+  .cc-foot {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
