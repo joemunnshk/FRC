@@ -6424,5 +6424,40 @@
         "url": "https://www.gamesradar.com/sony-playstation-collectible-cards/"
       }
     ]
+  },
+  {
+    "id": "transformers-1985-megatron",
+    "franchise": "Transformers",
+    "character": "Megatron",
+    "year": 1985,
+    "setInfo": "1985 Hasbro Transformers Action Cards #97",
+    "description": "Hasbro's 192-card Action Cards set is the franchise's first card issue, and it is the same set that holds Optimus Prime at #1. Cards 1–41 are Autobot profiles and 97–122 are Decepticons, so Megatron heads his faction's run exactly as Optimus heads the other. Fronts use the toy-line package illustration over a flat colour field; backs carry the function, quote, bio and ten-category Tech Specs lifted straight off the toy packaging.",
+    "funFacts": [
+      "Counting the yellow, orange, blue and purple background variants, the \"192-card\" set is really 248 or more — all but two Decepticon character cards exist in at least two",
+      "The printing is riddled with errors: #122 Shockwave exists as a reverse negative, and #105 Buzzsaw and #108 Laserbeak were run with the art rotated 180 degrees",
+      "A second series was planned and never produced; the Australian edition is a different 100-card set, numbered its own way and sold four to a pack with gum"
+    ],
+    "estimatedValue": "$15 – $50 raw; about $1,500 in PSA 10",
+    "image": "megatron.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1985 Hasbro Transformers Action Cards",
+        "url": "https://www.cardboardconnection.com/1985-hasbro-transformers-action-cards-trading-cards"
+      },
+      {
+        "label": "Sports Illustrated — the 1985 Transformers cards collectors are chasing 40 years later",
+        "url": "https://www.si.com/collectibles/the-1985-transformers-cards-collectors-chasing-40-years-later"
+      },
+      {
+        "label": "lmb3.net — 1985 Transformers Action Cards, background-variant breakdown",
+        "url": "https://lmb3.net/2013/11/16/blog-513-transformers-artifact-of-the-week-1985-transformers-action-cards/"
+      }
+    ]
   }
 ]
