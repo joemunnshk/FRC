@@ -31,7 +31,7 @@ export function Logo({ className, plural = false }: LogoProps) {
   return (
     <svg
       className={className}
-      viewBox="0 0 200 152"
+      viewBox="4 -3 192 152"
       xmlns="http://www.w3.org/2000/svg"
       fill="currentColor"
       aria-hidden="true"
