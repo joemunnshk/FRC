@@ -7143,5 +7143,36 @@
         "url": "https://en.wikipedia.org/wiki/List_of_non-sports_trading_cards"
       }
     ]
+  },
+  {
+    "id": "calvinandhobbes-no-card",
+    "franchise": "Calvin and Hobbes",
+    "character": "Calvin & Hobbes",
+    "year": 1985,
+    "setInfo": "No trading card release — and there never will be",
+    "description": "Calvin and Hobbes ran in newspapers from 18 November 1985 to 31 December 1995 and is one of the most loved comic strips ever drawn. It has no trading card because Bill Watterson refused to licence his characters at all. He fought his own syndicate over it and by 1991 had won a contract giving him legal control of every future licensing decision — then used it to say no to all of them.",
+    "funFacts": [
+      "Watterson's argument was that licensed products cannot capture the subtleties of the strip and that putting the characters on mugs and T-shirts would devalue their personalities",
+      "The handful of official exceptions are telling: two sixteen-month wall calendars, a textbook called Teaching with Calvin and Hobbes, and a shirt for a Smithsonian exhibition on comic art — no toys, no cards",
+      "Every Calvin sticker you have ever seen on the back of a van is a bootleg; none of it is licensed"
+    ],
+    "estimatedValue": "Not applicable — no trading cards exist, by the author's choice",
+    "image": "",
+    "noCardReason": "Bill Watterson refused to licence Calvin and Hobbes for merchandise of any kind, won legal control of licensing from his syndicate in 1991, and has never granted a card deal. This is the rare case where the absence is a decision rather than an oversight.",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia — Calvin and Hobbes, on Watterson's refusal to licence",
+        "url": "https://en.wikipedia.org/wiki/Calvin_and_Hobbes"
+      },
+      {
+        "label": "Mental Floss — things you might not know about Calvin and Hobbes",
+        "url": "https://www.mentalfloss.com/entertainment/comics/7-things-you-might-not-know-about-calvin-and-hobbes"
+      }
+    ]
   }
 ]
