@@ -7677,41 +7677,6 @@
     ]
   },
   {
-    "id": "felix-1930-juncosa",
-    "franchise": "Felix the Cat",
-    "character": "Felix the Cat",
-    "year": 1930,
-    "setInfo": "Chocolates Evaristo Juncosa (Barcelona), \"Félix Trotamundos\" Serie A #8",
-    "description": "Juncosa was a Barcelona chocolate and candy firm that had been inserting cards in its bars since the 1920s. Its cartoon issue runs to four series of fifteen, each retelling one animated short: Serie A is Felix in the 1923 Sullivan film Felix the Globe Trotter, Serie B is Mickey in The Haunted House, Serie C is Fleischer, Serie D is Oswald. This is the oldest card in the whole database.",
-    "funFacts": [
-      "The dating is a genuine band rather than a fact: CGC says c.1930, SGC labels say 1929/30, Heritage dates the companion Mickey series to 1929, and Serie C depicts a film released in September 1931 — so the issue spans roughly 1929 to 1931",
-      "The card illustrates a 1923 short but was printed around 1930, so the artwork and the cardboard are seven years apart",
-      "There is no evidence Juncosa ever licensed Felix from Pat Sullivan — Spanish cartoon cromos of this era were frequently unauthorised"
-    ],
-    "estimatedValue": "$60 – $150 raw; $100 – $500 graded; a complete fifteen-card Serie A $1,200 – $3,000",
-    "image": "felix-the-cat.jpg",
-    "noCardReason": "",
-    "mediaRank": null,
-    "revenueBillions": null,
-    "categories": [
-      "icons"
-    ],
-    "sources": [
-      {
-        "label": "CGC Grading — Spanish c. 1930 Evaristo Juncosa Felix Globetrotter Series A, fifteen cards",
-        "url": "https://www.cgcgrading.com/news/articles/vintage-disney-cards-hakes-4sFQ8Mj8bKU14s8iXaTZci/"
-      },
-      {
-        "label": "Prewar Cards — Evaristo Juncosa sets and checklists",
-        "url": "https://prewarcards.com/2016/12/08/evaristo-juncosa-sets-and-checklists/"
-      },
-      {
-        "label": "Tebeosfera — Periquito (1927), the unlicensed Spanish Felix imitation behind the fake \"1920 Felix\" cards",
-        "url": "https://tebeosfera.com/sagas/periquito_1927_marco.html"
-      }
-    ]
-  },
-  {
     "id": "popeye-1933-orbit",
     "franchise": "Popeye",
     "character": "Popeye",
@@ -7832,6 +7797,254 @@
       {
         "label": "Paninimania — Panini's La Panthère Rose, first published 1980, which rules out the claimed 1973 Panini album",
         "url": "https://paninimania.com/?idf=15&idm=486&pag=cid508_alb"
+      }
+    ]
+  },
+  {
+    "id": "wonderwoman-1966-foldees",
+    "franchise": "Wonder Woman",
+    "character": "Wonder Woman",
+    "year": 1966,
+    "setInfo": "1966 Topps Comic Book Foldees #33, \"Beautiful Wonder Woman / Rock n Roll Singer / Dopey Dunce\"",
+    "description": "Foldees are bubble gum cards cut into three perforated panels. A DC hero runs down the front; two other characters hide on the flaps, so one card refolds into nine mismatched figures. Topps issued forty-four of them in 1966, catalogued as R708-12, and they are where most of the Justice League finally reached cardboard. Wonder Woman had waited twenty-five years from her December 1941 debut for a card of her own.",
+    "funFacts": [
+      "She is on two cards in the set — #12 \"Wonder Woman the Amazon\" and this one — and Topps never gave her a card on which she is the only subject",
+      "Three Wonder Woman designs exist in the 1962 Topps Superman Tattoo Bubble Gum issue four years earlier, but those are transfers you wet and press onto skin, so the Foldee is her first actual card",
+      "Unfolded it runs 2½ x 4-11/16 inches, which is longer than PSA's standard holder takes — graded copies sit in the Tall Boy"
+    ],
+    "estimatedValue": "$35 – $90 for a clean raw copy; a #12 has sold at $290, the top of the market. Unfolded cards carry the premium",
+    "image": "wonder-woman.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Jeff Allender's House of Checklists — Comic Book Foldees, Topps 1966, full 44-card checklist with ACC reference R708-12",
+        "url": "https://nslists.com/combkfol.htm"
+      },
+      {
+        "label": "Cosmic Teams — DC Universe Trading Card Sets through 1999, covering the 1962 tattoos, the 1966 Foldees and the 1970s sticker issues",
+        "url": "https://www.cosmicteams.com/jla/_docs/dcTradingCards.html"
+      }
+    ]
+  },
+  {
+    "id": "aquaman-1966-foldees",
+    "franchise": "Aquaman",
+    "character": "Aquaman",
+    "year": 1966,
+    "setInfo": "1966 Topps Comic Book Foldees #40, \"The Aquaman / Beautiful Starlet / Ugly Monster\"",
+    "description": "Aquaman's panel is drawn as a Daily Planet front page — the headline reads THE AQUA MAN SAVES CITY FROM THE FLOOD, with a full-length figure of him standing arms folded beside it. He had been in print since 1941, and Filmation's Superman/Aquaman Hour of Adventure was still a year off, so this is his first appearance on any card.",
+    "funFacts": [
+      "Topps spells it \"The Aqua Man\", two words, both on the card and in its own checklist",
+      "The whole panel is laid out as a newspaper page, which makes it the only hero card in the set that does not simply show the character against a colour field",
+      "Aquaman is in the 1962 Topps tattoo issue too, riding the back of a whale, but that is a transfer rather than a card"
+    ],
+    "estimatedValue": "About $35 for a clean raw hero card from this set; commons run $15 – $20",
+    "image": "aquaman.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Jeff Allender's House of Checklists — Comic Book Foldees, Topps 1966, full 44-card checklist with ACC reference R708-12",
+        "url": "https://nslists.com/combkfol.htm"
+      },
+      {
+        "label": "Cosmic Teams — DC Universe Trading Card Sets through 1999",
+        "url": "https://www.cosmicteams.com/jla/_docs/dcTradingCards.html"
+      }
+    ]
+  },
+  {
+    "id": "theflash-1966-foldees",
+    "franchise": "The Flash",
+    "character": "The Flash",
+    "year": 1966,
+    "setInfo": "1966 Topps Comic Book Foldees #41, \"Flash / Ape Man in the Jungle / Astronaut in Space\"",
+    "description": "The centre panel is captioned FLASH at the top and IN ACTION at the foot, with Barry Allen mid-stride and speed lines trailing off his shoulders. Three of the forty-four Foldees carry a Flash: #1 \"Speedy Flash\", #7 \"Speedy Old Flash\" and this one, which is the only one that shows him running properly rather than as a gag figure.",
+    "funFacts": [
+      "Kid Flash has his own card in the same set, #4, so the Flash family reached cardboard together",
+      "The 1962 Topps tattoo issue has a Flash racing past a street lamp, four years earlier, but tattoos are transfers rather than cards",
+      "DC had relaunched the Flash as Barry Allen in 1956, meaning a decade passed between the Silver Age revival that started the whole superhero boom and the character's first card"
+    ],
+    "estimatedValue": "About $35 for a clean raw hero card from this set; commons run $15 – $20",
+    "image": "the-flash.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Jeff Allender's House of Checklists — Comic Book Foldees, Topps 1966, full 44-card checklist with ACC reference R708-12",
+        "url": "https://nslists.com/combkfol.htm"
+      },
+      {
+        "label": "Cosmic Teams — DC Universe Trading Card Sets through 1999",
+        "url": "https://www.cosmicteams.com/jla/_docs/dcTradingCards.html"
+      }
+    ]
+  },
+  {
+    "id": "greenlantern-1966-foldees",
+    "franchise": "Green Lantern",
+    "character": "Green Lantern",
+    "year": 1966,
+    "setInfo": "1966 Topps Comic Book Foldees #8, \"Powerful Green Lantern / Scary Frankenstein / Beautiful Bathing Beauty\"",
+    "description": "Hal Jordan in the green and black costume, both fists raised, against a flat orange field, captioned POWERFUL at the top and GREEN LANTERN at the foot. He gets two cards in the set — this one and #10, \"Handsome Green Lantern\" — which is more than Batman or Superman manage individually.",
+    "funFacts": [
+      "The small portrait circles on the flaps of every card in the set include a green-masked Green Lantern head, so he turns up on all forty-four cards whether or not he is the subject",
+      "The 1962 Topps tattoo issue has two Green Lantern designs, one charging his ring and one flying, but tattoos are transfers rather than cards",
+      "A graded example of this exact card sits in an SGC holder at 5.5, which is about as high as the set's survivors go: the perforations mean most copies were folded until they tore"
+    ],
+    "estimatedValue": "About $35 for a clean raw copy; commons from the set run $15 – $20",
+    "image": "green-lantern.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Jeff Allender's House of Checklists — Comic Book Foldees, Topps 1966, full 44-card checklist with ACC reference R708-12",
+        "url": "https://nslists.com/combkfol.htm"
+      },
+      {
+        "label": "Cosmic Teams — DC Universe Trading Card Sets through 1999",
+        "url": "https://www.cosmicteams.com/jla/_docs/dcTradingCards.html"
+      }
+    ]
+  },
+  {
+    "id": "chewbacca-1977-topps",
+    "franchise": "Star Wars",
+    "character": "Chewbacca",
+    "year": 1977,
+    "setInfo": "1977 Topps Star Wars Series 1 (blue) #44, \"Han and Chewie shoot it out!\"",
+    "description": "Topps shipped the first Star Wars series in June 1977, a month after the film opened: sixty-six blue-bordered cards and eleven stickers. Chewbacca has no card of his own in it — he reaches cardboard over Han Solo's shoulder on #44, bowcaster raised, in the Millennium Falcon's corridor. Sticker #4, \"Chewbacca the Wookiee\", crops its portrait from this same photograph.",
+    "funFacts": [
+      "He appears on two base cards in the run, #44 and #55 \"Han, Chewie and Luke\", and is the subject of neither",
+      "The sticker that bears his name is a crop of this card's image, so his first solo billing in the set is a cut-out of a photograph he shares",
+      "Series 1 is the famous blue-bordered run; Topps worked through five colours in 1977 and 1978, and the card backs assemble into two jigsaw puzzles"
+    ],
+    "estimatedValue": "$5 – $20 raw depending on centring; $60 – $200 in PSA 8 or better",
+    "image": "chewbacca.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Jeff Allender's House of Checklists — Star Wars Series 1 (Blue), full 66-card checklist plus the eleven stickers and the cards they were cropped from",
+        "url": "https://nslists.com/swanh1.htm"
+      },
+      {
+        "label": "Wookieepedia — 1977 Topps Star Wars Series 1: Topps, June 1977, 66 cards and 11 stickers",
+        "url": "https://starwars.fandom.com/api.php?action=parse&page=1977%20Topps%20Star%20Wars%20Series%201&prop=wikitext&format=json"
+      }
+    ]
+  },
+  {
+    "id": "r2d2-1977-topps",
+    "franchise": "Star Wars",
+    "character": "R2-D2",
+    "year": 1977,
+    "setInfo": "1977 Topps Star Wars Series 1 (blue) #3, \"The little droid, Artoo-Detoo\"",
+    "description": "The third card in the set and the first in it to show a single character alone: R2-D2 standing on the Tatooine rocks, dome scuffed, in the moments before the Jawas take him. Topps used the pre-release spelling throughout, so every caption in 1977 calls him Artoo-Detoo rather than R2-D2.",
+    "funFacts": [
+      "He is the most-carded figure in the set — ten of the sixty-six cards turn on him, from his imprisonment by the Jawas to being loaded aboard an X-wing",
+      "Card #2, \"See-Threepio and Artoo-Detoo\", is numerically earlier but shows both droids; #3 is the first card in the whole run devoted to one character",
+      "Topps never wrote R2-D2 or C-3PO on a 1977 card: the numerals only arrived in the sets that followed"
+    ],
+    "estimatedValue": "$5 – $25 raw; $75 – $250 in PSA 8 or better, with low-numbered cards chronically off-centre",
+    "image": "r2-d2.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Jeff Allender's House of Checklists — Star Wars Series 1 (Blue), full 66-card checklist",
+        "url": "https://nslists.com/swanh1.htm"
+      },
+      {
+        "label": "Wookieepedia — 1977 Topps Star Wars Series 1: Topps, June 1977, 66 cards and 11 stickers",
+        "url": "https://starwars.fandom.com/api.php?action=parse&page=1977%20Topps%20Star%20Wars%20Series%201&prop=wikitext&format=json"
+      }
+    ]
+  },
+  {
+    "id": "c3po-1977-topps",
+    "franchise": "Star Wars",
+    "character": "C-3PO",
+    "year": 1977,
+    "setInfo": "1977 Topps Star Wars Series 1 (blue) #66, \"Amazing robot See-Threepio!\"",
+    "description": "The last card in the first series, and the one that puts his name in the caption: C-3PO between Ben Kenobi and Luke in the sandcrawler wreck, gold plating dulled with Tatooine dust. Topps had opened the same series with him on card #2 beside Artoo, so the protocol droid both starts and ends the run.",
+    "funFacts": [
+      "He bookends series one — card #2 and card #66 — which no other character in the set does",
+      "Card #23, \"See-Threepio is injured!\", supplied sticker #5, printed in reverse so the droid faces the other way",
+      "The infamous card #207, the one with the anatomically unfortunate droid, belongs to series 4 in 1978 and is a different photograph entirely"
+    ],
+    "estimatedValue": "$5 – $25 raw; $75 – $250 in PSA 8 or better. As the last card in the run it took the usual edge wear at the bottom of the stack",
+    "image": "c-3po.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Jeff Allender's House of Checklists — Star Wars Series 1 (Blue), full 66-card checklist plus the sticker-to-card mapping",
+        "url": "https://nslists.com/swanh1.htm"
+      },
+      {
+        "label": "Wookieepedia — 1977 Topps Star Wars Series 1: Topps, June 1977, 66 cards and 11 stickers",
+        "url": "https://starwars.fandom.com/api.php?action=parse&page=1977%20Topps%20Star%20Wars%20Series%201&prop=wikitext&format=json"
+      }
+    ]
+  },
+  {
+    "id": "harleyquinn-1993-topps",
+    "franchise": "Batman",
+    "character": "Harley Quinn",
+    "year": 1993,
+    "setInfo": "1993 Topps Batman: The Animated Series #36, \"Harley Quinn\"",
+    "description": "Harley was written for a single episode of Batman: The Animated Series, \"Joker's Favor\", broadcast on 11 September 1992. She was popular enough to stay, and Topps put her on card 36 of its 1993 set the following year — the Bruce Timm jester, mid-leap against a field of green and black diamonds. She would not appear in a comic until 1993's Mad Love, so the card arrived at roughly the same moment as the character's move into print.",
+    "funFacts": [
+      "She is one of very few major DC characters whose first card predates her first comic appearance, because she was invented for television rather than for the page",
+      "Panini's Batman Animated sticker album came out in the same year, but its published checklist names no subjects at all — all the stickers are listed only as numbers, so the Topps card is the one that can be proven to be her",
+      "The grade gap is steep for a card this recent: raw copies change hands for a dollar or two while a PSA 9 has sold around $195"
+    ],
+    "estimatedValue": "$1 – $20 raw; about $63 in PSA 8 and $190 – $220 in PSA 9",
+    "image": "harley-quinn.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Jeff Allender's House of Checklists — Batman: The Animated Series, Topps 1993, with Harley Quinn at #36",
+        "url": "https://nslists.com/batanim1.htm"
+      },
+      {
+        "label": "Wikipedia — \"Joker's Favor\", first broadcast 11 September 1992, Harley Quinn's debut",
+        "url": "https://en.wikipedia.org/wiki/Joker%27s_Favor"
       }
     ]
   }
