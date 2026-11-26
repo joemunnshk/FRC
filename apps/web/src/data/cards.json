@@ -6708,5 +6708,67 @@
         "url": "https://nslists.com/movietv.htm"
       }
     ]
+  },
+  {
+    "id": "monstersinc-2001-sulley",
+    "franchise": "Monsters, Inc.",
+    "character": "Sulley",
+    "year": 2001,
+    "setInfo": "2001 Topps Monsters, Inc. promo #P1 (Mike Wazowski & Sulley)",
+    "description": "Topps put out a 50-card Monsters, Inc. set in October 2001, ahead of the film's 2 November opening, and sent two P1 promos to dealers first. This is the landscape one, with Sulley on the scare floor beside Mike. The base set's own #9 is titled \"Sulley's Number One\" but pictures two other monsters entirely, so the promo is both the earliest object and the first card that actually shows him.",
+    "funFacts": [
+      "He turns up in five subsets at once — Glow-in-the-Dark, Pop-Ups, the jigsaw puzzle, Mystery Monster (printed \"James P. Sullivan 'Sulley'\") and the badge stickers",
+      "Panini's 198-sticker album of the same year spells him \"Sully\", so the two checklists never match on his name",
+      "The Glow-in-the-Dark and Pop-Up inserts fell one in every two packs, which makes them far less scarce than the word insert suggests"
+    ],
+    "estimatedValue": "$5 – $15 for the promo; $1 – $4 for base cards",
+    "image": "sulley.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Jeff Allender's House of Checklists — 2001 Topps Monsters, Inc., full checklist and promos",
+        "url": "https://nslists.com/monstinc.htm"
+      },
+      {
+        "label": "Jeff Allender's House of Checklists — Monsters, Inc. album stickers (Panini, 2001)",
+        "url": "https://nslists.com/monincst.htm"
+      }
+    ]
+  },
+  {
+    "id": "findingnemo-2003-nemo",
+    "franchise": "Finding Nemo",
+    "character": "Nemo",
+    "year": 2003,
+    "setInfo": "2003 Artbox Finding Nemo FilmCardz #02",
+    "description": "The film opened on 30 May 2003 and Artbox's 72-card FilmCardz set followed the same year, built as translucent plastic \"cardz\" with the scene floated inside a frame. Nemo is #02, behind only his father Marlin at #01.",
+    "funFacts": [
+      "The chase tiers are steep for a children's set: Rare Prism fell 1:12 packs and Ultra Rare 1:24",
+      "Panini reissued its own 2003 Finding Nemo album in 2012 with identical sticker images but different backs — the reprint trap for this character",
+      "The European album localises the names, so Marlin becomes \"Marin\" and Pearl becomes \"Perle\" and the checklists never string-match the US ones"
+    ],
+    "estimatedValue": "$1 – $5 raw; $30 – $70 in PSA 9 or 10",
+    "image": "nemo.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Jeff Allender's House of Checklists — Finding Nemo FilmCardz (Artbox, 2003)",
+        "url": "https://nslists.com/findinfc.htm"
+      },
+      {
+        "label": "Coleka — Panini Finding Nemo sticker album, 2003, 223 stickers",
+        "url": "https://www.coleka.com/en/stickers/panini-stickers/2000-to-2004/finding-nemo_r17665"
+      }
+    ]
   }
 ]
