@@ -430,19 +430,23 @@ p {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(215px, 1fr));
   gap: 1px;
-  background: var(--border);
   border-block: 1px solid var(--border);
   align-items: stretch;
   flex: 1;
   align-content: start;
 }
 
+/* The rules are drawn by each tile, not by a backdrop showing through the
+   gaps. A backdrop turns the empty columns of a short result set into one
+   grey slab; a ring per tile leaves them as page. Adjacent rings meet inside
+   the 1px gap and read as a single hairline. */
 .card-tile {
   display: flex;
   flex-direction: column;
   height: 100%;
   text-decoration: none;
   background: var(--bg-page);
+  box-shadow: 0 0 0 1px var(--border);
   transition: background var(--ease);
 }
 
