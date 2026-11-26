@@ -9,6 +9,7 @@ export const Route = createFileRoute('/')({
 })
 
 type SortKey = 'oldest' | 'newest' | 'revenue' | 'name'
+type View = 'gallery' | 'checklist'
 
 const CATEGORIES: Category[] = ['icons', 'media', 'tcg']
 
@@ -27,6 +28,7 @@ function HomePage() {
   const [search, setSearch] = useState('')
   const [universe, setUniverse] = useState('All')
   const [sort, setSort] = useState<SortKey>(DEFAULT_SORT[DEFAULT_TAB])
+  const [view, setView] = useState<View>('gallery')
   const searchRef = useRef<HTMLInputElement>(null)
 
   // "/" jumps to the search box, the way it does in every database UI.
@@ -150,15 +152,74 @@ function HomePage() {
             </select>
           </label>
 
+          <div className="view-toggle" role="group" aria-label="View">
+            <button
+              className={view === 'gallery' ? 'on' : ''}
+              aria-pressed={view === 'gallery'}
+              onClick={() => setView('gallery')}
+            >
+              Gallery
+            </button>
+            <button
+              className={view === 'checklist' ? 'on' : ''}
+              aria-pressed={view === 'checklist'}
+              onClick={() => setView('checklist')}
+            >
+              Checklist
+            </button>
+          </div>
+
           <div className="result-count">
-            {filtered.length} {filtered.length === 1 ? 'card' : 'cards'}
+            {filtered.length === inTab.length
+              ? `${inTab.length} indexed`
+              : `Showing ${filtered.length} of ${inTab.length}`}
           </div>
         </div>
       </div>
 
       <p className="tab-caption">{CATEGORY_CAPTIONS[tab]}</p>
 
-      <div className="card-grid">
+      {view === 'checklist' && filtered.length > 0 && (
+        <div className="checklist-wrap">
+          <table className="checklist">
+            <thead>
+              <tr>
+                <th className="col-year">Year</th>
+                <th>Character</th>
+                <th>Franchise</th>
+                {tab === 'media' && <th className="col-rev">Revenue</th>}
+                <th>Set</th>
+              </tr>
+            </thead>
+            <tbody>
+              {filtered.map((card) => {
+                const display = getCardDisplay(card, tab)
+                return (
+                  <tr key={card.id}>
+                    <td className="col-year">{card.year}</td>
+                    <td>
+                      {/* The link stretches over the whole row, so the row is
+                          clickable without giving up a real keyboard target. */}
+                      <Link to="/cards/$cardId" params={{ cardId: card.id }} className="row-link">
+                        {display.title}
+                      </Link>
+                    </td>
+                    <td className="col-franchise">{getUniverse(card.franchise)}</td>
+                    {tab === 'media' && (
+                      <td className="col-rev">
+                        {card.revenueBillions === null ? '—' : `$${card.revenueBillions}B`}
+                      </td>
+                    )}
+                    <td className="col-set">{card.setInfo}</td>
+                  </tr>
+                )
+              })}
+            </tbody>
+          </table>
+        </div>
+      )}
+
+      <div className={view === 'checklist' ? 'card-grid is-hidden' : 'card-grid'}>
         {filtered.length === 0 && (
           <div className="empty-state">
             <p>No cards match your search.</p>

@@ -1,5 +1,6 @@
-import { createFileRoute, Link, notFound } from '@tanstack/react-router'
-import { cards } from '../lib/cards'
+import { createFileRoute, Link, notFound, useNavigate } from '@tanstack/react-router'
+import { useEffect, useMemo } from 'react'
+import { cards, type Card } from '../lib/cards'
 import { getCardDisplay } from '../lib/cardDisplay'
 import { getUniverse } from '../lib/universes'
 
@@ -12,10 +13,40 @@ export const Route = createFileRoute('/cards/$cardId')({
   component: CardDetailPage,
 })
 
+/**
+ * Flipping through the collection needs a defined running order. A card can
+ * belong to several tabs, so the sequence follows its main one — Icons where
+ * the card is an icon — in the order that tab opens on, oldest first.
+ */
+function neighbours(card: Card) {
+  const tab = card.categories.includes('icons') ? 'icons' : card.categories[0]
+  const run = cards
+    .filter((c) => c.categories.includes(tab))
+    .sort((a, b) => a.year - b.year || a.character.localeCompare(b.character))
+  const i = run.findIndex((c) => c.id === card.id)
+  return { prev: run[i - 1], next: run[i + 1], position: i + 1, total: run.length }
+}
+
 function CardDetailPage() {
   const card = Route.useLoaderData()
   const display = getCardDisplay(card)
   const universe = getUniverse(card.franchise)
+  const navigate = useNavigate()
+  const { prev, next, position, total } = useMemo(() => neighbours(card), [card])
+
+  useEffect(() => {
+    function onKeyDown(e: KeyboardEvent) {
+      if (e.metaKey || e.ctrlKey || e.altKey) return
+      const el = document.activeElement
+      if (el instanceof HTMLInputElement || el instanceof HTMLSelectElement || el instanceof HTMLTextAreaElement) return
+      const to = e.key === 'ArrowLeft' ? prev : e.key === 'ArrowRight' ? next : undefined
+      if (!to) return
+      e.preventDefault()
+      navigate({ to: '/cards/$cardId', params: { cardId: to.id } })
+    }
+    window.addEventListener('keydown', onKeyDown)
+    return () => window.removeEventListener('keydown', onKeyDown)
+  }, [prev, next, navigate])
 
   return (
     <div className="detail-page">
@@ -83,6 +114,35 @@ function CardDetailPage() {
           )}
         </div>
       </div>
+
+      <nav className="card-pager" aria-label="Browse cards">
+        {prev ? (
+          <Link to="/cards/$cardId" params={{ cardId: prev.id }} className="pager-link prev">
+            <span className="pager-dir">← Previous</span>
+            <span className="pager-name">
+              {prev.character} <span className="pager-year">{prev.year}</span>
+            </span>
+          </Link>
+        ) : (
+          <span />
+        )}
+
+        <span className="pager-position">
+          {position} / {total}
+          <span className="pager-hint">Use ← →</span>
+        </span>
+
+        {next ? (
+          <Link to="/cards/$cardId" params={{ cardId: next.id }} className="pager-link next">
+            <span className="pager-dir">Next →</span>
+            <span className="pager-name">
+              {next.character} <span className="pager-year">{next.year}</span>
+            </span>
+          </Link>
+        ) : (
+          <span />
+        )}
+      </nav>
     </div>
   )
 }
