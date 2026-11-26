@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 152" width="400" height="304" fill="currentColor" color="#141413" role="img" aria-label="Fictional Rookie Cards">
+  <title>Fictional Rookie Cards</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&amp;display=swap');
+    text { font-family: 'Instrument Serif', Georgia, 'Times New Roman', serif; }
+    .arc { font-size: 27px; letter-spacing: 2.6px; }
+    .mono { font-size: 26px; letter-spacing: 1.2px; }
+  </style>
+  <defs>
+    <path id="top" d="M8 68 Q100 -16 192 68" fill="none"/>
+    <path id="bot" d="M6 78 Q100 196 194 78" fill="none"/>
+  </defs>
+  <path d="M38 74 Q100 16 162 74 Q100 132 38 74 Z M129 74 A29 29 0 1 1 71 74 A29 29 0 1 1 129 74 Z" fill-rule="evenodd"/>
+  <text class="mono" x="100" y="74" text-anchor="middle" dominant-baseline="central">FRC</text>
+  <text class="arc"><textPath href="#top" startOffset="50%" text-anchor="middle">FICTIONAL</textPath></text>
+  <text class="arc"><textPath href="#bot" startOffset="50%" text-anchor="middle">ROOKIE CARDS</textPath></text>
+</svg>
