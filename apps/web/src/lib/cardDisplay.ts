@@ -24,3 +24,16 @@ export function getCardDisplay(card: CardLike, tab?: Category): { title: string;
     badge: tab === 'icons' ? getUniverse(card.franchise) : card.franchise.trim(),
   }
 }
+
+/**
+ * Estimated values are written as sentences — "$20 – $500+ depending on grade",
+ * "Rarely traded — a convention giveaway". A tile has one mono line for this,
+ * so take the headline figure.
+ *
+ * Split only on an em dash or "depending": an en dash is the range itself
+ * ("$5 – $20"), and cutting there would turn every range into its floor.
+ */
+export function shortValue(value: string): string {
+  const head = value.split(/\s+—\s+|\s+depending\s+/i)[0].trim()
+  return head.length > 24 ? head.slice(0, 23).trimEnd() + '…' : head
+}

@@ -1,5 +1,6 @@
 import { createRootRoute, Link, Outlet } from '@tanstack/react-router'
 import { Logo, LogoMark } from '../components/Logo'
+import { cards } from '../lib/cards'
 
 export const Route = createRootRoute({
   component: RootLayout,
@@ -30,6 +31,11 @@ function RootLayout() {
         </div>
       </header>
       <Outlet />
+      <footer className="site-foot">
+        <span>Fictional Rookie Cards {new Date().getFullYear()}</span>
+        <span>The first card, always</span>
+        <span>{cards.length} indexed</span>
+      </footer>
     </>
   )
 }

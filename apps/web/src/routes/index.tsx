@@ -1,7 +1,7 @@
 import { createFileRoute, Link } from '@tanstack/react-router'
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { cards, CATEGORY_CAPTIONS, CATEGORY_LABELS, compareChronologically, type Category } from '../lib/cards'
-import { getCardDisplay } from '../lib/cardDisplay'
+import { getCardDisplay, shortValue } from '../lib/cardDisplay'
 import { getUniverse } from '../lib/universes'
 
 export const Route = createFileRoute('/')({
@@ -232,23 +232,28 @@ function HomePage() {
           const display = getCardDisplay(card, tab)
           return (
             <Link key={card.id} to="/cards/$cardId" params={{ cardId: card.id }} className="card-tile">
-              {card.image ? (
-                <img src={`${import.meta.env.BASE_URL}cards/${card.image}`} alt={card.character} loading="lazy" />
-              ) : (
-                <div className="no-card-art">
-                  <span className="no-card-mark">?</span>
-                  <span className="no-card-label">No card ever released</span>
-                </div>
-              )}
+              <div className="tile-thumb">
+                {card.image ? (
+                  <img src={`${import.meta.env.BASE_URL}cards/${card.image}`} alt={card.character} loading="lazy" />
+                ) : (
+                  <div className="no-card-art">
+                    <span className="no-card-mark">?</span>
+                    <span className="no-card-label">No card ever released</span>
+                  </div>
+                )}
+              </div>
               <div className="card-tile-info">
-                <div className="year-line">
-                  <span className="year">{card.year}</span>
+                {/* Franchise, year, and the money when that is what we sorted by
+                    — one mono line, the way a listing reads. */}
+                <div className="franchise">
+                  {display.badge}
+                  {display.badge && ' · '}
+                  {card.year}
+                  {sort === 'revenue' && card.revenueBillions !== null && ` · $${card.revenueBillions}B`}
                 </div>
                 <h3>{display.title}</h3>
-                {display.badge && <div className="franchise">{display.badge}</div>}
-                {sort === 'revenue' && card.revenueBillions !== null && (
-                  <div className="revenue">${card.revenueBillions}B lifetime</div>
-                )}
+                <div className="tile-set">{card.setInfo}</div>
+                <div className="tile-value">{shortValue(card.estimatedValue)}</div>
               </div>
             </Link>
           )

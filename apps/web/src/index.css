@@ -1,54 +1,67 @@
 /* ---------------------------------------------------------------------------
-   Fictional Rookie Cards
+   Fictional Rookie Cards — Collector Crypt branding
 
-   A reference work about objects, dressed like one: warm paper, charcoal ink,
-   a high-contrast serif for names and a monospace for the catalogue furniture
-   — years, set numbers, labels. Sections are divided by 1px hairlines rather
-   than drop shadows, and every card is mounted with real margin around it,
-   because the cards themselves vary wildly in shape.
+   Built on the Collector Crypt brand system: page black, Inter for text, a
+   monospace used only in capitals for the catalogue furniture, and the
+   signature blue-to-red gradient as a single hairline rule. Sections are
+   divided by 1px lines rather than shadows, and the gallery is ruled like a
+   table rather than floated as cards, because this is a database.
+
+   Colours are sampled from the brand deck and from collectorcrypt.com, not
+   guessed; .brand-collector-crypt.md records where each one came from.
+
+   Every card is mounted with real margin around it rather than cropped,
+   because the cards themselves vary wildly in shape — graded slabs, raw
+   cards, landscape promos, boxed sets.
    --------------------------------------------------------------------------- */
 
+/* The signature ramp. Declared once; used on the masthead rule. */
 :root {
-  --bg-page: #faf9f6;
-  --bg-surface: #ffffff;
-  --bg-subtle: #f4f3ef;
-  --border: #e5e4df;
-  --border-strong: #d3d1c9;
-  --ink: #141413;
-  --ink-soft: #6b6a64;
-  --ink-faint: #94928a;
-  --accent: #d95d39;
-  --accent-soft: rgba(217, 93, 57, 0.08);
+  --brand-ramp: linear-gradient(
+    90deg,
+    #0d57fb 0%,
+    #0b82f9 12%,
+    #49bbf4 24%,
+    #f3f5e8 38%,
+    #fdf5d6 48%,
+    #f3c309 62%,
+    #f7b70d 72%,
+    #ec7808 86%,
+    #d4090b 100%
+  );
+}
 
+:root {
+  --bg-page: #101010;
+  --bg-surface: #16161a;
+  --bg-subtle: #1b1b1d;
+  --border: rgba(117, 117, 117, 0.3);
+  --border-strong: #44444b;
+  --ink: #ffffff;
+  --ink-soft: #b4b4bd;
+  --ink-faint: #8a8a94;
+  /* Amber for mono labels and active states, sampled from the brand gradient;
+     mint for values, taken from the marketplace's price colour. */
+  --accent: #f7b70d;
+  --accent-soft: rgba(247, 183, 13, 0.1);
+  --value: #2ef098;
+
+  /* Perfectly Nineties and PP Supply Mono are licensed Pangram Pangram faces.
+     These are the free stand-ins that collectorcrypt.com itself also loads. */
   --display: 'Instrument Serif', Georgia, 'Times New Roman', serif;
-  --sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
-  --mono: 'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace;
+  --sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --mono: 'Space Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace;
 
   --ease: 150ms cubic-bezier(0.4, 0, 0.2, 1);
 
   font: 400 16px/1.6 var(--sans);
   color: var(--ink-soft);
   background: var(--bg-page);
-  color-scheme: light dark;
+  color-scheme: dark;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg-page: #141413;
-    --bg-surface: #1c1c1a;
-    --bg-subtle: #232321;
-    --border: #2e2e2a;
-    --border-strong: #3d3d38;
-    --ink: #faf9f6;
-    --ink-soft: #a8a69e;
-    --ink-faint: #76746d;
-    --accent: #e8734a;
-    --accent-soft: rgba(232, 115, 74, 0.12);
-  }
 }
 
 * {
@@ -57,6 +70,19 @@
 
 body {
   margin: 0;
+}
+
+/* The deck prints everything over a fine paper grain. One SVG turbulence
+   layer gets there without an image request; fixed and non-interactive so it
+   neither scrolls nor swallows clicks. */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  pointer-events: none;
+  opacity: 0.35;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='0.22'/%3E%3C/svg%3E");
 }
 
 #root {
@@ -122,8 +148,20 @@ p {
 /* Header */
 
 .site-header {
+  position: relative;
   padding: 1.75rem 0 1.5rem;
-  border-bottom: 1px solid var(--border);
+}
+
+/* The signature gradient, full bleed, standing in for the usual hairline.
+   One 3px rule is the cheapest possible brand signal. */
+.site-header::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 3px;
+  background: var(--brand-ramp);
 }
 
 /* The logo sits beside its own description rather than above it: it halves
@@ -227,48 +265,45 @@ p {
   max-width: 1200px;
   width: 100%;
   margin: 0 auto;
-  padding: 0 1.5rem;
+  padding: 1.15rem 1.5rem 0;
   display: flex;
-  gap: 2.25rem;
+  gap: 0.5rem;
 }
 
+/* Pills, as the marketplace draws its filters — the selected one inverts to
+   white rather than growing an underline. */
 .tab {
-  display: flex;
-  align-items: baseline;
+  display: inline-flex;
+  align-items: center;
   gap: 0.55rem;
-  padding: 1.15rem 0;
-  border: none;
-  border-bottom: 1.5px solid transparent;
-  margin-bottom: -1px;
-  background: none;
+  padding: 0.55rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--bg-subtle);
   color: var(--ink-faint);
   font-family: var(--mono);
-  font-size: 0.72rem;
-  font-weight: 500;
+  font-size: 0.7rem;
   text-transform: uppercase;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.06em;
   cursor: pointer;
-  transition: color var(--ease), border-color var(--ease);
+  transition: color var(--ease), border-color var(--ease), background var(--ease);
 }
 
 .tab:hover {
+  border-color: var(--border-strong);
   color: var(--ink);
 }
 
 .tab.active {
-  color: var(--ink);
-  border-bottom-color: var(--accent);
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--bg-page);
 }
 
 .tab-count {
-  font-size: 0.72rem;
-  font-weight: 400;
-  color: var(--ink-faint);
+  font-size: 0.65rem;
+  opacity: 0.55;
   font-variant-numeric: tabular-nums;
-}
-
-.tab.active .tab-count {
-  color: var(--accent);
 }
 
 /* Controls */
@@ -277,7 +312,7 @@ p {
   max-width: 1200px;
   width: 100%;
   margin: 0 auto;
-  padding: 1rem 1.5rem 1.15rem;
+  padding: 0.9rem 1.5rem 1.15rem;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -294,7 +329,7 @@ p {
   padding: 0.6rem 2.6rem 0.6rem 0.85rem;
   font-family: var(--sans);
   font-size: 0.92rem;
-  border-radius: 6px;
+  border-radius: 8px;
   border: 1px solid var(--border);
   background: var(--bg-surface);
   color: var(--ink);
@@ -374,23 +409,30 @@ p {
 .result-count {
   margin-left: auto;
   font-family: var(--mono);
-  font-size: 0.72rem;
-  letter-spacing: 0.08em;
-  color: var(--ink-faint);
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent);
   font-variant-numeric: tabular-nums;
   white-space: nowrap;
 }
 
-/* Grid of mounted plates */
+/* The gallery, ruled like a table
+
+   Tiles are separated by 1px gaps over a lighter backdrop rather than being
+   boxed and floated. For a database of 190 objects that reads as a catalogue
+   rather than a shop window, and it is how the marketplace draws its grid. */
 
 .card-grid {
-  max-width: 1200px;
+  max-width: 1400px;
   width: 100%;
   margin: 0 auto;
-  padding: 3rem 1.5rem 6rem;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 2.5rem 1.75rem;
+  grid-template-columns: repeat(auto-fill, minmax(215px, 1fr));
+  gap: 1px;
+  background: var(--border);
+  border-block: 1px solid var(--border);
+  align-items: stretch;
   flex: 1;
   align-content: start;
 }
@@ -398,55 +440,86 @@ p {
 .card-tile {
   display: flex;
   flex-direction: column;
+  height: 100%;
   text-decoration: none;
-  border-radius: 6px;
-  overflow: hidden;
-  background: var(--bg-surface);
-  border: 1px solid var(--border);
-  transition: border-color var(--ease), transform var(--ease);
+  background: var(--bg-page);
+  transition: background var(--ease);
 }
 
 .card-tile:hover {
-  border-color: var(--border-strong);
-  transform: translateY(-2px);
-}
-
-/* Cards vary wildly in shape — graded slabs, raw cards, landscape esports
-   cards, even boxed sets — so mount them with margin rather than cropping. */
-.card-tile img {
-  width: 100%;
-  aspect-ratio: 4 / 5;
-  object-fit: contain;
-  display: block;
-  padding: 1.25rem 1.25rem 1rem;
   background: var(--bg-surface);
 }
 
+/* Cards vary wildly in shape — graded slabs, raw cards, landscape promos,
+   even boxed sets — so mount them with margin rather than cropping.
+
+   Absolutely positioned, not an in-flow block: a percentage height cannot
+   resolve against a height that only aspect-ratio supplies, so a tall slab
+   would otherwise overflow its box and break the row's alignment. */
+.card-tile .tile-thumb {
+  position: relative;
+  aspect-ratio: 4 / 5;
+  min-height: 0;
+  overflow: hidden;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.045), transparent 70%);
+}
+
+.card-tile img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  padding: 1.5rem 1.25rem 1rem;
+  object-fit: contain;
+  display: block;
+  /* Slabs are photographed against black; a soft lift keeps them off the
+     page without putting a box around the card. */
+  filter: drop-shadow(0 6px 18px rgba(0, 0, 0, 0.7));
+}
+
 .card-tile .card-tile-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
   padding: 0 1.25rem 1.25rem;
 }
 
-.card-tile h3 {
-  font-size: 1.35rem;
-  line-height: 1.2;
-  margin-top: 0.65rem;
-}
-
+/* Franchise, year and — on the revenue sort — the money, all on one mono
+   line above the name, as the marketplace sets its listings. */
 .card-tile .franchise {
-  margin-top: 0.45rem;
   font-family: var(--mono);
-  font-size: 0.64rem;
+  font-size: 0.65rem;
   text-transform: uppercase;
-  letter-spacing: 0.14em;
-  color: var(--accent);
-  font-weight: 500;
+  letter-spacing: 0.08em;
+  color: var(--ink-faint);
+  margin-bottom: 0.5rem;
 }
 
-.card-tile .revenue {
-  margin-top: 0.4rem;
+.card-tile h3 {
+  font-family: var(--sans);
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  margin-bottom: 0.3rem;
+}
+
+.card-tile .tile-set {
+  font-size: 0.78rem;
+  line-height: 1.4;
+  color: var(--ink-soft);
+  margin-bottom: 0.7rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.card-tile .tile-value {
+  margin-top: auto;
   font-family: var(--mono);
-  font-size: 0.72rem;
-  color: var(--ink-faint);
+  font-size: 0.82rem;
+  color: var(--value);
   font-variant-numeric: tabular-nums;
 }
 
@@ -526,7 +599,7 @@ p {
 
 .detail-layout img {
   width: 100%;
-  border-radius: 6px;
+  border-radius: 8px;
   border: 1px solid var(--border);
   aspect-ratio: 4 / 5;
   object-fit: contain;
@@ -588,6 +661,8 @@ p {
   width: 100%;
   aspect-ratio: 4 / 5;
   display: flex;
+  position: absolute;
+  inset: 0;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -602,7 +677,12 @@ p {
       var(--accent-soft) 11px,
       var(--accent-soft) 22px
     ),
-    var(--bg-surface);
+    var(--bg-subtle);
+}
+
+/* On its own page it is a block in the layout, not a layer in a tile. */
+.detail-layout .no-card-art {
+  position: static;
   border-radius: 6px;
 }
 
@@ -651,14 +731,14 @@ p {
   color: var(--accent);
 }
 
-/* Quiet by design — this site is read by people who came for the picture and
-   the story, not by graders pricing a slab. */
+/* Still quiet — no badge, no box — but set in the brand's money colour, the
+   same as the value on a tile, so the two pages agree. */
 .detail-info .value-badge {
   display: inline-block;
   margin-top: 0.6rem;
   font-family: var(--mono);
-  font-size: 0.85rem;
-  color: var(--ink-soft);
+  font-size: 0.9rem;
+  color: var(--value);
   font-variant-numeric: tabular-nums;
 }
 
@@ -764,9 +844,26 @@ p {
     margin-left: 0;
   }
 
+  /* Two across on a phone. One column makes each slab enormous and turns
+     the gallery into a scroll marathon. */
   .card-grid {
-    gap: 1.75rem 1rem;
-    padding: 2rem 1.25rem 4rem;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .card-tile .card-tile-info {
+    padding: 0 0.85rem 1rem;
+  }
+
+  .card-tile img {
+    padding: 1rem 0.85rem 0.75rem;
+  }
+
+  .card-tile h3 {
+    font-size: 0.9rem;
+  }
+
+  .card-tile .tile-set {
+    font-size: 0.72rem;
   }
 }
 
@@ -789,9 +886,9 @@ p {
   }
 }
 
-/* The caption already introduces the grid, so it does not need its own gap. */
-.tab-caption + .card-grid {
-  padding-top: 1.75rem;
+/* The ruled grid has no padding of its own, so the caption carries the gap. */
+.tab-caption {
+  padding-bottom: 1.75rem;
 }
 
 /* View toggle */
@@ -799,7 +896,7 @@ p {
 .view-toggle {
   display: inline-flex;
   border: 1px solid var(--border);
-  border-radius: 6px;
+  border-radius: 8px;
   overflow: hidden;
 }
 
@@ -821,8 +918,8 @@ p {
 }
 
 .view-toggle button.on {
-  background: var(--accent);
-  color: #fff;
+  background: var(--ink);
+  color: var(--bg-page);
 }
 
 .is-hidden {
@@ -1030,5 +1127,40 @@ p {
 
   .pager-position {
     order: -1;
+  }
+}
+
+/* Footer — the three-column mono rule the brand posters all carry. */
+
+.site-foot {
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 1.5rem;
+  border-top: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  font-family: var(--mono);
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.site-foot a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.site-foot a:hover {
+  color: var(--accent);
+}
+
+@media (max-width: 640px) {
+  .site-foot {
+    flex-direction: column;
+    gap: 0.5rem;
+    text-align: center;
   }
 }
