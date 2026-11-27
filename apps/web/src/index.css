@@ -528,6 +528,23 @@ p {
   font-size: 0.82rem;
   color: var(--value);
   font-variant-numeric: tabular-nums;
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+}
+
+/* Only shown when the figure is not a raw single's price — a graded, sealed,
+   set or asking price. It must read as a qualifier, not compete with the
+   number, so it is smaller, dimmer and upper-case. */
+.card-tile .price-basis {
+  font-size: 0.62rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  border: 1px solid currentColor;
+  border-radius: 2px;
+  padding: 0.05rem 0.26rem;
+  flex: none;
 }
 
 /* Empty state */

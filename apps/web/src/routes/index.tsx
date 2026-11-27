@@ -1,7 +1,14 @@
 import { createFileRoute, Link } from '@tanstack/react-router'
 import { useEffect, useMemo, useRef, useState } from 'react'
-import { cards, CATEGORY_CAPTIONS, CATEGORY_LABELS, compareChronologically, type Category } from '../lib/cards'
-import { getCardDisplay, shortValue } from '../lib/cardDisplay'
+import {
+  cards,
+  CATEGORY_CAPTIONS,
+  CATEGORY_LABELS,
+  compareChronologically,
+  PRICE_BASIS_LABEL,
+  type Category,
+} from '../lib/cards'
+import { getCardDisplay } from '../lib/cardDisplay'
 import { getUniverse } from '../lib/universes'
 
 export const Route = createFileRoute('/')({
@@ -253,7 +260,14 @@ function HomePage() {
                 </div>
                 <h3>{display.title}</h3>
                 <div className="tile-set">{card.setInfo}</div>
-                <div className="tile-value">{shortValue(card.estimatedValue)}</div>
+                {/* Always a price, always in dollars, and labelled when the
+                    figure is not for a raw single. */}
+                <div className="tile-value">
+                  {PRICE_BASIS_LABEL[card.priceBasis] && (
+                    <span className="price-basis">{PRICE_BASIS_LABEL[card.priceBasis]}</span>
+                  )}
+                  {card.rawPriceUsd}
+                </div>
               </div>
             </Link>
           )

@@ -24,6 +24,8 @@ interface Card {
   description: string
   funFacts: string[]
   estimatedValue: string
+  rawPriceUsd: string
+  priceBasis: string
   image: string
   noCardReason: string
   /** Which tabs this card appears in. A card with none is invisible on the site. */
@@ -62,6 +64,8 @@ function blankCard(): Card {
     description: '',
     funFacts: [],
     estimatedValue: '',
+    rawPriceUsd: '',
+    priceBasis: 'raw',
     image: '',
     noCardReason: '',
     categories: ['media'],

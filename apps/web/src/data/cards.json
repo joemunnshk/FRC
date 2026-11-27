@@ -12,6 +12,8 @@
       "Because the cards were glued into the magazine, decades of damage means not a single PSA 10 is known to exist"
     ],
     "estimatedValue": "Enormous but volatile — sealed CoroCoro #223 issues have been valued near $150,000, while peeled singles vary wildly with condition",
+    "rawPriceUsd": "Near $150,000",
+    "priceBasis": "sealed",
     "image": "pikachu.jpg",
     "noCardReason": "",
     "mediaRank": 1,
@@ -49,6 +51,8 @@
       "Set the template Topps would reuse for countless licensed-cartoon card sets through the '90s"
     ],
     "estimatedValue": "$5 – $50 for common cards, more for high-grade or rare inserts",
+    "rawPriceUsd": "$5 – $50",
+    "priceBasis": "raw",
     "image": "tmnt.jpg",
     "noCardReason": "",
     "mediaRank": 20,
@@ -88,6 +92,8 @@
       "Bandai's cards are notoriously hard to find in top grades, making high-grade copies genuinely rare"
     ],
     "estimatedValue": "$20 – $300, more for high-grade examples — these thin, glossy cards are notoriously hard to find in top condition",
+    "rawPriceUsd": "$20 – $300",
+    "priceBasis": "raw",
     "image": "yugioh.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -124,6 +130,8 @@
       "A great example of how \"the first card\" can be a legitimately disputed title"
     ],
     "estimatedValue": "$5 – $40 depending on card and condition",
+    "rawPriceUsd": "$5 – $40",
+    "priceBasis": "raw",
     "image": "mario.jpg",
     "noCardReason": "",
     "mediaRank": 42,
@@ -160,6 +168,8 @@
       "Rode the early-2000s CCG boom that followed in the wake of Pokémon and Yu-Gi-Oh!"
     ],
     "estimatedValue": "$5 – $30, more for first-edition or holo variants",
+    "rawPriceUsd": "$5 – $30",
+    "priceBasis": "raw",
     "image": "spongebob.jpg",
     "noCardReason": "",
     "mediaRank": 21,
@@ -196,6 +206,8 @@
       "A cornerstone of the vintage non-sports card hobby; well-preserved examples are genuinely rare"
     ],
     "estimatedValue": "$20 – $500+ depending on card and grade; rare high-grade examples can go much higher",
+    "rawPriceUsd": "$20 – $500+",
+    "priceBasis": "raw",
     "image": "mickey.jpg",
     "noCardReason": "",
     "mediaRank": 2,
@@ -233,6 +245,8 @@
       "A. A. Milne created Pooh in 1926 and Disney only bought the film rights in 1961, which is why nothing pre-war exists"
     ],
     "estimatedValue": "£25 – £70 for a complete boxed game with its rules booklet; singles rarely trade on their own",
+    "rawPriceUsd": "$35 – $90",
+    "priceBasis": "set",
     "image": "pooh.jpg",
     "noCardReason": "",
     "mediaRank": 3,
@@ -265,6 +279,8 @@
       "The blue border is the tell — Topps ran five colour-coded series for the first film alone"
     ],
     "estimatedValue": "$20 – $2,400 for a PSA 8; six figures for top-pop examples of card #1",
+    "rawPriceUsd": "$20 – $2,400",
+    "priceBasis": "raw",
     "image": "starwars.jpg",
     "noCardReason": "",
     "mediaRank": 4,
@@ -301,6 +317,8 @@
       "Dating is contested: Menier launched the promotion before Christmas 1938, but graded examples are usually catalogued as 1939"
     ],
     "estimatedValue": "$5 – $40 per card; complete numbered runs are much scarcer",
+    "rawPriceUsd": "$5 – $40",
+    "priceBasis": "raw",
     "image": "disneyprincess.jpg",
     "noCardReason": "",
     "mediaRank": 5,
@@ -337,6 +355,8 @@
       "Anpanman out-earns most household names on this list almost entirely through toddler merchandise"
     ],
     "estimatedValue": "$5 – $60 per prism card; Western supply is thin",
+    "rawPriceUsd": "$5 – $60",
+    "priceBasis": "raw",
     "image": "anpanman.jpg",
     "noCardReason": "",
     "mediaRank": 6,
@@ -373,6 +393,8 @@
       "The 20 portfolio-exclusive cards are the chase pieces for set collectors"
     ],
     "estimatedValue": "$25 – $120 for a complete sealed Deluxe First Edition portfolio",
+    "rawPriceUsd": "$25 – $120",
+    "priceBasis": "raw",
     "image": "barbie.jpg",
     "noCardReason": "",
     "mediaRank": 7,
@@ -409,6 +431,8 @@
       "Every MCU hero already had decades of card history before the film series existed"
     ],
     "estimatedValue": "$50 – $1,500 depending on grade; high-grade 1966 Donruss is scarce",
+    "rawPriceUsd": "$50 – $1,500",
+    "priceBasis": "raw",
     "image": "mcu.jpg",
     "noCardReason": "",
     "mediaRank": 8,
@@ -449,6 +473,8 @@
       "Wizards killed the game in 2003 and never publicly explained why"
     ],
     "estimatedValue": "$2 – $60 per card; holographic Harry Potter and Quidditch cards command the most",
+    "rawPriceUsd": "$2 – $60",
+    "priceBasis": "raw",
     "image": "harrypotter.jpg",
     "noCardReason": "",
     "mediaRank": 9,
@@ -485,6 +511,8 @@
       "A proper collectible trading card line took until 2023 — 47 years after the first deck"
     ],
     "estimatedValue": "$30 – $250 for a sealed vintage deck depending on condition",
+    "rawPriceUsd": "$30 – $250",
+    "priceBasis": "raw",
     "image": "hellokitty.jpg",
     "noCardReason": "",
     "mediaRank": 10,
@@ -517,6 +545,8 @@
       "Part of a broader push to make competitive gaming collectable like traditional sport"
     ],
     "estimatedValue": "$1 – $50 per card; autographed pro cards fetch more",
+    "rawPriceUsd": "$1 – $50",
+    "priceBasis": "raw",
     "image": "callofduty.jpg",
     "noCardReason": "",
     "mediaRank": 11,
@@ -552,6 +582,8 @@
       "Superman got cards in 1940, but Batman waited until the TV show — 26 years with no Batman card at all"
     ],
     "estimatedValue": "$50 – $45,000 depending on grade; the #1 card carries a huge premium",
+    "rawPriceUsd": "$50 – $45,000",
+    "priceBasis": "raw",
     "image": "batman.jpg",
     "noCardReason": "",
     "mediaRank": 12,
@@ -592,6 +624,8 @@
       "Arrived only four years after Spider-Man was created, making it an unusually early character debut"
     ],
     "estimatedValue": "$100 – $3,000+ depending on grade; high-grade #34 examples are scarce",
+    "rawPriceUsd": "$100 – $3,000+",
+    "priceBasis": "raw",
     "image": "spiderman.jpg",
     "noCardReason": "",
     "mediaRank": 13,
@@ -632,6 +666,8 @@
       "Series 1 was the only series ever produced in the US — all 192 cards came out at once"
     ],
     "estimatedValue": "$1 – $30 per card; sealed 1985 packs command a strong premium",
+    "rawPriceUsd": "$1 – $30",
+    "priceBasis": "raw",
     "image": "transformers.jpg",
     "noCardReason": "",
     "mediaRank": 14,
@@ -672,6 +708,8 @@
       "The card is printed with BANDAI 2002 MADE IN JAPAN along the bottom edge, dating it beyond doubt"
     ],
     "estimatedValue": "$1 – $80 per card; early rare foils are the chase pieces",
+    "rawPriceUsd": "$1 – $80",
+    "priceBasis": "raw",
     "image": "naruto.jpg",
     "noCardReason": "",
     "mediaRank": 15,
@@ -713,6 +751,8 @@
       "A clear example of how modern free-to-play economics can bypass collectibles entirely"
     ],
     "estimatedValue": "Not applicable — no trading cards exist",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "image": "",
     "noCardReason": "Dungeon Fighter Online earns its money through in-game microtransactions in Asian markets and has almost no physical merchandising, so no trading card set was ever made.",
     "mediaRank": 16,
@@ -744,6 +784,8 @@
       "The Topps Chrome #50 McQueen tops out at a Superfractor numbered 1/1, the only one in existence"
     ],
     "estimatedValue": "$5 for a base card up to five figures for the 1/1 Superfractor",
+    "rawPriceUsd": "$5 – $10,000+",
+    "priceBasis": "raw",
     "image": "cars.jpg",
     "noCardReason": "",
     "mediaRank": 17,
@@ -780,6 +822,8 @@
       "Shows how the modern mobile era broke the old link between popularity and collectibles"
     ],
     "estimatedValue": "Not applicable — no trading cards exist",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "image": "",
     "noCardReason": "Candy Crush is a mobile puzzle game with no characters or story to build a card set around, so no trading cards were ever released.",
     "mediaRank": 18,
@@ -811,6 +855,8 @@
       "Upper Deck ran several Comic Ball series through the early 1990s off the back of its success"
     ],
     "estimatedValue": "$1 – $40 per card; Bugs Bunny and Nolan Ryan cards carry the premium",
+    "rawPriceUsd": "$1 – $40",
+    "priceBasis": "raw",
     "image": "looneytunes.jpg",
     "noCardReason": "",
     "mediaRank": 19,
@@ -847,6 +893,8 @@
       "Designed for kids to cut up and play with, so undamaged sets are harder to find than they should be"
     ],
     "estimatedValue": "$15 – $60 for a complete 90-card base set",
+    "rawPriceUsd": "$15 – $60",
+    "priceBasis": "raw",
     "image": "toystory.jpg",
     "noCardReason": "",
     "mediaRank": 22,
@@ -887,6 +935,8 @@
       "Lenticular and other interactive inserts made it one of the flashiest movie sets of the 1990s"
     ],
     "estimatedValue": "$15 – $50 for a complete Series 1 set; inserts are worth more",
+    "rawPriceUsd": "$15 – $50",
+    "priceBasis": "raw",
     "image": "lionking.jpg",
     "noCardReason": "",
     "mediaRank": 23,
@@ -923,6 +973,8 @@
       "Pre-school franchises rarely get true card sets — the audience is too young to chase a checklist"
     ],
     "estimatedValue": "Under $1 per sticker; sealed packs and filled albums carry the value",
+    "rawPriceUsd": "Under $1",
+    "priceBasis": "raw",
     "image": "dora.jpg",
     "noCardReason": "",
     "mediaRank": 24,
@@ -955,6 +1007,8 @@
       "Fleer moved fast: cards were on shelves the same year the arcade machine launched"
     ],
     "estimatedValue": "$2 – $40 per card; sealed wax packs and complete sets fetch more",
+    "rawPriceUsd": "$2 – $40",
+    "priceBasis": "raw",
     "image": "pacman.jpg",
     "noCardReason": "",
     "mediaRank": 25,
@@ -995,6 +1049,8 @@
       "Same pattern as Dora: enormous pre-school revenue, almost no collector card culture"
     ],
     "estimatedValue": "Under $1 per sticker; filled albums are the collectible unit",
+    "rawPriceUsd": "Under $1",
+    "priceBasis": "raw",
     "image": "pawpatrol.jpg",
     "noCardReason": "",
     "mediaRank": 26,
@@ -1030,6 +1086,8 @@
       "Cryptozoic revived Peanuts cards decades later for the strip’s 75th anniversary"
     ],
     "estimatedValue": "$10 – $40 for a complete 33-card set",
+    "rawPriceUsd": "$10 – $40",
+    "priceBasis": "raw",
     "image": "peanuts.jpg",
     "noCardReason": "",
     "mediaRank": 27,
@@ -1065,6 +1123,8 @@
       "The MCU made the Avengers a household name 45 years after their first cards"
     ],
     "estimatedValue": "$50 – $1,500 depending on hero and grade",
+    "rawPriceUsd": "$50 – $1,500",
+    "priceBasis": "raw",
     "image": "avengers.jpg",
     "noCardReason": "",
     "mediaRank": 28,
@@ -1105,6 +1165,8 @@
       "Beyond the base cards there were holographic foils, ice-effect, pop-up and even dot-to-dot cards"
     ],
     "estimatedValue": "$3 – $15 for glitter and foil singles; sealed 2014 boxes go higher",
+    "rawPriceUsd": "$3 – $15",
+    "priceBasis": "raw",
     "image": "frozen.jpg",
     "noCardReason": "",
     "mediaRank": 29,
@@ -1142,6 +1204,8 @@
       "Sourcing caveat: the card itself is documented only by Japanese marketplace listings — no checklist, catalogue or publisher page for it could be found, so treat the set details as provisional. The © TAITO CORP. 1985 line printed on the card is the only hard evidence of its year"
     ],
     "estimatedValue": "$15 – $120 for vintage licensed menko depending on condition",
+    "rawPriceUsd": "$15 – $120",
+    "priceBasis": "raw",
     "image": "spaceinvaders.jpg",
     "noCardReason": "",
     "mediaRank": 30,
@@ -1173,6 +1237,8 @@
       "The Warcraft games date to 1994, but nobody printed cards until World of Warcraft made it a phenomenon"
     ],
     "estimatedValue": "$1 – $60 for most cards; unredeemed loot cards go far higher",
+    "rawPriceUsd": "$1 – $60",
+    "priceBasis": "raw",
     "image": "warcraft.jpg",
     "noCardReason": "",
     "mediaRank": 31,
@@ -1213,6 +1279,8 @@
       "A dedicated Minions collectible card game only arrived in 2024, well over a decade in"
     ],
     "estimatedValue": "$1 – $15 per card; sealed 2017 packs carry a small premium",
+    "rawPriceUsd": "$1 – $15",
+    "priceBasis": "raw",
     "image": "despicableme.jpg",
     "noCardReason": "",
     "mediaRank": 32,
@@ -1244,6 +1312,8 @@
       "The text on the backs was largely invented and often has nothing to do with the episode shown"
     ],
     "estimatedValue": "$50 – $500+ per card; complete 1967 sets are genuinely rare",
+    "rawPriceUsd": "$50 – $500+",
+    "priceBasis": "raw",
     "image": "startrek.jpg",
     "noCardReason": "",
     "mediaRank": 33,
@@ -1283,6 +1353,8 @@
       "The six prism cards in Set 1 are the original Dragon Ball chase cards"
     ],
     "estimatedValue": "$10 – $500+ depending on card and condition; early prisms are the prize",
+    "rawPriceUsd": "$10 – $500+",
+    "priceBasis": "raw",
     "image": "dragonball.jpg",
     "noCardReason": "",
     "mediaRank": 34,
@@ -1320,6 +1392,8 @@
       "The Japanese cards use hand-drawn anime art; the 1993 Topps set used arcade screen grabs"
     ],
     "estimatedValue": "$10 – $200 for prism cards depending on character and condition",
+    "rawPriceUsd": "$10 – $200",
+    "priceBasis": "raw",
     "image": "streetfighter.jpg",
     "noCardReason": "",
     "mediaRank": 35,
@@ -1352,6 +1426,8 @@
       "Japanese wafer and bromide cards remain the main collectible format for the series"
     ],
     "estimatedValue": "$2 – $150 per card depending on rarity and character",
+    "rawPriceUsd": "$2 – $150",
+    "priceBasis": "raw",
     "image": "demonslayer.jpg",
     "noCardReason": "",
     "mediaRank": 36,
@@ -1384,6 +1460,8 @@
       "Topps later reissued the artwork as a hardback art book, a rare honour for a movie card set"
     ],
     "estimatedValue": "$20 – $60 for a complete base set with stickers",
+    "rawPriceUsd": "$20 – $60",
+    "priceBasis": "raw",
     "image": "jurassicpark.jpg",
     "noCardReason": "",
     "mediaRank": 37,
@@ -1423,6 +1501,8 @@
       "One of the very few top-40 franchises with essentially no licensed collectibles"
     ],
     "estimatedValue": "Not applicable — no trading cards exist",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "image": "",
     "noCardReason": "Rockstar keeps Grand Theft Auto merchandising deliberately minimal, and the series’ adult rating makes it a poor fit for trading cards. No set has ever been produced.",
     "mediaRank": 38,
@@ -1455,6 +1535,8 @@
       "Sourcing caveat: the card itself is documented only by Japanese marketplace listings — no checklist, catalogue or publisher page for it could be found, so treat the set details as provisional"
     ],
     "estimatedValue": "$2 – $25 per card; sealed Japanese packs go for more",
+    "rawPriceUsd": "$2 – $25",
+    "priceBasis": "raw",
     "image": "rilakkuma.jpg",
     "noCardReason": "",
     "mediaRank": 39,
@@ -1488,6 +1570,8 @@
       "The standalone Monster Strike Card Game, for up to four players, followed on 2 March 2018"
     ],
     "estimatedValue": "$1 – $40 per card; sealed Japanese wafer packs carry a premium",
+    "rawPriceUsd": "$1 – $40",
+    "priceBasis": "raw",
     "image": "monsterstrike.jpg",
     "noCardReason": "",
     "mediaRank": 40,
@@ -1528,6 +1612,8 @@
       "Card references disagree on the year — most sources say 1965, PSA slabs it as 1966"
     ],
     "estimatedValue": "$5 – $80 per card; complete graded sets run into the thousands",
+    "rawPriceUsd": "$5 – $80",
+    "priceBasis": "raw",
     "image": "jamesbond.jpg",
     "noCardReason": "",
     "mediaRank": 41,
@@ -1564,6 +1650,8 @@
       "The card sets are mostly European releases rather than US hobby product"
     ],
     "estimatedValue": "Under $1 per card; complete albums carry the value",
+    "rawPriceUsd": "Under $1",
+    "priceBasis": "raw",
     "image": "angrybirds.jpg",
     "noCardReason": "",
     "mediaRank": 43,
@@ -1605,6 +1693,8 @@
       "Sourcing caveat: the card itself is documented only by Japanese marketplace listings — no checklist, catalogue or publisher page for it could be found, so treat the set details as provisional. Numbered Banpresto prism cards do turn up in Japanese auction listings, but no checklist for them exists"
     ],
     "estimatedValue": "$5 – $60 per prism card; Japanese sets are scarce in the West",
+    "rawPriceUsd": "$5 – $60",
+    "priceBasis": "raw",
     "image": "thomas.jpg",
     "noCardReason": "",
     "mediaRank": 44,
@@ -1637,6 +1727,8 @@
       "No Jonesy in the set — Fortnite's closest thing to a protagonist only arrived in the game in December 2020, well after Series 1 shipped"
     ],
     "estimatedValue": "$1 – $500+ depending on rarity tier and grade",
+    "rawPriceUsd": "$1 – $500+",
+    "priceBasis": "raw",
     "image": "fortnite.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -1677,6 +1769,8 @@
       "Sourcing caveat: the card itself is documented only by Japanese marketplace listings — no checklist, catalogue or publisher page for it could be found, so treat the set details as provisional. The 1975 date here is the series, not the menko: menko carry no year and no maker, so the cards cannot be dated precisely"
     ],
     "estimatedValue": "$10 – $150 for vintage 1970s menko depending on condition and character",
+    "rawPriceUsd": "$10 – $150",
+    "priceBasis": "raw",
     "image": "powerrangers.jpg",
     "noCardReason": "",
     "mediaRank": 46,
@@ -1708,6 +1802,8 @@
       "Iron Crown lost the Tolkien licence in 1999, ending the game two years before the films arrived"
     ],
     "estimatedValue": "$1 – $200; original ICE artwork cards are the collector draw",
+    "rawPriceUsd": "$1 – $200",
+    "priceBasis": "raw",
     "image": "middleearth.jpg",
     "noCardReason": "",
     "mediaRank": 47,
@@ -1747,6 +1843,8 @@
       "The first cards built entirely around the X-Men came much later — Comic Images in 1991, then the famous Jim Lee Impel set in 1992"
     ],
     "estimatedValue": "$30 – $350 for graded singles; ungraded stickers stay inexpensive",
+    "rawPriceUsd": "$30 – $350",
+    "priceBasis": "graded",
     "image": "xmen.jpg",
     "noCardReason": "",
     "mediaRank": 48,
@@ -1784,6 +1882,8 @@
       "Dating is not settled: PSA and most guides call it the 1940 set, while the Trading Card Database catalogues it as 1941"
     ],
     "estimatedValue": "$200 – $36,000+ depending on grade; card #1 carries an enormous premium",
+    "rawPriceUsd": "$200 – $36,000+",
+    "priceBasis": "raw",
     "image": "superman.jpg",
     "noCardReason": "",
     "mediaRank": 49,
@@ -1828,6 +1928,8 @@
       "The film series was retired and rebooted as the DCU before it ever established a card identity of its own"
     ],
     "estimatedValue": "$150 – $3,000 depending on grade; 1940 Gum Inc. cards are fragile and scarce",
+    "rawPriceUsd": "$150 – $3,000",
+    "priceBasis": "raw",
     "image": "dceu.jpg",
     "noCardReason": "",
     "mediaRank": 50,
@@ -1877,6 +1979,8 @@
       "An Alpha Black Lotus graded PSA 10 sold for $540,000, and a signed copy later went for over $3 million"
     ],
     "estimatedValue": "Alpha commons run into the hundreds; Black Lotus into six and seven figures",
+    "rawPriceUsd": "$100 – $1M+",
+    "priceBasis": "raw",
     "image": "magic.jpg",
     "sources": [
       {
@@ -1908,6 +2012,8 @@
       "Now the third best-selling trading card game in the world behind Magic and Pokémon"
     ],
     "estimatedValue": "$1 for commons up to several thousand for graded Romance Dawn secret rares",
+    "rawPriceUsd": "$1 – $3,000+",
+    "priceBasis": "raw",
     "image": "onepiece.jpg",
     "sources": [
       {
@@ -1939,6 +2045,8 @@
       "Reached the sixth best-selling TCG in the world within two years of existing"
     ],
     "estimatedValue": "$1 – $600 depending on rarity; enchanted-rare cards drive the market",
+    "rawPriceUsd": "$1 – $600",
+    "priceBasis": "raw",
     "image": "lorcana.jpg",
     "sources": [
       {
@@ -1970,6 +2078,8 @@
       "The English Digi-Battle cards are slabbed as 2000, but the card itself is printed © 1999 BANDAI"
     ],
     "estimatedValue": "$2 – $300 for 1999 originals; sealed first-edition product goes higher",
+    "rawPriceUsd": "$2 – $300",
+    "priceBasis": "raw",
     "image": "digimon.jpg",
     "sources": [
       {
@@ -2001,6 +2111,8 @@
       "Star Wars: Unlimited brought the franchise back to the TCG top ten in 2024"
     ],
     "estimatedValue": "$1 – $200 for Premiere singles; sealed 1995 product is scarce",
+    "rawPriceUsd": "$1 – $200",
+    "priceBasis": "raw",
     "image": "starwarsccg.jpg",
     "sources": [
       {
@@ -2028,6 +2140,8 @@
       "Its rarest early cards, the Cold Foil legendaries, trade for five figures"
     ],
     "estimatedValue": "$1 – $30,000; first-edition Cold Foil legendaries are the trophy cards",
+    "rawPriceUsd": "$1 – $30,000",
+    "priceBasis": "raw",
     "image": "fleshandblood.jpg",
     "sources": [
       {
@@ -2059,6 +2173,8 @@
       "Bandai now runs three of the top ten TCGs: One Piece, Digimon and Gundam"
     ],
     "estimatedValue": "$1 – $500 depending on rarity; the market is still young and volatile",
+    "rawPriceUsd": "$1 – $500",
+    "priceBasis": "raw",
     "image": "gundam.jpg",
     "sources": [
       {
@@ -2086,6 +2202,8 @@
       "Posted one of the biggest debut quarters of any new TCG on record"
     ],
     "estimatedValue": "$1 – $400; chase champion cards drive the early market",
+    "rawPriceUsd": "$1 – $400",
+    "priceBasis": "raw",
     "image": "riftbound.jpg",
     "sources": [
       {
@@ -2117,6 +2235,8 @@
       "Won the Origins Award for best trading card game of its year"
     ],
     "estimatedValue": "$1 – $150; foil Aragorn and Gandalf cards lead the market",
+    "rawPriceUsd": "$1 – $150",
+    "priceBasis": "raw",
     "image": "lotrtcg.jpg",
     "sources": [
       {
@@ -2144,6 +2264,8 @@
       "The English release was discontinued in 2006 while the Japanese game kept going"
     ],
     "estimatedValue": "$1 – $400; early Japanese DM-01 rares carry the value",
+    "rawPriceUsd": "$1 – $400",
+    "priceBasis": "raw",
     "image": "duelmasters.jpg",
     "sources": [
       {
@@ -2171,6 +2293,8 @@
       "The name means \"White Black\" in German — the two halves of its colour system"
     ],
     "estimatedValue": "$1 – $500; signed and SP-rarity character cards go far higher",
+    "rawPriceUsd": "$1 – $500",
+    "priceBasis": "raw",
     "image": "weissschwarz.jpg",
     "sources": [
       {
@@ -2198,6 +2322,8 @@
       "Spent years as a top-ten seller before slipping out of the leading pack in 2025"
     ],
     "estimatedValue": "$1 – $300; early Japanese SP-rarity cards command the most",
+    "rawPriceUsd": "$1 – $300",
+    "priceBasis": "raw",
     "image": "vanguard.jpg",
     "sources": [
       {
@@ -2225,6 +2351,8 @@
       "Sells strongly through Japanese channels even where it under-registers on Western marketplaces"
     ],
     "estimatedValue": "$1 – $250 depending on series and rarity",
+    "rawPriceUsd": "$1 – $250",
+    "priceBasis": "raw",
     "image": "unionarena.jpg",
     "sources": [
       {
@@ -2252,6 +2380,8 @@
       "Its Hyperspace and Showcase parallel treatments drive most of the secondary market"
     ],
     "estimatedValue": "$1 – $700; Showcase leaders are the chase cards",
+    "rawPriceUsd": "$1 – $700",
+    "priceBasis": "raw",
     "image": "swunlimited.jpg",
     "sources": [
       {
@@ -2283,6 +2413,8 @@
       "A tiny Alpha print run meant singles were trading for hundreds within weeks of release"
     ],
     "estimatedValue": "$5 – $2,000; Alpha foils reach four figures",
+    "rawPriceUsd": "$5 – $2,000",
+    "priceBasis": "raw",
     "image": "sorcery.jpg",
     "sources": [
       {
@@ -2315,6 +2447,8 @@
       "A launch fighter in Super Smash Bros. in 1999, seventeen years after this sticker"
     ],
     "estimatedValue": "$10 – $400+, almost entirely dependent on grade",
+    "rawPriceUsd": "$10 – $400+",
+    "priceBasis": "raw",
     "image": "donkeykong.jpg",
     "sources": [
       {
@@ -2351,6 +2485,8 @@
       "A launch fighter in Super Smash Bros. in 1999, ten years after this sticker"
     ],
     "estimatedValue": "$5 – $150+, higher for graded scratch-offs left unscratched",
+    "rawPriceUsd": "$5 – $150+",
+    "priceBasis": "raw",
     "image": "link.jpg",
     "sources": [
       {
@@ -2387,6 +2523,8 @@
       "A launch fighter in Super Smash Bros. in 1999"
     ],
     "estimatedValue": "$5 – $100+, more for graded or prism versions",
+    "rawPriceUsd": "$5 – $100+",
+    "priceBasis": "raw",
     "image": "yoshi.jpg",
     "sources": [
       {
@@ -2423,6 +2561,8 @@
       "Not a Nintendo character, but he joined Super Smash Bros. in 2007 — the most famous guest fighter in the series"
     ],
     "estimatedValue": "$3 – $120+, with graded Prisms well above that",
+    "rawPriceUsd": "$3 – $120+",
+    "priceBasis": "raw",
     "image": "sonic.jpg",
     "sources": [
       {
@@ -2459,6 +2599,8 @@
       "Series 1 packs held seven cards and one sticker"
     ],
     "estimatedValue": "$15 – $600+, rising steeply above PSA 8",
+    "rawPriceUsd": "$15 – $600+",
+    "priceBasis": "raw",
     "image": "darthvader.jpg",
     "sources": [
       {
@@ -2495,6 +2637,8 @@
       "Series 1 is the hardest of the five 1977 series to complete in high grade"
     ],
     "estimatedValue": "$10 – $500+, depending on grade",
+    "rawPriceUsd": "$10 – $500+",
+    "priceBasis": "raw",
     "image": "princessleia.jpg",
     "sources": [
       {
@@ -2531,6 +2675,8 @@
       "Topps printed five separate 1977 Star Wars series as the film kept selling"
     ],
     "estimatedValue": "$10 – $500+, depending on grade",
+    "rawPriceUsd": "$10 – $500+",
+    "priceBasis": "raw",
     "image": "hansolo.jpg",
     "sources": [
       {
@@ -2567,6 +2713,8 @@
       "Donruss lifted real comic panels and swapped the dialogue for gags"
     ],
     "estimatedValue": "$20 – $400+, depending on grade",
+    "rawPriceUsd": "$20 – $400+",
+    "priceBasis": "raw",
     "image": "hulk.jpg",
     "sources": [
       {
@@ -2603,6 +2751,8 @@
       "The original panel art is buried under a joke about hiding the soap"
     ],
     "estimatedValue": "$20 – $400+, depending on grade",
+    "rawPriceUsd": "$20 – $400+",
+    "priceBasis": "raw",
     "image": "thor.jpg",
     "sources": [
       {
@@ -2639,6 +2789,8 @@
       "Created in 1940, so he waited 26 years for a card — the same wait as Batman"
     ],
     "estimatedValue": "$20 – $600+, depending on grade",
+    "rawPriceUsd": "$20 – $600+",
+    "priceBasis": "raw",
     "image": "robin.jpg",
     "sources": [
       {
@@ -2671,6 +2823,8 @@
       "The face is painted floating above the scene rather than in it — an unusual composition for the set"
     ],
     "estimatedValue": "$40 – $1,500+, one of the set’s key cards",
+    "rawPriceUsd": "$40 – $1,500+",
+    "priceBasis": "raw",
     "image": "joker.jpg",
     "sources": [
       {
@@ -2703,6 +2857,8 @@
       "Created in 1940 in the same issue of Batman as the Joker"
     ],
     "estimatedValue": "$30 – $800+, depending on grade",
+    "rawPriceUsd": "$30 – $800+",
+    "priceBasis": "raw",
     "image": "catwoman.jpg",
     "sources": [
       {
@@ -2735,6 +2891,8 @@
       "Frank Gorshin's Emmy-nominated performance is what put him on cardboard at all"
     ],
     "estimatedValue": "$30 – $900+, depending on grade",
+    "rawPriceUsd": "$30 – $900+",
+    "priceBasis": "raw",
     "image": "riddler.jpg",
     "sources": [
       {
@@ -2767,6 +2925,8 @@
       "He negotiated a share of the gross, which made him very wealthy and rather irritated"
     ],
     "estimatedValue": "$10 – $400+, depending on grade",
+    "rawPriceUsd": "$10 – $400+",
+    "priceBasis": "raw",
     "image": "obiwan.jpg",
     "sources": [
       {
@@ -2799,6 +2959,8 @@
       "Shares the set with Captain America, Iron Man, Spider-Man, the Hulk and Thor"
     ],
     "estimatedValue": "$20 – $500+, depending on grade",
+    "rawPriceUsd": "$20 – $500+",
+    "priceBasis": "raw",
     "image": "daredevil.jpg",
     "sources": [
       {
@@ -2835,6 +2997,8 @@
       "The show had only been a half-hour series for about a year when the set appeared"
     ],
     "estimatedValue": "$5 – $200+, depending on grade",
+    "rawPriceUsd": "$5 – $200+",
+    "priceBasis": "raw",
     "image": "bart.jpg",
     "sources": [
       {
@@ -2867,6 +3031,8 @@
       "In 1990 Homer was still the supporting character in what was very much Bart's show"
     ],
     "estimatedValue": "$3 – $80+, depending on grade",
+    "rawPriceUsd": "$3 – $80+",
+    "priceBasis": "raw",
     "image": "homer.jpg",
     "sources": [
       {
@@ -2899,6 +3065,8 @@
       "That recall is why a 72-card set from a franchise this size is genuinely scarce"
     ],
     "estimatedValue": "$40 – $500+, scarce because of the recall",
+    "rawPriceUsd": "$40 – $500+",
+    "priceBasis": "raw",
     "image": "spock.jpg",
     "sources": [
       {
@@ -2935,6 +3103,8 @@
       "Sega gave him the moustache-first silhouette so he would read instantly at Mega Drive resolution"
     ],
     "estimatedValue": "$3 – $60+, depending on grade",
+    "rawPriceUsd": "$3 – $60+",
+    "priceBasis": "raw",
     "image": "robotnik.jpg",
     "sources": [
       {
@@ -2967,6 +3137,8 @@
       "Created in 1941, so his first card came 25 years after his first comic"
     ],
     "estimatedValue": "$25 – $700+, depending on grade",
+    "rawPriceUsd": "$25 – $700+",
+    "priceBasis": "raw",
     "image": "penguin.jpg",
     "sources": [
       {
@@ -2999,6 +3171,8 @@
       "Daffy had been on screen since 1937, so his first card came 53 years later"
     ],
     "estimatedValue": "$2 – $40+, common but rarely found sharp",
+    "rawPriceUsd": "$2 – $40+",
+    "priceBasis": "raw",
     "image": "daffy.jpg",
     "sources": [
       {
@@ -3031,6 +3205,8 @@
       "The artwork carries the initials \"FM\" in the lower right corner"
     ],
     "estimatedValue": "$20 – $600+, with a steep premium for PSA 10",
+    "rawPriceUsd": "$20 – $600+",
+    "priceBasis": "raw",
     "image": "wolverine.jpg",
     "sources": [
       {
@@ -3063,6 +3239,8 @@
       "By 1992 Garfield had already been one of the most merchandised characters in the world for a decade"
     ],
     "estimatedValue": "$1 – $30+, common and inexpensive",
+    "rawPriceUsd": "$1 – $30+",
+    "priceBasis": "raw",
     "image": "garfield.jpg",
     "sources": [
       {
@@ -3095,6 +3273,8 @@
       "Harrison Ford was on his second defining role in four years, after Han Solo in 1977"
     ],
     "estimatedValue": "$10 – $300+, depending on grade",
+    "rawPriceUsd": "$10 – $300+",
+    "priceBasis": "raw",
     "image": "indianajones.jpg",
     "sources": [
       {
@@ -3131,6 +3311,8 @@
       "Printed the year E.T. became the highest-grossing film ever made"
     ],
     "estimatedValue": "$10 – $250+, more for the short-printed stickers in high grade",
+    "rawPriceUsd": "$10 – $250+",
+    "priceBasis": "raw",
     "image": "et.jpg",
     "sources": [
       {
@@ -3167,6 +3349,8 @@
       "Gizmo was the merchandising engine — the creatures the film is named after sold far less"
     ],
     "estimatedValue": "$5 – $80+, stickers command more than base cards",
+    "rawPriceUsd": "$5 – $80+",
+    "priceBasis": "raw",
     "image": "gizmo.jpg",
     "sources": [
       {
@@ -3203,6 +3387,8 @@
       "The set is 84 cards and 22 stickers, an unusually large sticker run for the period"
     ],
     "estimatedValue": "$10 – $200+, depending on grade",
+    "rawPriceUsd": "$10 – $200+",
+    "priceBasis": "raw",
     "image": "ripley.jpg",
     "sources": [
       {
@@ -3235,6 +3421,8 @@
       "By the time he reached cardboard the character had been rewritten from villain to protector"
     ],
     "estimatedValue": "$2 – $60+, common except in high grade",
+    "rawPriceUsd": "$2 – $60+",
+    "priceBasis": "raw",
     "image": "terminator.jpg",
     "sources": [
       {
@@ -3267,6 +3455,8 @@
       "Four years after the first film, and sold with bubble gum despite the source material"
     ],
     "estimatedValue": "$10 – $150+, higher for graded stickers",
+    "rawPriceUsd": "$10 – $150+",
+    "priceBasis": "raw",
     "image": "freddy.jpg",
     "sources": [
       {
@@ -3303,6 +3493,8 @@
       "Just 72 cards, which is why a set from a franchise this large is genuinely scarce"
     ],
     "estimatedValue": "$50 – $600+, scarce because of the recall",
+    "rawPriceUsd": "$50 – $600+",
+    "priceBasis": "raw",
     "image": "kirk.jpg",
     "sources": [
       {
@@ -3339,6 +3531,8 @@
       "The factory set added 22 behind-the-scenes cards that never appeared in packs"
     ],
     "estimatedValue": "$2 – $60+, common except in top grade",
+    "rawPriceUsd": "$2 – $60+",
+    "priceBasis": "raw",
     "image": "robocop.jpg",
     "sources": [
       {
@@ -3365,6 +3559,8 @@
       "The copyright line on the card is United Artists, not Topps alone"
     ],
     "estimatedValue": "$2 – $80+, depending on grade",
+    "rawPriceUsd": "$2 – $80+",
+    "priceBasis": "raw",
     "image": "rocky.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3399,6 +3595,8 @@
       "Chuck Jones and Michael Maltese wrote a set of rules for the shorts, including that the Road Runner must never harm the Coyote — every injury has to be self-inflicted."
     ],
     "estimatedValue": "$2–15 raw",
+    "rawPriceUsd": "$2 – $15",
+    "priceBasis": "raw",
     "image": "roadrunner.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3433,6 +3631,8 @@
       "He speaks in only a handful of shorts, all opposite Bugs Bunny rather than the Road Runner, introducing himself as \"Wile E. Coyote — super genius\"."
     ],
     "estimatedValue": "$2–15 raw",
+    "rawPriceUsd": "$2 – $15",
+    "priceBasis": "raw",
     "image": "wilee.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3467,6 +3667,8 @@
       "Mel Blanc based the spraying lisp on his own voice for Daffy Duck, minus the recording-speed trick used to raise Daffy’s pitch."
     ],
     "estimatedValue": "$2–15 raw",
+    "rawPriceUsd": "$2 – $15",
+    "priceBasis": "raw",
     "image": "sylvester.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3501,6 +3703,8 @@
       "His stutter came from Joe Dougherty, a voice actor who genuinely stuttered; the takes ran so long and so expensively that Mel Blanc replaced him in 1937 and performed the stammer deliberately."
     ],
     "estimatedValue": "$2–15 raw",
+    "rawPriceUsd": "$2 – $15",
+    "priceBasis": "raw",
     "image": "porky.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3535,6 +3739,8 @@
       "His original 1942 design was pink and featherless, and censors objected that he looked naked — the yellow feathers were added partly to settle the complaint."
     ],
     "estimatedValue": "$2–15 raw",
+    "rawPriceUsd": "$2 – $15",
+    "priceBasis": "raw",
     "image": "tweety.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3569,6 +3775,8 @@
       "Mel Blanc built the growl-and-gibberish vocal out of animal noises; there is no actual language in it."
     ],
     "estimatedValue": "$2–15 raw",
+    "rawPriceUsd": "$2 – $15",
+    "priceBasis": "raw",
     "image": "taz.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3603,6 +3811,8 @@
       "Yeardley Smith originally auditioned for Bart, and was told her voice was too high for a boy; she was given Lisa instead and has voiced her ever since."
     ],
     "estimatedValue": "$15–40 graded",
+    "rawPriceUsd": "$15 – $40",
+    "priceBasis": "raw",
     "image": "lisa.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3633,6 +3843,8 @@
       "Rowling has said Hermione is heavily based on herself at eleven — insecure and driven, with a fear of failure out of proportion to any real risk of it."
     ],
     "estimatedValue": "$10–35 holo",
+    "rawPriceUsd": "$10 – $35",
+    "priceBasis": "raw",
     "image": "hermione.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3667,6 +3879,8 @@
       "Ron is the only member of the trio whose card ability speeds up your other Characters rather than your own resources, which is a neat read of him as the one who makes the group work."
     ],
     "estimatedValue": "$15–45 holo",
+    "rawPriceUsd": "$15 – $45",
+    "priceBasis": "raw",
     "image": "ron.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3701,6 +3915,8 @@
       "Rowling told Alan Rickman one crucial fact about Snape’s ending before filming began, which Rickman kept from the other actors and the directors for a decade."
     ],
     "estimatedValue": "$10–30 holo",
+    "rawPriceUsd": "$10 – $30",
+    "priceBasis": "raw",
     "image": "snape.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3735,6 +3951,8 @@
       "Tim Allen got the part after Billy Crystal turned it down — a decision Crystal has called the biggest mistake of his career."
     ],
     "estimatedValue": "$40–90 graded",
+    "rawPriceUsd": "$40 – $90",
+    "priceBasis": "graded",
     "image": "buzz.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3769,6 +3987,8 @@
       "The name \"Bowser\" was invented for the North American release by Nintendo of America staff, and did not exist in the Japanese original."
     ],
     "estimatedValue": "$10–30 raw",
+    "rawPriceUsd": "$10 – $30",
+    "priceBasis": "raw",
     "image": "bowser.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3803,6 +4023,8 @@
       "Akira Toriyama has said he kept Vegeta alive well past the point he planned to kill him off, purely because readers responded to him so strongly."
     ],
     "estimatedValue": "$60–200 depending on condition",
+    "rawPriceUsd": "$60 – $200",
+    "priceBasis": "raw",
     "image": "vegeta.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3837,6 +4059,8 @@
       "Frank Oz performed and voiced Yoda from inside a pit under the Dagobah set; Lucas briefly considered casting a monkey in a mask instead."
     ],
     "estimatedValue": "$20–75 raw; far more graded",
+    "rawPriceUsd": "$20 – $75",
+    "priceBasis": "raw",
     "image": "yoda.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3875,6 +4099,8 @@
       "The armour was originally designed all-white for a Super Trooper concept; it was repainted in mismatched greens and reds specifically to look scavenged."
     ],
     "estimatedValue": "$50–150 graded",
+    "rawPriceUsd": "$50 – $150",
+    "priceBasis": "raw",
     "image": "bobafett.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3913,6 +4139,8 @@
       "Billy Dee Williams returned to the role 39 years later in The Rise of Skywalker, one of the longest gaps between appearances by any actor in a single film series."
     ],
     "estimatedValue": "$10–40 raw",
+    "rawPriceUsd": "$10 – $40",
+    "priceBasis": "raw",
     "image": "lando.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3951,6 +4179,8 @@
       "Williams took scale — about $75,000 — on condition Disney not use the Genie to sell merchandise. The studio did anyway, and he refused to return for the direct-to-video sequel."
     ],
     "estimatedValue": "$2–8 raw",
+    "rawPriceUsd": "$2 – $8",
+    "priceBasis": "raw",
     "image": "genie.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3985,6 +4215,8 @@
       "Paige O’Hara sang Belle’s parts live during recording rather than to a click track, so several takes in the finished film are first passes."
     ],
     "estimatedValue": "$1–5 raw",
+    "rawPriceUsd": "$1 – $5",
+    "priceBasis": "raw",
     "image": "belle.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4015,6 +4247,8 @@
       "Myers asked to redo all his lines in a Scottish accent after production had already animated to his first performance, costing the studio a reported $4 million."
     ],
     "estimatedValue": "$2–6 raw",
+    "rawPriceUsd": "$2 – $6",
+    "priceBasis": "raw",
     "image": "shrek.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4045,6 +4279,8 @@
       "The animators modelled Donkey on a real miniature donkey named Perry, kept at a farm in Barnesville, Pennsylvania."
     ],
     "estimatedValue": "$2–6 raw",
+    "rawPriceUsd": "$2 – $6",
+    "priceBasis": "raw",
     "image": "donkey.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4075,6 +4311,8 @@
       "The animators had to rebuild Fiona’s hair simulation from scratch after the first version made it behave like a solid helmet in every shot."
     ],
     "estimatedValue": "$2–6 raw",
+    "rawPriceUsd": "$2 – $6",
+    "priceBasis": "raw",
     "image": "fiona.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4105,6 +4343,8 @@
       "He was not originally a frog: the 1955 version had no defined species, and only acquired the collar, flippers and frog identity in the late 1960s."
     ],
     "estimatedValue": "$5–20 raw",
+    "rawPriceUsd": "$5 – $20",
+    "priceBasis": "raw",
     "image": "kermit.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4131,6 +4371,8 @@
       "\"It's clobberin' time\" was not in the Thing's first appearance — Stan Lee and Jack Kirby gave it to him a few issues in, and it became the most quoted line in Marvel comics."
     ],
     "estimatedValue": "$60–150 graded",
+    "rawPriceUsd": "$60 – $150",
+    "priceBasis": "raw",
     "image": "thing.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4169,6 +4411,8 @@
       "Jack Kirby designed the armour before the face, and later said the mask went on because Doom’s scarring was meant to be almost nothing — a small mark that only Doom’s vanity treated as disfigurement."
     ],
     "estimatedValue": "$40–120 graded",
+    "rawPriceUsd": "$40 – $120",
+    "priceBasis": "raw",
     "image": "drdoom.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4211,6 +4455,8 @@
       "Johnny had his own solo strip in Strange Tales during the 1960s, sharing the book with Doctor Strange."
     ],
     "estimatedValue": "$50–120 graded",
+    "rawPriceUsd": "$50 – $120",
+    "priceBasis": "raw",
     "image": "torch.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4249,6 +4495,8 @@
       "The purple costume was Don Heck’s design; Hawkeye has kept some version of purple through sixty years of redesigns."
     ],
     "estimatedValue": "$30–80 raw",
+    "rawPriceUsd": "$30 – $80",
+    "priceBasis": "raw",
     "image": "hawkeye.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4287,6 +4535,8 @@
       "Bill Everett drew him for a giveaway comic that was never distributed, then reused the character in Marvel Comics #1."
     ],
     "estimatedValue": "$40–100 graded",
+    "rawPriceUsd": "$40 – $100",
+    "priceBasis": "raw",
     "image": "namor.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4325,6 +4575,8 @@
       "Menko were never dated or numbered by the makers, so attributions rest on the artwork, the printing and the film being promoted rather than anything printed on the card. Treat the 1955 date as an estimate."
     ],
     "estimatedValue": "$40–150 depending on condition",
+    "rawPriceUsd": "$40 – $150",
+    "priceBasis": "raw",
     "image": "godzilla.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4359,6 +4611,8 @@
       "Sam had no wings when he debuted in 1969; the flight harness was a gift from Black Panther two years later."
     ],
     "estimatedValue": "$30–70 raw",
+    "rawPriceUsd": "$30 – $70",
+    "priceBasis": "raw",
     "image": "falcon.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4393,6 +4647,8 @@
       "He is the only member of the team whose codename is a boast rather than a description, which the comics have had characters point out for sixty years."
     ],
     "estimatedValue": "$30–70 raw",
+    "rawPriceUsd": "$30 – $70",
+    "priceBasis": "raw",
     "image": "mrfantastic.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4427,6 +4683,8 @@
       "The Carddass vending machines these came from dispensed one card for ¥20 — the same machines Bandai used for Dragon Ball, which is why the card stock and size match Goku’s."
     ],
     "estimatedValue": "$10–40 depending on rarity",
+    "rawPriceUsd": "$10 – $40",
+    "priceBasis": "raw",
     "image": "sailormoon.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4462,6 +4720,8 @@
       "Fred’s voice, Alan Reed, invented \"yabba dabba doo\" himself — the script said only \"yahoo\"."
     ],
     "estimatedValue": "$3–12 raw",
+    "rawPriceUsd": "$3 – $10",
+    "priceBasis": "raw",
     "image": "fred.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4493,6 +4753,8 @@
       "Linda Larkin was told repeatedly during recording that her speaking voice was too high; she kept the part, but Lea Salonga sings all of Jasmine’s songs."
     ],
     "estimatedValue": "$2–8 raw",
+    "rawPriceUsd": "$2 – $8",
+    "priceBasis": "raw",
     "sources": [
       {
         "label": "Trading Card Database — 1993 SkyBox Aladdin",
@@ -4543,6 +4805,8 @@
       "Sold from Carddass vending machines for 20 yen a card, which is why high grades are scarce"
     ],
     "estimatedValue": "$150–400 raw, into the low thousands for the prism version in PSA 9 or 10",
+    "rawPriceUsd": "$150 – $400",
+    "priceBasis": "raw",
     "image": "luffy-1999-carddass.jpg"
   },
   {
@@ -4574,6 +4838,8 @@
       "Zoro was the first crewmate Luffy recruited, and the first to get his own card number after him"
     ],
     "estimatedValue": "$60–200 raw, $400+ in PSA 9",
+    "rawPriceUsd": "$60 – $200",
+    "priceBasis": "raw",
     "image": "zoro-1999-carddass.jpg"
   },
   {
@@ -4605,6 +4871,8 @@
       "The quote translates as \"You're strong — want to team up with me?\""
     ],
     "estimatedValue": "$50–150 raw, $500+ in PSA 10",
+    "rawPriceUsd": "$50 – $150",
+    "priceBasis": "raw",
     "image": "nami-1999-carddass.jpg"
   },
   {
@@ -4636,6 +4904,8 @@
       "Its ability forces another player to discard the top card of their deck"
     ],
     "estimatedValue": "$40–120 raw, $400+ in PSA 10",
+    "rawPriceUsd": "$40 – $120",
+    "priceBasis": "raw",
     "image": "usopp-1999-carddass.jpg"
   },
   {
@@ -4667,6 +4937,8 @@
       "The quote is pure Sanji: \"There's still food left — eat it!\""
     ],
     "estimatedValue": "$20–60 raw",
+    "rawPriceUsd": "$20 – $60",
+    "priceBasis": "raw",
     "image": "sanji-2000-carddass.jpg"
   },
   {
@@ -4702,6 +4974,8 @@
       "Bandai reprinted Part 1 in 1995 as the \"Reedition\" run, which is the version most often mistaken for an original"
     ],
     "estimatedValue": "$30–90 raw for an original 1988 print",
+    "rawPriceUsd": "$30 – $90",
+    "priceBasis": "raw",
     "image": "krillin-1988-carddass.jpg"
   },
   {
@@ -4737,6 +5011,8 @@
       "She has been in Dragon Ball longer than Goku has been an adult, appearing on page one in 1984"
     ],
     "estimatedValue": "$40–120 raw for an original 1988 print",
+    "rawPriceUsd": "$40 – $120",
+    "priceBasis": "raw",
     "image": "bulma-1988-carddass.jpg"
   },
   {
@@ -4772,6 +5048,8 @@
       "Shown without his sunglasses, which is how Bandai marked the serious version of him"
     ],
     "estimatedValue": "$120–350 raw, more for a clean original prism",
+    "rawPriceUsd": "$120 – $350",
+    "priceBasis": "raw",
     "image": "roshi-1988-carddass.jpg"
   },
   {
@@ -4807,6 +5085,8 @@
       "Bandai gave him BP300, the same battle power as the strongest cards in the run"
     ],
     "estimatedValue": "$25–80 raw",
+    "rawPriceUsd": "$25 – $80",
+    "priceBasis": "raw",
     "image": "piccolo-1989-carddass.jpg"
   },
   {
@@ -4842,6 +5122,8 @@
       "Beware the 1991 reprints: PSA labels them \"Carddass '91 Reprint\" rather than Part 3"
     ],
     "estimatedValue": "$50–150 raw, $250+ in PSA 8",
+    "rawPriceUsd": "$50 – $150",
+    "priceBasis": "raw",
     "image": "gohan-1989-carddass.jpg"
   },
   {
@@ -4877,6 +5159,8 @@
       "Rated 3/1: strong attack, almost no defence, which is roughly how the series treats him"
     ],
     "estimatedValue": "$40–150 raw for a clean 2002 Japanese print",
+    "rawPriceUsd": "$40 – $150",
+    "priceBasis": "raw",
     "image": "sasuke-2002-bandai.jpg"
   },
   {
@@ -4912,6 +5196,8 @@
       "The quote reads \"…hey, can I sit down?\""
     ],
     "estimatedValue": "$25–80 raw",
+    "rawPriceUsd": "$25 – $80",
+    "priceBasis": "raw",
     "image": "sakura-2002-bandai.jpg"
   },
   {
@@ -4947,6 +5233,8 @@
       "Most scans of this sticker online carry a marketplace watermark across the art"
     ],
     "estimatedValue": "$40–120 raw, $200+ in PSA 8",
+    "rawPriceUsd": "$40 – $120",
+    "priceBasis": "raw",
     "image": "doctor-strange-1975-topps.jpg"
   },
   {
@@ -4982,6 +5270,8 @@
       "The die-cut follows the flames, making it one of the odder shapes in the set"
     ],
     "estimatedValue": "$50–150 raw, $400+ in PSA 9",
+    "rawPriceUsd": "$50 – $150",
+    "priceBasis": "raw",
     "image": "ghost-rider-1975-topps.jpg"
   },
   {
@@ -5017,6 +5307,8 @@
       "The only Avenger in the set given a joke about air travel rather than her powers"
     ],
     "estimatedValue": "$60–180 raw, more graded",
+    "rawPriceUsd": "$60 – $180",
+    "priceBasis": "raw",
     "image": "black-widow-1975-topps.jpg"
   },
   {
@@ -5052,6 +5344,8 @@
       "He had been fighting Spider-Man for 12 years by the time he got a card"
     ],
     "estimatedValue": "$40–120 raw, $250+ in PSA 8",
+    "rawPriceUsd": "$40 – $120",
+    "priceBasis": "raw",
     "image": "doc-ock-1975-topps.jpg"
   },
   {
@@ -5087,6 +5381,8 @@
       "That chain belt was forged from his prison shackles in the origin story"
     ],
     "estimatedValue": "$50–150 raw",
+    "rawPriceUsd": "$50 – $150",
+    "priceBasis": "raw",
     "image": "luke-cage-1975-topps.jpg"
   },
   {
@@ -5122,6 +5418,8 @@
       "The \"Kung Fooey\" caption is the shortest in the whole run"
     ],
     "estimatedValue": "$40–120 raw, $250+ in PSA 8",
+    "rawPriceUsd": "$40 – $120",
+    "priceBasis": "raw",
     "image": "iron-fist-1975-topps.jpg"
   },
   {
@@ -5157,6 +5455,8 @@
       "Marvel had created him in 1973 to cash in on the Bruce Lee boom"
     ],
     "estimatedValue": "$30–90 raw",
+    "rawPriceUsd": "$30 – $90",
+    "priceBasis": "raw",
     "image": "shang-chi-1975-topps.jpg"
   },
   {
@@ -5178,6 +5478,8 @@
       "Glen Keane based the design on Tom Cruise after early passes looked too young"
     ],
     "estimatedValue": "$2–10 raw; complete 90-card sets run $15–30",
+    "rawPriceUsd": "$2 – $10",
+    "priceBasis": "raw",
     "image": "aladdin-1993-skybox.jpg",
     "sources": [
       {
@@ -5209,6 +5511,8 @@
       "The cobra staff on the card is the same prop that later becomes his snake form"
     ],
     "estimatedValue": "$2–10 raw",
+    "rawPriceUsd": "$2 – $10",
+    "priceBasis": "raw",
     "image": "jafar-1993-skybox.jpg",
     "sources": [
       {
@@ -5240,6 +5544,8 @@
       "James Earl Jones was cast partly because Disney wanted the Darth Vader voice"
     ],
     "estimatedValue": "$1–8 raw",
+    "rawPriceUsd": "$1 – $8",
+    "priceBasis": "raw",
     "image": "mufasa-1994-skybox.jpg",
     "sources": [
       {
@@ -5271,6 +5577,8 @@
       "The animators modelled his stiff, theatrical movement on stage acting rather than real lions"
     ],
     "estimatedValue": "$2–10 raw",
+    "rawPriceUsd": "$2 – $10",
+    "priceBasis": "raw",
     "image": "scar-1994-skybox.jpg",
     "sources": [
       {
@@ -5302,6 +5610,8 @@
       "Anna's freckles were a deliberate break from Disney's usual princess design"
     ],
     "estimatedValue": "$1–6 raw",
+    "rawPriceUsd": "$1 – $6",
+    "priceBasis": "raw",
     "image": "anna-2014-topps.jpg",
     "sources": [
       {
@@ -5333,6 +5643,8 @@
       "Josh Gad improvised so much of the dialogue that the writers rebuilt scenes around him"
     ],
     "estimatedValue": "$2–8 raw",
+    "rawPriceUsd": "$2 – $8",
+    "priceBasis": "raw",
     "image": "olaf-2014-topps.jpg",
     "sources": [
       {
@@ -5364,6 +5676,8 @@
       "Nala was originally written with a brother, Mheetu, cut late in production"
     ],
     "estimatedValue": "$1–8 raw",
+    "rawPriceUsd": "$1 – $8",
+    "priceBasis": "raw",
     "image": "nala-1994-skybox.jpg",
     "sources": [
       {
@@ -5395,6 +5709,8 @@
       "His name is simply the Swahili word for \"friend\""
     ],
     "estimatedValue": "$1–8 raw",
+    "rawPriceUsd": "$1 – $8",
+    "priceBasis": "raw",
     "image": "rafiki-1994-skybox.jpg",
     "sources": [
       {
@@ -5426,6 +5742,8 @@
       "Timon is a meerkat, an animal most of the audience had never seen before 1994"
     ],
     "estimatedValue": "$2–10 raw",
+    "rawPriceUsd": "$2 – $10",
+    "priceBasis": "raw",
     "image": "timon-1994-skybox.jpg",
     "sources": [
       {
@@ -5457,6 +5775,8 @@
       "His name means \"simpleton\" or \"careless\" in Swahili"
     ],
     "estimatedValue": "$2–10 raw",
+    "rawPriceUsd": "$2 – $10",
+    "priceBasis": "raw",
     "image": "pumbaa-1994-skybox.jpg",
     "sources": [
       {
@@ -5488,6 +5808,8 @@
       "A founding member of the X-Men from 1963, waiting 13 years for a trading card"
     ],
     "estimatedValue": "$25–70 raw",
+    "rawPriceUsd": "$25 – $70",
+    "priceBasis": "raw",
     "image": "iceman-1976-topps.jpg",
     "sources": [
       {
@@ -5523,6 +5845,8 @@
       "The art solves an obvious problem by drawing her half-faded rather than absent"
     ],
     "estimatedValue": "$25–70 raw",
+    "rawPriceUsd": "$25 – $70",
+    "priceBasis": "raw",
     "image": "invisible-girl-1976-topps.jpg",
     "sources": [
       {
@@ -5558,6 +5882,8 @@
       "Thirty-five years passed between his comics debut and this, his first card"
     ],
     "estimatedValue": "$40–110 raw",
+    "rawPriceUsd": "$40 – $110",
+    "priceBasis": "raw",
     "image": "red-skull-1976-topps.jpg",
     "sources": [
       {
@@ -5593,6 +5919,8 @@
       "His mask stays on: Bandai never printed a card showing the face under it"
     ],
     "estimatedValue": "$20–70 raw",
+    "rawPriceUsd": "$20 – $70",
+    "priceBasis": "raw",
     "image": "kakashi-2002-bandai.jpg",
     "sources": [
       {
@@ -5624,6 +5952,8 @@
       "Chopper is a reindeer who ate the Human-Human Fruit, which is why the card art looks nothing like the mascot version most people picture"
     ],
     "estimatedValue": "$15–50 raw",
+    "rawPriceUsd": "$15 – $50",
+    "priceBasis": "raw",
     "image": "chopper-2001-carddass.jpg",
     "sources": [
       {
@@ -5655,6 +5985,8 @@
       "Its ability only works on a Beyblade fitted with a Dragoon bit-chip"
     ],
     "estimatedValue": "$8–30 raw",
+    "rawPriceUsd": "$8 – $30",
+    "priceBasis": "raw",
     "image": "tyson-2001-beyblade-ccg.jpg",
     "sources": [
       {
@@ -5686,6 +6018,8 @@
       "He starts the series as Tyson's rival before joining the Bladebreakers"
     ],
     "estimatedValue": "$8–30 raw",
+    "rawPriceUsd": "$8 – $30",
+    "priceBasis": "raw",
     "image": "kai-2001-beyblade-ccg.jpg",
     "sources": [
       {
@@ -5717,6 +6051,8 @@
       "Max is half-American, which the English dub leaned on when renaming him Max Tate"
     ],
     "estimatedValue": "$8–30 raw",
+    "rawPriceUsd": "$8 – $30",
+    "priceBasis": "raw",
     "image": "max-2001-beyblade-ccg.jpg",
     "sources": [
       {
@@ -5748,6 +6084,8 @@
       "QuickStrike was Upper Deck's house system, used first for Shaman King and later for Pirates of the Caribbean"
     ],
     "estimatedValue": "$5–25 raw",
+    "rawPriceUsd": "$5 – $25",
+    "priceBasis": "raw",
     "image": "aang-2006-upperdeck.jpg",
     "sources": [
       {
@@ -5779,6 +6117,8 @@
       "Katara is the character who finds Aang in the iceberg in the first episode"
     ],
     "estimatedValue": "$5–25 raw",
+    "rawPriceUsd": "$5 – $25",
+    "priceBasis": "raw",
     "image": "katara-2006-upperdeck.jpg",
     "sources": [
       {
@@ -5810,6 +6150,8 @@
       "Dante Basco voiced him at 29, playing a 16-year-old"
     ],
     "estimatedValue": "$6–30 raw",
+    "rawPriceUsd": "$6 – $30",
+    "priceBasis": "raw",
     "image": "zuko-2006-upperdeck.jpg",
     "sources": [
       {
@@ -5841,6 +6183,8 @@
       "Mako voiced him until his death in 2006, the year this card shipped"
     ],
     "estimatedValue": "$6–30 raw",
+    "rawPriceUsd": "$6 – $30",
+    "priceBasis": "raw",
     "image": "iroh-2006-upperdeck.jpg",
     "sources": [
       {
@@ -5872,6 +6216,8 @@
       "The scene is World 8, the Dark Land, the last world of Super Mario Bros. 3"
     ],
     "estimatedValue": "$40–120 raw, $250+ in PSA 9",
+    "rawPriceUsd": "$40 – $120",
+    "priceBasis": "raw",
     "image": "luigi-1989-carddass.jpg",
     "sources": [
       {
@@ -5907,6 +6253,8 @@
       "Unlike Luigi she gets the whole card to herself"
     ],
     "estimatedValue": "$50–150 raw, $300+ in PSA 9",
+    "rawPriceUsd": "$50 – $150",
+    "priceBasis": "raw",
     "image": "peach-1989-carddass.jpg",
     "sources": [
       {
@@ -5942,6 +6290,8 @@
       "Kirby was pink by accident: his designer drew him as a placeholder and Miyamoto assumed the colour was final"
     ],
     "estimatedValue": "$30–90 raw",
+    "rawPriceUsd": "$30 – $90",
+    "priceBasis": "raw",
     "image": "kirby-1993-carddass.jpg",
     "sources": [
       {
@@ -5973,6 +6323,8 @@
       "Metroid hid that Samus was a woman until its ending screen, five years before this card"
     ],
     "estimatedValue": "$5–20 raw",
+    "rawPriceUsd": "$5 – $20",
+    "priceBasis": "raw",
     "image": "samus-1993-amurol.jpg",
     "sources": [
       {
@@ -6004,6 +6356,8 @@
       "Ocarina of Time is the game that introduced her Sheik disguise, which the set cards separately"
     ],
     "estimatedValue": "$10–40 raw",
+    "rawPriceUsd": "$10 – $40",
+    "priceBasis": "raw",
     "image": "zelda-1999-carddass.jpg",
     "sources": [
       {
@@ -6039,6 +6393,8 @@
       "Capcom's original brief was a boy who steals his enemies' weapons, which the card's Rock Buster is the base form of"
     ],
     "estimatedValue": "$20–70 raw",
+    "rawPriceUsd": "$20 – $70",
+    "priceBasis": "raw",
     "image": "megaman-1992-carddass.jpg",
     "sources": [
       {
@@ -6070,6 +6426,8 @@
       "He had only existed since Sonic 2 in late 1992, so the card follows within months"
     ],
     "estimatedValue": "$10–40 raw, $100+ in PSA 9",
+    "rawPriceUsd": "$10 – $40",
+    "priceBasis": "raw",
     "image": "tails-1993-topps.jpg",
     "sources": [
       {
@@ -6101,6 +6459,8 @@
       "The dragon appears twice on the card — on the top's own chip and on the medallion below"
     ],
     "estimatedValue": "$15–60 raw",
+    "rawPriceUsd": "$15 – $60",
+    "priceBasis": "raw",
     "image": "dragoon-2001-beyblade-ccg.jpg",
     "sources": [
       {
@@ -6132,6 +6492,8 @@
       "Dranzer is the only one of the four bit-beasts that is a mythological creature rather than an animal"
     ],
     "estimatedValue": "$12–45 raw",
+    "rawPriceUsd": "$10 – $45",
+    "priceBasis": "raw",
     "image": "dranzer-2001-beyblade-ccg.jpg",
     "sources": [
       {
@@ -6163,6 +6525,8 @@
       "The chip art arms the tiger with a scythe, which the toy's sticker reproduces exactly"
     ],
     "estimatedValue": "$12–45 raw",
+    "rawPriceUsd": "$10 – $45",
+    "priceBasis": "raw",
     "image": "driger-2001-beyblade-ccg.jpg",
     "sources": [
       {
@@ -6194,6 +6558,8 @@
       "Draciel is a turtle, which is why every card it touches is about defence"
     ],
     "estimatedValue": "$12–45 raw",
+    "rawPriceUsd": "$10 – $45",
+    "priceBasis": "raw",
     "image": "draciel-2001-beyblade-ccg.jpg",
     "sources": [
       {
@@ -6226,6 +6592,8 @@
       "The grade spread is brutal for a card this old: a PSA 2 can be had for a few dollars while a PSA 6 is listed near $500"
     ],
     "estimatedValue": "$25 – $140 raw depending on condition and back colour; about $4 in PSA 2, and listed near $500 in PSA 6",
+    "rawPriceUsd": "$25 – $140",
+    "priceBasis": "raw",
     "image": "donald-duck-shuffled.jpg",
     "sources": [
       {
@@ -6267,6 +6635,8 @@
       "Colour-coded masks were invented for the cartoon and the toys — in the original comics all four wore red"
     ],
     "estimatedValue": "$15–60 raw, $150+ in PSA 9",
+    "rawPriceUsd": "$15 – $60",
+    "priceBasis": "raw",
     "image": "leonardo-1989-topps.jpg"
   },
   {
@@ -6298,6 +6668,8 @@
       "The sai is the only one of the four weapons that is not a blade"
     ],
     "estimatedValue": "$20–70 raw, $180+ in PSA 9",
+    "rawPriceUsd": "$20 – $70",
+    "priceBasis": "raw",
     "image": "raphael-1989-topps.jpg"
   },
   {
@@ -6329,6 +6701,8 @@
       "He is the only turtle whose weapon got him censored"
     ],
     "estimatedValue": "$20–70 raw, $180+ in PSA 9",
+    "rawPriceUsd": "$20 – $70",
+    "priceBasis": "raw",
     "image": "michelangelo-1989-topps.jpg"
   },
   {
@@ -6360,6 +6734,8 @@
       "His bo staff is the only one of the four weapons that is not a weapon at all, just a stick"
     ],
     "estimatedValue": "$15–50 raw, $120+ in PSA 9",
+    "rawPriceUsd": "$15 – $50",
+    "priceBasis": "raw",
     "image": "donatello-1989-topps.jpg"
   },
   {
@@ -6391,6 +6767,8 @@
       "Voiced by Uncle Phil — James Avery, later of The Fresh Prince of Bel-Air"
     ],
     "estimatedValue": "$20–70 raw, $180+ in PSA 9",
+    "rawPriceUsd": "$20 – $70",
+    "priceBasis": "raw",
     "image": "shredder-1989-topps.jpg"
   },
   {
@@ -6406,6 +6784,8 @@
       "Sony's event cards were never sold, so unlike almost every card on this site there is no pack, no print run and no checklist beyond the one collectors assembled themselves"
     ],
     "estimatedValue": "Rarely traded — a convention giveaway with no retail release and no graded population",
+    "rawPriceUsd": "No public sales",
+    "priceBasis": "none",
     "image": "fortnite-battle-bus.jpg",
     "noCardReason": "",
     "mediaRank": 45,
@@ -6446,6 +6826,8 @@
       "Sony ran the whole programme in-house — no card manufacturer was ever involved, and the printer has never been named in public"
     ],
     "estimatedValue": "$8 – $20 asking; no graded population exists",
+    "rawPriceUsd": "$8 – $20",
+    "priceBasis": "asking",
     "image": "horizon-aloy.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6481,6 +6863,8 @@
       "Series 3 cards were earned through quests tracked in the Experience PlayStation app, as well as by scanning a badge at a booth"
     ],
     "estimatedValue": "$8 – $20 asking; no graded population exists",
+    "rawPriceUsd": "$8 – $20",
+    "priceBasis": "asking",
     "image": "detroit-connor.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6516,6 +6900,8 @@
       "A second series was planned and never produced; the Australian edition is a different 100-card set, numbered its own way and sold four to a pack with gum"
     ],
     "estimatedValue": "$15 – $50 raw; about $1,500 in PSA 10",
+    "rawPriceUsd": "$15 – $50",
+    "priceBasis": "raw",
     "image": "megatron.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6551,6 +6937,8 @@
       "The faces are an ordinary deck — the five characters are printed on the backs, which is no use for playing cards and entirely the point for a giveaway"
     ],
     "estimatedValue": "Almost never traded — a single sold-out Italian listing asked €44.90, and eBay Italy shows nothing",
+    "rawPriceUsd": "About $49",
+    "priceBasis": "asking",
     "image": "nathan-drake.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6590,6 +6978,8 @@
       "The deck was announced on Sony's Italian blog alongside a cosplay competition that ended at Lucca Comics"
     ],
     "estimatedValue": "Almost never traded — a single sold-out Italian listing asked €44.90, and eBay Italy shows nothing",
+    "rawPriceUsd": "About $49",
+    "priceBasis": "asking",
     "image": "sly-cooper.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6625,6 +7015,8 @@
       "The 24 stickers that came with the set are unnumbered, which makes a complete sticker run unusually hard to prove"
     ],
     "estimatedValue": "$15 – $60 raw; about $1,900 in PSA 10",
+    "rawPriceUsd": "$15 – $60",
+    "priceBasis": "raw",
     "image": "bumblebee.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6660,6 +7052,8 @@
       "Packs were blisters with the top card visible, so packs showing a key character face-up still carry a premium; cards 96 and 192 are checklists"
     ],
     "estimatedValue": "$20 – $60 raw; about $520 in PSA 9",
+    "rawPriceUsd": "$20 – $60",
+    "priceBasis": "raw",
     "image": "snake-eyes.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6695,6 +7089,8 @@
       "The set's only promo card is Sonya Blade, not Scorpion, despite him being the franchise mascot"
     ],
     "estimatedValue": "$2 – $10 raw; $25 – $150 in PSA 9 or 10",
+    "rawPriceUsd": "$2 – $10",
+    "priceBasis": "raw",
     "image": "scorpion.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6730,6 +7126,8 @@
       "Which card first pictures her has never been settled: she also appears on #67, and other accounts put her on #74 \"Golf\" and #81 \"Hockey\", which would make that one a vintage hockey card"
     ],
     "estimatedValue": "$60 – $200 raw; $200 – $500 graded 3 to 5",
+    "rawPriceUsd": "$60 – $200",
+    "priceBasis": "raw",
     "image": "minnie-mouse.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6765,6 +7163,8 @@
       "She has a second, harder card in the same numbering — #100, Walmart exclusive"
     ],
     "estimatedValue": "$1 – $4 raw; $25 – $100 in PSA 9 or 10",
+    "rawPriceUsd": "$1 – $4",
+    "priceBasis": "raw",
     "image": "katniss.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6800,6 +7200,8 @@
       "The Glow-in-the-Dark and Pop-Up inserts fell one in every two packs, which makes them far less scarce than the word insert suggests"
     ],
     "estimatedValue": "$5 – $15 for the promo; $1 – $4 for base cards",
+    "rawPriceUsd": "$5 – $15",
+    "priceBasis": "raw",
     "image": "sulley.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6831,6 +7233,8 @@
       "The European album localises the names, so Marlin becomes \"Marin\" and Pearl becomes \"Perle\" and the checklists never string-match the US ones"
     ],
     "estimatedValue": "$1 – $5 raw; $30 – $70 in PSA 9 or 10",
+    "rawPriceUsd": "$1 – $5",
+    "priceBasis": "raw",
     "image": "nemo.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6862,6 +7266,8 @@
       "Hobby packs carried hand-drawn sketch cards at 1:24 and never went to retail, while the lenticulars were retail-only at 1:12, so no single box configuration could complete the master set"
     ],
     "estimatedValue": "$5 – $20 raw; $150 – $400 in PSA 10",
+    "rawPriceUsd": "$5 – $20",
+    "priceBasis": "raw",
     "image": "master-chief.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6897,6 +7303,8 @@
       "PSA confusingly slabs the companion vending set as \"1996 Final Fantasy VII Carddass Vending\", a year before the game existed"
     ],
     "estimatedValue": "$5 – $200+ depending on print, parallel and grade",
+    "rawPriceUsd": "$5 – $200+",
+    "priceBasis": "raw",
     "image": "cloud-strife.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6932,6 +7340,8 @@
       "Bandai reprinted all 172 in July 2021 and stated outright that the reprints are not the same designs — the cleanest reprint tell this franchise has"
     ],
     "estimatedValue": "$2 – $12 for first-edition commons; a Rei SP has reached about $110",
+    "rawPriceUsd": "$2 – $10",
+    "priceBasis": "raw",
     "image": "rei-ayanami.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6963,6 +7373,8 @@
       "The Series 4 Classic Game Cards deliver NES games from Tom Nook but are not Tom Nook cards, which is an easy cataloguing trap"
     ],
     "estimatedValue": "$4 – $15 loose; sealed Japanese Series 1 packs $25 – $60",
+    "rawPriceUsd": "$4 – $15",
+    "priceBasis": "raw",
     "image": "tom-nook.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6994,6 +7406,8 @@
       "Panini's 198-sticker Incredibles album of the same year included two one-of-25 prize vouchers for GameCube and Game Boy Advance bundles"
     ],
     "estimatedValue": "$1 – $4 raw; sealed 2004 boxes $40 – $100",
+    "rawPriceUsd": "$1 – $4",
+    "priceBasis": "raw",
     "image": "mr-incredible.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7025,6 +7439,8 @@
       "R89 cards come in Type I and Type II printings, with some carrying a \"This Picture Answers…\" variation"
     ],
     "estimatedValue": "$50 – $200 raw; $150 – $400 graded 2 to 4",
+    "rawPriceUsd": "$50 – $200",
+    "priceBasis": "raw",
     "image": "pluto.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7060,6 +7476,8 @@
       "Fright Flicks is the only mainstream card set ever to feature the original Ghostbusters; the Canadian O-Pee-Chee version runs 101 cards with blue backs instead of yellow"
     ],
     "estimatedValue": "$4 – $8 raw; about $50 in PSA 8 and up to $400 asking in PSA 10",
+    "rawPriceUsd": "$4 – $8",
+    "priceBasis": "raw",
     "image": "slimer.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7095,6 +7513,8 @@
       "The cards went loose into the bread bag rather than wrapped, so staining and food taint are the norm — and the Scooby checklist card is so short-printed that dealers call a 25-card set complete without it"
     ],
     "estimatedValue": "$10 – $25 raw; $25 – $50 in PSA 8",
+    "rawPriceUsd": "$10 – $25",
+    "priceBasis": "raw",
     "image": "scooby-doo.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7130,6 +7550,8 @@
       "Sticker #19 exists with both blue- and red-bordered puzzle backs"
     ],
     "estimatedValue": "$5 – $20 raw; $40 – $120 graded",
+    "rawPriceUsd": "$5 – $20",
+    "priceBasis": "raw",
     "image": "he-man.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7165,6 +7587,8 @@
       "Steve had no official name for years: Notch jokingly called him \"Mr. Minecraft\", then tweeted the name with a question mark, and Pocket Edition Lite called him \"Stevie\""
     ],
     "estimatedValue": "$3 – $12 raw; $10 – $25 for the foil parallel",
+    "rawPriceUsd": "$3 – $10",
+    "priceBasis": "raw",
     "image": "steve.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7200,6 +7624,8 @@
       "There is no 1985 Topps Back to the Future set at all — Topps' first was 1989's Part II, where Marty mostly appears inside a stopwatch-shaped logo on pack-inserted stickers"
     ],
     "estimatedValue": "$3 – $12 raw; a complete 180-sticker set or filled album $150 – $400",
+    "rawPriceUsd": "$3 – $10",
+    "priceBasis": "raw",
     "image": "marty-mcfly.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7235,6 +7661,8 @@
       "Every Calvin sticker you have ever seen on the back of a van is a bootleg; none of it is licensed"
     ],
     "estimatedValue": "Not applicable — no trading cards exist, by the author's choice",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "image": "",
     "noCardReason": "Bill Watterson refused to licence Calvin and Hobbes for merchandise of any kind, won legal control of licensing from his syndicate in 1991, and has never granted a card deal. This is the rare case where the absence is a decision rather than an oversight.",
     "mediaRank": null,
@@ -7266,6 +7694,8 @@
       "Only four characters get title cards outright — Gomez at #1, Fester at #19, Thing at #36 and Morticia at #44. Wednesday gets none"
     ],
     "estimatedValue": "$5 – $15 raw; into the low hundreds in high grade; a complete 66-card set about $225",
+    "rawPriceUsd": "$5 – $15",
+    "priceBasis": "raw",
     "image": "gomez-addams.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7297,6 +7727,8 @@
       "A PSA 10 has reached roughly $7,000, which for a 1985 sticker sold in wax packs to schoolchildren is a remarkable afterlife"
     ],
     "estimatedValue": "$25 raw in VG, about $200 raw in NM; $450 – $550 in PSA 8 and around $7,000 in PSA 10",
+    "rawPriceUsd": "$25 – $200",
+    "priceBasis": "raw",
     "image": "adam-bomb.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7328,6 +7760,8 @@
       "The same card's cover also trails Child's Play and A Nightmare on Elm Street 4 in its sidebars, so three slasher franchises share one piece of cardboard"
     ],
     "estimatedValue": "$4 – $10 raw; a complete 90-card base set about $30",
+    "rawPriceUsd": "$4 – $10",
+    "priceBasis": "raw",
     "image": "michael-myers.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7363,6 +7797,8 @@
       "Card #63 is titled \"Savini\" and shows Tom Savini, who built the Jason effects, rather than Jason"
     ],
     "estimatedValue": "$13 – $30 raw; the complete six-card chromium set about $45",
+    "rawPriceUsd": "$15 – $30",
+    "priceBasis": "raw",
     "image": "jason-voorhees.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7398,6 +7834,8 @@
       "Sibling cards in the same Konami programme run five or six per game, so Metal Gear probably had several — nobody has published a count"
     ],
     "estimatedValue": "No sold records found; sibling Konami cards trade at $15 – $60 and this one plausibly higher",
+    "rawPriceUsd": "$15 – $60",
+    "priceBasis": "raw",
     "image": "solid-snake.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7433,6 +7871,8 @@
       "The art credit grew between announcements, from Hannako Lambert alone to Lambert and PuffballsUnited — the latter being Marcus Bromander, who co-created the game"
     ],
     "estimatedValue": "$8 – $25 loose; a full run of twelve means buying twelve boxes",
+    "rawPriceUsd": "$8 – $25",
+    "priceBasis": "raw",
     "image": "among-us-crewmate.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7468,6 +7908,8 @@
       "Nothing earlier exists either — Nausicaä (1984) and Castle in the Sky (1986) have no trading card between them"
     ],
     "estimatedValue": "Not applicable — no trading cards exist",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "image": "",
     "noCardReason": "Studio Ghibli kept Totoro out of the card market entirely. Tokuma Shoten's own 1988–1995 merchandise catalogue lists telephone cards but no trading cards, and the long-running anime card checklists — which carry Akira, Ghost in the Shell, Sailor Moon and Ranma ½ — have no Ghibli entry at all. Beware the Chinese \"Ghibli CCG\" boosters dated 2023–24: they name no licensor and are not official.",
     "mediaRank": null,
@@ -7503,6 +7945,8 @@
       "Two official release dates coexist — the anime's own site says 18 January for the convenience-store advance, Bandai Candy says 25 January for the general release"
     ],
     "estimatedValue": "$4 – $15 for a loose single; the gold-foil special meaningfully more",
+    "rawPriceUsd": "$4 – $15",
+    "priceBasis": "raw",
     "image": "satoru-gojo.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7538,6 +7982,8 @@
       "Watch the numbering: the widely listed \"No.024 Anya Forger\" belongs to Bandai's later November 2022 wafer, not this set"
     ],
     "estimatedValue": "$2 – $6 for a single; a complete thirty-two-card set about $10",
+    "rawPriceUsd": "$2 – $6",
+    "priceBasis": "raw",
     "image": "anya-forger.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7569,6 +8015,8 @@
       "The year is genuinely contested: PSA's own labels and part of the collecting literature say 1965, while the TARDIS wiki and others say 1964. Card 33 refers to The Dalek Book, published September 1964, which sets a floor but not a year"
     ],
     "estimatedValue": "£5 – £25 a single; a complete fifty-card set £250 – £600 depending on condition and imprint",
+    "rawPriceUsd": "$7 – $35",
+    "priceBasis": "raw",
     "image": "dalek.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7604,6 +8052,8 @@
       "Because A Close Shave only aired on 24 December 1995, a 1995 album most plausibly covers A Grand Day Out and The Wrong Trousers"
     ],
     "estimatedValue": "£0.50 – £2 a sticker; a complete 180-sticker set or filled album £60 – £150",
+    "rawPriceUsd": "Under $1 – $3",
+    "priceBasis": "raw",
     "image": "wallace.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7635,6 +8085,8 @@
       "Two things routinely mis-sold as his first card: a 1976 pack of gift seals with no publisher or checklist, and a 1974 Whitman \"Paddington\" — which is a card game, not trade cards"
     ],
     "estimatedValue": "Not applicable — no licensed trading card exists",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "image": "",
     "noCardReason": "No British trade-card issuer ever carded him. The Cartophilic Society of Great Britain, the body that catalogues exactly this kind of thing, went looking and found nothing licensed — only a 2018 Topps parody that avoids using his name. A 2014 or 2017 film tie-in album cannot be entirely excluded, so this entry is provisional.",
     "mediaRank": null,
@@ -7670,6 +8122,8 @@
       "Fantasy Flight's A Game of Thrones card game launched in 2002 with illustrated character art, so this is the first photographic Game of Thrones card rather than the first of any kind"
     ],
     "estimatedValue": "$2 – $8 raw; $40 – $90 in PSA 9 or 10",
+    "rawPriceUsd": "$2 – $8",
+    "priceBasis": "raw",
     "image": "daenerys.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7705,6 +8159,8 @@
       "Its neighbours in the Video Futur run — Matrix Reloaded, Hulk, Underworld — are all 2003 theatrical films arriving on French rental, which is how the card gets dated"
     ],
     "estimatedValue": "$1 – $8 raw; a rental premium rather than a packet-issued card, so the market is thin",
+    "rawPriceUsd": "$1 – $8",
+    "priceBasis": "raw",
     "image": "jack-sparrow.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7736,6 +8192,8 @@
       "The stickers are signed in the artwork by the illustrator, Elena, and carry only a small © AG line — no character names anywhere on the front"
     ],
     "estimatedValue": "$1 – $4 a loose sticker; $70 – $130 for a complete album",
+    "rawPriceUsd": "$1 – $4",
+    "priceBasis": "raw",
     "image": "tenderheart-bear.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7767,6 +8225,8 @@
       "Bluto appears on exactly one card in the thirty-card run"
     ],
     "estimatedValue": "$15 – $50 raw depending on wear; $50 – $110 in excellent condition. Effectively no graded population",
+    "rawPriceUsd": "$15 – $50",
+    "priceBasis": "raw",
     "image": "popeye.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7798,6 +8258,8 @@
       "Fleer's Woody tattoo gum, often assumed to be vintage, is 1968"
     ],
     "estimatedValue": "Low tens of dollars for a collector-grade single, with series-two cards at a real premium. Sold comps are hard to reach, so treat this as provisional",
+    "rawPriceUsd": "$10 – $40",
+    "priceBasis": "raw",
     "image": "woody-woodpecker.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7829,6 +8291,8 @@
       "Barratt cards carry no printed date, so 1961 rests on the collecting literature rather than the cardboard"
     ],
     "estimatedValue": "About £42 for a Yogi single in excellent condition against £6 for a common from the same set; a complete thirty-five-card set £120 – £250",
+    "rawPriceUsd": "About $55",
+    "priceBasis": "raw",
     "image": "yogi-bear.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7860,6 +8324,8 @@
       "The centre poster is the condition killer; complete albums with it intact are the hard find"
     ],
     "estimatedValue": "About €0.65 a loose cromo; a complete album with its poster probably €150 – €350, though no confirmed sale exists",
+    "rawPriceUsd": "Under $1",
+    "priceBasis": "raw",
     "image": "pink-panther.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7891,6 +8357,8 @@
       "Unfolded it runs 2½ x 4-11/16 inches, which is longer than PSA's standard holder takes — graded copies sit in the Tall Boy"
     ],
     "estimatedValue": "$35 – $90 for a clean raw copy; a #12 has sold at $290, the top of the market. Unfolded cards carry the premium",
+    "rawPriceUsd": "$35 – $90",
+    "priceBasis": "raw",
     "image": "wonder-woman.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7922,6 +8390,8 @@
       "Aquaman is in the 1962 Topps tattoo issue too, riding the back of a whale, but that is a transfer rather than a card"
     ],
     "estimatedValue": "About $35 for a clean raw hero card from this set; commons run $15 – $20",
+    "rawPriceUsd": "$15 – $20",
+    "priceBasis": "raw",
     "image": "aquaman.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7953,6 +8423,8 @@
       "DC had relaunched the Flash as Barry Allen in 1956, meaning a decade passed between the Silver Age revival that started the whole superhero boom and the character's first card"
     ],
     "estimatedValue": "About $35 for a clean raw hero card from this set; commons run $15 – $20",
+    "rawPriceUsd": "$15 – $20",
+    "priceBasis": "raw",
     "image": "the-flash.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7984,6 +8456,8 @@
       "A graded example of this exact card sits in an SGC holder at 5.5, which is about as high as the set's survivors go: the perforations mean most copies were folded until they tore"
     ],
     "estimatedValue": "About $35 for a clean raw copy; commons from the set run $15 – $20",
+    "rawPriceUsd": "$15 – $20",
+    "priceBasis": "raw",
     "image": "green-lantern.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8015,6 +8489,8 @@
       "Series 1 is the famous blue-bordered run; Topps worked through five colours in 1977 and 1978, and the card backs assemble into two jigsaw puzzles"
     ],
     "estimatedValue": "$5 – $20 raw depending on centring; $60 – $200 in PSA 8 or better",
+    "rawPriceUsd": "$5 – $20",
+    "priceBasis": "raw",
     "image": "chewbacca.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8046,6 +8522,8 @@
       "Topps never wrote R2-D2 or C-3PO on a 1977 card: the numerals only arrived in the sets that followed"
     ],
     "estimatedValue": "$5 – $25 raw; $75 – $250 in PSA 8 or better, with low-numbered cards chronically off-centre",
+    "rawPriceUsd": "$5 – $25",
+    "priceBasis": "raw",
     "image": "r2-d2.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8077,6 +8555,8 @@
       "The infamous card #207, the one with the anatomically unfortunate droid, belongs to series 4 in 1978 and is a different photograph entirely"
     ],
     "estimatedValue": "$5 – $25 raw; $75 – $250 in PSA 8 or better. As the last card in the run it took the usual edge wear at the bottom of the stack",
+    "rawPriceUsd": "$5 – $25",
+    "priceBasis": "raw",
     "image": "c-3po.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8108,6 +8588,8 @@
       "The grade gap is steep for a card this recent: raw copies change hands for a dollar or two while a PSA 9 has sold around $195"
     ],
     "estimatedValue": "$1 – $20 raw; about $63 in PSA 8 and $190 – $220 in PSA 9",
+    "rawPriceUsd": "$1 – $20",
+    "priceBasis": "raw",
     "image": "harley-quinn.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8139,6 +8621,8 @@
       "It is routinely mis-credited. Sellers who know the set advertise it as the \"true RC, not 1989\" — the 1989 Comic Images Todd McFarlane #3 and the 1990 Impel Marvel Universe I #73 are both later"
     ],
     "estimatedValue": "$40 – $150 raw; graded copies are listed at $1,000 and up, though those are asking prices rather than settled sales",
+    "rawPriceUsd": "$40 – $150",
+    "priceBasis": "raw",
     "image": "venom.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8175,6 +8659,8 @@
       "The year is contested within one source: Collecting Pepys dates the game 1938 on its own page, citing a Daily Herald advertisement of 23 November 1938, but lists it as 1939 on its Disney overview page. The dated newspaper advert is the stronger evidence"
     ],
     "estimatedValue": "$25 – $150 raw depending on condition and back colour, with the better copies at the top of that band",
+    "rawPriceUsd": "$25 – $150",
+    "priceBasis": "raw",
     "image": "goofy.jpg",
     "noCardReason": "",
     "mediaRank": null,
