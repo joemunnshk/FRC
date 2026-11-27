@@ -1188,3 +1188,76 @@ p {
     text-align: center;
   }
 }
+
+/* Card page: the price figure, the graded ladder and the pictured cert. */
+
+.price-headline {
+  font-family: var(--mono);
+  font-size: 1.35rem;
+  color: var(--value);
+  font-variant-numeric: tabular-nums;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  margin-bottom: 0.35rem;
+}
+
+.price-headline .price-basis {
+  font-size: 0.6rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  border: 1px solid currentColor;
+  border-radius: 2px;
+  padding: 0.08rem 0.3rem;
+  flex: none;
+}
+
+/* A short ladder, so it reads as a list of sales rather than a table. */
+.graded-ladder {
+  margin: 0 0 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.graded-row {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  font-family: var(--mono);
+  font-size: 0.85rem;
+}
+
+.graded-row dt {
+  color: var(--ink-soft);
+  min-width: 7.5rem;
+  flex: none;
+}
+
+/* The dotted rule carries the eye across the gap to the figure. */
+.graded-row::before {
+  content: '';
+  order: 1;
+  flex: 1;
+  border-bottom: 1px dotted var(--border);
+  transform: translateY(-0.25rem);
+}
+
+.graded-row dd {
+  order: 2;
+  margin: 0;
+  color: var(--value);
+  font-variant-numeric: tabular-nums;
+}
+
+.cert-line {
+  margin: 0;
+  font-size: 0.82rem;
+  color: var(--ink-faint);
+}
+
+.cert-line a {
+  color: var(--accent);
+  font-family: var(--mono);
+}

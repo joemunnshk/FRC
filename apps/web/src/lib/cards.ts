@@ -16,16 +16,37 @@ export interface Source {
  * never printed have no price at all. The grid says which, rather than passing
  * a graded figure off as a raw one.
  */
-export type PriceBasis = 'raw' | 'graded' | 'sealed' | 'set' | 'asking' | 'none'
+export type PriceBasis = 'raw' | 'mixed' | 'graded' | 'sealed' | 'set' | 'asking' | 'none'
 
 /** The chip shown before the figure. 'raw' and 'none' get none. */
 export const PRICE_BASIS_LABEL: Record<PriceBasis, string> = {
   raw: '',
+  mixed: 'all grades',
   graded: 'graded',
   sealed: 'sealed',
   set: 'set',
   asking: 'asking',
   none: '',
+}
+
+export interface GradedPrice {
+  /** As the grading company writes it, e.g. "PSA 8" or "CGC NM 7". */
+  grade: string
+  /** A sold price, already formatted: "$2,375". */
+  price: string
+}
+
+export interface ExampleCert {
+  grader: 'PSA' | 'CGC' | 'SGC'
+  grade: string
+  cert: string
+}
+
+/** Each grader publishes a cert lookup; the number on the label is the key. */
+export const CERT_LOOKUP: Record<ExampleCert['grader'], (cert: string) => string> = {
+  PSA: (c) => `https://www.psacard.com/cert/${c}`,
+  CGC: (c) => `https://www.cgccards.com/certlookup/${c}/`,
+  SGC: (c) => `https://gosgc.com/cert/${c}`,
 }
 
 export interface Card {
@@ -46,6 +67,17 @@ export interface Card {
   rawPriceUsd: string
   /** What rawPriceUsd is a price for. Most are ungraded singles. */
   priceBasis: PriceBasis
+  /**
+   * Sold prices for certified copies, cheapest grade first. Empty until the
+   * card has been through a comps pass — most entries have none, which is why
+   * this is a block on the card's own page and not a column in the grid.
+   */
+  gradedPrices: GradedPrice[]
+  /**
+   * The slab actually pictured on this card's page, read off its label. Null
+   * when the photograph is of a raw card.
+   */
+  exampleCert: ExampleCert | null
   /** Filename in public/cards. Empty when this franchise never had a trading card. */
   image: string
   /** Why no card exists. Empty when the franchise does have one. */

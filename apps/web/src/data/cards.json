@@ -14,6 +14,8 @@
     "estimatedValue": "Enormous but volatile — sealed CoroCoro #223 issues have been valued near $150,000, while peeled singles vary wildly with condition",
     "rawPriceUsd": "Near $150,000",
     "priceBasis": "sealed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "pikachu.jpg",
     "noCardReason": "",
     "mediaRank": 1,
@@ -52,7 +54,9 @@
     ],
     "estimatedValue": "$5 – $50 for common cards, more for high-grade or rare inserts",
     "rawPriceUsd": "$5 – $50",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "tmnt.jpg",
     "noCardReason": "",
     "mediaRank": 20,
@@ -93,7 +97,9 @@
     ],
     "estimatedValue": "$20 – $300, more for high-grade examples — these thin, glossy cards are notoriously hard to find in top condition",
     "rawPriceUsd": "$20 – $300",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "yugioh.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -131,7 +137,9 @@
     ],
     "estimatedValue": "$5 – $40 depending on card and condition",
     "rawPriceUsd": "$5 – $40",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "mario.jpg",
     "noCardReason": "",
     "mediaRank": 42,
@@ -169,7 +177,9 @@
     ],
     "estimatedValue": "$5 – $30, more for first-edition or holo variants",
     "rawPriceUsd": "$5 – $30",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "spongebob.jpg",
     "noCardReason": "",
     "mediaRank": 21,
@@ -207,7 +217,9 @@
     ],
     "estimatedValue": "$20 – $500+ depending on card and grade; rare high-grade examples can go much higher",
     "rawPriceUsd": "$20 – $500+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "mickey.jpg",
     "noCardReason": "",
     "mediaRank": 2,
@@ -247,6 +259,8 @@
     "estimatedValue": "£25 – £70 for a complete boxed game with its rules booklet; singles rarely trade on their own",
     "rawPriceUsd": "$35 – $90",
     "priceBasis": "set",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "pooh.jpg",
     "noCardReason": "",
     "mediaRank": 3,
@@ -280,7 +294,9 @@
     ],
     "estimatedValue": "$20 – $2,400 for a PSA 8; six figures for top-pop examples of card #1",
     "rawPriceUsd": "$20 – $2,400",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "starwars.jpg",
     "noCardReason": "",
     "mediaRank": 4,
@@ -318,7 +334,9 @@
     ],
     "estimatedValue": "$5 – $40 per card; complete numbered runs are much scarcer",
     "rawPriceUsd": "$5 – $40",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "disneyprincess.jpg",
     "noCardReason": "",
     "mediaRank": 5,
@@ -356,7 +374,9 @@
     ],
     "estimatedValue": "$5 – $60 per prism card; Western supply is thin",
     "rawPriceUsd": "$5 – $60",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "anpanman.jpg",
     "noCardReason": "",
     "mediaRank": 6,
@@ -394,7 +414,9 @@
     ],
     "estimatedValue": "$25 – $120 for a complete sealed Deluxe First Edition portfolio",
     "rawPriceUsd": "$25 – $120",
-    "priceBasis": "raw",
+    "priceBasis": "set",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "barbie.jpg",
     "noCardReason": "",
     "mediaRank": 7,
@@ -430,9 +452,20 @@
       "Shares its set with Spider-Man and Captain America — all three debut in the same 66 cards",
       "Every MCU hero already had decades of card history before the film series existed"
     ],
-    "estimatedValue": "$50 – $1,500 depending on grade; high-grade 1966 Donruss is scarce",
-    "rawPriceUsd": "$50 – $1,500",
+    "estimatedValue": "Raw Iron Man cards from the #12 – #22 run sell at $10 – $34, which makes this one of the most affordable 1966 Donruss heroes. Certified: about $175 for a PSA of #16, while a high-grade #20 has reached $1,999.",
+    "rawPriceUsd": "$10 – $34",
     "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA (#16)",
+        "price": "$175"
+      },
+      {
+        "grade": "PSA (#20)",
+        "price": "$1,999"
+      }
+    ],
+    "exampleCert": null,
     "image": "mcu.jpg",
     "noCardReason": "",
     "mediaRank": 8,
@@ -474,7 +507,9 @@
     ],
     "estimatedValue": "$2 – $60 per card; holographic Harry Potter and Quidditch cards command the most",
     "rawPriceUsd": "$2 – $60",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "harrypotter.jpg",
     "noCardReason": "",
     "mediaRank": 9,
@@ -512,7 +547,9 @@
     ],
     "estimatedValue": "$30 – $250 for a sealed vintage deck depending on condition",
     "rawPriceUsd": "$30 – $250",
-    "priceBasis": "raw",
+    "priceBasis": "set",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "hellokitty.jpg",
     "noCardReason": "",
     "mediaRank": 10,
@@ -546,7 +583,9 @@
     ],
     "estimatedValue": "$1 – $50 per card; autographed pro cards fetch more",
     "rawPriceUsd": "$1 – $50",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "callofduty.jpg",
     "noCardReason": "",
     "mediaRank": 11,
@@ -581,9 +620,24 @@
       "Painted by Norman Saunders, the same artist behind the notorious Mars Attacks set",
       "Superman got cards in 1940, but Batman waited until the TV show — 26 years with no Batman card at all"
     ],
-    "estimatedValue": "$50 – $45,000 depending on grade; the #1 card carries a huge premium",
-    "rawPriceUsd": "$50 – $45,000",
+    "estimatedValue": "Card #1 is the key to the set. Raw copies sell at $150 – $520 depending on how sharp the black bat logo and corners are. Certified: about $490 in SGC 2, $2,100 in PSA 3 and $2,950 in PSA 6.",
+    "rawPriceUsd": "$150 – $520",
     "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "SGC 2",
+        "price": "$490"
+      },
+      {
+        "grade": "PSA 3",
+        "price": "$2,100"
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$2,950"
+      }
+    ],
+    "exampleCert": null,
     "image": "batman.jpg",
     "noCardReason": "",
     "mediaRank": 12,
@@ -623,9 +677,24 @@
       "PSA receives more submissions from the Spider-Man run than any other section of the set",
       "Arrived only four years after Spider-Man was created, making it an unusually early character debut"
     ],
-    "estimatedValue": "$100 – $3,000+ depending on grade; high-grade #34 examples are scarce",
-    "rawPriceUsd": "$100 – $3,000+",
+    "estimatedValue": "Card #34 is Spider-Man’s first trading card and the key to the set. Raw copies sell at $900 – $1,800. Certified: about $1,550 in PSA 3, $2,375 in PSA 7 and $6,188 in PSA 6 — the spread between those last two is a reminder that eye appeal and qualifiers move this card as much as the number on the label.",
+    "rawPriceUsd": "$900 – $1,800",
     "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 3",
+        "price": "$1,550"
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$2,375"
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$6,188"
+      }
+    ],
+    "exampleCert": null,
     "image": "spiderman.jpg",
     "noCardReason": "",
     "mediaRank": 13,
@@ -667,7 +736,9 @@
     ],
     "estimatedValue": "$1 – $30 per card; sealed 1985 packs command a strong premium",
     "rawPriceUsd": "$1 – $30",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "transformers.jpg",
     "noCardReason": "",
     "mediaRank": 14,
@@ -709,7 +780,9 @@
     ],
     "estimatedValue": "$1 – $80 per card; early rare foils are the chase pieces",
     "rawPriceUsd": "$1 – $80",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "naruto.jpg",
     "noCardReason": "",
     "mediaRank": 15,
@@ -753,6 +826,8 @@
     "estimatedValue": "Not applicable — no trading cards exist",
     "rawPriceUsd": "—",
     "priceBasis": "none",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "",
     "noCardReason": "Dungeon Fighter Online earns its money through in-game microtransactions in Asian markets and has almost no physical merchandising, so no trading card set was ever made.",
     "mediaRank": 16,
@@ -785,7 +860,9 @@
     ],
     "estimatedValue": "$5 for a base card up to five figures for the 1/1 Superfractor",
     "rawPriceUsd": "$5 – $10,000+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "cars.jpg",
     "noCardReason": "",
     "mediaRank": 17,
@@ -824,6 +901,8 @@
     "estimatedValue": "Not applicable — no trading cards exist",
     "rawPriceUsd": "—",
     "priceBasis": "none",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "",
     "noCardReason": "Candy Crush is a mobile puzzle game with no characters or story to build a card set around, so no trading cards were ever released.",
     "mediaRank": 18,
@@ -856,7 +935,9 @@
     ],
     "estimatedValue": "$1 – $40 per card; Bugs Bunny and Nolan Ryan cards carry the premium",
     "rawPriceUsd": "$1 – $40",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "looneytunes.jpg",
     "noCardReason": "",
     "mediaRank": 19,
@@ -894,7 +975,9 @@
     ],
     "estimatedValue": "$15 – $60 for a complete 90-card base set",
     "rawPriceUsd": "$15 – $60",
-    "priceBasis": "raw",
+    "priceBasis": "set",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "toystory.jpg",
     "noCardReason": "",
     "mediaRank": 22,
@@ -936,7 +1019,9 @@
     ],
     "estimatedValue": "$15 – $50 for a complete Series 1 set; inserts are worth more",
     "rawPriceUsd": "$15 – $50",
-    "priceBasis": "raw",
+    "priceBasis": "set",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "lionking.jpg",
     "noCardReason": "",
     "mediaRank": 23,
@@ -975,6 +1060,8 @@
     "estimatedValue": "Under $1 per sticker; sealed packs and filled albums carry the value",
     "rawPriceUsd": "Under $1",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "dora.jpg",
     "noCardReason": "",
     "mediaRank": 24,
@@ -1008,7 +1095,9 @@
     ],
     "estimatedValue": "$2 – $40 per card; sealed wax packs and complete sets fetch more",
     "rawPriceUsd": "$2 – $40",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "pacman.jpg",
     "noCardReason": "",
     "mediaRank": 25,
@@ -1051,6 +1140,8 @@
     "estimatedValue": "Under $1 per sticker; filled albums are the collectible unit",
     "rawPriceUsd": "Under $1",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "pawpatrol.jpg",
     "noCardReason": "",
     "mediaRank": 26,
@@ -1087,7 +1178,9 @@
     ],
     "estimatedValue": "$10 – $40 for a complete 33-card set",
     "rawPriceUsd": "$10 – $40",
-    "priceBasis": "raw",
+    "priceBasis": "set",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "peanuts.jpg",
     "noCardReason": "",
     "mediaRank": 27,
@@ -1124,7 +1217,9 @@
     ],
     "estimatedValue": "$50 – $1,500 depending on hero and grade",
     "rawPriceUsd": "$50 – $1,500",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "avengers.jpg",
     "noCardReason": "",
     "mediaRank": 28,
@@ -1166,7 +1261,9 @@
     ],
     "estimatedValue": "$3 – $15 for glitter and foil singles; sealed 2014 boxes go higher",
     "rawPriceUsd": "$3 – $15",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "frozen.jpg",
     "noCardReason": "",
     "mediaRank": 29,
@@ -1206,6 +1303,8 @@
     "estimatedValue": "$15 – $120 for vintage licensed menko depending on condition",
     "rawPriceUsd": "$15 – $120",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "spaceinvaders.jpg",
     "noCardReason": "",
     "mediaRank": 30,
@@ -1238,7 +1337,9 @@
     ],
     "estimatedValue": "$1 – $60 for most cards; unredeemed loot cards go far higher",
     "rawPriceUsd": "$1 – $60",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "warcraft.jpg",
     "noCardReason": "",
     "mediaRank": 31,
@@ -1280,7 +1381,9 @@
     ],
     "estimatedValue": "$1 – $15 per card; sealed 2017 packs carry a small premium",
     "rawPriceUsd": "$1 – $15",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "despicableme.jpg",
     "noCardReason": "",
     "mediaRank": 32,
@@ -1313,7 +1416,9 @@
     ],
     "estimatedValue": "$50 – $500+ per card; complete 1967 sets are genuinely rare",
     "rawPriceUsd": "$50 – $500+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "startrek.jpg",
     "noCardReason": "",
     "mediaRank": 33,
@@ -1354,7 +1459,9 @@
     ],
     "estimatedValue": "$10 – $500+ depending on card and condition; early prisms are the prize",
     "rawPriceUsd": "$10 – $500+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "dragonball.jpg",
     "noCardReason": "",
     "mediaRank": 34,
@@ -1393,7 +1500,9 @@
     ],
     "estimatedValue": "$10 – $200 for prism cards depending on character and condition",
     "rawPriceUsd": "$10 – $200",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "streetfighter.jpg",
     "noCardReason": "",
     "mediaRank": 35,
@@ -1427,7 +1536,9 @@
     ],
     "estimatedValue": "$2 – $150 per card depending on rarity and character",
     "rawPriceUsd": "$2 – $150",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "demonslayer.jpg",
     "noCardReason": "",
     "mediaRank": 36,
@@ -1461,7 +1572,9 @@
     ],
     "estimatedValue": "$20 – $60 for a complete base set with stickers",
     "rawPriceUsd": "$20 – $60",
-    "priceBasis": "raw",
+    "priceBasis": "set",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "jurassicpark.jpg",
     "noCardReason": "",
     "mediaRank": 37,
@@ -1503,6 +1616,8 @@
     "estimatedValue": "Not applicable — no trading cards exist",
     "rawPriceUsd": "—",
     "priceBasis": "none",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "",
     "noCardReason": "Rockstar keeps Grand Theft Auto merchandising deliberately minimal, and the series’ adult rating makes it a poor fit for trading cards. No set has ever been produced.",
     "mediaRank": 38,
@@ -1536,7 +1651,9 @@
     ],
     "estimatedValue": "$2 – $25 per card; sealed Japanese packs go for more",
     "rawPriceUsd": "$2 – $25",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "rilakkuma.jpg",
     "noCardReason": "",
     "mediaRank": 39,
@@ -1571,7 +1688,9 @@
     ],
     "estimatedValue": "$1 – $40 per card; sealed Japanese wafer packs carry a premium",
     "rawPriceUsd": "$1 – $40",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "monsterstrike.jpg",
     "noCardReason": "",
     "mediaRank": 40,
@@ -1613,7 +1732,9 @@
     ],
     "estimatedValue": "$5 – $80 per card; complete graded sets run into the thousands",
     "rawPriceUsd": "$5 – $80",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "jamesbond.jpg",
     "noCardReason": "",
     "mediaRank": 41,
@@ -1651,7 +1772,9 @@
     ],
     "estimatedValue": "Under $1 per card; complete albums carry the value",
     "rawPriceUsd": "Under $1",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "angrybirds.jpg",
     "noCardReason": "",
     "mediaRank": 43,
@@ -1694,7 +1817,9 @@
     ],
     "estimatedValue": "$5 – $60 per prism card; Japanese sets are scarce in the West",
     "rawPriceUsd": "$5 – $60",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "thomas.jpg",
     "noCardReason": "",
     "mediaRank": 44,
@@ -1728,7 +1853,9 @@
     ],
     "estimatedValue": "$1 – $500+ depending on rarity tier and grade",
     "rawPriceUsd": "$1 – $500+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "fortnite.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -1771,6 +1898,8 @@
     "estimatedValue": "$10 – $150 for vintage 1970s menko depending on condition and character",
     "rawPriceUsd": "$10 – $150",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "powerrangers.jpg",
     "noCardReason": "",
     "mediaRank": 46,
@@ -1803,7 +1932,9 @@
     ],
     "estimatedValue": "$1 – $200; original ICE artwork cards are the collector draw",
     "rawPriceUsd": "$1 – $200",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "middleearth.jpg",
     "noCardReason": "",
     "mediaRank": 47,
@@ -1845,6 +1976,8 @@
     "estimatedValue": "$30 – $350 for graded singles; ungraded stickers stay inexpensive",
     "rawPriceUsd": "$30 – $350",
     "priceBasis": "graded",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "xmen.jpg",
     "noCardReason": "",
     "mediaRank": 48,
@@ -1881,9 +2014,24 @@
       "Predates the first Batman cards by twenty-six years despite the characters debuting a year apart",
       "Dating is not settled: PSA and most guides call it the 1940 set, while the Trading Card Database catalogues it as 1941"
     ],
-    "estimatedValue": "$200 – $36,000+ depending on grade; card #1 carries an enormous premium",
-    "rawPriceUsd": "$200 – $36,000+",
+    "estimatedValue": "Raw singles from the set sell at $100 – $270 depending on condition and card number; the scarce high numbers run well past that. Certified copies step up steeply — about $205 in PSA 2, $330 in PSA 4 and $420 in PSA 5. Card #1 is in a class of its own: a PSA 1 has sold at $15,600.",
+    "rawPriceUsd": "$100 – $270",
     "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 2",
+        "price": "$205"
+      },
+      {
+        "grade": "PSA 4",
+        "price": "$330"
+      },
+      {
+        "grade": "PSA 5",
+        "price": "$420"
+      }
+    ],
+    "exampleCert": null,
     "image": "superman.jpg",
     "noCardReason": "",
     "mediaRank": 49,
@@ -1929,7 +2077,9 @@
     ],
     "estimatedValue": "$150 – $3,000 depending on grade; 1940 Gum Inc. cards are fragile and scarce",
     "rawPriceUsd": "$150 – $3,000",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "dceu.jpg",
     "noCardReason": "",
     "mediaRank": 50,
@@ -1980,7 +2130,9 @@
     ],
     "estimatedValue": "Alpha commons run into the hundreds; Black Lotus into six and seven figures",
     "rawPriceUsd": "$100 – $1M+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "magic.jpg",
     "sources": [
       {
@@ -2013,7 +2165,9 @@
     ],
     "estimatedValue": "$1 for commons up to several thousand for graded Romance Dawn secret rares",
     "rawPriceUsd": "$1 – $3,000+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "onepiece.jpg",
     "sources": [
       {
@@ -2046,7 +2200,9 @@
     ],
     "estimatedValue": "$1 – $600 depending on rarity; enchanted-rare cards drive the market",
     "rawPriceUsd": "$1 – $600",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "lorcana.jpg",
     "sources": [
       {
@@ -2079,7 +2235,9 @@
     ],
     "estimatedValue": "$2 – $300 for 1999 originals; sealed first-edition product goes higher",
     "rawPriceUsd": "$2 – $300",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "digimon.jpg",
     "sources": [
       {
@@ -2112,7 +2270,9 @@
     ],
     "estimatedValue": "$1 – $200 for Premiere singles; sealed 1995 product is scarce",
     "rawPriceUsd": "$1 – $200",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "starwarsccg.jpg",
     "sources": [
       {
@@ -2141,7 +2301,9 @@
     ],
     "estimatedValue": "$1 – $30,000; first-edition Cold Foil legendaries are the trophy cards",
     "rawPriceUsd": "$1 – $30,000",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "fleshandblood.jpg",
     "sources": [
       {
@@ -2174,7 +2336,9 @@
     ],
     "estimatedValue": "$1 – $500 depending on rarity; the market is still young and volatile",
     "rawPriceUsd": "$1 – $500",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "gundam.jpg",
     "sources": [
       {
@@ -2203,7 +2367,9 @@
     ],
     "estimatedValue": "$1 – $400; chase champion cards drive the early market",
     "rawPriceUsd": "$1 – $400",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "riftbound.jpg",
     "sources": [
       {
@@ -2236,7 +2402,9 @@
     ],
     "estimatedValue": "$1 – $150; foil Aragorn and Gandalf cards lead the market",
     "rawPriceUsd": "$1 – $150",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "lotrtcg.jpg",
     "sources": [
       {
@@ -2265,7 +2433,9 @@
     ],
     "estimatedValue": "$1 – $400; early Japanese DM-01 rares carry the value",
     "rawPriceUsd": "$1 – $400",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "duelmasters.jpg",
     "sources": [
       {
@@ -2294,7 +2464,9 @@
     ],
     "estimatedValue": "$1 – $500; signed and SP-rarity character cards go far higher",
     "rawPriceUsd": "$1 – $500",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "weissschwarz.jpg",
     "sources": [
       {
@@ -2323,7 +2495,9 @@
     ],
     "estimatedValue": "$1 – $300; early Japanese SP-rarity cards command the most",
     "rawPriceUsd": "$1 – $300",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "vanguard.jpg",
     "sources": [
       {
@@ -2352,7 +2526,9 @@
     ],
     "estimatedValue": "$1 – $250 depending on series and rarity",
     "rawPriceUsd": "$1 – $250",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "unionarena.jpg",
     "sources": [
       {
@@ -2381,7 +2557,9 @@
     ],
     "estimatedValue": "$1 – $700; Showcase leaders are the chase cards",
     "rawPriceUsd": "$1 – $700",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "swunlimited.jpg",
     "sources": [
       {
@@ -2414,7 +2592,9 @@
     ],
     "estimatedValue": "$5 – $2,000; Alpha foils reach four figures",
     "rawPriceUsd": "$5 – $2,000",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "sorcery.jpg",
     "sources": [
       {
@@ -2448,7 +2628,9 @@
     ],
     "estimatedValue": "$10 – $400+, almost entirely dependent on grade",
     "rawPriceUsd": "$10 – $400+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "donkeykong.jpg",
     "sources": [
       {
@@ -2486,7 +2668,9 @@
     ],
     "estimatedValue": "$5 – $150+, higher for graded scratch-offs left unscratched",
     "rawPriceUsd": "$5 – $150+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "link.jpg",
     "sources": [
       {
@@ -2524,7 +2708,9 @@
     ],
     "estimatedValue": "$5 – $100+, more for graded or prism versions",
     "rawPriceUsd": "$5 – $100+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "yoshi.jpg",
     "sources": [
       {
@@ -2562,7 +2748,9 @@
     ],
     "estimatedValue": "$3 – $120+, with graded Prisms well above that",
     "rawPriceUsd": "$3 – $120+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "sonic.jpg",
     "sources": [
       {
@@ -2600,7 +2788,9 @@
     ],
     "estimatedValue": "$15 – $600+, rising steeply above PSA 8",
     "rawPriceUsd": "$15 – $600+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "darthvader.jpg",
     "sources": [
       {
@@ -2638,7 +2828,9 @@
     ],
     "estimatedValue": "$10 – $500+, depending on grade",
     "rawPriceUsd": "$10 – $500+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "princessleia.jpg",
     "sources": [
       {
@@ -2676,7 +2868,9 @@
     ],
     "estimatedValue": "$10 – $500+, depending on grade",
     "rawPriceUsd": "$10 – $500+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "hansolo.jpg",
     "sources": [
       {
@@ -2712,9 +2906,20 @@
       "Shares a set with Captain America, Iron Man, Daredevil, Spider-Man and Thor",
       "Donruss lifted real comic panels and swapped the dialogue for gags"
     ],
-    "estimatedValue": "$20 – $400+, depending on grade",
-    "rawPriceUsd": "$20 – $400+",
+    "estimatedValue": "Raw #45, the first card of the Hulk run, sells at $160 – $210. Other numbers in the run are much cheaper, at $22 – $50. A PSA 6 of #46 has sold at about $400.",
+    "rawPriceUsd": "$160 – $210",
     "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 6 (#46)",
+        "price": "$400"
+      }
+    ],
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "VG-EX 4",
+      "cert": "124102731"
+    },
     "image": "hulk.jpg",
     "sources": [
       {
@@ -2750,9 +2955,24 @@
       "One of only six Marvel heroes given a block of cards in 1966",
       "The original panel art is buried under a joke about hiding the soap"
     ],
-    "estimatedValue": "$20 – $400+, depending on grade",
-    "rawPriceUsd": "$20 – $400+",
+    "estimatedValue": "Raw Thor cards sell at $20 – $60, with #56 — the first of the run — at the top. Certified: about $235 for a PSA of #59 and $450 for a PSA 4 of #56.",
+    "rawPriceUsd": "$20 – $60",
     "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA (#59)",
+        "price": "$235"
+      },
+      {
+        "grade": "PSA 4 (#56)",
+        "price": "$450"
+      }
+    ],
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "VG 3",
+      "cert": "124102732"
+    },
     "image": "thor.jpg",
     "sources": [
       {
@@ -2788,9 +3008,20 @@
       "Painted by Norman Saunders, the artist behind Mars Attacks",
       "Created in 1940, so he waited 26 years for a card — the same wait as Batman"
     ],
-    "estimatedValue": "$20 – $600+, depending on grade",
-    "rawPriceUsd": "$20 – $600+",
+    "estimatedValue": "Raw #2 sells at $55 – $180, with clean, well-centred copies at the top of that band. Certified: about $228 in PSA 4 and $510 in PSA 6.",
+    "rawPriceUsd": "$55 – $180",
     "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 4",
+        "price": "$228"
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$510"
+      }
+    ],
+    "exampleCert": null,
     "image": "robin.jpg",
     "sources": [
       {
@@ -2822,9 +3053,20 @@
       "Painted by Norman Saunders, the artist behind Mars Attacks",
       "The face is painted floating above the scene rather than in it — an unusual composition for the set"
     ],
-    "estimatedValue": "$40 – $1,500+, one of the set’s key cards",
-    "rawPriceUsd": "$40 – $1,500+",
+    "estimatedValue": "The Joker cards are commons, not keys. Raw #9 and #13 sell at $15 – $50; a worn #13 can be had for a couple of dollars. Graded copies of #13 have reached about $200.",
+    "rawPriceUsd": "$15 – $50",
     "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "SGC",
+        "price": "$40"
+      },
+      {
+        "grade": "Graded #13",
+        "price": "$200"
+      }
+    ],
+    "exampleCert": null,
     "image": "joker.jpg",
     "sources": [
       {
@@ -2856,9 +3098,16 @@
       "Painted by Norman Saunders, the artist behind Mars Attacks",
       "Created in 1940 in the same issue of Batman as the Joker"
     ],
-    "estimatedValue": "$30 – $800+, depending on grade",
-    "rawPriceUsd": "$30 – $800+",
+    "estimatedValue": "The Catwoman cards run #25 – #35 and are commons: raw copies sell at $2 – $15. A PSA 2 of #27 has sold at about $60, which says more about the cost of grading than about the card.",
+    "rawPriceUsd": "$2 – $15",
     "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 2",
+        "price": "$60"
+      }
+    ],
+    "exampleCert": null,
     "image": "catwoman.jpg",
     "sources": [
       {
@@ -2890,9 +3139,20 @@
       "Painted by Norman Saunders, the artist behind Mars Attacks",
       "Frank Gorshin's Emmy-nominated performance is what put him on cardboard at all"
     ],
-    "estimatedValue": "$30 – $900+, depending on grade",
-    "rawPriceUsd": "$30 – $900+",
+    "estimatedValue": "Despite the character’s fame these are inexpensive commons — raw #36 and #45 sell at $3 – $10. Grading is what creates the value: a graded #45 has sold at about $70, and the PSA 8.5 pictured here is far scarcer still.",
+    "rawPriceUsd": "$3 – $10",
     "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "Graded #45",
+        "price": "$70"
+      }
+    ],
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "NM-MT+ 8.5",
+      "cert": "15004156"
+    },
     "image": "riddler.jpg",
     "sources": [
       {
@@ -2926,7 +3186,9 @@
     ],
     "estimatedValue": "$10 – $400+, depending on grade",
     "rawPriceUsd": "$10 – $400+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "obiwan.jpg",
     "sources": [
       {
@@ -2958,9 +3220,20 @@
       "He had only existed since 1964, making him the newest hero in the set",
       "Shares the set with Captain America, Iron Man, Spider-Man, the Hulk and Thor"
     ],
-    "estimatedValue": "$20 – $500+, depending on grade",
-    "rawPriceUsd": "$20 – $500+",
+    "estimatedValue": "Raw Daredevil cards sell at $20 – $80, #23 leading the run. A PSA of #23 has sold at about $99, and the CGC 7 pictured here sits above that.",
+    "rawPriceUsd": "$20 – $80",
     "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA (#23)",
+        "price": "$99"
+      }
+    ],
+    "exampleCert": {
+      "grader": "CGC",
+      "grade": "NM 7",
+      "cert": "6168517009"
+    },
     "image": "daredevil.jpg",
     "sources": [
       {
@@ -2998,7 +3271,9 @@
     ],
     "estimatedValue": "$5 – $200+, depending on grade",
     "rawPriceUsd": "$5 – $200+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "bart.jpg",
     "sources": [
       {
@@ -3032,7 +3307,9 @@
     ],
     "estimatedValue": "$3 – $80+, depending on grade",
     "rawPriceUsd": "$3 – $80+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "homer.jpg",
     "sources": [
       {
@@ -3066,7 +3343,9 @@
     ],
     "estimatedValue": "$40 – $500+, scarce because of the recall",
     "rawPriceUsd": "$40 – $500+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "spock.jpg",
     "sources": [
       {
@@ -3104,7 +3383,9 @@
     ],
     "estimatedValue": "$3 – $60+, depending on grade",
     "rawPriceUsd": "$3 – $60+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "robotnik.jpg",
     "sources": [
       {
@@ -3136,9 +3417,20 @@
       "Burgess Meredith's Penguin was the most-used villain of the TV show's first season",
       "Created in 1941, so his first card came 25 years after his first comic"
     ],
-    "estimatedValue": "$25 – $700+, depending on grade",
-    "rawPriceUsd": "$25 – $700+",
+    "estimatedValue": "Raw copies of #24 sell at $1 – $20 — this is one of the cheapest cards in the set. Certified: about $35 in PSA 3 and $60 in PSA 8.",
+    "rawPriceUsd": "$1 – $20",
     "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 3",
+        "price": "$35"
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$60"
+      }
+    ],
+    "exampleCert": null,
     "image": "penguin.jpg",
     "sources": [
       {
@@ -3172,7 +3464,9 @@
     ],
     "estimatedValue": "$2 – $40+, common but rarely found sharp",
     "rawPriceUsd": "$2 – $40+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "daffy.jpg",
     "sources": [
       {
@@ -3206,7 +3500,9 @@
     ],
     "estimatedValue": "$20 – $600+, with a steep premium for PSA 10",
     "rawPriceUsd": "$20 – $600+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "wolverine.jpg",
     "sources": [
       {
@@ -3240,7 +3536,9 @@
     ],
     "estimatedValue": "$1 – $30+, common and inexpensive",
     "rawPriceUsd": "$1 – $30+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "garfield.jpg",
     "sources": [
       {
@@ -3274,7 +3572,9 @@
     ],
     "estimatedValue": "$10 – $300+, depending on grade",
     "rawPriceUsd": "$10 – $300+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "indianajones.jpg",
     "sources": [
       {
@@ -3312,7 +3612,9 @@
     ],
     "estimatedValue": "$10 – $250+, more for the short-printed stickers in high grade",
     "rawPriceUsd": "$10 – $250+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "et.jpg",
     "sources": [
       {
@@ -3350,7 +3652,9 @@
     ],
     "estimatedValue": "$5 – $80+, stickers command more than base cards",
     "rawPriceUsd": "$5 – $80+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "gizmo.jpg",
     "sources": [
       {
@@ -3388,7 +3692,9 @@
     ],
     "estimatedValue": "$10 – $200+, depending on grade",
     "rawPriceUsd": "$10 – $200+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "ripley.jpg",
     "sources": [
       {
@@ -3422,7 +3728,9 @@
     ],
     "estimatedValue": "$2 – $60+, common except in high grade",
     "rawPriceUsd": "$2 – $60+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "terminator.jpg",
     "sources": [
       {
@@ -3456,7 +3764,9 @@
     ],
     "estimatedValue": "$10 – $150+, higher for graded stickers",
     "rawPriceUsd": "$10 – $150+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "freddy.jpg",
     "sources": [
       {
@@ -3494,7 +3804,9 @@
     ],
     "estimatedValue": "$50 – $600+, scarce because of the recall",
     "rawPriceUsd": "$50 – $600+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "kirk.jpg",
     "sources": [
       {
@@ -3532,7 +3844,9 @@
     ],
     "estimatedValue": "$2 – $60+, common except in top grade",
     "rawPriceUsd": "$2 – $60+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "robocop.jpg",
     "sources": [
       {
@@ -3560,7 +3874,9 @@
     ],
     "estimatedValue": "$2 – $80+, depending on grade",
     "rawPriceUsd": "$2 – $80+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "rocky.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3597,6 +3913,8 @@
     "estimatedValue": "$2–15 raw",
     "rawPriceUsd": "$2 – $15",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "roadrunner.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3633,6 +3951,8 @@
     "estimatedValue": "$2–15 raw",
     "rawPriceUsd": "$2 – $15",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "wilee.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3669,6 +3989,8 @@
     "estimatedValue": "$2–15 raw",
     "rawPriceUsd": "$2 – $15",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "sylvester.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3705,6 +4027,8 @@
     "estimatedValue": "$2–15 raw",
     "rawPriceUsd": "$2 – $15",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "porky.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3741,6 +4065,8 @@
     "estimatedValue": "$2–15 raw",
     "rawPriceUsd": "$2 – $15",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "tweety.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3777,6 +4103,8 @@
     "estimatedValue": "$2–15 raw",
     "rawPriceUsd": "$2 – $15",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "taz.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3812,7 +4140,9 @@
     ],
     "estimatedValue": "$15–40 graded",
     "rawPriceUsd": "$15 – $40",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "lisa.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3845,6 +4175,8 @@
     "estimatedValue": "$10–35 holo",
     "rawPriceUsd": "$10 – $35",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "hermione.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3881,6 +4213,8 @@
     "estimatedValue": "$15–45 holo",
     "rawPriceUsd": "$15 – $45",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "ron.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3917,6 +4251,8 @@
     "estimatedValue": "$10–30 holo",
     "rawPriceUsd": "$10 – $30",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "snape.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3953,6 +4289,8 @@
     "estimatedValue": "$40–90 graded",
     "rawPriceUsd": "$40 – $90",
     "priceBasis": "graded",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "buzz.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -3989,6 +4327,8 @@
     "estimatedValue": "$10–30 raw",
     "rawPriceUsd": "$10 – $30",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "bowser.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4025,6 +4365,8 @@
     "estimatedValue": "$60–200 depending on condition",
     "rawPriceUsd": "$60 – $200",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "vegeta.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4060,7 +4402,9 @@
     ],
     "estimatedValue": "$20–75 raw; far more graded",
     "rawPriceUsd": "$20 – $75",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "yoda.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4100,7 +4444,9 @@
     ],
     "estimatedValue": "$50–150 graded",
     "rawPriceUsd": "$50 – $150",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "bobafett.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4141,6 +4487,8 @@
     "estimatedValue": "$10–40 raw",
     "rawPriceUsd": "$10 – $40",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "lando.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4181,6 +4529,8 @@
     "estimatedValue": "$2–8 raw",
     "rawPriceUsd": "$2 – $8",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "genie.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4217,6 +4567,8 @@
     "estimatedValue": "$1–5 raw",
     "rawPriceUsd": "$1 – $5",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "belle.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4249,6 +4601,8 @@
     "estimatedValue": "$2–6 raw",
     "rawPriceUsd": "$2 – $6",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "shrek.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4281,6 +4635,8 @@
     "estimatedValue": "$2–6 raw",
     "rawPriceUsd": "$2 – $6",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "donkey.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4313,6 +4669,8 @@
     "estimatedValue": "$2–6 raw",
     "rawPriceUsd": "$2 – $6",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "fiona.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4345,6 +4703,8 @@
     "estimatedValue": "$5–20 raw",
     "rawPriceUsd": "$5 – $20",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "kermit.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4372,7 +4732,13 @@
     ],
     "estimatedValue": "$60–150 graded",
     "rawPriceUsd": "$60 – $150",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "NM-MT 8",
+      "cert": "70270921"
+    },
     "image": "thing.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4412,7 +4778,9 @@
     ],
     "estimatedValue": "$40–120 graded",
     "rawPriceUsd": "$40 – $120",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "drdoom.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4456,7 +4824,9 @@
     ],
     "estimatedValue": "$50–120 graded",
     "rawPriceUsd": "$50 – $120",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "torch.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4497,6 +4867,8 @@
     "estimatedValue": "$30–80 raw",
     "rawPriceUsd": "$30 – $80",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "hawkeye.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4536,7 +4908,9 @@
     ],
     "estimatedValue": "$40–100 graded",
     "rawPriceUsd": "$40 – $100",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "namor.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4577,6 +4951,8 @@
     "estimatedValue": "$40–150 depending on condition",
     "rawPriceUsd": "$40 – $150",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "godzilla.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4613,6 +4989,8 @@
     "estimatedValue": "$30–70 raw",
     "rawPriceUsd": "$30 – $70",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "falcon.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4649,6 +5027,8 @@
     "estimatedValue": "$30–70 raw",
     "rawPriceUsd": "$30 – $70",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "mrfantastic.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4684,7 +5064,9 @@
     ],
     "estimatedValue": "$10–40 depending on rarity",
     "rawPriceUsd": "$10 – $40",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "sailormoon.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4722,6 +5104,8 @@
     "estimatedValue": "$3–12 raw",
     "rawPriceUsd": "$3 – $10",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "fred.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4755,6 +5139,8 @@
     "estimatedValue": "$2–8 raw",
     "rawPriceUsd": "$2 – $8",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "sources": [
       {
         "label": "Trading Card Database — 1993 SkyBox Aladdin",
@@ -4806,7 +5192,9 @@
     ],
     "estimatedValue": "$150–400 raw, into the low thousands for the prism version in PSA 9 or 10",
     "rawPriceUsd": "$150 – $400",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "luffy-1999-carddass.jpg"
   },
   {
@@ -4839,7 +5227,9 @@
     ],
     "estimatedValue": "$60–200 raw, $400+ in PSA 9",
     "rawPriceUsd": "$60 – $200",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "zoro-1999-carddass.jpg"
   },
   {
@@ -4872,7 +5262,9 @@
     ],
     "estimatedValue": "$50–150 raw, $500+ in PSA 10",
     "rawPriceUsd": "$50 – $150",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "nami-1999-carddass.jpg"
   },
   {
@@ -4905,7 +5297,9 @@
     ],
     "estimatedValue": "$40–120 raw, $400+ in PSA 10",
     "rawPriceUsd": "$40 – $120",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "usopp-1999-carddass.jpg"
   },
   {
@@ -4939,6 +5333,8 @@
     "estimatedValue": "$20–60 raw",
     "rawPriceUsd": "$20 – $60",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "sanji-2000-carddass.jpg"
   },
   {
@@ -4976,6 +5372,8 @@
     "estimatedValue": "$30–90 raw for an original 1988 print",
     "rawPriceUsd": "$30 – $90",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "krillin-1988-carddass.jpg"
   },
   {
@@ -5013,6 +5411,8 @@
     "estimatedValue": "$40–120 raw for an original 1988 print",
     "rawPriceUsd": "$40 – $120",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "bulma-1988-carddass.jpg"
   },
   {
@@ -5050,6 +5450,8 @@
     "estimatedValue": "$120–350 raw, more for a clean original prism",
     "rawPriceUsd": "$120 – $350",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "roshi-1988-carddass.jpg"
   },
   {
@@ -5087,6 +5489,8 @@
     "estimatedValue": "$25–80 raw",
     "rawPriceUsd": "$25 – $80",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "piccolo-1989-carddass.jpg"
   },
   {
@@ -5123,7 +5527,9 @@
     ],
     "estimatedValue": "$50–150 raw, $250+ in PSA 8",
     "rawPriceUsd": "$50 – $150",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "gohan-1989-carddass.jpg"
   },
   {
@@ -5161,6 +5567,8 @@
     "estimatedValue": "$40–150 raw for a clean 2002 Japanese print",
     "rawPriceUsd": "$40 – $150",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "sasuke-2002-bandai.jpg"
   },
   {
@@ -5198,6 +5606,8 @@
     "estimatedValue": "$25–80 raw",
     "rawPriceUsd": "$25 – $80",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "sakura-2002-bandai.jpg"
   },
   {
@@ -5234,7 +5644,13 @@
     ],
     "estimatedValue": "$40–120 raw, $200+ in PSA 8",
     "rawPriceUsd": "$40 – $120",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "NM-MT 8",
+      "cert": "24970699"
+    },
     "image": "doctor-strange-1975-topps.jpg"
   },
   {
@@ -5271,7 +5687,9 @@
     ],
     "estimatedValue": "$50–150 raw, $400+ in PSA 9",
     "rawPriceUsd": "$50 – $150",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "ghost-rider-1975-topps.jpg"
   },
   {
@@ -5308,7 +5726,9 @@
     ],
     "estimatedValue": "$60–180 raw, more graded",
     "rawPriceUsd": "$60 – $180",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "black-widow-1975-topps.jpg"
   },
   {
@@ -5345,7 +5765,9 @@
     ],
     "estimatedValue": "$40–120 raw, $250+ in PSA 8",
     "rawPriceUsd": "$40 – $120",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "doc-ock-1975-topps.jpg"
   },
   {
@@ -5383,6 +5805,8 @@
     "estimatedValue": "$50–150 raw",
     "rawPriceUsd": "$50 – $150",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "luke-cage-1975-topps.jpg"
   },
   {
@@ -5419,7 +5843,9 @@
     ],
     "estimatedValue": "$40–120 raw, $250+ in PSA 8",
     "rawPriceUsd": "$40 – $120",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "iron-fist-1975-topps.jpg"
   },
   {
@@ -5457,6 +5883,8 @@
     "estimatedValue": "$30–90 raw",
     "rawPriceUsd": "$30 – $90",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "shang-chi-1975-topps.jpg"
   },
   {
@@ -5480,6 +5908,8 @@
     "estimatedValue": "$2–10 raw; complete 90-card sets run $15–30",
     "rawPriceUsd": "$2 – $10",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "aladdin-1993-skybox.jpg",
     "sources": [
       {
@@ -5513,6 +5943,8 @@
     "estimatedValue": "$2–10 raw",
     "rawPriceUsd": "$2 – $10",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "jafar-1993-skybox.jpg",
     "sources": [
       {
@@ -5546,6 +5978,8 @@
     "estimatedValue": "$1–8 raw",
     "rawPriceUsd": "$1 – $8",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "mufasa-1994-skybox.jpg",
     "sources": [
       {
@@ -5579,6 +6013,8 @@
     "estimatedValue": "$2–10 raw",
     "rawPriceUsd": "$2 – $10",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "scar-1994-skybox.jpg",
     "sources": [
       {
@@ -5612,6 +6048,8 @@
     "estimatedValue": "$1–6 raw",
     "rawPriceUsd": "$1 – $6",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "anna-2014-topps.jpg",
     "sources": [
       {
@@ -5645,6 +6083,8 @@
     "estimatedValue": "$2–8 raw",
     "rawPriceUsd": "$2 – $8",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "olaf-2014-topps.jpg",
     "sources": [
       {
@@ -5678,6 +6118,8 @@
     "estimatedValue": "$1–8 raw",
     "rawPriceUsd": "$1 – $8",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "nala-1994-skybox.jpg",
     "sources": [
       {
@@ -5711,6 +6153,8 @@
     "estimatedValue": "$1–8 raw",
     "rawPriceUsd": "$1 – $8",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "rafiki-1994-skybox.jpg",
     "sources": [
       {
@@ -5744,6 +6188,8 @@
     "estimatedValue": "$2–10 raw",
     "rawPriceUsd": "$2 – $10",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "timon-1994-skybox.jpg",
     "sources": [
       {
@@ -5777,6 +6223,8 @@
     "estimatedValue": "$2–10 raw",
     "rawPriceUsd": "$2 – $10",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "pumbaa-1994-skybox.jpg",
     "sources": [
       {
@@ -5810,6 +6258,8 @@
     "estimatedValue": "$25–70 raw",
     "rawPriceUsd": "$25 – $70",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "iceman-1976-topps.jpg",
     "sources": [
       {
@@ -5847,6 +6297,8 @@
     "estimatedValue": "$25–70 raw",
     "rawPriceUsd": "$25 – $70",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "invisible-girl-1976-topps.jpg",
     "sources": [
       {
@@ -5884,6 +6336,8 @@
     "estimatedValue": "$40–110 raw",
     "rawPriceUsd": "$40 – $110",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "red-skull-1976-topps.jpg",
     "sources": [
       {
@@ -5921,6 +6375,8 @@
     "estimatedValue": "$20–70 raw",
     "rawPriceUsd": "$20 – $70",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "kakashi-2002-bandai.jpg",
     "sources": [
       {
@@ -5954,6 +6410,8 @@
     "estimatedValue": "$15–50 raw",
     "rawPriceUsd": "$15 – $50",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "chopper-2001-carddass.jpg",
     "sources": [
       {
@@ -5987,6 +6445,8 @@
     "estimatedValue": "$8–30 raw",
     "rawPriceUsd": "$8 – $30",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "tyson-2001-beyblade-ccg.jpg",
     "sources": [
       {
@@ -6020,6 +6480,8 @@
     "estimatedValue": "$8–30 raw",
     "rawPriceUsd": "$8 – $30",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "kai-2001-beyblade-ccg.jpg",
     "sources": [
       {
@@ -6053,6 +6515,8 @@
     "estimatedValue": "$8–30 raw",
     "rawPriceUsd": "$8 – $30",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "max-2001-beyblade-ccg.jpg",
     "sources": [
       {
@@ -6086,6 +6550,8 @@
     "estimatedValue": "$5–25 raw",
     "rawPriceUsd": "$5 – $25",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "aang-2006-upperdeck.jpg",
     "sources": [
       {
@@ -6119,6 +6585,8 @@
     "estimatedValue": "$5–25 raw",
     "rawPriceUsd": "$5 – $25",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "katara-2006-upperdeck.jpg",
     "sources": [
       {
@@ -6152,6 +6620,8 @@
     "estimatedValue": "$6–30 raw",
     "rawPriceUsd": "$6 – $30",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "zuko-2006-upperdeck.jpg",
     "sources": [
       {
@@ -6185,6 +6655,8 @@
     "estimatedValue": "$6–30 raw",
     "rawPriceUsd": "$6 – $30",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "iroh-2006-upperdeck.jpg",
     "sources": [
       {
@@ -6217,7 +6689,9 @@
     ],
     "estimatedValue": "$40–120 raw, $250+ in PSA 9",
     "rawPriceUsd": "$40 – $120",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "luigi-1989-carddass.jpg",
     "sources": [
       {
@@ -6254,7 +6728,9 @@
     ],
     "estimatedValue": "$50–150 raw, $300+ in PSA 9",
     "rawPriceUsd": "$50 – $150",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "peach-1989-carddass.jpg",
     "sources": [
       {
@@ -6292,6 +6768,8 @@
     "estimatedValue": "$30–90 raw",
     "rawPriceUsd": "$30 – $90",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "kirby-1993-carddass.jpg",
     "sources": [
       {
@@ -6325,6 +6803,8 @@
     "estimatedValue": "$5–20 raw",
     "rawPriceUsd": "$5 – $20",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "samus-1993-amurol.jpg",
     "sources": [
       {
@@ -6358,6 +6838,8 @@
     "estimatedValue": "$10–40 raw",
     "rawPriceUsd": "$10 – $40",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "zelda-1999-carddass.jpg",
     "sources": [
       {
@@ -6395,6 +6877,8 @@
     "estimatedValue": "$20–70 raw",
     "rawPriceUsd": "$20 – $70",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "megaman-1992-carddass.jpg",
     "sources": [
       {
@@ -6427,7 +6911,9 @@
     ],
     "estimatedValue": "$10–40 raw, $100+ in PSA 9",
     "rawPriceUsd": "$10 – $40",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "tails-1993-topps.jpg",
     "sources": [
       {
@@ -6461,6 +6947,8 @@
     "estimatedValue": "$15–60 raw",
     "rawPriceUsd": "$15 – $60",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "dragoon-2001-beyblade-ccg.jpg",
     "sources": [
       {
@@ -6494,6 +6982,8 @@
     "estimatedValue": "$12–45 raw",
     "rawPriceUsd": "$10 – $45",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "dranzer-2001-beyblade-ccg.jpg",
     "sources": [
       {
@@ -6527,6 +7017,8 @@
     "estimatedValue": "$12–45 raw",
     "rawPriceUsd": "$10 – $45",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "driger-2001-beyblade-ccg.jpg",
     "sources": [
       {
@@ -6560,6 +7052,8 @@
     "estimatedValue": "$12–45 raw",
     "rawPriceUsd": "$10 – $45",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "draciel-2001-beyblade-ccg.jpg",
     "sources": [
       {
@@ -6593,7 +7087,9 @@
     ],
     "estimatedValue": "$25 – $140 raw depending on condition and back colour; about $4 in PSA 2, and listed near $500 in PSA 6",
     "rawPriceUsd": "$25 – $140",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "donald-duck-shuffled.jpg",
     "sources": [
       {
@@ -6636,7 +7132,9 @@
     ],
     "estimatedValue": "$15–60 raw, $150+ in PSA 9",
     "rawPriceUsd": "$15 – $60",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "leonardo-1989-topps.jpg"
   },
   {
@@ -6669,7 +7167,9 @@
     ],
     "estimatedValue": "$20–70 raw, $180+ in PSA 9",
     "rawPriceUsd": "$20 – $70",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "raphael-1989-topps.jpg"
   },
   {
@@ -6702,7 +7202,9 @@
     ],
     "estimatedValue": "$20–70 raw, $180+ in PSA 9",
     "rawPriceUsd": "$20 – $70",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "michelangelo-1989-topps.jpg"
   },
   {
@@ -6735,7 +7237,9 @@
     ],
     "estimatedValue": "$15–50 raw, $120+ in PSA 9",
     "rawPriceUsd": "$15 – $50",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "donatello-1989-topps.jpg"
   },
   {
@@ -6768,7 +7272,9 @@
     ],
     "estimatedValue": "$20–70 raw, $180+ in PSA 9",
     "rawPriceUsd": "$20 – $70",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "shredder-1989-topps.jpg"
   },
   {
@@ -6786,6 +7292,8 @@
     "estimatedValue": "Rarely traded — a convention giveaway with no retail release and no graded population",
     "rawPriceUsd": "No public sales",
     "priceBasis": "none",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "fortnite-battle-bus.jpg",
     "noCardReason": "",
     "mediaRank": 45,
@@ -6828,6 +7336,8 @@
     "estimatedValue": "$8 – $20 asking; no graded population exists",
     "rawPriceUsd": "$8 – $20",
     "priceBasis": "asking",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "horizon-aloy.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6865,6 +7375,8 @@
     "estimatedValue": "$8 – $20 asking; no graded population exists",
     "rawPriceUsd": "$8 – $20",
     "priceBasis": "asking",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "detroit-connor.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6901,7 +7413,9 @@
     ],
     "estimatedValue": "$15 – $50 raw; about $1,500 in PSA 10",
     "rawPriceUsd": "$15 – $50",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "megatron.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6939,6 +7453,8 @@
     "estimatedValue": "Almost never traded — a single sold-out Italian listing asked €44.90, and eBay Italy shows nothing",
     "rawPriceUsd": "About $49",
     "priceBasis": "asking",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "nathan-drake.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6980,6 +7496,8 @@
     "estimatedValue": "Almost never traded — a single sold-out Italian listing asked €44.90, and eBay Italy shows nothing",
     "rawPriceUsd": "About $49",
     "priceBasis": "asking",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "sly-cooper.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7016,7 +7534,9 @@
     ],
     "estimatedValue": "$15 – $60 raw; about $1,900 in PSA 10",
     "rawPriceUsd": "$15 – $60",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "bumblebee.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7053,7 +7573,9 @@
     ],
     "estimatedValue": "$20 – $60 raw; about $520 in PSA 9",
     "rawPriceUsd": "$20 – $60",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "snake-eyes.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7090,7 +7612,9 @@
     ],
     "estimatedValue": "$2 – $10 raw; $25 – $150 in PSA 9 or 10",
     "rawPriceUsd": "$2 – $10",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "scorpion.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7127,7 +7651,9 @@
     ],
     "estimatedValue": "$60 – $200 raw; $200 – $500 graded 3 to 5",
     "rawPriceUsd": "$60 – $200",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "minnie-mouse.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7164,7 +7690,9 @@
     ],
     "estimatedValue": "$1 – $4 raw; $25 – $100 in PSA 9 or 10",
     "rawPriceUsd": "$1 – $4",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "katniss.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7202,6 +7730,8 @@
     "estimatedValue": "$5 – $15 for the promo; $1 – $4 for base cards",
     "rawPriceUsd": "$5 – $15",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "sulley.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7234,7 +7764,9 @@
     ],
     "estimatedValue": "$1 – $5 raw; $30 – $70 in PSA 9 or 10",
     "rawPriceUsd": "$1 – $5",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "nemo.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7267,7 +7799,9 @@
     ],
     "estimatedValue": "$5 – $20 raw; $150 – $400 in PSA 10",
     "rawPriceUsd": "$5 – $20",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "master-chief.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7304,7 +7838,9 @@
     ],
     "estimatedValue": "$5 – $200+ depending on print, parallel and grade",
     "rawPriceUsd": "$5 – $200+",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "cloud-strife.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7342,6 +7878,8 @@
     "estimatedValue": "$2 – $12 for first-edition commons; a Rei SP has reached about $110",
     "rawPriceUsd": "$2 – $10",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "rei-ayanami.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7375,6 +7913,8 @@
     "estimatedValue": "$4 – $15 loose; sealed Japanese Series 1 packs $25 – $60",
     "rawPriceUsd": "$4 – $15",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "tom-nook.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7408,6 +7948,8 @@
     "estimatedValue": "$1 – $4 raw; sealed 2004 boxes $40 – $100",
     "rawPriceUsd": "$1 – $4",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "mr-incredible.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7440,7 +7982,9 @@
     ],
     "estimatedValue": "$50 – $200 raw; $150 – $400 graded 2 to 4",
     "rawPriceUsd": "$50 – $200",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "pluto.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7477,7 +8021,9 @@
     ],
     "estimatedValue": "$4 – $8 raw; about $50 in PSA 8 and up to $400 asking in PSA 10",
     "rawPriceUsd": "$4 – $8",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "slimer.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7514,7 +8060,9 @@
     ],
     "estimatedValue": "$10 – $25 raw; $25 – $50 in PSA 8",
     "rawPriceUsd": "$10 – $25",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "scooby-doo.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7551,7 +8099,9 @@
     ],
     "estimatedValue": "$5 – $20 raw; $40 – $120 graded",
     "rawPriceUsd": "$5 – $20",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "he-man.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7588,7 +8138,9 @@
     ],
     "estimatedValue": "$3 – $12 raw; $10 – $25 for the foil parallel",
     "rawPriceUsd": "$3 – $10",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "steve.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7626,6 +8178,8 @@
     "estimatedValue": "$3 – $12 raw; a complete 180-sticker set or filled album $150 – $400",
     "rawPriceUsd": "$3 – $10",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "marty-mcfly.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7663,6 +8217,8 @@
     "estimatedValue": "Not applicable — no trading cards exist, by the author's choice",
     "rawPriceUsd": "—",
     "priceBasis": "none",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "",
     "noCardReason": "Bill Watterson refused to licence Calvin and Hobbes for merchandise of any kind, won legal control of licensing from his syndicate in 1991, and has never granted a card deal. This is the rare case where the absence is a decision rather than an oversight.",
     "mediaRank": null,
@@ -7695,7 +8251,9 @@
     ],
     "estimatedValue": "$5 – $15 raw; into the low hundreds in high grade; a complete 66-card set about $225",
     "rawPriceUsd": "$5 – $15",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "gomez-addams.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7728,7 +8286,9 @@
     ],
     "estimatedValue": "$25 raw in VG, about $200 raw in NM; $450 – $550 in PSA 8 and around $7,000 in PSA 10",
     "rawPriceUsd": "$25 – $200",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "adam-bomb.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7762,6 +8322,8 @@
     "estimatedValue": "$4 – $10 raw; a complete 90-card base set about $30",
     "rawPriceUsd": "$4 – $10",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "michael-myers.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7799,6 +8361,8 @@
     "estimatedValue": "$13 – $30 raw; the complete six-card chromium set about $45",
     "rawPriceUsd": "$15 – $30",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "jason-voorhees.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7836,6 +8400,8 @@
     "estimatedValue": "No sold records found; sibling Konami cards trade at $15 – $60 and this one plausibly higher",
     "rawPriceUsd": "$15 – $60",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "solid-snake.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7873,6 +8439,8 @@
     "estimatedValue": "$8 – $25 loose; a full run of twelve means buying twelve boxes",
     "rawPriceUsd": "$8 – $25",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "among-us-crewmate.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7910,6 +8478,8 @@
     "estimatedValue": "Not applicable — no trading cards exist",
     "rawPriceUsd": "—",
     "priceBasis": "none",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "",
     "noCardReason": "Studio Ghibli kept Totoro out of the card market entirely. Tokuma Shoten's own 1988–1995 merchandise catalogue lists telephone cards but no trading cards, and the long-running anime card checklists — which carry Akira, Ghost in the Shell, Sailor Moon and Ranma ½ — have no Ghibli entry at all. Beware the Chinese \"Ghibli CCG\" boosters dated 2023–24: they name no licensor and are not official.",
     "mediaRank": null,
@@ -7946,7 +8516,9 @@
     ],
     "estimatedValue": "$4 – $15 for a loose single; the gold-foil special meaningfully more",
     "rawPriceUsd": "$4 – $15",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "satoru-gojo.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -7984,6 +8556,8 @@
     "estimatedValue": "$2 – $6 for a single; a complete thirty-two-card set about $10",
     "rawPriceUsd": "$2 – $6",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "anya-forger.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8017,6 +8591,8 @@
     "estimatedValue": "£5 – £25 a single; a complete fifty-card set £250 – £600 depending on condition and imprint",
     "rawPriceUsd": "$7 – $35",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "dalek.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8054,6 +8630,8 @@
     "estimatedValue": "£0.50 – £2 a sticker; a complete 180-sticker set or filled album £60 – £150",
     "rawPriceUsd": "Under $1 – $3",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "wallace.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8087,6 +8665,8 @@
     "estimatedValue": "Not applicable — no licensed trading card exists",
     "rawPriceUsd": "—",
     "priceBasis": "none",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "",
     "noCardReason": "No British trade-card issuer ever carded him. The Cartophilic Society of Great Britain, the body that catalogues exactly this kind of thing, went looking and found nothing licensed — only a 2018 Topps parody that avoids using his name. A 2014 or 2017 film tie-in album cannot be entirely excluded, so this entry is provisional.",
     "mediaRank": null,
@@ -8123,7 +8703,9 @@
     ],
     "estimatedValue": "$2 – $8 raw; $40 – $90 in PSA 9 or 10",
     "rawPriceUsd": "$2 – $8",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "daenerys.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8161,6 +8743,8 @@
     "estimatedValue": "$1 – $8 raw; a rental premium rather than a packet-issued card, so the market is thin",
     "rawPriceUsd": "$1 – $8",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "jack-sparrow.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8193,7 +8777,9 @@
     ],
     "estimatedValue": "$1 – $4 a loose sticker; $70 – $130 for a complete album",
     "rawPriceUsd": "$1 – $4",
-    "priceBasis": "raw",
+    "priceBasis": "set",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "tenderheart-bear.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8226,7 +8812,9 @@
     ],
     "estimatedValue": "$15 – $50 raw depending on wear; $50 – $110 in excellent condition. Effectively no graded population",
     "rawPriceUsd": "$15 – $50",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "popeye.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8259,7 +8847,9 @@
     ],
     "estimatedValue": "Low tens of dollars for a collector-grade single, with series-two cards at a real premium. Sold comps are hard to reach, so treat this as provisional",
     "rawPriceUsd": "$10 – $40",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "woody-woodpecker.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8293,6 +8883,8 @@
     "estimatedValue": "About £42 for a Yogi single in excellent condition against £6 for a common from the same set; a complete thirty-five-card set £120 – £250",
     "rawPriceUsd": "About $55",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "yogi-bear.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8326,6 +8918,8 @@
     "estimatedValue": "About €0.65 a loose cromo; a complete album with its poster probably €150 – €350, though no confirmed sale exists",
     "rawPriceUsd": "Under $1",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "pink-panther.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8359,6 +8953,8 @@
     "estimatedValue": "$35 – $90 for a clean raw copy; a #12 has sold at $290, the top of the market. Unfolded cards carry the premium",
     "rawPriceUsd": "$35 – $90",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "wonder-woman.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8392,6 +8988,8 @@
     "estimatedValue": "About $35 for a clean raw hero card from this set; commons run $15 – $20",
     "rawPriceUsd": "$15 – $20",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "aquaman.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8425,6 +9023,8 @@
     "estimatedValue": "About $35 for a clean raw hero card from this set; commons run $15 – $20",
     "rawPriceUsd": "$15 – $20",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "the-flash.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8458,6 +9058,8 @@
     "estimatedValue": "About $35 for a clean raw copy; commons from the set run $15 – $20",
     "rawPriceUsd": "$15 – $20",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "green-lantern.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8490,7 +9092,9 @@
     ],
     "estimatedValue": "$5 – $20 raw depending on centring; $60 – $200 in PSA 8 or better",
     "rawPriceUsd": "$5 – $20",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "chewbacca.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8523,7 +9127,9 @@
     ],
     "estimatedValue": "$5 – $25 raw; $75 – $250 in PSA 8 or better, with low-numbered cards chronically off-centre",
     "rawPriceUsd": "$5 – $25",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "r2-d2.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8556,7 +9162,9 @@
     ],
     "estimatedValue": "$5 – $25 raw; $75 – $250 in PSA 8 or better. As the last card in the run it took the usual edge wear at the bottom of the stack",
     "rawPriceUsd": "$5 – $25",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "c-3po.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8589,7 +9197,9 @@
     ],
     "estimatedValue": "$1 – $20 raw; about $63 in PSA 8 and $190 – $220 in PSA 9",
     "rawPriceUsd": "$1 – $20",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "harley-quinn.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8622,7 +9232,9 @@
     ],
     "estimatedValue": "$40 – $150 raw; graded copies are listed at $1,000 and up, though those are asking prices rather than settled sales",
     "rawPriceUsd": "$40 – $150",
-    "priceBasis": "raw",
+    "priceBasis": "mixed",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "venom.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8661,6 +9273,8 @@
     "estimatedValue": "$25 – $150 raw depending on condition and back colour, with the better copies at the top of that band",
     "rawPriceUsd": "$25 – $150",
     "priceBasis": "raw",
+    "gradedPrices": [],
+    "exampleCert": null,
     "image": "goofy.jpg",
     "noCardReason": "",
     "mediaRank": null,

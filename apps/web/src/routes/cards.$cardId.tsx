@@ -1,6 +1,12 @@
 import { createFileRoute, Link, notFound, useNavigate } from '@tanstack/react-router'
 import { useEffect, useMemo } from 'react'
-import { cards, compareChronologically, type Card } from '../lib/cards'
+import {
+  cards,
+  CERT_LOOKUP,
+  compareChronologically,
+  PRICE_BASIS_LABEL,
+  type Card,
+} from '../lib/cards'
 import { getCardDisplay } from '../lib/cardDisplay'
 import { getUniverse } from '../lib/universes'
 
@@ -96,7 +102,48 @@ function CardDetailPage() {
           )}
 
           <div className="field-label">{card.image ? 'Estimated Value' : 'Collectibility'}</div>
+          {/* The headline figure first, then the prose that qualifies it. */}
+          {card.priceBasis !== 'none' && (
+            <div className="price-headline">
+              {PRICE_BASIS_LABEL[card.priceBasis] && (
+                <span className="price-basis">{PRICE_BASIS_LABEL[card.priceBasis]}</span>
+              )}
+              {card.rawPriceUsd}
+            </div>
+          )}
           <div className="value-badge">{card.estimatedValue}</div>
+
+          {/* Graded sales and the certified copy in the photograph. Only a
+              minority of cards have either, so the whole block is optional
+              rather than a row of empty columns on every page. */}
+          {(card.gradedPrices.length > 0 || card.exampleCert) && (
+            <>
+              <div className="field-label">Graded</div>
+              {card.gradedPrices.length > 0 && (
+                <dl className="graded-ladder">
+                  {card.gradedPrices.map((g) => (
+                    <div className="graded-row" key={g.grade}>
+                      <dt>{g.grade}</dt>
+                      <dd>{g.price}</dd>
+                    </div>
+                  ))}
+                </dl>
+              )}
+              {card.exampleCert && (
+                <p className="cert-line">
+                  The copy shown is {card.exampleCert.grader} {card.exampleCert.grade}, cert{' '}
+                  <a
+                    href={CERT_LOOKUP[card.exampleCert.grader](card.exampleCert.cert)}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    {card.exampleCert.cert}
+                  </a>
+                  .
+                </p>
+              )}
+            </>
+          )}
 
           {card.sources.length > 0 && (
             <>
