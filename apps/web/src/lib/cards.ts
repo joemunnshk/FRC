@@ -36,7 +36,7 @@ export interface Card {
 export const cards = raw as Card[]
 
 export const CATEGORY_LABELS: Record<Category, string> = {
-  media: 'Top-Grossing Media Franchises',
+  media: 'Top 50 Grossing Media Franchises',
   tcg: 'Trading Card Games',
   icons: 'Icons',
 }
