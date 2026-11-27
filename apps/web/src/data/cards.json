@@ -52,9 +52,9 @@
       "One of the earliest properties to successfully cross from Saturday-morning cartoon to trading card aisle",
       "Set the template Topps would reuse for countless licensed-cartoon card sets through the '90s"
     ],
-    "estimatedValue": "$5 – $50 for common cards, more for high-grade or rare inserts",
-    "rawPriceUsd": "$5 – $50",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $2 – $13 on recent sold listings.",
+    "rawPriceUsd": "$2 – $13",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "tmnt.jpg",
@@ -95,10 +95,19 @@
       "Used a simpler dice-and-life-points system, not the card-battle rules Konami introduced in 1999",
       "Bandai's cards are notoriously hard to find in top grades, making high-grade copies genuinely rare"
     ],
-    "estimatedValue": "$20 – $300, more for high-grade examples — these thin, glossy cards are notoriously hard to find in top condition",
-    "rawPriceUsd": "$20 – $300",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $55 – $75 on recent sold listings. Certified: about $175 in PSA 5 and about $237 in PSA 7.",
+    "rawPriceUsd": "$55 – $75",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 5",
+        "price": "$175"
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$237"
+      }
+    ],
     "exampleCert": null,
     "image": "yugioh.jpg",
     "noCardReason": "",
@@ -135,9 +144,9 @@
       "Nintendo's mascot never got a proper dedicated Super Mario Bros. set from Topps in the US — a genuine gap in the hobby",
       "A great example of how \"the first card\" can be a legitimately disputed title"
     ],
-    "estimatedValue": "$5 – $40 depending on card and condition",
-    "rawPriceUsd": "$5 – $40",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $2 – $7 on recent sold listings.",
+    "rawPriceUsd": "$2 – $7",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "mario.jpg",
@@ -215,10 +224,19 @@
       "The 120-card set paired jokes and trivia on the back — an early example of \"edutainment\" card design",
       "A cornerstone of the vintage non-sports card hobby; well-preserved examples are genuinely rare"
     ],
-    "estimatedValue": "$20 – $500+ depending on card and grade; rare high-grade examples can go much higher",
-    "rawPriceUsd": "$20 – $500+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $275 – $750 on recent sold listings. Certified: about $295 in PSA (#51) and about $725 in SGC 1 (#4).",
+    "rawPriceUsd": "$275 – $750",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA (#51)",
+        "price": "$295"
+      },
+      {
+        "grade": "SGC 1 (#4)",
+        "price": "$725"
+      }
+    ],
     "exampleCert": null,
     "image": "mickey.jpg",
     "noCardReason": "",
@@ -292,10 +310,23 @@
       "Topps rushed the set out mid-release because nobody predicted how big the film would be",
       "The blue border is the tell — Topps ran five colour-coded series for the first film alone"
     ],
-    "estimatedValue": "$20 – $2,400 for a PSA 8; six figures for top-pop examples of card #1",
-    "rawPriceUsd": "$20 – $2,400",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $200 – $300 on recent sold listings. Certified: about $860 in PSA 6, about $2,150 in PSA 7 and about $4,661 in PSA 8.",
+    "rawPriceUsd": "$200 – $300",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 6",
+        "price": "$860"
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$2,150"
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$4,661"
+      }
+    ],
     "exampleCert": null,
     "image": "starwars.jpg",
     "noCardReason": "",
@@ -332,9 +363,9 @@
       "Given away with chocolate bars rather than sold — the standard way European trade cards reached children",
       "Dating is contested: Menier launched the promotion before Christmas 1938, but graded examples are usually catalogued as 1939"
     ],
-    "estimatedValue": "$5 – $40 per card; complete numbered runs are much scarcer",
-    "rawPriceUsd": "$5 – $40",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $6 – $20 on recent sold listings.",
+    "rawPriceUsd": "$6 – $20",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "disneyprincess.jpg",
@@ -505,10 +536,15 @@
       "Briefly the second best-selling toy in the entire US market",
       "Wizards killed the game in 2003 and never publicly explained why"
     ],
-    "estimatedValue": "$2 – $60 per card; holographic Harry Potter and Quidditch cards command the most",
-    "rawPriceUsd": "$2 – $60",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $360 – $1,200 on recent sold listings. Certified: about $420 in PSA 8 (Ron 17/116).",
+    "rawPriceUsd": "$360 – $1,200",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8 (Ron 17/116)",
+        "price": "$420"
+      }
+    ],
     "exampleCert": null,
     "image": "harrypotter.jpg",
     "noCardReason": "",
@@ -625,16 +661,16 @@
     "priceBasis": "raw",
     "gradedPrices": [
       {
-        "grade": "SGC 2",
-        "price": "$490"
-      },
-      {
         "grade": "PSA 3",
         "price": "$2,100"
       },
       {
         "grade": "PSA 6",
         "price": "$2,950"
+      },
+      {
+        "grade": "SGC 2",
+        "price": "$490"
       }
     ],
     "exampleCert": null,
@@ -682,16 +718,16 @@
     "priceBasis": "raw",
     "gradedPrices": [
       {
-        "grade": "PSA 3",
-        "price": "$1,550"
+        "grade": "PSA 6",
+        "price": "$6,188"
       },
       {
         "grade": "PSA 7",
         "price": "$2,375"
       },
       {
-        "grade": "PSA 6",
-        "price": "$6,188"
+        "grade": "PSA 3",
+        "price": "$1,550"
       }
     ],
     "exampleCert": null,
@@ -734,9 +770,9 @@
       "Sold in oversized hanger packs designed to hang on retail pegs beside the toys",
       "Series 1 was the only series ever produced in the US — all 192 cards came out at once"
     ],
-    "estimatedValue": "$1 – $30 per card; sealed 1985 packs command a strong premium",
-    "rawPriceUsd": "$1 – $30",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $100 – $210 on recent sold listings.",
+    "rawPriceUsd": "$100 – $210",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "transformers.jpg",
@@ -778,9 +814,9 @@
       "Predates the English-language Naruto CCG that most Western fans think of as the original by four years",
       "The card is printed with BANDAI 2002 MADE IN JAPAN along the bottom edge, dating it beyond doubt"
     ],
-    "estimatedValue": "$1 – $80 per card; early rare foils are the chase pieces",
-    "rawPriceUsd": "$1 – $80",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $100 – $300 on recent sold listings. 1st-edition diamond foil and UR holos reach $950 – $1,000.",
+    "rawPriceUsd": "$100 – $300",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "naruto.jpg",
@@ -933,9 +969,9 @@
       "Comic Ball is a genuine crossover — real MLB players sharing cards with cartoon characters",
       "Upper Deck ran several Comic Ball series through the early 1990s off the back of its success"
     ],
-    "estimatedValue": "$1 – $40 per card; Bugs Bunny and Nolan Ryan cards carry the premium",
-    "rawPriceUsd": "$1 – $40",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $1 – $9 on recent sold listings.",
+    "rawPriceUsd": "$1 – $9",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "looneytunes.jpg",
@@ -1093,10 +1129,19 @@
       "Packs contained an actual playable element — scratch-off rub-off game cards",
       "Fleer moved fast: cards were on shelves the same year the arcade machine launched"
     ],
-    "estimatedValue": "$2 – $40 per card; sealed wax packs and complete sets fetch more",
-    "rawPriceUsd": "$2 – $40",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $30 – $180 on recent sold listings. Certified: about $85 in PSA 8 and about $198 in PSA 9.",
+    "rawPriceUsd": "$30 – $180",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8",
+        "price": "$85"
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$198"
+      }
+    ],
     "exampleCert": null,
     "image": "pacman.jpg",
     "noCardReason": "",
@@ -1335,9 +1380,9 @@
       "Ran to 21 booster expansions between 2006 and 2013",
       "The Warcraft games date to 1994, but nobody printed cards until World of Warcraft made it a phenomenon"
     ],
-    "estimatedValue": "$1 – $60 for most cards; unredeemed loot cards go far higher",
-    "rawPriceUsd": "$1 – $60",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $3 – $10 on recent sold listings.",
+    "rawPriceUsd": "$3 – $10",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "warcraft.jpg",
@@ -1414,10 +1459,15 @@
       "Only ever distributed across Ohio and Illinois — it never went national",
       "The text on the backs was largely invented and often has nothing to do with the episode shown"
     ],
-    "estimatedValue": "$50 – $500+ per card; complete 1967 sets are genuinely rare",
-    "rawPriceUsd": "$50 – $500+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $10 – $25 on recent sold listings. Certified: about $300 in PSA 8 (#40).",
+    "rawPriceUsd": "$10 – $25",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8 (#40)",
+        "price": "$300"
+      }
+    ],
     "exampleCert": null,
     "image": "startrek.jpg",
     "noCardReason": "",
@@ -1457,10 +1507,15 @@
       "Japan-only, which is why Western collectors discovered them decades late",
       "The six prism cards in Set 1 are the original Dragon Ball chase cards"
     ],
-    "estimatedValue": "$10 – $500+ depending on card and condition; early prisms are the prize",
-    "rawPriceUsd": "$10 – $500+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $190 – $930 on recent sold listings. Certified: about $2,800 in PSA 3.",
+    "rawPriceUsd": "$190 – $930",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 3",
+        "price": "$2,800"
+      }
+    ],
     "exampleCert": null,
     "image": "dragonball.jpg",
     "noCardReason": "",
@@ -1498,10 +1553,15 @@
       "Dispensed from coin-operated vending machines, exactly like Dragon Ball Carddass",
       "The Japanese cards use hand-drawn anime art; the 1993 Topps set used arcade screen grabs"
     ],
-    "estimatedValue": "$10 – $200 for prism cards depending on character and condition",
-    "rawPriceUsd": "$10 – $200",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $11 – $60 on recent sold listings. Certified: about $300 in PSA 9 (prism).",
+    "rawPriceUsd": "$11 – $60",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9 (prism)",
+        "price": "$300"
+      }
+    ],
     "exampleCert": null,
     "image": "streetfighter.jpg",
     "noCardReason": "",
@@ -1730,10 +1790,19 @@
       "Bond began as novels in 1953, but the cards track the films — this set arrived three years after Goldfinger",
       "Card references disagree on the year — most sources say 1965, PSA slabs it as 1966"
     ],
-    "estimatedValue": "$5 – $80 per card; complete graded sets run into the thousands",
-    "rawPriceUsd": "$5 – $80",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $13 – $37 on recent sold listings. Certified: about $75 in PSA 3 and about $275 in SGC 6 (#45).",
+    "rawPriceUsd": "$13 – $37",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 3",
+        "price": "$75"
+      },
+      {
+        "grade": "SGC 6 (#45)",
+        "price": "$275"
+      }
+    ],
     "exampleCert": null,
     "image": "jamesbond.jpg",
     "noCardReason": "",
@@ -1851,10 +1920,19 @@
       "The set's chase card is #252 Black Knight; a Crystal Shard parallel graded PSA 10 sold for $34,800 in May 2023",
       "No Jonesy in the set — Fortnite's closest thing to a protagonist only arrived in the game in December 2020, well after Series 1 shipped"
     ],
-    "estimatedValue": "$1 – $500+ depending on rarity tier and grade",
-    "rawPriceUsd": "$1 – $500+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $80 – $230 on recent sold listings. Certified: about $265 in PSA 10 and about $1,536 in PSA 10 (Crystal). Band is the holofoil; no isolated Crystal Shard raw comp.",
+    "rawPriceUsd": "$80 – $230",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 10",
+        "price": "$265"
+      },
+      {
+        "grade": "PSA 10 (Crystal)",
+        "price": "$1,536"
+      }
+    ],
     "exampleCert": null,
     "image": "fortnite.jpg",
     "noCardReason": "",
@@ -1930,10 +2008,15 @@
       "Won the Origins Award for Best Card Game of 1995",
       "Iron Crown lost the Tolkien licence in 1999, ending the game two years before the films arrived"
     ],
-    "estimatedValue": "$1 – $200; original ICE artwork cards are the collector draw",
-    "rawPriceUsd": "$1 – $200",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $2 – $6 on recent sold listings. Certified: about $312 in CGC 8 (One Ring).",
+    "rawPriceUsd": "$2 – $6",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "CGC 8 (One Ring)",
+        "price": "$312"
+      }
+    ],
     "exampleCert": null,
     "image": "middleearth.jpg",
     "noCardReason": "",
@@ -2019,16 +2102,16 @@
     "priceBasis": "raw",
     "gradedPrices": [
       {
-        "grade": "PSA 2",
-        "price": "$205"
+        "grade": "PSA 5",
+        "price": "$420"
       },
       {
         "grade": "PSA 4",
         "price": "$330"
       },
       {
-        "grade": "PSA 5",
-        "price": "$420"
+        "grade": "PSA 2",
+        "price": "$205"
       }
     ],
     "exampleCert": null,
@@ -2075,10 +2158,19 @@
       "Same Philadelphia publisher, Gum Inc., that made the 1935 Mickey Mouse cards in this database",
       "The film series was retired and rebooted as the DCU before it ever established a card identity of its own"
     ],
-    "estimatedValue": "$150 – $3,000 depending on grade; 1940 Gum Inc. cards are fragile and scarce",
-    "rawPriceUsd": "$150 – $3,000",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $1,000 – $3,300 on recent sold listings. Certified: about $799 in PSA 1.5 and about $1,600 in PSA (Lex Luthor).",
+    "rawPriceUsd": "$1,000 – $3,300",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 1.5",
+        "price": "$799"
+      },
+      {
+        "grade": "PSA (Lex Luthor)",
+        "price": "$1,600"
+      }
+    ],
     "exampleCert": null,
     "image": "dceu.jpg",
     "noCardReason": "",
@@ -2128,9 +2220,9 @@
       "Alpha cards have visibly rounder corners than every later printing, a production quirk that makes them instantly identifiable",
       "An Alpha Black Lotus graded PSA 10 sold for $540,000, and a signed copy later went for over $3 million"
     ],
-    "estimatedValue": "Alpha commons run into the hundreds; Black Lotus into six and seven figures",
-    "rawPriceUsd": "$100 – $1M+",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at about $47,000 on recent sold listings. Single Alpha comp at $46,746; Alpha commons run $35 – $90.",
+    "rawPriceUsd": "About $47,000",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "magic.jpg",
@@ -2163,10 +2255,15 @@
       "Grew fast enough to overtake Yu-Gi-Oh! in monthly sales within three years of launch",
       "Now the third best-selling trading card game in the world behind Magic and Pokémon"
     ],
-    "estimatedValue": "$1 for commons up to several thousand for graded Romance Dawn secret rares",
-    "rawPriceUsd": "$1 – $3,000+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $960 – $1,350 on recent sold listings. Certified: about $1,250 in PSA 10.",
+    "rawPriceUsd": "$960 – $1,350",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 10",
+        "price": "$1,250"
+      }
+    ],
     "exampleCert": null,
     "image": "onepiece.jpg",
     "sources": [
@@ -2198,10 +2295,19 @@
       "Launch stock sold out so fast that Ravensburger announced reprints within weeks",
       "Reached the sixth best-selling TCG in the world within two years of existing"
     ],
-    "estimatedValue": "$1 – $600 depending on rarity; enchanted-rare cards drive the market",
-    "rawPriceUsd": "$1 – $600",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $560 – $960 on recent sold listings. Certified: about $710 in PSA 9 and about $950 in PSA 9.",
+    "rawPriceUsd": "$560 – $960",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9",
+        "price": "$710"
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$950"
+      }
+    ],
     "exampleCert": null,
     "image": "lorcana.jpg",
     "sources": [
@@ -2233,10 +2339,15 @@
       "The 1999 game ran for six years before being retired in 2005",
       "The English Digi-Battle cards are slabbed as 2000, but the card itself is printed © 1999 BANDAI"
     ],
-    "estimatedValue": "$2 – $300 for 1999 originals; sealed first-edition product goes higher",
-    "rawPriceUsd": "$2 – $300",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $13 – $40 on recent sold listings. Certified: about $2,200 in PSA 10 (Bo-115).",
+    "rawPriceUsd": "$13 – $40",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 10 (Bo-115)",
+        "price": "$2,200"
+      }
+    ],
     "exampleCert": null,
     "image": "digimon.jpg",
     "sources": [
@@ -2268,9 +2379,9 @@
       "Decipher ran the game for six years before losing the licence in 2001",
       "Star Wars: Unlimited brought the franchise back to the TCG top ten in 2024"
     ],
-    "estimatedValue": "$1 – $200 for Premiere singles; sealed 1995 product is scarce",
-    "rawPriceUsd": "$1 – $200",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $20 – $40 on recent sold listings.",
+    "rawPriceUsd": "$20 – $40",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "starwarsccg.jpg",
@@ -2626,9 +2737,9 @@
       "None of the 36 cards are numbered, so collectors identify them by their slogans instead",
       "A launch fighter in Super Smash Bros. in 1999, seventeen years after this sticker"
     ],
-    "estimatedValue": "$10 – $400+, almost entirely dependent on grade",
-    "rawPriceUsd": "$10 – $400+",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $3 – $35 on recent sold listings.",
+    "rawPriceUsd": "$3 – $35",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "donkeykong.jpg",
@@ -2666,9 +2777,9 @@
       "The Zelda cards are scratch-offs — you played a small game of Zelda on the card itself",
       "A launch fighter in Super Smash Bros. in 1999, ten years after this sticker"
     ],
-    "estimatedValue": "$5 – $150+, higher for graded scratch-offs left unscratched",
-    "rawPriceUsd": "$5 – $150+",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $2 – $5 on recent sold listings.",
+    "rawPriceUsd": "$2 – $5",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "link.jpg",
@@ -2746,10 +2857,19 @@
       "The six-card foil Prism chase set fell about one in every eighteen packs",
       "Not a Nintendo character, but he joined Super Smash Bros. in 2007 — the most famous guest fighter in the series"
     ],
-    "estimatedValue": "$3 – $120+, with graded Prisms well above that",
-    "rawPriceUsd": "$3 – $120+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $7 – $45 on recent sold listings. Certified: about $225 in PSA 9 and about $265 in PSA 10.",
+    "rawPriceUsd": "$7 – $45",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9",
+        "price": "$225"
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$265"
+      }
+    ],
     "exampleCert": null,
     "image": "sonic.jpg",
     "sources": [
@@ -2913,6 +3033,10 @@
       {
         "grade": "PSA 6 (#46)",
         "price": "$400"
+      },
+      {
+        "grade": "PSA (#50)",
+        "price": "$306"
       }
     ],
     "exampleCert": {
@@ -2960,12 +3084,12 @@
     "priceBasis": "raw",
     "gradedPrices": [
       {
-        "grade": "PSA (#59)",
-        "price": "$235"
-      },
-      {
         "grade": "PSA 4 (#56)",
         "price": "$450"
+      },
+      {
+        "grade": "PSA (#59)",
+        "price": "$235"
       }
     ],
     "exampleCert": {
@@ -3013,12 +3137,12 @@
     "priceBasis": "raw",
     "gradedPrices": [
       {
-        "grade": "PSA 4",
-        "price": "$228"
-      },
-      {
         "grade": "PSA 6",
         "price": "$510"
+      },
+      {
+        "grade": "PSA 4",
+        "price": "$228"
       }
     ],
     "exampleCert": null,
@@ -3062,7 +3186,7 @@
         "price": "$40"
       },
       {
-        "grade": "Graded #13",
+        "grade": "graded #13",
         "price": "$200"
       }
     ],
@@ -3144,7 +3268,7 @@
     "priceBasis": "raw",
     "gradedPrices": [
       {
-        "grade": "Graded #45",
+        "grade": "graded #45",
         "price": "$70"
       }
     ],
@@ -3341,10 +3465,23 @@
       "The set was recalled over licensing and reached shops only in Ohio and Illinois",
       "That recall is why a 72-card set from a franchise this size is genuinely scarce"
     ],
-    "estimatedValue": "$40 – $500+, scarce because of the recall",
-    "rawPriceUsd": "$40 – $500+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $10 – $25 on recent sold listings. Certified: about $65 in PSA 5, about $95 in PSA 6 and about $295 in PSA 8.",
+    "rawPriceUsd": "$10 – $25",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 5",
+        "price": "$65"
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$95"
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$295"
+      }
+    ],
     "exampleCert": null,
     "image": "spock.jpg",
     "sources": [
@@ -3422,12 +3559,12 @@
     "priceBasis": "raw",
     "gradedPrices": [
       {
-        "grade": "PSA 3",
-        "price": "$35"
-      },
-      {
         "grade": "PSA 8",
         "price": "$60"
+      },
+      {
+        "grade": "PSA 3",
+        "price": "$35"
       }
     ],
     "exampleCert": null,
@@ -3498,9 +3635,9 @@
       "The dating is disputed: checklist sites file the set under 1987, but the sticker is printed \"TM & © 1986 MARVEL\" and PSA slabs it as 1986",
       "The artwork carries the initials \"FM\" in the lower right corner"
     ],
-    "estimatedValue": "$20 – $600+, with a steep premium for PSA 10",
-    "rawPriceUsd": "$20 – $600+",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $25 – $120 on recent sold listings.",
+    "rawPriceUsd": "$25 – $120",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "wolverine.jpg",
@@ -3802,10 +3939,19 @@
       "Recalled over licensing, so it was distributed only in Ohio and Illinois",
       "Just 72 cards, which is why a set from a franchise this large is genuinely scarce"
     ],
-    "estimatedValue": "$50 – $600+, scarce because of the recall",
-    "rawPriceUsd": "$50 – $600+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $25 – $50 on recent sold listings. Certified: about $150 in PSA 8 and about $159 in PSA (#16).",
+    "rawPriceUsd": "$25 – $50",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8",
+        "price": "$150"
+      },
+      {
+        "grade": "PSA (#16)",
+        "price": "$159"
+      }
+    ],
     "exampleCert": null,
     "image": "kirk.jpg",
     "sources": [
@@ -9230,9 +9376,9 @@
       "Collation on the set was dreadful: the collector who documented it bought a complete sealed box, got a dozen copies of sticker #1 and not a single #50",
       "It is routinely mis-credited. Sellers who know the set advertise it as the \"true RC, not 1989\" — the 1989 Comic Images Todd McFarlane #3 and the 1990 Impel Marvel Universe I #73 are both later"
     ],
-    "estimatedValue": "$40 – $150 raw; graded copies are listed at $1,000 and up, though those are asking prices rather than settled sales",
-    "rawPriceUsd": "$40 – $150",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $225 – $400 on recent sold listings.",
+    "rawPriceUsd": "$225 – $400",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "venom.jpg",
