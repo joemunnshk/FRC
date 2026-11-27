@@ -617,9 +617,9 @@
       "An 18-year wait between the first game and the first official card set",
       "Part of a broader push to make competitive gaming collectable like traditional sport"
     ],
-    "estimatedValue": "$1 – $50 per card; autographed pro cards fetch more",
-    "rawPriceUsd": "$1 – $50",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $1 – $7 on recent sold listings.",
+    "rawPriceUsd": "$1 – $7",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "callofduty.jpg",
@@ -894,9 +894,9 @@
       "Disney put the collectible money into die-cast vehicles instead — billions of dollars of little metal cars",
       "The Topps Chrome #50 McQueen tops out at a Superfractor numbered 1/1, the only one in existence"
     ],
-    "estimatedValue": "$5 for a base card up to five figures for the 1/1 Superfractor",
-    "rawPriceUsd": "$5 – $10,000+",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $1 – $3 on recent sold listings. Numbered parallels and the 1/1 Superfractor sell for vastly more; the base card is a common.",
+    "rawPriceUsd": "$1 – $3",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "cars.jpg",
@@ -1304,10 +1304,19 @@
       "Elsa's glitter card is scored 100, the highest power value printed in the set",
       "Beyond the base cards there were holographic foils, ice-effect, pop-up and even dot-to-dot cards"
     ],
-    "estimatedValue": "$3 – $15 for glitter and foil singles; sealed 2014 boxes go higher",
-    "rawPriceUsd": "$3 – $15",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $2 – $40 on recent sold listings. Certified: about $500 in PSA 9 (#125) and about $2,000 in PSA 10 (#111). Holo-foil parallels run far higher — an FF-26 Elsa and Anna has sold raw at $325.",
+    "rawPriceUsd": "$2 – $40",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9 (#125)",
+        "price": "$500"
+      },
+      {
+        "grade": "PSA 10 (#111)",
+        "price": "$2,000"
+      }
+    ],
     "exampleCert": null,
     "image": "frozen.jpg",
     "noCardReason": "",
@@ -1594,10 +1603,15 @@
       "Its cards arrived during the boom rather than ahead of it, unlike Pokémon",
       "Japanese wafer and bromide cards remain the main collectible format for the series"
     ],
-    "estimatedValue": "$2 – $150 per card depending on rarity and character",
-    "rawPriceUsd": "$2 – $150",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $1 – $9 on recent sold listings. Certified: about $210 in PSA 10 (#26).",
+    "rawPriceUsd": "$1 – $9",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 10 (#26)",
+        "price": "$210"
+      }
+    ],
     "exampleCert": null,
     "image": "demonslayer.jpg",
     "noCardReason": "",
@@ -2817,10 +2831,15 @@
       "Sold from Carddass vending machines rather than in packs, so it barely circulated outside Japan",
       "A launch fighter in Super Smash Bros. in 1999"
     ],
-    "estimatedValue": "$5 – $100+, more for graded or prism versions",
-    "rawPriceUsd": "$5 – $100+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $70 – $160 on recent sold listings. Certified: about $300 in PSA 8.",
+    "rawPriceUsd": "$70 – $160",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8",
+        "price": "$300"
+      }
+    ],
     "exampleCert": null,
     "image": "yoshi.jpg",
     "sources": [
@@ -2870,7 +2889,11 @@
         "price": "$265"
       }
     ],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "MINT 9",
+      "cert": "154526950"
+    },
     "image": "sonic.jpg",
     "sources": [
       {
@@ -3393,10 +3416,15 @@
       "Stickers came one per pack, alongside 88 base cards",
       "The show had only been a half-hour series for about a year when the set appeared"
     ],
-    "estimatedValue": "$5 – $200+, depending on grade",
-    "rawPriceUsd": "$5 – $200+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $1 – $5 on recent sold listings. Certified: about $100 in PSA 9 (#34). The Bartman sticker #1 is the set's trophy — a PSA 9 has sold at $2,800.",
+    "rawPriceUsd": "$1 – $5",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9 (#34)",
+        "price": "$100"
+      }
+    ],
     "exampleCert": null,
     "image": "bart.jpg",
     "sources": [
@@ -3599,9 +3627,9 @@
       "Upper Deck was barely two years old and used the set to reach children who had no interest in the sport",
       "Daffy had been on screen since 1937, so his first card came 53 years later"
     ],
-    "estimatedValue": "$2 – $40+, common but rarely found sharp",
-    "rawPriceUsd": "$2 – $40+",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $1 – $3 on recent sold listings.",
+    "rawPriceUsd": "$1 – $3",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "daffy.jpg",
@@ -3671,10 +3699,15 @@
       "The set came with tattoo inserts and a hologram chase run",
       "By 1992 Garfield had already been one of the most merchandised characters in the world for a decade"
     ],
-    "estimatedValue": "$1 – $30+, common and inexpensive",
-    "rawPriceUsd": "$1 – $30+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $1 – $5 on recent sold listings. Certified: about $50 in PSA 9 (Odie #2).",
+    "rawPriceUsd": "$1 – $5",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9 (Odie #2)",
+        "price": "$50"
+      }
+    ],
     "exampleCert": null,
     "image": "garfield.jpg",
     "sources": [
@@ -3707,11 +3740,15 @@
       "Every card frames its photograph inside a drawn temple lintel",
       "Harrison Ford was on his second defining role in four years, after Han Solo in 1977"
     ],
-    "estimatedValue": "$10 – $300+, depending on grade",
-    "rawPriceUsd": "$10 – $300+",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $2 – $35 on recent sold listings.",
+    "rawPriceUsd": "$2 – $35",
+    "priceBasis": "raw",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "EX-MT 6",
+      "cert": "141902315"
+    },
     "image": "indianajones.jpg",
     "sources": [
       {
@@ -3747,11 +3784,15 @@
       "Packs held ten cards, one sticker and a stick of gum",
       "Printed the year E.T. became the highest-grossing film ever made"
     ],
-    "estimatedValue": "$10 – $250+, more for the short-printed stickers in high grade",
-    "rawPriceUsd": "$10 – $250+",
-    "priceBasis": "mixed",
+    "estimatedValue": "Raw copies sell at $1 – $4 on recent sold listings.",
+    "rawPriceUsd": "$1 – $4",
+    "priceBasis": "raw",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "MINT 9",
+      "cert": "121783656"
+    },
     "image": "et.jpg",
     "sources": [
       {
@@ -3787,10 +3828,15 @@
       "The set is 82 cards and only 11 stickers, so the stickers are the harder half",
       "Gizmo was the merchandising engine — the creatures the film is named after sold far less"
     ],
-    "estimatedValue": "$5 – $80+, stickers command more than base cards",
-    "rawPriceUsd": "$5 – $80+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $1 – $10 on recent sold listings. Certified: about $495 in PSA (title card #1).",
+    "rawPriceUsd": "$1 – $10",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA (title card #1)",
+        "price": "$495"
+      }
+    ],
     "exampleCert": null,
     "image": "gizmo.jpg",
     "sources": [
@@ -3827,10 +3873,19 @@
       "Sigourney Weaver was almost unknown when the card was printed",
       "The set is 84 cards and 22 stickers, an unusually large sticker run for the period"
     ],
-    "estimatedValue": "$10 – $200+, depending on grade",
-    "rawPriceUsd": "$10 – $200+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $1 – $10 on recent sold listings. Certified: about $50 in PSA 8 and about $214 in PSA 9.",
+    "rawPriceUsd": "$1 – $10",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8",
+        "price": "$50"
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$214"
+      }
+    ],
     "exampleCert": null,
     "image": "ripley.jpg",
     "sources": [
@@ -3863,11 +3918,24 @@
       "The factory set included an Arnold Schwarzenegger hologram",
       "By the time he reached cardboard the character had been rewritten from villain to protector"
     ],
-    "estimatedValue": "$2 – $60+, common except in high grade",
-    "rawPriceUsd": "$2 – $60+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
-    "exampleCert": null,
+    "estimatedValue": "Raw copies sell at $1 – $6 on recent sold listings. Certified: about $14 in PSA 6 and about $150 in PSA 10.",
+    "rawPriceUsd": "$1 – $6",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 6",
+        "price": "$14"
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$150"
+      }
+    ],
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "NM 7",
+      "cert": "110280393"
+    },
     "image": "terminator.jpg",
     "sources": [
       {
@@ -3899,10 +3967,15 @@
       "The sticker is captioned 'Do The Freddy' — the point where the character turned into merchandise",
       "Four years after the first film, and sold with bubble gum despite the source material"
     ],
-    "estimatedValue": "$10 – $150+, higher for graded stickers",
-    "rawPriceUsd": "$10 – $150+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $6 – $15 on recent sold listings. Certified: about $75 in PSA 9.",
+    "rawPriceUsd": "$6 – $15",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9",
+        "price": "$75"
+      }
+    ],
     "exampleCert": null,
     "image": "freddy.jpg",
     "sources": [
@@ -3988,10 +4061,15 @@
       "Topps sold two hard R-rated films to children in packs of bubble gum",
       "The factory set added 22 behind-the-scenes cards that never appeared in packs"
     ],
-    "estimatedValue": "$2 – $60+, common except in top grade",
-    "rawPriceUsd": "$2 – $60+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $1 – $4 on recent sold listings. Certified: about $25 in PSA.",
+    "rawPriceUsd": "$1 – $4",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA",
+        "price": "$25"
+      }
+    ],
     "exampleCert": null,
     "image": "robocop.jpg",
     "sources": [
@@ -4018,10 +4096,19 @@
       "Sylvester Stallone wrote the original screenplay in a matter of days",
       "The copyright line on the card is United Artists, not Topps alone"
     ],
-    "estimatedValue": "$2 – $80+, depending on grade",
-    "rawPriceUsd": "$2 – $80+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Raw copies sell at $1 – $4 on recent sold listings. Certified: about $25 in SGC 7 (sticker) and about $185 in Graded #1.",
+    "rawPriceUsd": "$1 – $4",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "SGC 7 (sticker)",
+        "price": "$25"
+      },
+      {
+        "grade": "Graded #1",
+        "price": "$185"
+      }
+    ],
     "exampleCert": null,
     "image": "rocky.jpg",
     "noCardReason": "",
@@ -4288,7 +4375,11 @@
     "rawPriceUsd": "$15 – $40",
     "priceBasis": "mixed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "EX-MT 6",
+      "cert": "142369727"
+    },
     "image": "lisa.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4432,11 +4523,20 @@
       "Buzz was called Lunar Larry through most of development; the final name honours astronaut Buzz Aldrin, who has since been photographed holding the toy.",
       "Tim Allen got the part after Billy Crystal turned it down — a decision Crystal has called the biggest mistake of his career."
     ],
-    "estimatedValue": "$40–90 graded",
-    "rawPriceUsd": "$40 – $90",
-    "priceBasis": "graded",
-    "gradedPrices": [],
-    "exampleCert": null,
+    "estimatedValue": "Raw copies sell at $2 – $20 on recent sold listings. Certified: about $200 in PSA 9 (Slinky #33).",
+    "rawPriceUsd": "$2 – $20",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9 (Slinky #33)",
+        "price": "$200"
+      }
+    ],
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "MINT 9",
+      "cert": "130256010"
+    },
     "image": "buzz.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -4588,11 +4688,24 @@
       "Boba Fett speaks four lines in The Empire Strikes Back and is on screen for barely six minutes, which did nothing to stop him becoming the film’s breakout character.",
       "The armour was originally designed all-white for a Super Trooper concept; it was repainted in mismatched greens and reds specifically to look scavenged."
     ],
-    "estimatedValue": "$50–150 graded",
-    "rawPriceUsd": "$50 – $150",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
-    "exampleCert": null,
+    "estimatedValue": "Raw copies sell at $20 – $40 on recent sold listings. Certified: about $50 in CGC 5 and about $195 in PSA 6.",
+    "rawPriceUsd": "$20 – $40",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "CGC 5",
+        "price": "$50"
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$195"
+      }
+    ],
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "EX 5",
+      "cert": "66147061"
+    },
     "image": "bobafett.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -6479,10 +6592,15 @@
       "Created in 1941 by Joe Simon and Jack Kirby as Captain America's first major enemy",
       "Thirty-five years passed between his comics debut and this, his first card"
     ],
-    "estimatedValue": "$40–110 raw",
-    "rawPriceUsd": "$40 – $110",
+    "estimatedValue": "Raw copies sell at $10 – $25 on recent sold listings. Certified: about $350 in PSA (set break).",
+    "rawPriceUsd": "$10 – $25",
     "priceBasis": "raw",
-    "gradedPrices": [],
+    "gradedPrices": [
+      {
+        "grade": "PSA (set break)",
+        "price": "$350"
+      }
+    ],
     "exampleCert": null,
     "image": "red-skull-1976-topps.jpg",
     "sources": [
