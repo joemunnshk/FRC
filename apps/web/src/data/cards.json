@@ -270,10 +270,21 @@
       "The 120-card set paired jokes and trivia on the back — an early example of \"edutainment\" card design",
       "A cornerstone of the vintage non-sports card hobby; well-preserved examples are genuinely rare"
     ],
-    "estimatedValue": "Re-pointed from #75 to #1. The $275 - $750 band previously shown here was measured on #75, a mid-set card, so it has been withdrawn rather than carried over to a card it was never a price for. Card #1 needs its own comps. Separately, whether any 1935 card is Mickey's first is itself disputed: Pre-War Cards treats a 1931 Wills Cinema Stars card as his rookie, which would move this entry to a different set entirely.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "Re-pointed from #75 to #1. The $275 - $750 band previously shown here was measured on #75, a mid-set card, so it has been withdrawn rather than carried over to a card it was never a price for. Card #1 needs its own comps. Separately, whether any 1935 card is Mickey's first is itself disputed: Pre-War Cards treats a 1931 Wills Cinema Stars card as his rookie, which would move this entry to a different set entirely. Measured on this card: the middle half of ungraded sales falls between $2,450 and $9,000, median $6,000, from 4 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $700 to $10200.03. Certified, it runs about $8,500 in PSA 1 up to about $20,000 in PSA 2.",
+    "rawPriceUsd": "$2,450 – $9,000",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 1",
+        "price": "$8,500",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 2",
+        "price": "$20,000",
+        "sales": 1
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "3",
@@ -1037,10 +1048,31 @@
       "Disney put the collectible money into die-cast vehicles instead — billions of dollars of little metal cars",
       "The Topps Chrome #50 McQueen tops out at a Superfractor numbered 1/1, the only one in existence"
     ],
-    "estimatedValue": "Topps Chrome Disney 100 put Lightning McQueen on #95 in December 2023 — same maker, and carrying the same Orange Wave /25 and SuperFractor 1/1 parallels this entry cited as evidence for the 2025 card. The previous figure ($1 – $3) was for 2025 Topps Chrome Disney #50, Orange Wave, PSA 9 and has been withdrawn. The photograph still shows 2025 Topps Chrome Disney #50, Orange Wave, PSA 9.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "Topps Chrome Disney 100 put Lightning McQueen on #95 in December 2023 — same maker, and carrying the same Orange Wave /25 and SuperFractor 1/1 parallels this entry cited as evidence for the 2025 card. Measured on this card: the middle half of ungraded sales falls between $15 and $90, median $20, from 34 sold singles, with the full range running $6.50 to $1,664. Certified, it runs about $200 in PSA 4 up to about $1,050 in PSA 10.",
+    "rawPriceUsd": "$15 – $90",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 4",
+        "price": "$200",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$110",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$220",
+        "sales": 5
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$1,050",
+        "sales": 5
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "9",
@@ -1116,9 +1148,9 @@
       "Comic Ball is a genuine crossover — real MLB players sharing cards with cartoon characters",
       "Upper Deck ran several Comic Ball series through the early 1990s off the back of its success"
     ],
-    "estimatedValue": "The entry named no card; Bugs is #1 of the 16-card All Stars run. The Nolan Ryan crossover belongs to Comic Ball 2 (1991) — Comic Ball 1 contains no real player at all, which the researcher verified directly against the checklist. The previous figure ($1 – $9) was for the card formerly named here and has been withdrawn.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
+    "estimatedValue": "The entry named no card; Bugs is #1 of the 16-card All Stars run. The Nolan Ryan crossover belongs to Comic Ball 2 (1991) — Comic Ball 1 contains no real player at all, which the researcher verified directly against the checklist. Measured on this card: the middle half of ungraded sales falls between $1.50 and $9, median $2.50, from 7 sold singles, with the full range running Under $1 to $30.",
+    "rawPriceUsd": "$1.50 – $9",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "looneytunes.jpg",
@@ -1280,10 +1312,16 @@
       "Packs contained an actual playable element — scratch-off rub-off game cards",
       "Fleer moved fast: cards were on shelves the same year the arcade machine launched"
     ],
-    "estimatedValue": "Pac-Man’s first sticker in the set is #1. The set is also structured differently than this entry said: 54 stickers plus a separate 28-card rub-off series. The previous figure ($30 – $180) was for #37 ‘Here Comes Jaws!/Waka!’, PSA 8 and has been withdrawn; this card needs its own comps. The photograph still shows #37 ‘Here Comes Jaws!/Waka!’, PSA 8.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "Pac-Man’s first sticker in the set is #1. The set is also structured differently than this entry said: 54 stickers plus a separate 28-card rub-off series. Measured on this card: the middle half of ungraded sales falls between $130 and $425, median $220, from 32 sold singles, with the full range running $3.25 to $995. Certified, it runs about $150 in PSA 6 up to about $150 in PSA 6.",
+    "rawPriceUsd": "$130 – $425",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 6",
+        "price": "$150",
+        "sales": 1
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "8",
@@ -2937,10 +2975,31 @@
       "The Zelda cards are scratch-offs — you played a small game of Zelda on the card itself",
       "A launch fighter in Super Smash Bros. in 1999, ten years after this sticker"
     ],
-    "estimatedValue": "Link’s lowest-numbered card in the set is #12 ‘Win with Link’; he is also on #17. The sticker photographed here is titled only ‘The Legend of Zelda’, the same title as #5 and #10. The previous figure ($2 – $5) was for The Legend of Zelda game tip sticker #32, PSA 8 and has been withdrawn; this card needs its own comps. The photograph still shows The Legend of Zelda game tip sticker #32, PSA 8.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "Link’s lowest-numbered card in the set is #12 ‘Win with Link’; he is also on #17. The sticker photographed here is titled only ‘The Legend of Zelda’, the same title as #5 and #10. Measured on this card: the middle half of ungraded sales falls between $7 and $18, median $9, from 38 sold singles, with the full range running $2.02 to $28. Certified, it runs about $13 in PSA 6 up to about $1,600 in PSA 10.",
+    "rawPriceUsd": "$7 – $18",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 6",
+        "price": "$13",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$55",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$230",
+        "sales": 4
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$1,600",
+        "sales": 5
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "8",
@@ -3026,9 +3085,9 @@
       "The six-card foil Prism chase set fell about one in every eighteen packs",
       "Not a Nintendo character, but he joined Super Smash Bros. in 2007 — the most famous guest fighter in the series"
     ],
-    "estimatedValue": "The 33 base cards are all badniks - Sonic is on no base card. His lowest item in the set is sticker #1. The previous figure ($7 – $45) was for sticker #15 'Dude With A ‘Tude' and has been withdrawn rather than carried over to a card it was never a price for; this card needs its own comps. The photograph still shows sticker #15 'Dude With A ‘Tude', so the certification below belongs to that copy.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
+    "estimatedValue": "The 33 base cards are all badniks - Sonic is on no base card. His lowest item in the set is sticker #1. Measured on this card: the middle half of ungraded sales falls between $25 and $100, median $60, from 5 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $22.39 to $170.",
+    "rawPriceUsd": "$25 – $100",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": {
       "grader": "PSA",
@@ -3716,10 +3775,16 @@
       "A second caption on the card reads \"Let's break for a commercial\"",
       "In 1990 Homer was still the supporting character in what was very much Bart's show"
     ],
-    "estimatedValue": "Homer is on #5 and #8; #74 is roughly his seventieth card in the set. The previous figure ($3 – $80+) was for #74 and has been withdrawn rather than carried over to a card it was never a price for; this card needs its own comps. The photograph still shows #74, so the certification below belongs to that copy.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "Homer is on #5 and #8; #74 is roughly his seventieth card in the set. Measured on this card: the middle half of ungraded sales falls between $11 and $20, median $15, from 38 sold singles, with the full range running $1.25 to $41.97. Certified, it runs about $400 in PSA 9 up to about $400 in PSA 9.",
+    "rawPriceUsd": "$11 – $20",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9",
+        "price": "$400",
+        "sales": 3
+      }
+    ],
     "exampleCert": null,
     "image": "homer.jpg",
     "sources": [
@@ -3752,9 +3817,9 @@
       "The set was recalled over licensing and reached shops only in Ohio and Illinois",
       "That recall is why a 72-card set from a franchise this size is genuinely scarce"
     ],
-    "estimatedValue": "#1 shows Spock, so #4 is not his lowest card in the set. The previous figure ($10 – $25) was for #4 'Come In, Captain Kirk', PSA 6 and has been withdrawn. The photograph still shows #4 'Come In, Captain Kirk', PSA 6.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
+    "estimatedValue": "#1 shows Spock, so #4 is not his lowest card in the set. Measured on this card: the middle half of ungraded sales falls between $10 and $20, median $10, from 3 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $9.99 to $29.99.",
+    "rawPriceUsd": "$10 – $20",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": {
       "grader": "PSA",
@@ -4030,10 +4095,21 @@
       "Packs held ten cards, one sticker and a stick of gum",
       "Printed the year E.T. became the highest-grossing film ever made"
     ],
-    "estimatedValue": "The sticker photographed here is a crop of card #68, from a separate twelve-sticker run. The 87-card base run starts at #1, and #3 is a source-confirmed E.T. image; whether #1 or #2 show him is unresolved. The previous figure ($1 – $4) was for sticker #11, PSA 9 and has been withdrawn. The photograph still shows sticker #11, PSA 9.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "The sticker photographed here is a crop of card #68, from a separate twelve-sticker run. The 87-card base run starts at #1, and #3 is a source-confirmed E.T. image; whether #1 or #2 show him is unresolved. Measured on this card: the middle half of ungraded sales falls between $2 and $3, median $2.50, from 15 sold singles, with the full range running $1.09 to $15. Certified, it runs about $16 in PSA 6 up to about $180 in PSA 9.",
+    "rawPriceUsd": "$2 – $3",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 6",
+        "price": "$16",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$180",
+        "sales": 1
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "9",
@@ -4114,10 +4190,21 @@
       "Sigourney Weaver was almost unknown when the card was printed",
       "The set is 84 cards and 22 stickers, an unusually large sticker run for the period"
     ],
-    "estimatedValue": "Ripley's first card is #9. The previous figure ($1 – $10) was for #81 and has been withdrawn rather than carried over to a card it was never a price for; this card needs its own comps. The photograph still shows #81, so the certification below belongs to that copy.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "Ripley's first card is #9. Measured on this card: the middle half of ungraded sales falls between $8 and $13, median $10, from 9 sold singles, with the full range running $6.50 to $30.18. Certified, it runs about $150 in PSA 7 up to about $650 in PSA 8.",
+    "rawPriceUsd": "$8 – $13",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 7",
+        "price": "$150",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$650",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "ripley.jpg",
     "sources": [
