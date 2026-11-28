@@ -493,9 +493,9 @@
       "Almost unknown outside Japan, which is why the franchise is often assumed to have no cards at all",
       "Anpanman out-earns most household names on this list almost entirely through toddler merchandise"
     ],
-    "estimatedValue": "$5 – $60 per prism card; Western supply is thin",
-    "rawPriceUsd": "$5 – $60",
-    "priceBasis": "mixed",
+    "estimatedValue": "$5 – $60 per prism card; Western supply is thin No price is published here. eBay returns no sold listings for this release in English or in Japanese, and the band shown previously was written before any sale was checked. A Japanese marketplace such as Yahoo! Auctions or Mercari Japan is where this one would have to be measured.",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "anpanman.jpg",
@@ -1922,9 +1922,9 @@
       "Rilakkuma means 'relax bear' and has no story or cast, which makes a card set an odd fit",
       "Sourcing caveat: the card itself is documented only by Japanese marketplace listings — no checklist, catalogue or publisher page for it could be found, so treat the set details as provisional"
     ],
-    "estimatedValue": "Flagged: no 2003 San-X trading card set could be documented; the earliest verified Rilakkuma cards are a Bandai Card Wafer release. $2 – $25 per card; sealed Japanese packs go for more",
-    "rawPriceUsd": "$2 – $25",
-    "priceBasis": "mixed",
+    "estimatedValue": "Flagged: no 2003 San-X trading card set could be documented; the earliest verified Rilakkuma cards are a Bandai Card Wafer release. $2 – $25 per card; sealed Japanese packs go for more No price is published here. eBay returns no sold listings for this release in English or in Japanese, and the band shown previously was written before any sale was checked. A Japanese marketplace such as Yahoo! Auctions or Mercari Japan is where this one would have to be measured.",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "rilakkuma.jpg",
@@ -1959,9 +1959,9 @@
       "Almost all of its ten-billion-dollar revenue is Japanese, and so is its card market",
       "The standalone Monster Strike Card Game, for up to four players, followed on 2 March 2018"
     ],
-    "estimatedValue": "$1 – $40 per card; sealed Japanese wafer packs carry a premium",
-    "rawPriceUsd": "$1 – $40",
-    "priceBasis": "mixed",
+    "estimatedValue": "$1 – $40 per card; sealed Japanese wafer packs carry a premium No price is published here. eBay returns no sold listings for this release in English or in Japanese, and the band shown previously was written before any sale was checked. A Japanese marketplace such as Yahoo! Auctions or Mercari Japan is where this one would have to be measured.",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "monsterstrike.jpg",
@@ -2092,9 +2092,9 @@
       "They use photographs of the physical model railway, years before the show went computer-animated",
       "Sourcing caveat: the card itself is documented only by Japanese marketplace listings — no checklist, catalogue or publisher page for it could be found, so treat the set details as provisional. Numbered Banpresto prism cards do turn up in Japanese auction listings, but no checklist for them exists"
     ],
-    "estimatedValue": "Flagged: the Banpresto prism set is absent from the Thomas wiki’s own Banpresto page; the earliest documented Thomas cards are a 1998 ERTL release. $5 – $60 per prism card; Japanese sets are scarce in the West",
-    "rawPriceUsd": "$5 – $60",
-    "priceBasis": "mixed",
+    "estimatedValue": "Flagged: the Banpresto prism set is absent from the Thomas wiki’s own Banpresto page; the earliest documented Thomas cards are a 1998 ERTL release. $5 – $60 per prism card; Japanese sets are scarce in the West No price is published here. eBay returns no sold listings for this release in English or in Japanese, and the band shown previously was written before any sale was checked. A Japanese marketplace such as Yahoo! Auctions or Mercari Japan is where this one would have to be measured.",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "thomas.jpg",
@@ -2721,10 +2721,21 @@
       "Launched in China months ahead of the global release, an unusual order of operations",
       "Posted one of the biggest debut quarters of any new TCG on record"
     ],
-    "estimatedValue": "Flagged: the “launched globally on 31 October 2025” claim is wrong — China came first in August 2025 and other regions follow in 2026. The card number OGN 034/298 is correct. $1 – $400; chase champion cards drive the early market",
-    "rawPriceUsd": "$1 – $400",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Flagged: the “launched globally on 31 October 2025” claim is wrong — China came first in August 2025 and other regions follow in 2026. The card number OGN 034/298 is correct. $1 – $400; chase champion cards drive the early market Measured on this card: the middle half of ungraded sales falls between $2.50 and $25, median $4.50, from 8 sold singles, with the full range running Under $1 to $70. Certified, it runs about $50 in PSA 9 up to about $160 in PSA 10.",
+    "rawPriceUsd": "$2.50 – $25",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9",
+        "price": "$50",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$160",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "riftbound.jpg",
     "sources": [
@@ -2828,9 +2839,9 @@
       "Has now printed cards for several hundred different anime and game licences",
       "The name means \"White Black\" in German — the two halves of its colour system"
     ],
-    "estimatedValue": "Weiss Schwarz launched in Japan in March 2008, not 2007 as this entry previously said. $1 – $500; signed and SP-rarity character cards go far higher",
-    "rawPriceUsd": "$1 – $500",
-    "priceBasis": "mixed",
+    "estimatedValue": "Weiss Schwarz launched in Japan in March 2008, not 2007 as this entry previously said. $1 – $500; signed and SP-rarity character cards go far higher Measured on this card: the middle half of ungraded sales falls between $4.50 and $35, median $20, from 4 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $3.99 to $38.",
+    "rawPriceUsd": "$4.50 – $35",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "weissschwarz.jpg",
@@ -2937,8 +2948,8 @@
       "Reached the worldwide top ten within its first year on sale",
       "Its Hyperspace and Showcase parallel treatments drive most of the secondary market"
     ],
-    "estimatedValue": "Darth Vader's own first card is 1977 Topps Star Wars Series 1 #7; this entry is here as Star Wars: Unlimited's landmark card, not as his debut. $1 – $700; Showcase leaders are the chase cards Measured on this card: the middle half of ungraded sales falls between $18 and $160, median $35, from 16 sold singles, with the full range running $1.49 to $290.",
-    "rawPriceUsd": "$18 – $160",
+    "estimatedValue": "Darth Vader's own first card is 1977 Topps Star Wars Series 1 #7; this entry is here as Star Wars: Unlimited's landmark card, not as his debut. $1 – $700; Showcase leaders are the chase cards Measured on this card: the middle half of ungraded sales falls between $13 and $150, median $35, from 14 sold singles, with the full range running $1.49 to $274.95.",
+    "rawPriceUsd": "$13 – $150",
     "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
@@ -2972,8 +2983,8 @@
       "Played across a spatial board rather than an abstract battlefield, unusual for a TCG",
       "A tiny Alpha print run meant singles were trading for hundreds within weeks of release"
     ],
-    "estimatedValue": "$5 – $2,000; Alpha foils reach four figures Measured on this card: the middle half of ungraded sales falls between $15 and $95, median $20, from 5 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $1.94 to $99.99.",
-    "rawPriceUsd": "$15 – $95",
+    "estimatedValue": "$5 – $2,000; Alpha foils reach four figures Measured on this card: the middle half of ungraded sales falls between $8 and $17, median $15, from 3 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $1.94 to $19.96.",
+    "rawPriceUsd": "$8 – $17",
     "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
@@ -6089,8 +6100,8 @@
       "Beat the One Piece Card Game, which collectors often mistake for his rookie card, by 23 years",
       "Sold from Carddass vending machines for 20 yen a card, which is why high grades are scarce"
     ],
-    "estimatedValue": "$150–400 raw, into the low thousands for the prism version in PSA 9 or 10 Measured on this card: the middle half of ungraded sales falls between $575 and $2,650, median $1,350, from 14 sold singles, with the full range running $79.90 to $4,800. Certified, it runs about $1,550 in PSA 1 up to about $13,000 in PSA 9.",
-    "rawPriceUsd": "$575 – $2,650",
+    "estimatedValue": "$150–400 raw, into the low thousands for the prism version in PSA 9 or 10 Measured on this card: the middle half of ungraded sales falls between $625 and $2,450, median $1,300, from 15 sold singles, with the full range running $79.90 to $4,800. Certified, it runs about $1,550 in PSA 1 up to about $13,000 in PSA 9.",
+    "rawPriceUsd": "$625 – $2,450",
     "priceBasis": "raw",
     "gradedPrices": [
       {
@@ -6131,7 +6142,7 @@
       {
         "grade": "PSA 8",
         "price": "$5,500",
-        "sales": 14
+        "sales": 13
       },
       {
         "grade": "PSA 9",
@@ -6254,7 +6265,7 @@
       "Three Nami cards shipped in the first set: C09, C10 and C11",
       "The quote translates as \"You're strong — want to team up with me?\""
     ],
-    "estimatedValue": "$50–150 raw, $500+ in PSA 10 Measured on this card: the middle half of ungraded sales falls between $75 and $200, median $110, from 28 sold singles, with the full range running $10 to $320. Certified, it runs about $190 in PSA 6 up to about $3,650 in PSA 10.",
+    "estimatedValue": "$50–150 raw, $500+ in PSA 10 Measured on this card: the middle half of ungraded sales falls between $75 and $200, median $110, from 27 sold singles, with the full range running $10 to $320. Certified, it runs about $190 in PSA 6 up to about $3,650 in PSA 10.",
     "rawPriceUsd": "$75 – $200",
     "priceBasis": "raw",
     "gradedPrices": [
@@ -6270,8 +6281,8 @@
       },
       {
         "grade": "PSA 9",
-        "price": "$700",
-        "sales": 11
+        "price": "$725",
+        "sales": 10
       },
       {
         "grade": "PSA 10",
@@ -9538,9 +9549,9 @@
       "The whole set is unnumbered, so there is no \"#1 Steve\" — part of why graded copies barely exist",
       "Steve had no official name for years: Notch jokingly called him \"Mr. Minecraft\", then tweeted the name with a question mark, and Pocket Edition Lite called him \"Stevie\""
     ],
-    "estimatedValue": "$3 – $12 raw; $10 – $25 for the foil parallel",
-    "rawPriceUsd": "$3 – $10",
-    "priceBasis": "mixed",
+    "estimatedValue": "$3 – $12 raw; $10 – $25 for the foil parallel Measured on this card: the middle half of ungraded sales falls between $180 and $375, median $240, from 21 sold singles, with the full range running $22.93 to $599.",
+    "rawPriceUsd": "$180 – $375",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "steve.jpg",
