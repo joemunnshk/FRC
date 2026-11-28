@@ -2279,7 +2279,7 @@
     "franchise": "Superman",
     "character": "Superman",
     "year": 1940,
-    "setInfo": "Gum, Inc. Superman (R145) #1 — the set's first card, 72 cards; shown: #36 'Facing the Firing Squad', SGC 4.5",
+    "setInfo": "Gum, Inc. Superman (R145) #1 — the set's first card, 72 cards",
     "description": "Superman first appeared in Action Comics #1 in 1938, and Gum, Inc. — the same Philadelphia company behind the 1935 Mickey Mouse cards — put him on cardboard just two years later. The 1940 Superman set is one of the earliest superhero card releases in existence, and card #1 is among the most valuable non-sports cards ever printed.",
     "funFacts": [
       "A Gum, Inc. Superman #1 has sold at auction for $36,250",
@@ -2287,7 +2287,7 @@
       "Predates the first Batman cards by twenty-six years despite the characters debuting a year apart",
       "Dating is not settled: PSA and most guides call it the 1940 set, while the Trading Card Database catalogues it as 1941"
     ],
-    "estimatedValue": "Card #1 of the 1940 Gum, Inc. set is Superman's rookie, and sellers label it exactly that. It almost never trades: a single raw example sold at $1,500, a PSA 1 at $15,600 and a PSA 1.5 at $25,000 — each of those rungs rests on one sale, so treat them as the only evidence there is rather than a market. The copy photographed here is #36 from the same set, a common card that sells in the low hundreds; it stands in for the set's look, not for the rookie's price.",
+    "estimatedValue": "Card #1 of the 1940 Gum, Inc. set is Superman's rookie, and sellers label it exactly that. It almost never trades: a single raw example sold at $1,500, a PSA 1 at $15,600 and a PSA 1.5 at $25,000 — each of those rungs rests on one sale, so treat them as the only evidence there is rather than a market. The photograph is now #1 itself, a PSA 4.",
     "rawPriceUsd": "$1,500",
     "priceBasis": "raw",
     "gradedPrices": [
@@ -2303,11 +2303,11 @@
       }
     ],
     "exampleCert": {
-      "grader": "SGC",
-      "grade": "4.5",
-      "cert": "8643934"
+      "grader": "PSA",
+      "grade": "4",
+      "cert": "19455369"
     },
-    "image": "superman.jpg",
+    "image": "superman-1940-no1.jpg",
     "noCardReason": "",
     "mediaRank": 49,
     "revenueBillions": 8.2,
