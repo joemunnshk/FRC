@@ -7513,10 +7513,21 @@
       "Stamped © 1988 Nintendo even though the set is catalogued as 1989",
       "The scene is World 8, the Dark Land, the last world of Super Mario Bros. 3"
     ],
-    "estimatedValue": "$40–120 raw, $250+ in PSA 9",
-    "rawPriceUsd": "$40 – $120",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$40–120 raw, $250+ in PSA 9 Only 1 ungraded sale could be found, so the figure shown is a certified one: $300 in PSA 7, from 4 sales. The ungraded sale was at $500. Certified, it runs about $65 in PSA 6 up to about $300 in PSA 7.",
+    "rawPriceUsd": "$300",
+    "priceBasis": "graded",
+    "gradedPrices": [
+      {
+        "grade": "PSA 6",
+        "price": "$65",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$300",
+        "sales": 4
+      }
+    ],
     "exampleCert": null,
     "image": "luigi-1989-carddass.jpg",
     "sources": [
@@ -8831,9 +8842,9 @@
       "Panini reissued its own 2003 Finding Nemo album in 2012 with identical sticker images but different backs — the reprint trap for this character",
       "The European album localises the names, so Marlin becomes \"Marin\" and Pearl becomes \"Perle\" and the checklists never string-match the US ones"
     ],
-    "estimatedValue": "$1 – $5 raw; $30 – $70 in PSA 9 or 10",
-    "rawPriceUsd": "$1 – $5",
-    "priceBasis": "mixed",
+    "estimatedValue": "$1 – $5 raw; $30 – $70 in PSA 9 or 10 No card-level price is published here because none exists: sold listings for the 2003 Artbox FilmCardz release do not cite card numbers, so the only measurable figure would be the whole set’s spread — which is the error this database has spent its corrections undoing.",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "nemo.jpg",
@@ -8911,9 +8922,9 @@
       "Both 1997 lines were reprinted, so Japanese sellers grade them by 初版 — first print — and later runs trade for a fraction",
       "PSA confusingly slabs the companion vending set as \"1996 Final Fantasy VII Carddass Vending\", a year before the game existed"
     ],
-    "estimatedValue": "$5 – $200+ depending on print, parallel and grade",
-    "rawPriceUsd": "$5 – $200+",
-    "priceBasis": "mixed",
+    "estimatedValue": "$5 – $200+ depending on print, parallel and grade No card-level price is published here because none exists: sold listings for the 1997 Carddass Masters release do not cite card numbers, so the only measurable figure would be the whole set’s spread — which is the error this database has spent its corrections undoing.",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "gradedPrices": [],
     "exampleCert": {
       "grader": "PSA",
@@ -10045,9 +10056,9 @@
       "The scarcity sits in the second half of the checklist — cards 19 to 36 were West-Coast-only and are much harder than the first eighteen",
       "Fleer's Woody tattoo gum, often assumed to be vintage, is 1968"
     ],
-    "estimatedValue": "Low tens of dollars for a collector-grade single, with series-two cards at a real premium. Sold comps are hard to reach, so treat this as provisional",
-    "rawPriceUsd": "$10 – $40",
-    "priceBasis": "mixed",
+    "estimatedValue": "Low tens of dollars for a collector-grade single, with series-two cards at a real premium. Sold comps are hard to reach, so treat this as provisional No card-level price is published here because none exists: sold listings for the 1953 Carnation release do not cite card numbers, so the only measurable figure would be the whole set’s spread — which is the error this database has spent its corrections undoing.",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "woody-woodpecker.jpg",
@@ -10306,10 +10317,21 @@
       "The sticker that bears his name is a crop of this card's image, so his first solo billing in the set is a cut-out of a photograph he shares",
       "Series 1 is the famous blue-bordered run; Topps worked through five colours in 1977 and 1978, and the card backs assemble into two jigsaw puzzles"
     ],
-    "estimatedValue": "$5 – $20 raw depending on centring; $60 – $200 in PSA 8 or better",
-    "rawPriceUsd": "$5 – $20",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$5 – $20 raw depending on centring; $60 – $200 in PSA 8 or better Measured on this card: the middle half of ungraded sales falls between $2.50 and $6, median $5, from 31 sold singles, with the full range running Under $1 to $72.45. Certified, it runs about $20 in PSA 4 up to about $90 in PSA 7.",
+    "rawPriceUsd": "$2.50 – $6",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 4",
+        "price": "$20",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$90",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "chewbacca.jpg",
     "noCardReason": "",
@@ -10464,10 +10486,26 @@
       "The grade gap is steep for a card this recent: raw copies change hands for a dollar or two while a PSA 9 has sold around $195",
       "Her comic debut followed within the same year — The Batman Adventures #12, September 1993 — and Mad Love came in February 1994"
     ],
-    "estimatedValue": "$1 – $20 raw; about $63 in PSA 8 and $190 – $220 in PSA 9",
-    "rawPriceUsd": "$1 – $20",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$1 – $20 raw; about $63 in PSA 8 and $190 – $220 in PSA 9 Measured on this card: the middle half of ungraded sales falls between $17 and $50, median $30, from 20 sold singles, with the full range running $5 to $58.33. Certified, it runs about $180 in PSA 7 up to about $190 in PSA 9.",
+    "rawPriceUsd": "$17 – $50",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 7",
+        "price": "$180",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$75",
+        "sales": 5
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$190",
+        "sales": 6
+      }
+    ],
     "exampleCert": null,
     "image": "harley-quinn.jpg",
     "noCardReason": "",
