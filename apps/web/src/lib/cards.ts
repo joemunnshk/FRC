@@ -42,17 +42,29 @@ export interface GradedPrice {
   sales?: number
 }
 
+/**
+ * The graders actually represented in this collection. Most slabs are PSA, but
+ * the photographs include CGC, SGC, BGS, MGC, MVP and GMA holders, and naming
+ * the real one is more useful than pretending every slab is a PSA.
+ */
+export type Grader = 'PSA' | 'CGC' | 'SGC' | 'BGS' | 'MGC' | 'MVP' | 'GMA'
+
 export interface ExampleCert {
-  grader: 'PSA' | 'CGC' | 'SGC'
+  grader: Grader
   grade: string
   cert: string
 }
 
-/** Each grader publishes a cert lookup; the number on the label is the key. */
-export const CERT_LOOKUP: Record<ExampleCert['grader'], (cert: string) => string> = {
+/**
+ * Graders that publish a cert lookup keyed on the number printed on the label.
+ * The smaller companies have no public lookup, so their certs are shown as
+ * plain text rather than as a link that would go nowhere.
+ */
+export const CERT_LOOKUP: Partial<Record<Grader, (cert: string) => string>> = {
   PSA: (c) => `https://www.psacard.com/cert/${c}`,
   CGC: (c) => `https://www.cgccards.com/certlookup/${c}/`,
   SGC: (c) => `https://gosgc.com/cert/${c}`,
+  BGS: (c) => `https://www.beckett.com/grading/card-lookup?certnum=${c}`,
 }
 
 export interface Card {

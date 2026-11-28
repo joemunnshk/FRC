@@ -140,13 +140,18 @@ function CardDetailPage() {
               {card.exampleCert && (
                 <p className="cert-line">
                   The copy shown is {card.exampleCert.grader} {card.exampleCert.grade}, cert{' '}
-                  <a
-                    href={CERT_LOOKUP[card.exampleCert.grader](card.exampleCert.cert)}
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    {card.exampleCert.cert}
-                  </a>
+                  {/* Only the graders with a public lookup get a link. */}
+                  {CERT_LOOKUP[card.exampleCert.grader] ? (
+                    <a
+                      href={CERT_LOOKUP[card.exampleCert.grader]!(card.exampleCert.cert)}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      {card.exampleCert.cert}
+                    </a>
+                  ) : (
+                    card.exampleCert.cert
+                  )}
                   .
                 </p>
               )}
