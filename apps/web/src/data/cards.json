@@ -884,11 +884,6 @@
         "grade": "PSA 6",
         "price": "$5,350",
         "sales": 2
-      },
-      {
-        "grade": "PSA 7",
-        "price": "$2,375",
-        "sales": 1
       }
     ],
     "exampleCert": {
@@ -1063,11 +1058,6 @@
     "rawPriceUsd": "$15 – $90",
     "priceBasis": "raw",
     "gradedPrices": [
-      {
-        "grade": "PSA 4",
-        "price": "$200",
-        "sales": 1
-      },
       {
         "grade": "PSA 8",
         "price": "$110",
@@ -2760,14 +2750,14 @@
     "franchise": "The Lord of the Rings TCG",
     "character": "Aragorn",
     "year": 2001,
-    "setInfo": "Iron Crown Middle-earth CCG: The Wizards TW009 'Aragorn II' (1995) — shown: 2001 Decipher Fellowship of the Ring 1R89 'Aragorn, Ranger of the North', BGS 9.5",
+    "setInfo": "Decipher The Lord of the Rings TCG: Fellowship of the Ring 1R89 'Aragorn, Ranger of the North' (foil)",
     "description": "The card pictured here is 2001 Decipher Fellowship of the Ring 1R89 'Aragorn, Ranger of the North', BGS 9.5, not the card this entry now indexes; the description below is of the copy photographed. Decipher launched The Lord of the Rings TCG in November 2001 alongside the first film, with a 365-card Fellowship of the Ring set. It was not the first Middle-earth card game — Iron Crown's MECCG beat it by six years and appears in the media tab — but it was the first built on the film licence, and it became far the bigger seller of the two.",
     "funFacts": [
       "Not the first Middle-earth card game — Iron Crown's 1995 MECCG came first",
       "Decipher had already done the same trick with Star Wars in 1995",
       "Won the Origins Award for best trading card game of its year"
     ],
-    "estimatedValue": "Aragorn had a card in Iron Crown's Middle-earth CCG six years earlier. The entry even conceded MECCG came first and then claimed the 2001 card as his debut. The previous figure ($1 – $150) was for 2001 Decipher Fellowship of the Ring 1R89 'Aragorn, Ranger of the North', BGS 9.5 and has been withdrawn. The photograph still shows 2001 Decipher Fellowship of the Ring 1R89 'Aragorn, Ranger of the North', BGS 9.5. No card-level price is published here because none exists: the 1995 Middle-earth CCG market on eBay is almost entirely sealed product, complete sets and ‘you pick’ lots, and sellers rarely cite a card number. Measuring the set instead would reproduce exactly the error this database has spent its corrections undoing.",
+    "estimatedValue": "Aragorn's own first card is Iron Crown's Middle-earth CCG TW009 (1995), which has its own entry here; this one is the Lord of the Rings TCG's landmark card, not his debut. The entry even conceded MECCG came first and then claimed the 2001 card as his debut. The previous figure ($1 – $150) was for 2001 Decipher Fellowship of the Ring 1R89 'Aragorn, Ranger of the North', BGS 9.5 and has been withdrawn. The photograph still shows 2001 Decipher Fellowship of the Ring 1R89 'Aragorn, Ranger of the North', BGS 9.5. No card-level price is published here because none exists: the 1995 Middle-earth CCG market on eBay is almost entirely sealed product, complete sets and ‘you pick’ lots, and sellers rarely cite a card number. Measuring the set instead would reproduce exactly the error this database has spent its corrections undoing.",
     "rawPriceUsd": "—",
     "priceBasis": "none",
     "gradedPrices": [],
@@ -2905,11 +2895,6 @@
     "rawPriceUsd": "$4 – $80",
     "priceBasis": "raw",
     "gradedPrices": [
-      {
-        "grade": "PSA 8",
-        "price": "$975",
-        "sales": 1
-      },
       {
         "grade": "PSA 9",
         "price": "$350",
@@ -9705,7 +9690,7 @@
       "Its partner #8b is Blasted Billy, a completely different illustration — Series 1 predates the later convention of giving one piece of art two names",
       "A PSA 10 has reached roughly $7,000, which for a 1985 sticker sold in wax packs to schoolchildren is a remarkable afterlife"
     ],
-    "estimatedValue": "Flagged: the a/b fun fact is backwards - #8b Blasted Billy is the same John Pound art under a different name, and the a/b convention ran from Series 1. $25 raw in VG, about $200 raw in NM; $450 – $550 in PSA 8 and around $7,000 in PSA 10 Measured on this card: the middle half of ungraded sales falls between $70 and $130, median $100, from 30 sold singles, with the full range running $8 to $204.35. Certified, it runs about $150 in PSA 2 up to about $220 in PSA 9.",
+    "estimatedValue": "Flagged: the a/b fun fact is backwards - #8b Blasted Billy is the same John Pound art under a different name, and the a/b convention ran from Series 1. $25 raw in VG, about $200 raw in NM; $450 – $550 in PSA 8 and around $7,000 in PSA 10 Measured on this card: the middle half of ungraded sales falls between $70 and $130, median $100, from 30 sold singles, with the full range running $8 to $204.35. Certified, it runs about $150 in PSA 2 up to about $220 in PSA 9. The certified ladder here does not climb: PSA 8 at $575 (6 sales) above PSA 9 at $220 (2 sales). Both figures rest on real samples, so this is left as found rather than tidied away - it may mean the two are for different variants of the card.",
     "rawPriceUsd": "$70 – $130",
     "priceBasis": "raw",
     "gradedPrices": [
@@ -10774,11 +10759,6 @@
     "rawPriceUsd": "$17 – $50",
     "priceBasis": "raw",
     "gradedPrices": [
-      {
-        "grade": "PSA 7",
-        "price": "$180",
-        "sales": 1
-      },
       {
         "grade": "PSA 8",
         "price": "$75",

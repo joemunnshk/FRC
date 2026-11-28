@@ -103,9 +103,14 @@ for (const c of cards) {
   // a reprint, a dating dispute, an earlier related card — so only flag years
   // that carry none of those markers. (It also used to match card stats: a
   // Beyblade's "defence 2000" is not a year.)
-  const CONTEXT = /\u00a9|\(c\)|&copy;|TM|reprint|earlier|predat|labels the set|catalogues it|attack|defen[cs]e|\/\s*$/i
-  const yrs = [...String(c.setInfo).matchAll(/(.{0,28})\b((?:18|19|20)\d\d)\b/g)]
-    .filter((m) => !CONTEXT.test(m[1]))
+  const CONTEXT = /\u00a9|\(c\)|&copy;|TM|reprint|earlier|predat|labels the set|catalogues it|attack|defen[cs]e|shows him|shows her|\/\s*$/i
+  // Anything after "shown:" describes the PHOTOGRAPH, which is often a
+  // different card from a different year. That is disclosure, not disagreement.
+  // Check both sides of the year: "the 1982 set shows him earlier" puts the
+  // qualifying word after the date, not before it.
+  const yearHead = String(c.setInfo).split(/shown:/i)[0]
+  const yrs = [...yearHead.matchAll(/(.{0,40})\b((?:18|19|20)\d\d)\b(.{0,40})/g)]
+    .filter((m) => !CONTEXT.test(m[1]) && !CONTEXT.test(m[3]))
     .map((m) => +m[2])
   if (yrs.length && !yrs.includes(c.year)) {
     add('G. year disagrees with setInfo', `${id} — year ${c.year}, setInfo says ${[...new Set(yrs)].join('/')}`)
@@ -116,11 +121,24 @@ for (const c of cards) {
 }
 
 // ---- set-level ----
+// Sharing a photograph is correct when both entries name the same card - Mickey
+// and Pluto are both on 1935 Gum, Inc. #1, so one picture serves both.
+const sameCard = (ids) => {
+  const keys = ids.map((id) => {
+    const c = cards.find((x) => x.id === id)
+    const head = c.setInfo.split(/shown:/i)[0]
+    return (head.match(/#\s?([A-Za-z0-9\-\/]+)/) || [])[1] || id
+  })
+  return new Set(keys).size === 1
+}
 Object.entries(imgs).forEach(([f, who]) => {
-  if (who.length > 1) add('B. image shared by several cards', `${f} — ${who.join(', ')}`)
+  if (who.length > 1 && !sameCard(who)) add('B. image shared by cards that are not the same card', `${f} — ${who.join(', ')}`)
 })
 const used = new Set(cards.map((c) => c.image).filter(Boolean))
-;[...onDisk].filter((f) => /\.(jpg|jpeg|png|webp|avif)$/i.test(f) && !used.has(f))
+// Kept on purpose: the photographs an entry used before it was re-pointed.
+// They are the evidence for what the entry used to claim, so they stay.
+const KEPT = new Set(['mickey.jpg', 'pluto.jpg'])
+;[...onDisk].filter((f) => /\.(jpg|jpeg|png|webp|avif)$/i.test(f) && !used.has(f) && !KEPT.has(f))
   .forEach((f) => add('B. orphan image on disk', f))
 
 const ranks = cards.filter((c) => c.mediaRank !== null).map((c) => c.mediaRank)
