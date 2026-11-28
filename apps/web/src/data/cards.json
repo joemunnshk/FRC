@@ -483,17 +483,34 @@
       "Shares its set with Spider-Man and Captain America — all three debut in the same 66 cards",
       "Every MCU hero already had decades of card history before the film series existed"
     ],
-    "estimatedValue": "Raw Iron Man cards from the #12 – #22 run sell at $10 – $34, which makes this one of the most affordable 1966 Donruss heroes. Certified: about $175 for a PSA of #16, while a high-grade #20 has reached $1,999.",
-    "rawPriceUsd": "$10 – $34",
+    "estimatedValue": "Measured on card #12 alone, not on the character's whole run in the set. The middle half of ungraded sales falls between $170 and $400, from 37 sold listings; beaten copies go lower and sharp ones higher. Certified, it climbs steeply: about $1,575 in PSA 3 to about $29,916 in PSA 9. A PSA 9 has reached $29,916 — the highest price recorded for any 1966 Donruss card. Sellers' own condition words are no guide here — copies described as damaged have sold for more than copies described as near mint.",
+    "rawPriceUsd": "$170 – $400",
     "priceBasis": "raw",
     "gradedPrices": [
       {
-        "grade": "PSA (#16)",
-        "price": "$175"
+        "grade": "PSA 3",
+        "price": "$1,575",
+        "sales": 1
       },
       {
-        "grade": "PSA (#20)",
-        "price": "$1,999"
+        "grade": "PSA 4",
+        "price": "$650",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 5",
+        "price": "$1,025",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$1,100",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$29,916",
+        "sales": 1
       }
     ],
     "exampleCert": null,
@@ -3049,17 +3066,34 @@
       "Shares a set with Captain America, Iron Man, Daredevil, Spider-Man and Thor",
       "Donruss lifted real comic panels and swapped the dialogue for gags"
     ],
-    "estimatedValue": "Raw #45, the first card of the Hulk run, sells at $160 – $210. Other numbers in the run are much cheaper, at $22 – $50. A PSA 6 of #46 has sold at about $400.",
-    "rawPriceUsd": "$160 – $210",
+    "estimatedValue": "Measured on card #45 alone, not on the character's whole run in the set. The middle half of ungraded sales falls between $200 and $375, from 29 sold listings; beaten copies go lower and sharp ones higher. Certified, it climbs steeply: about $1,463 in PSA 4 to about $6,000 in PSA 8. Sellers' own condition words are no guide here — copies described as damaged have sold for more than copies described as near mint.",
+    "rawPriceUsd": "$200 – $375",
     "priceBasis": "raw",
     "gradedPrices": [
       {
-        "grade": "PSA 6 (#46)",
-        "price": "$400"
+        "grade": "PSA 4",
+        "price": "$1,463",
+        "sales": 2
       },
       {
-        "grade": "PSA (#50)",
-        "price": "$306"
+        "grade": "PSA 5",
+        "price": "$2,349",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$1,650",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$1,525",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$6,000",
+        "sales": 1
       }
     ],
     "exampleCert": {
@@ -3102,17 +3136,39 @@
       "One of only six Marvel heroes given a block of cards in 1966",
       "The original panel art is buried under a joke about hiding the soap"
     ],
-    "estimatedValue": "Raw Thor cards sell at $20 – $60, with #56 — the first of the run — at the top. Certified: about $235 for a PSA of #59 and $450 for a PSA 4 of #56.",
-    "rawPriceUsd": "$20 – $60",
+    "estimatedValue": "Measured on card #56 alone, not on the character's whole run in the set. The middle half of ungraded sales falls between $130 and $290, from 36 sold listings; beaten copies go lower and sharp ones higher. Certified, it climbs steeply: about $255 in PSA 3 to about $10,000 in PSA 9. Sellers' own condition words are no guide here — copies described as damaged have sold for more than copies described as near mint.",
+    "rawPriceUsd": "$130 – $290",
     "priceBasis": "raw",
     "gradedPrices": [
       {
-        "grade": "PSA 4 (#56)",
-        "price": "$450"
+        "grade": "PSA 3",
+        "price": "$255",
+        "sales": 3
       },
       {
-        "grade": "PSA (#59)",
-        "price": "$235"
+        "grade": "PSA 4",
+        "price": "$450",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 4.5",
+        "price": "$330",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$3,755",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$5,500",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$10,000",
+        "sales": 1
       }
     ],
     "exampleCert": {
@@ -3367,13 +3423,34 @@
       "He had only existed since 1964, making him the newest hero in the set",
       "Shares the set with Captain America, Iron Man, Spider-Man, the Hulk and Thor"
     ],
-    "estimatedValue": "Raw Daredevil cards sell at $20 – $80, #23 leading the run. A PSA of #23 has sold at about $99, and the CGC 7 pictured here sits above that.",
-    "rawPriceUsd": "$20 – $80",
+    "estimatedValue": "Measured on card #23 alone, not on the character's whole run in the set. The middle half of ungraded sales falls between $70 and $180, from 32 sold listings; beaten copies go lower and sharp ones higher. Certified, it climbs steeply: about $99 in PSA 2 to about $11,750 in PSA 8. Sellers' own condition words are no guide here — copies described as damaged have sold for more than copies described as near mint.",
+    "rawPriceUsd": "$70 – $180",
     "priceBasis": "raw",
     "gradedPrices": [
       {
-        "grade": "PSA (#23)",
-        "price": "$99"
+        "grade": "PSA 2",
+        "price": "$99",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 4",
+        "price": "$650",
+        "sales": 3
+      },
+      {
+        "grade": "PSA 5",
+        "price": "$1,100",
+        "sales": 3
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$980",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$11,750",
+        "sales": 1
       }
     ],
     "exampleCert": {

@@ -124,7 +124,15 @@ function CardDetailPage() {
                   {card.gradedPrices.map((g) => (
                     <div className="graded-row" key={g.grade}>
                       <dt>{g.grade}</dt>
-                      <dd>{g.price}</dd>
+                      <dd>
+                        {g.price}
+                        {/* One sale is an anecdote, five are a price. Say which. */}
+                        {g.sales !== undefined && (
+                          <span className="graded-n">
+                            {g.sales === 1 ? '1 sale' : `${g.sales} sales`}
+                          </span>
+                        )}
+                      </dd>
                     </div>
                   ))}
                 </dl>

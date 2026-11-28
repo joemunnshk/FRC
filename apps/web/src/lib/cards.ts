@@ -34,6 +34,12 @@ export interface GradedPrice {
   grade: string
   /** A sold price, already formatted: "$2,375". */
   price: string
+  /**
+   * How many sold listings the figure is a median of. Shown to the reader,
+   * because a rung resting on one sale deserves less weight than one resting
+   * on five, and hiding that would make a thin ladder look authoritative.
+   */
+  sales?: number
 }
 
 export interface ExampleCert {

@@ -1261,3 +1261,18 @@ p {
   color: var(--accent);
   font-family: var(--mono);
 }
+
+/* A ladder rung's sample size, trailing the figure. Quiet enough not to
+   compete with the money, loud enough that "1 sale" registers. */
+.graded-row dd {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.graded-n {
+  font-size: 0.62rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
