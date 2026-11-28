@@ -226,10 +226,21 @@
       "One of the first major 2000s cartoons to get a full collectible card GAME, not just a sticker set",
       "Rode the early-2000s CCG boom that followed in the wake of Pokémon and Yu-Gi-Oh!"
     ],
-    "estimatedValue": "$5 – $30, more for first-edition or holo variants",
-    "rawPriceUsd": "$5 – $30",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$5 – $30, more for first-edition or holo variants Measured on this card: the middle half of ungraded sales falls between $190 and $375, median $280, from 2 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $101.97 to $450. Certified, it runs about $375 in PSA 9 up to about $1,550 in PSA 10.",
+    "rawPriceUsd": "$190 – $375",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9",
+        "price": "$375",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$1,550",
+        "sales": 2
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "10",
@@ -2634,9 +2645,9 @@
       "Deliberately launched with no digital version, betting entirely on in-store play",
       "Its rarest early cards, the Cold Foil legendaries, trade for five figures"
     ],
-    "estimatedValue": "$1 – $30,000; first-edition Cold Foil legendaries are the trophy cards",
-    "rawPriceUsd": "$1 – $30,000",
-    "priceBasis": "mixed",
+    "estimatedValue": "$1 – $30,000; first-edition Cold Foil legendaries are the trophy cards Measured on this card: the middle half of ungraded sales falls between $7 and $9, median $8, from 2 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $5.50 to $10.75.",
+    "rawPriceUsd": "$7 – $9",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": {
       "grader": "BGS",
@@ -2673,10 +2684,16 @@
       "Gundam is nearly fifty years old, but this is its first unified global card game",
       "Bandai now runs three of the top ten TCGs: One Piece, Digimon and Gundam"
     ],
-    "estimatedValue": "The RX-78-2 reached cardboard decades earlier, on Bandai Carddass in 1988 and in Gundam War from 1999; this entry is here as the 2025 Gundam Card Game’s landmark card, not as the mobile suit’s debut. $1 – $500 depending on rarity; the market is still young and volatile",
-    "rawPriceUsd": "$1 – $500",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "The RX-78-2 reached cardboard decades earlier, on Bandai Carddass in 1988 and in Gundam War from 1999; this entry is here as the 2025 Gundam Card Game’s landmark card, not as the mobile suit’s debut. $1 – $500 depending on rarity; the market is still young and volatile Measured on this card: the middle half of ungraded sales falls between $18 and $375, median $30, from 15 sold singles, with the full range running $4.25 to $2,456.66. A PSA 10 has sold at $5,000.",
+    "rawPriceUsd": "$18 – $375",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 10",
+        "price": "$5,000",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "gundam.jpg",
     "sources": [
@@ -2774,10 +2791,16 @@
       "Outsold Magic: The Gathering in Japan for much of the 2000s",
       "The English release was discontinued in 2006 while the Japanese game kept going"
     ],
-    "estimatedValue": "$1 – $400; early Japanese DM-01 rares carry the value",
-    "rawPriceUsd": "$1 – $400",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$1 – $400; early Japanese DM-01 rares carry the value Measured on this card: the middle half of ungraded sales falls between $10 and $30, median $20, from 10 sold singles, with the full range running Under $1 to $30. A PSA 9 has sold at $220.",
+    "rawPriceUsd": "$10 – $30",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9",
+        "price": "$220",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "duelmasters.jpg",
     "sources": [
@@ -2867,10 +2890,26 @@
       "Launched in Japan first, with the English edition announced only in December 2023",
       "Sells strongly through Japanese channels even where it under-registers on Western marketplaces"
     ],
-    "estimatedValue": "Gon Freecss had Bandai Carddass cards in 1999; this entry is here as Union Arena’s landmark card, not as his debut. $1 – $250 depending on series and rarity",
-    "rawPriceUsd": "$1 – $250",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Gon Freecss had Bandai Carddass cards in 1999; this entry is here as Union Arena’s landmark card, not as his debut. $1 – $250 depending on series and rarity Measured on this card: the middle half of ungraded sales falls between $4 and $80, median $17, from 38 sold singles, with the full range running Under $1 to $1,350. Certified, it runs about $975 in PSA 8 up to about $700 in PSA 10.",
+    "rawPriceUsd": "$4 – $80",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8",
+        "price": "$975",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$350",
+        "sales": 3
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$700",
+        "sales": 13
+      }
+    ],
     "exampleCert": null,
     "image": "unionarena.jpg",
     "sources": [
@@ -2898,9 +2937,9 @@
       "Reached the worldwide top ten within its first year on sale",
       "Its Hyperspace and Showcase parallel treatments drive most of the secondary market"
     ],
-    "estimatedValue": "Darth Vader's own first card is 1977 Topps Star Wars Series 1 #7; this entry is here as Star Wars: Unlimited's landmark card, not as his debut. $1 – $700; Showcase leaders are the chase cards",
-    "rawPriceUsd": "$1 – $700",
-    "priceBasis": "mixed",
+    "estimatedValue": "Darth Vader's own first card is 1977 Topps Star Wars Series 1 #7; this entry is here as Star Wars: Unlimited's landmark card, not as his debut. $1 – $700; Showcase leaders are the chase cards Measured on this card: the middle half of ungraded sales falls between $18 and $160, median $35, from 16 sold singles, with the full range running $1.49 to $290.",
+    "rawPriceUsd": "$18 – $160",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "swunlimited.jpg",
@@ -2933,9 +2972,9 @@
       "Played across a spatial board rather than an abstract battlefield, unusual for a TCG",
       "A tiny Alpha print run meant singles were trading for hundreds within weeks of release"
     ],
-    "estimatedValue": "$5 – $2,000; Alpha foils reach four figures",
-    "rawPriceUsd": "$5 – $2,000",
-    "priceBasis": "mixed",
+    "estimatedValue": "$5 – $2,000; Alpha foils reach four figures Measured on this card: the middle half of ungraded sales falls between $15 and $95, median $20, from 5 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $1.94 to $99.99.",
+    "rawPriceUsd": "$15 – $95",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "sorcery.jpg",
@@ -9925,10 +9964,16 @@
       "They are not paper: opaque metallic plastic placards, marketed on the strength of an eerie sheen",
       "Two official release dates coexist — the anime's own site says 18 January for the convenience-store advance, Bandai Candy says 25 January for the general release"
     ],
-    "estimatedValue": "$4 – $15 for a loose single; the gold-foil special meaningfully more",
-    "rawPriceUsd": "$4 – $15",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$4 – $15 for a loose single; the gold-foil special meaningfully more Measured on this card: the middle half of ungraded sales falls between $4 and $17, median $8, from 31 sold singles, with the full range running $1.40 to $479.90. A PSA 10 has sold at $55.",
+    "rawPriceUsd": "$4 – $17",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 10",
+        "price": "$55",
+        "sales": 3
+      }
+    ],
     "exampleCert": null,
     "image": "satoru-gojo.jpg",
     "noCardReason": "",
