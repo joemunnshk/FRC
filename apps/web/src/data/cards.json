@@ -15,7 +15,11 @@
     "rawPriceUsd": "Near $150,000",
     "priceBasis": "sealed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "7",
+      "cert": "163760285"
+    },
     "image": "pikachu.jpg",
     "noCardReason": "",
     "mediaRank": 1,
@@ -56,7 +60,11 @@
     "rawPriceUsd": "$2 – $13",
     "priceBasis": "raw",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "10",
+      "cert": "73186400"
+    },
     "image": "tmnt.jpg",
     "noCardReason": "",
     "mediaRank": 20,
@@ -135,7 +143,11 @@
         "sales": 2
       }
     ],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "10",
+      "cert": "28976740"
+    },
     "image": "yugioh.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -175,7 +187,11 @@
     "rawPriceUsd": "$2 – $7",
     "priceBasis": "raw",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "10",
+      "cert": "121783524"
+    },
     "image": "mario.jpg",
     "noCardReason": "",
     "mediaRank": 42,
@@ -215,7 +231,11 @@
     "rawPriceUsd": "$5 – $30",
     "priceBasis": "mixed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "10",
+      "cert": "129763653"
+    },
     "image": "spongebob.jpg",
     "noCardReason": "",
     "mediaRank": 21,
@@ -255,7 +275,11 @@
     "rawPriceUsd": "$275 – $750",
     "priceBasis": "raw",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "7",
+      "cert": "21695422"
+    },
     "image": "mickey.jpg",
     "noCardReason": "",
     "mediaRank": 2,
@@ -368,7 +392,11 @@
         "sales": 1
       }
     ],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "6",
+      "cert": "64207800"
+    },
     "image": "starwars.jpg",
     "noCardReason": "",
     "mediaRank": 4,
@@ -554,7 +582,11 @@
         "sales": 1
       }
     ],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "9",
+      "cert": "23058012"
+    },
     "image": "mcu.jpg",
     "noCardReason": "",
     "mediaRank": 8,
@@ -838,7 +870,11 @@
         "sales": 1
       }
     ],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "3",
+      "cert": "153447860"
+    },
     "image": "spiderman.jpg",
     "noCardReason": "",
     "mediaRank": 13,
@@ -1125,7 +1161,11 @@
     "rawPriceUsd": "$15 – $60",
     "priceBasis": "set",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "9",
+      "cert": "118160724"
+    },
     "image": "toystory.jpg",
     "noCardReason": "",
     "mediaRank": 22,
@@ -1254,7 +1294,11 @@
         "price": "$198"
       }
     ],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "8",
+      "cert": "91862917"
+    },
     "image": "pacman.jpg",
     "noCardReason": "",
     "mediaRank": 25,
@@ -1500,7 +1544,11 @@
     "rawPriceUsd": "$3 – $10",
     "priceBasis": "raw",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "CGC",
+      "grade": "8.5",
+      "cert": "6036342008"
+    },
     "image": "warcraft.jpg",
     "noCardReason": "",
     "mediaRank": 31,
@@ -2166,7 +2214,11 @@
     "rawPriceUsd": "$30 – $350",
     "priceBasis": "graded",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "9",
+      "cert": "22159653"
+    },
     "image": "xmen.jpg",
     "noCardReason": "",
     "mediaRank": 48,
@@ -2218,7 +2270,11 @@
         "sales": 1
       }
     ],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "SGC",
+      "grade": "4.5",
+      "cert": "8643934"
+    },
     "image": "superman.jpg",
     "noCardReason": "",
     "mediaRank": 49,
@@ -2334,7 +2390,11 @@
     "rawPriceUsd": "About $47,000",
     "priceBasis": "raw",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "3",
+      "cert": "135872846"
+    },
     "image": "magic.jpg",
     "sources": [
       {
@@ -2374,7 +2434,11 @@
         "price": "$1,250"
       }
     ],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "10",
+      "cert": "157791340"
+    },
     "image": "onepiece.jpg",
     "sources": [
       {
@@ -2492,7 +2556,11 @@
     "rawPriceUsd": "$20 – $40",
     "priceBasis": "raw",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "9",
+      "cert": "73775346"
+    },
     "image": "starwarsccg.jpg",
     "sources": [
       {
@@ -2628,7 +2696,11 @@
     "rawPriceUsd": "$1 – $150",
     "priceBasis": "mixed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "BGS",
+      "grade": "9.5",
+      "cert": "0019055049"
+    },
     "image": "lotrtcg.jpg",
     "sources": [
       {
@@ -2998,7 +3070,7 @@
     ],
     "exampleCert": {
       "grader": "PSA",
-      "grade": "MINT 9",
+      "grade": "9",
       "cert": "154526950"
     },
     "image": "sonic.jpg",
@@ -3084,7 +3156,11 @@
     "rawPriceUsd": "$10 – $500+",
     "priceBasis": "mixed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "4.5",
+      "cert": "150916709"
+    },
     "image": "princessleia.jpg",
     "sources": [
       {
@@ -3267,7 +3343,7 @@
     ],
     "exampleCert": {
       "grader": "PSA",
-      "grade": "VG 3",
+      "grade": "3",
       "cert": "124102732"
     },
     "image": "thor.jpg",
@@ -3498,7 +3574,7 @@
     ],
     "exampleCert": {
       "grader": "PSA",
-      "grade": "NM-MT+ 8.5",
+      "grade": "8.5",
       "cert": "15004156"
     },
     "image": "riddler.jpg",
@@ -3731,7 +3807,11 @@
         "price": "$295"
       }
     ],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "6",
+      "cert": "54029716"
+    },
     "image": "spock.jpg",
     "sources": [
       {
@@ -3885,7 +3965,11 @@
     "rawPriceUsd": "$25 – $120",
     "priceBasis": "raw",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "10",
+      "cert": "53939619"
+    },
     "image": "wolverine.jpg",
     "sources": [
       {
@@ -4141,7 +4225,7 @@
     ],
     "exampleCert": {
       "grader": "PSA",
-      "grade": "NM 7",
+      "grade": "7",
       "cert": "110280393"
     },
     "image": "terminator.jpg",
@@ -5184,7 +5268,7 @@
     "gradedPrices": [],
     "exampleCert": {
       "grader": "PSA",
-      "grade": "NM-MT 8",
+      "grade": "8",
       "cert": "70270921"
     },
     "image": "thing.jpg",
@@ -5278,7 +5362,11 @@
     "rawPriceUsd": "$50 – $120",
     "priceBasis": "mixed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "9",
+      "cert": "70270915"
+    },
     "image": "torch.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -5646,7 +5734,11 @@
     "rawPriceUsd": "$150 – $400",
     "priceBasis": "mixed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "8",
+      "cert": "163611453"
+    },
     "image": "luffy-1999-carddass.jpg"
   },
   {
@@ -5681,7 +5773,11 @@
     "rawPriceUsd": "$60 – $200",
     "priceBasis": "mixed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "9",
+      "cert": "153533043"
+    },
     "image": "zoro-1999-carddass.jpg"
   },
   {
@@ -5716,7 +5812,11 @@
     "rawPriceUsd": "$50 – $150",
     "priceBasis": "mixed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "10",
+      "cert": "153577306"
+    },
     "image": "nami-1999-carddass.jpg"
   },
   {
@@ -5751,7 +5851,11 @@
     "rawPriceUsd": "$40 – $120",
     "priceBasis": "mixed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "10",
+      "cert": "150265866"
+    },
     "image": "usopp-1999-carddass.jpg"
   },
   {
@@ -6809,7 +6913,11 @@
     "rawPriceUsd": "$10 – $25",
     "priceBasis": "raw",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "GMA",
+      "grade": "7",
+      "cert": "831130700"
+    },
     "image": "red-skull-1976-topps.jpg",
     "sources": [
       {
@@ -7202,7 +7310,11 @@
     "rawPriceUsd": "$50 – $150",
     "priceBasis": "mixed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "9",
+      "cert": "75279854"
+    },
     "image": "peach-1989-carddass.jpg",
     "sources": [
       {
@@ -7680,7 +7792,11 @@
     "rawPriceUsd": "$20 – $70",
     "priceBasis": "mixed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "9",
+      "cert": "73031074"
+    },
     "image": "michelangelo-1989-topps.jpg"
   },
   {
@@ -7895,7 +8011,11 @@
     "rawPriceUsd": "$15 – $50",
     "priceBasis": "mixed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "8",
+      "cert": "102745166"
+    },
     "image": "megatron.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8059,7 +8179,11 @@
     "rawPriceUsd": "$20 – $60",
     "priceBasis": "mixed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "10",
+      "cert": "100447969"
+    },
     "image": "snake-eyes.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8137,7 +8261,11 @@
     "rawPriceUsd": "$60 – $200",
     "priceBasis": "mixed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "3",
+      "cert": "12509337"
+    },
     "image": "minnie-mouse.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8371,7 +8499,11 @@
     "rawPriceUsd": "$2 – $10",
     "priceBasis": "raw",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "8",
+      "cert": "100464702"
+    },
     "image": "rei-ayanami.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8476,7 +8608,11 @@
     "rawPriceUsd": "$50 – $200",
     "priceBasis": "mixed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "3",
+      "cert": "180840366"
+    },
     "image": "pluto.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8554,7 +8690,11 @@
     "rawPriceUsd": "$10 – $25",
     "priceBasis": "mixed",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "7",
+      "cert": "56486086"
+    },
     "image": "scooby-doo.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -8671,7 +8811,11 @@
     "rawPriceUsd": "$3 – $10",
     "priceBasis": "raw",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "4",
+      "cert": "165165499"
+    },
     "image": "marty-mcfly.jpg",
     "noCardReason": "",
     "mediaRank": null,
@@ -9135,7 +9279,11 @@
     "rawPriceUsd": "Under $1 – $3",
     "priceBasis": "raw",
     "gradedPrices": [],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "8",
+      "cert": "97627550"
+    },
     "image": "wallace.jpg",
     "noCardReason": "",
     "mediaRank": null,

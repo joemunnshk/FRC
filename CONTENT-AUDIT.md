@@ -151,3 +151,71 @@ places The Thing and the Human Torch in the 1976 set when this database's own
 records put both in 1975. Agents are reliable on checklist-backed card numbers —
 the Aladdin checklist was independently re-fetched and matched exactly — and
 looser on prose claims.
+
+---
+
+# What the photographs themselves settled
+
+Every image's top 24% was cropped and tiled into contact sheets, so each slab
+label could be read. 80 of 244 entries now carry the certification of the copy
+photographed, up from 15. That sweep answered several questions the research
+pass had left open — and overturned four of its findings.
+
+## Research findings the slabs refute
+
+- **The Thing and the Human Torch are 1975, not 1976.** Both slabs read "1975
+  Comic Book Heroes". The Invisible Girl finding, which placed them in the 1976
+  set, is wrong — and the entry's "completes the Fantastic Four" fun fact was
+  rejected on exactly this basis before the slab confirmed it.
+- **Mickey #75 is a Type II.** PSA's own label reads "1935 MICKEY MOUSE #75 …
+  TYPE II". The claim that Type II covers only cards 1–24 does not hold.
+- **Elsa's glitter card shows "100" and Olaf's shows "90".** Both power-score
+  fun facts were reported as unsourced; the cards print the numbers.
+- **Wallace is 1995, card #106.** The slab reads "1995 WALLACE & GROMIT #106
+  WALLACE ALBUM STICKERS", settling a year the research left at "1989 vs 1995
+  unresolved" and a card number it could not tie to any checklist.
+
+## New problems the slabs found
+
+- **Pluto's photograph is Mickey's rookie.** `disney-1935-pluto` is illustrated
+  with a slab reading "1935 MICKEY MOUSE #1 LET'S MAKE HOOP-EE!" — which the
+  research names as Mickey's actual first card, the one `mickey-mouse-1935-gum-inc`
+  should be using instead of #75. The right picture is already in the project,
+  filed under the wrong character.
+- **Street Fighter's card shows ⑰, the entry claims #27.**
+- **Digimon's slab reads "2000 DIGI-BTL … 1ST EDITION"** — the English
+  Digi-Battle release. The entry claims a 1999 Japanese set.
+- **Dr. Doom's slab reads "Topps 1976"**; the entry is filed as 1975.
+- **SpongeBob's card is identifiable after all**: "2003 SPONGEBOB SQRPNTS. #001
+  AQUATIC AMIGOS". That closes one of the open pricing gaps.
+
+## Slabs that are not PSA (14)
+
+| grader | card |
+|---|---|
+| SGC 4 | avengers-1966-donruss |
+| SGC 4.5 | superman-1940-gum-inc |
+| SGC 7 | black-widow-1975-topps |
+| CGC 7 | daredevil-1966-donruss |
+| CGC 8.5 | warcraft-2006-upper-deck |
+| CGC 10 | donkey-kong-1982-topps |
+| BGS 9.5 | flesh-and-blood-2019 |
+| BGS 9.5 | lotr-tcg-2001-decipher |
+| MGC 9 | darth-vader-1977-topps |
+| MGC 9 | bart-simpson-1990-topps |
+| MVP 9 | doctor-doom-1975-topps |
+| GMA 7 | red-skull-1976-topps |
+| GMA 8 | sub-mariner-1975-topps (cert digits cropped) |
+| PCG 10 | sorcery-contested-realm-2023 (holder unclear) |
+
+Three of these will need a new photograph anyway, because the research says the
+entry names the wrong card: Darth Vader (#7 is right for 1977 Topps but the
+entry sits under a 2024 record), Bart Simpson (sticker #11 when base #4 is
+lower) and Doctor Doom (the 1975/1976 question).
+
+## A check worth keeping
+
+Every slab's printed card number was compared against the number its entry
+claims. **Zero mismatches.** The photographs are of the cards the entries name —
+so each card-number correction strands its image, and the cert must come off
+with it.
