@@ -2263,9 +2263,9 @@
       "Same Philadelphia publisher, Gum Inc., that made the 1935 Mickey Mouse cards in this database",
       "The film series was retired and rebooted as the DCU before it ever established a card identity of its own"
     ],
-    "estimatedValue": "Flagged: this entry indexes card #12, 'Superman's Arch Enemy', which is the first appearance of Lex Luthor rather than of Superman. Superman's own rookie is #1 of the same set. Only two sales of #12 could be found, both graded — a PSA 1.5 at $799 and a PSA 2 at $1,600 — so no raw band is published for it. The entry needs deciding: either re-point it at #1 or keep it as Lex Luthor's first card.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
+    "estimatedValue": "The DCEU has no card of its own, so the figure here belongs to the card standing in for it: Gum, Inc. #12, 'Superman's Arch Enemy'. No ungraded sale of it could be found; two certified sales are on record, a PSA 1.5 at $799 and a PSA 2 at $1,600, each a single sale. The same card is also Lex Luthor's first, and it is indexed under his name elsewhere in this database.",
+    "rawPriceUsd": "$799 – $1,600",
+    "priceBasis": "graded",
     "gradedPrices": [
       {
         "grade": "PSA 1.5",
@@ -2278,7 +2278,11 @@
         "sales": 1
       }
     ],
-    "exampleCert": null,
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "2",
+      "cert": "164376585"
+    },
     "image": "dceu.jpg",
     "noCardReason": "",
     "mediaRank": 50,
@@ -9755,6 +9759,65 @@
       {
         "label": "Jeff Allender's House of Checklists — 1935 Gum, Inc. Mickey Mouse (R89) and the R90 continuation, neither of which contains Goofy",
         "url": "https://nslists.com/mickey35.htm"
+      }
+    ]
+  },
+  {
+    "id": "lex-luthor-1940-gum-inc",
+    "franchise": "Superman",
+    "character": "Lex Luthor",
+    "year": 1940,
+    "setInfo": "Gum, Inc. Superman (R145) #12 'Superman's Arch Enemy'",
+    "description": "Lex Luthor reached cardboard two years after Superman did, on card #12 of the same 1940 Gum, Inc. set. The card is titled 'Superman's Arch Enemy' rather than naming him, which is how the earliest Luthor material tends to read — he was a recurring villain before he was a brand. The figure at the control panel is drawn with red hair, the way Luthor was shown before the bald design settled in, and collectors routinely list the card as a rookie without saying whose.",
+    "funFacts": [
+      "Titled 'Superman's Arch Enemy' — the card never prints Luthor's name",
+      "Drawn with a full head of red hair, years before the bald Luthor became standard",
+      "Shares its set with Superman's own rookie, card #1 of the same 72-card release",
+      "Sellers list it as a rookie card, which is true of Luthor but not of Superman — a confusion this database previously inherited"
+    ],
+    "estimatedValue": "Scarce enough that no ungraded sale could be found at all. Two certified sales are on record — a PSA 1.5 at $799 and a PSA 2 at $1,600 — so the figures here are graded, not raw, and each rests on a single sale. Treat them as the only evidence available rather than as a market.",
+    "rawPriceUsd": "$799 – $1,600",
+    "priceBasis": "graded",
+    "gradedPrices": [
+      {
+        "grade": "PSA 1.5",
+        "price": "$799",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 2",
+        "price": "$1,600",
+        "sales": 1
+      }
+    ],
+    "exampleCert": {
+      "grader": "PSA",
+      "grade": "2",
+      "cert": "164376585"
+    },
+    "image": "lex-luthor.jpg",
+    "noCardReason": "",
+    "mediaRank": null,
+    "revenueBillions": null,
+    "categories": [
+      "icons"
+    ],
+    "sources": [
+      {
+        "label": "Cardboard Connection — 1940 Gum, Inc. Superman",
+        "url": "https://www.cardboardconnection.com/1940-gum-inc-superman-trading-cards"
+      },
+      {
+        "label": "PSA Set Registry — 1940 Gum Inc. Superman (R145), the Man of Steel's first set",
+        "url": "https://www.psacard.com/articles/articleview/7306/psa-set-registry-1940-gum-inc-superman-trading-card-r145-man-steels-first"
+      },
+      {
+        "label": "Pre-War Cards — 1940 Gum, Inc. Superman set and checklist",
+        "url": "https://prewarcards.com/2019/07/18/1940-gum-inc-superman-set-checklist-play-ball-cards/"
+      },
+      {
+        "label": "PSA cert 164376585 — the copy shown",
+        "url": "https://www.psacard.com/cert/164376585"
       }
     ]
   }
