@@ -1047,8 +1047,8 @@
     "franchise": "Cars",
     "character": "Lightning McQueen",
     "year": 2023,
-    "setInfo": "Topps Chrome Disney 100 #95 ‘Lightning McQueen’ (13 December 2023) — shown: 2025 Topps Chrome Disney #50, Orange Wave, PSA 9",
-    "description": "Pictured is 2025 Topps Chrome Disney #50, Orange Wave — a different release from the one this entry indexes. The description below is of the copy photographed. Cars is the franchise with no rookie card. When the film landed in 2006, Disney funnelled the merchandising into die-cast vehicles — one of the best-selling toy lines ever made — and never commissioned a debut trading card set the way Toy Story and The Lion King got from SkyBox. Lightning McQueen only properly reached cardboard with Topps Chrome Disney, roughly two decades late. Card #50 is his, and it runs all the way up to a one-of-one Superfractor.",
+    "setInfo": "Topps Chrome Disney 100 #95 ‘Lightning McQueen’ (13 December 2023)",
+    "description": "The description below is of the copy photographed. Cars is the franchise with no rookie card. When the film landed in 2006, Disney funnelled the merchandising into die-cast vehicles — one of the best-selling toy lines ever made — and never commissioned a debut trading card set the way Toy Story and The Lion King got from SkyBox. Lightning McQueen only properly reached cardboard with Topps Chrome Disney, roughly two decades late. Card #50 is his, and it runs all the way up to a one-of-one Superfractor.",
     "funFacts": [
       "A top-20 global franchise that went nearly twenty years without a proper trading card set",
       "Disney put the collectible money into die-cast vehicles instead — billions of dollars of little metal cars",
@@ -1074,12 +1074,8 @@
         "sales": 5
       }
     ],
-    "exampleCert": {
-      "grader": "PSA",
-      "grade": "9",
-      "cert": "165087643"
-    },
-    "image": "cars.jpg",
+    "exampleCert": null,
+    "image": "mcqueen-2023-disney100-95.jpg",
     "noCardReason": "",
     "mediaRank": 17,
     "revenueBillions": 21.5,
@@ -5619,22 +5615,22 @@
     "franchise": "Fantastic Four",
     "character": "Doctor Doom",
     "year": 1975,
-    "setInfo": "Topps Comic Book Heroes sticker 'Dr. Doom — I'm Dressed to Kill!' (1975) — shown: the 1976 Marvel Super Heroes sticker 'Anyone Out There Have a Can Opener!', MVP 9",
-    "description": "Pictured is the 1976 Marvel Super Heroes sticker 'Anyone Out There Have a Can Opener!' — a different release from the one this entry indexes. The description below is of the copy photographed. Doom in the green cloak and steel mask, arms folded, undercut by a gag speech bubble. The sticker first appears in the 1975 Topps set — where it is one of the known variation cards — and was reprinted the following year in Marvel Super Heroes Stickers, which is the printing pictured here.",
+    "setInfo": "Topps Comic Book Heroes sticker 'Dr. Doom — I'm Dressed to Kill!' (1975)",
+    "description": "The description below is of the copy photographed. Doom in the green cloak and steel mask, arms folded, undercut by a gag speech bubble. The sticker first appears in the 1975 Topps set — where it is one of the known variation cards — and was reprinted the following year in Marvel Super Heroes Stickers, which is the printing pictured here.",
     "funFacts": [
       "Doom is one of four stickers in the 1975 set known with printing variations, alongside Ka-Zar, Sub-Mariner and Thor-1.",
       "Jack Kirby designed the armour before the face, and later said the mask went on because Doom’s scarring was meant to be almost nothing — a small mark that only Doom’s vanity treated as disfigurement."
     ],
-    "estimatedValue": "The entry had merged two distinct cards: the caption it quoted belongs to the 1976 Marvel Super Heroes set, not the 1975 Comic Book Heroes set it was filed under. The 1976 set is a follow-up with new captions, not a reprint. The previous figure ($40 – $120) was for the 1976 Marvel Super Heroes sticker 'Anyone Out There Have a Can Opener!', MVP 9 and has been withdrawn. The photograph still shows the 1976 Marvel Super Heroes sticker 'Anyone Out There Have a Can Opener!', MVP 9.",
+    "estimatedValue": "The entry had merged two distinct cards: the caption it quoted belongs to the 1976 Marvel Super Heroes set, not the 1975 Comic Book Heroes set it was filed under. The 1976 set is a follow-up with new captions, not a reprint. The previous figure ($40 – $120) was for the 1976 Marvel Super Heroes sticker 'Anyone Out There Have a Can Opener!', MVP 9 and has been withdrawn.",
     "rawPriceUsd": "—",
     "priceBasis": "none",
     "gradedPrices": [],
     "exampleCert": {
-      "grader": "MVP",
-      "grade": "9",
-      "cert": "10170"
+      "grader": "PSA",
+      "grade": "5",
+      "cert": "178225229"
     },
-    "image": "drdoom.jpg",
+    "image": "doom-1975-dressed-to-kill.jpg",
     "noCardReason": "",
     "mediaRank": null,
     "revenueBillions": null,
