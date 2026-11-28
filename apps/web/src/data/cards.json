@@ -5388,10 +5388,31 @@
       "Nine cards in this set combine into a reproduction of the cover of Fantastic Four #100.",
       "\"It's clobberin' time\" was not in the Thing's first appearance — Stan Lee and Jack Kirby gave it to him a few issues in, and it became the most quoted line in Marvel comics."
     ],
-    "estimatedValue": "$60–150 graded",
-    "rawPriceUsd": "$60 – $150",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$60–150 graded Measured on this card: the middle half of ungraded sales falls between $7 and $19, median $10, from 36 sold singles, with the full range running $1 to $199.99. Certified, it runs about $30 in PSA 5 up to about $180 in PSA 9.",
+    "rawPriceUsd": "$7 – $19",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 5",
+        "price": "$30",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$120",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$210",
+        "sales": 3
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$180",
+        "sales": 2
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "8",
@@ -5484,10 +5505,36 @@
       "The Human Torch is a revival, not a new character — the original android Torch was Marvel’s very first cover star back in 1939, and Stan Lee reused the name for Johnny Storm in 1961.",
       "Johnny had his own solo strip in Strange Tales during the 1960s, sharing the book with Doctor Strange."
     ],
-    "estimatedValue": "Flagged: the 36-year gap asserted here has not been tested against Golden Age or foreign issues. $50–120 graded",
-    "rawPriceUsd": "$50 – $120",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Flagged: the 36-year gap asserted here has not been tested against Golden Age or foreign issues. $50–120 graded Measured on this card: the middle half of ungraded sales falls between $8 and $15, median $11, from 44 sold singles, with the full range running $1.99 to $50.69. Certified, it runs about $16 in PSA 4 up to about $180 in PSA 9.",
+    "rawPriceUsd": "$8 – $15",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 4",
+        "price": "$16",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 5",
+        "price": "$40",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$10",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$55",
+        "sales": 3
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$180",
+        "sales": 4
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "9",
@@ -5572,10 +5619,21 @@
       "Namor is the oldest character Marvel still publishes — he debuted in 1939, two years before Captain America, which makes him arguably the first Marvel superhero.",
       "Bill Everett drew him for a giveaway comic that was never distributed, then reused the character in Marvel Comics #1."
     ],
-    "estimatedValue": "Flagged: the 36-year gap asserted here has not been tested against Golden Age or foreign issues, which is the highest-risk gap in the 1975 Topps group. $40–100 graded",
-    "rawPriceUsd": "$40 – $100",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Flagged: the 36-year gap asserted here has not been tested against Golden Age or foreign issues, which is the highest-risk gap in the 1975 Topps group. $40–100 graded Measured on this card: the middle half of ungraded sales falls between $5 and $9, median $8, from 20 sold singles, with the full range running Under $1 to $32.99. Certified, it runs about $40 in PSA 7 up to about $130 in PSA 8.",
+    "rawPriceUsd": "$5 – $9",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 7",
+        "price": "$40",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$130",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "namor.jpg",
     "noCardReason": "",
@@ -6448,10 +6506,16 @@
       "Twelve years passed between his 1963 comics debut and this, his first trading card",
       "Most scans of this sticker online carry a marketplace watermark across the art"
     ],
-    "estimatedValue": "Flagged: this character also has a sticker in the 1976 set; the caption here should be re-checked against the photograph, as Doom’s was. $40–120 raw, $200+ in PSA 8",
-    "rawPriceUsd": "$40 – $120",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Flagged: this character also has a sticker in the 1976 set; the caption here should be re-checked against the photograph, as Doom’s was. $40–120 raw, $200+ in PSA 8 Measured on this card: the middle half of ungraded sales falls between $10 and $15, median $10, from 18 sold singles, with the full range running $2.25 to $88.96. A PSA 8 has sold at $100.",
+    "rawPriceUsd": "$10 – $15",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8",
+        "price": "$100",
+        "sales": 1
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "8",
@@ -6491,10 +6555,21 @@
       "Only three years after his 1972 debut in Marvel Spotlight #5",
       "The die-cut follows the flames, making it one of the odder shapes in the set"
     ],
-    "estimatedValue": "$50–150 raw, $400+ in PSA 9",
-    "rawPriceUsd": "$50 – $150",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$50–150 raw, $400+ in PSA 9 Measured on this card: the middle half of ungraded sales falls between $80 and $220, median $140, from 48 sold singles, with the full range running $1.95 to $479.99. Certified, it runs about $1,500 in PSA 9 up to about $7,750 in PSA 10.",
+    "rawPriceUsd": "$80 – $220",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9",
+        "price": "$1,500",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$7,750",
+        "sales": 1
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "9",
@@ -6534,10 +6609,21 @@
       "Eleven years after her 1964 debut in Tales of Suspense #52",
       "The only Avenger in the set given a joke about air travel rather than her powers"
     ],
-    "estimatedValue": "$60–180 raw, more graded",
-    "rawPriceUsd": "$60 – $180",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$60–180 raw, more graded Measured on this card: the middle half of ungraded sales falls between $10 and $16, median $14, from 16 sold singles, with the full range running $3.25 to $35. Certified, it runs about $120 in PSA 5 up to about $160 in PSA 8.",
+    "rawPriceUsd": "$10 – $16",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 5",
+        "price": "$120",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$160",
+        "sales": 1
+      }
+    ],
     "exampleCert": {
       "grader": "SGC",
       "grade": "7",
@@ -6577,10 +6663,16 @@
       "One of the few villains in a set otherwise built around heroes",
       "He had been fighting Spider-Man for 12 years by the time he got a card"
     ],
-    "estimatedValue": "Flagged: “Spider-Man’s oldest enemy” is wrong — Doc Ock debuts in Amazing Spider-Man #3, and #1 and #2 introduce earlier foes. $40–120 raw, $250+ in PSA 8",
-    "rawPriceUsd": "$40 – $120",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Flagged: “Spider-Man’s oldest enemy” is wrong — Doc Ock debuts in Amazing Spider-Man #3, and #1 and #2 introduce earlier foes. $40–120 raw, $250+ in PSA 8 Measured on this card: the middle half of ungraded sales falls between $9 and $16, median $12, from 24 sold singles, with the full range running $2 to $25. A PSA 6 has sold at $95.",
+    "rawPriceUsd": "$9 – $16",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 6",
+        "price": "$95",
+        "sales": 1
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "8",
@@ -6659,9 +6751,9 @@
       "One of two martial artists in the set, alongside Shang-Chi",
       "The \"Kung Fooey\" caption is the shortest in the whole run"
     ],
-    "estimatedValue": "Flagged: the “shortest caption in the run” claim is contradicted by the set’s own “Spider-Man-2 — Bug Off!”. $40–120 raw, $250+ in PSA 8",
-    "rawPriceUsd": "$40 – $120",
-    "priceBasis": "mixed",
+    "estimatedValue": "Flagged: the “shortest caption in the run” claim is contradicted by the set’s own “Spider-Man-2 — Bug Off!”. $40–120 raw, $250+ in PSA 8 Measured on this card: the middle half of ungraded sales falls between $7 and $11, median $10, from 20 sold singles, with the full range running $2 to $40.",
+    "rawPriceUsd": "$7 – $11",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": {
       "grader": "PSA",
