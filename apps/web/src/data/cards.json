@@ -1706,15 +1706,10 @@
       "Japan-only, which is why Western collectors discovered them decades late",
       "The six prism cards in Set 1 are the original Dragon Ball chase cards"
     ],
-    "estimatedValue": "Raw copies sell at $190 – $930 on recent sold listings. Certified: about $2,800 in PSA 3.",
+    "estimatedValue": "Raw copies sell at $190 – $930 on recent sold listings. Certified: about $2,800 in PSA 3. A previously shown PSA 3 figure has been removed: it carried no record of how many sales it came from, could not be re-measured, and every other certified figure on this site now states its sample size.",
     "rawPriceUsd": "$190 – $930",
     "priceBasis": "raw",
-    "gradedPrices": [
-      {
-        "grade": "PSA 3",
-        "price": "$2,800"
-      }
-    ],
+    "gradedPrices": [],
     "exampleCert": null,
     "image": "dragonball.jpg",
     "noCardReason": "",
@@ -1752,15 +1747,10 @@
       "Dispensed from coin-operated vending machines, exactly like Dragon Ball Carddass",
       "The Japanese cards use hand-drawn anime art; the 1993 Topps set used arcade screen grabs"
     ],
-    "estimatedValue": "Raw copies sell at $11 – $60 on recent sold listings. A PSA 9 has sold at $300.",
+    "estimatedValue": "Raw copies sell at $11 – $60 on recent sold listings. A PSA 9 has sold at $300. A previously shown PSA 9 figure has been removed: it carried no record of how many sales it came from, could not be re-measured, and every other certified figure on this site now states its sample size.",
     "rawPriceUsd": "$11 – $60",
     "priceBasis": "raw",
-    "gradedPrices": [
-      {
-        "grade": "PSA 9",
-        "price": "$300"
-      }
-    ],
+    "gradedPrices": [],
     "exampleCert": null,
     "image": "streetfighter.jpg",
     "noCardReason": "",
@@ -2471,15 +2461,10 @@
       "Grew fast enough to overtake Yu-Gi-Oh! in monthly sales within three years of launch",
       "Now the third best-selling trading card game in the world behind Magic and Pokémon"
     ],
-    "estimatedValue": "Flagged: Luffy’s first card is the Bandai Carddass Hyper Battle “First Stage” C01 of November 1999 — which this database already holds as its own entry, so the claim here was refuted by its own neighbour. The OP01-003 named here is also an alternate-art parallel rather than the base card. Raw copies sell at $960 – $1,350 on recent sold listings. Certified: about $1,250 in PSA 10.",
+    "estimatedValue": "Flagged: Luffy’s first card is the Bandai Carddass Hyper Battle “First Stage” C01 of November 1999 — which this database already holds as its own entry, so the claim here was refuted by its own neighbour. The OP01-003 named here is also an alternate-art parallel rather than the base card. Raw copies sell at $960 – $1,350 on recent sold listings. Certified: about $1,250 in PSA 10. A previously shown PSA 10 figure has been removed: it carried no record of how many sales it came from, could not be re-measured, and every other certified figure on this site now states its sample size.",
     "rawPriceUsd": "$960 – $1,350",
     "priceBasis": "raw",
-    "gradedPrices": [
-      {
-        "grade": "PSA 10",
-        "price": "$1,250"
-      }
-    ],
+    "gradedPrices": [],
     "exampleCert": {
       "grader": "PSA",
       "grade": "10",
@@ -3118,8 +3103,9 @@
     "priceBasis": "raw",
     "gradedPrices": [
       {
-        "grade": "PSA 8",
-        "price": "$300"
+        "grade": "PSA 9",
+        "price": "$277",
+        "sales": 2
       }
     ],
     "exampleCert": null,
@@ -4435,11 +4421,13 @@
     "gradedPrices": [
       {
         "grade": "PSA 6",
-        "price": "$14"
+        "price": "$14",
+        "sales": 1
       },
       {
-        "grade": "PSA 10",
-        "price": "$150"
+        "grade": "PSA 9",
+        "price": "$49",
+        "sales": 3
       }
     ],
     "exampleCert": {
@@ -5241,17 +5229,34 @@
       "Boba Fett speaks four lines in The Empire Strikes Back and is on screen for barely six minutes, which did nothing to stop him becoming the film’s breakout character.",
       "The armour was originally designed all-white for a Super Trooper concept; it was repainted in mismatched greens and reds specifically to look scavenged."
     ],
-    "estimatedValue": "Raw copies sell at $20 – $40 on recent sold listings. Certified: about $50 in CGC 5 and about $195 in PSA 6.",
-    "rawPriceUsd": "$20 – $40",
+    "estimatedValue": "Raw copies sell at $20 – $40 on recent sold listings. Certified: about $50 in CGC 5 and about $195 in PSA 6. Measured on this card: the middle half of ungraded sales falls between $11 and $30, median $20, from 33 sold singles, with the full range running $2.25 to $495. Certified, it runs about $152 in PSA 6 up to about $950 in PSA 9.",
+    "rawPriceUsd": "$11 – $30",
     "priceBasis": "raw",
     "gradedPrices": [
       {
-        "grade": "CGC 5",
-        "price": "$50"
+        "grade": "PSA 6",
+        "price": "$152",
+        "sales": 2
       },
       {
-        "grade": "PSA 6",
-        "price": "$195"
+        "grade": "PSA 7",
+        "price": "$180",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$950",
+        "sales": 1
+      },
+      {
+        "grade": "CGC 5",
+        "price": "$50",
+        "sales": 1
+      },
+      {
+        "grade": "CGC 7.5",
+        "price": "$60",
+        "sales": 1
       }
     ],
     "exampleCert": {
