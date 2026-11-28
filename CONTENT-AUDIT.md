@@ -3,14 +3,14 @@
 Generated from the research pass. Re-runnable inputs live in the session
 scratchpad; this file is the summary.
 
-**9 of 10 batches reported (still running: 1).**
+**10 of 10 batches reported.**
 
 | | count | share |
 |---|---|---|
-| reported on | 219 of 244 cards | |
-| confirmed | 60 | 27% |
-| **wrong** | **123** | **56%** |
-| unverifiable | 36 | 16% |
+| reported on | 244 of 244 cards | |
+| confirmed | 61 | 25% |
+| **wrong** | **141** | **58%** |
+| unverifiable | 42 | 17% |
 
 ## The one bug, over and over
 
@@ -43,13 +43,26 @@ The record moves: new set, new year, new photo, new price. Cannot be scripted.
 | `animalcrossing-2002-tomnook` | Tom Nook | high | The entry names the North American card when the Japanese one came first - and its own description contains the facts that refute its headline. Nookipedia's Doubutsu no Mori+ Card-e character list gives Japanese Series 1 as 1-001 とたけけ (K.K.… |
 | `wolverine-1986-comic-images` | Wolverine | high | Wrong card and wrong set, the exact shape of the Superman failure. (1) Within the set: Jeff Allender's checklist for the Comic Images '(Official) Marvel Universe Stickers' (1986, 77 stickers) lists Wolverine three times, at #3, #8 and #10. … |
 
-## Tier B — right set, wrong card (74)
+## Tier B — right set, wrong card (87)
 
 `setInfo` changes; the photograph and the measured price then belong to the old
 card and must be re-stated or re-measured.
 
 | card | character | confidence | finding |
 |---|---|---|---|
+| `hermione-granger-2001-wotc` | Hermione Granger | high | WRONG CARD NUMBER - the classic error this pass is hunting. Hermione appears on TWO base-set cards: #9 Hermione Granger (Premium Holo) and #10 Hermione Granger (Premium Foil). Same art, same flavour text, same ability, same artist - two fin… |
+| `aang-2006-upperdeck` | Aang | high | NO CARD NUMBER, and the set is numbered. Upper Deck's own archived spoiler list runs AME001-AME235 with no gaps, and the number is printed on the card. Aang has SIX chamber cards, AME176-181 (3 common, 2 uncommon, 1 rare), so 'the Aang cham… |
+| `katara-2006-upperdeck` | Katara | high | Same defects as the Aang entry. No card number given although the set is numbered AME001-235. Katara has six chamber cards, AME182-187, lowest AME182; and she appears on a lower-numbered card in the same set, AME121 ally 'Katara, waterbende… |
+| `zuko-2006-upperdeck` | Prince Zuko | high | No card number given although the set is numbered AME001-235. Zuko has six chamber cards, AME206-211, lowest AME206; and he appears on lower-numbered cards in the same set: AME129 ally 'Prince Zuko, exile' and AME171 Zenemental 'Tail of the… |
+| `iroh-2006-upperdeck` | Uncle Iroh | high | No card number given although the set is numbered AME001-235. Iroh has six chamber cards, AME212-217, lowest AME212; and he appears on lower-numbered cards in the same set: AME130 ally 'Uncle Iroh, Zuko's mentor' and AME172 Zenemental 'Shoc… |
+| `yugioh-bandai-1998` | Blue-Eyes White Dragon | high | The thesis is right - Bandai's 1998 set does predate Konami's OCG, and Blue-Eyes White Dragon really is card #9 (Super Rare) in a 42-card set (2 Super Rare, 4 Rare, 36 Common), appearing exactly once so the lowest-number rule is satisfied. … |
+| `angry-birds-cards` | Red | medium | The card identification holds up, better than expected: E-Max's OWN official checklist PDF (recovered from the Wayback Machine) prints the character name RED and numbers the set 001-180 with Red's block first, and Allender's checklist begin… |
+| `one-piece-2022-romance-dawn` | Monkey D. Luffy | high | THE CENTRAL CLAIM IS WRONG BY 23 YEARS. Luffy's first trading card is Bandai's CARDDASS HYPER BATTLE 'First Stage', released in Japan in NOVEMBER 1999 - 42 cards (36 regular + 6 holo), numbered C01-C34 and S01-S08, with C01 'Luffy' (holo, c… |
+| `et-1982-topps` | E.T. | high | WRONG CARD - and the same owned-photo bias that produced the Superman failure. The set is 87 NUMBERED CARDS (1-87) plus a SEPARATELY numbered 12-sticker run, and every sticker is a crop of an existing card. Allender's sticker map states tha… |
+| `fred-flintstone-monty-gum` | Fred Flintstone | high | THE CENTRAL CLAIM IS WRONG BY ABOUT SEVEN YEARS. A 1963 Flintstones card set is documented in the standard hobby checklist: 'The Flintstones', Primrose Confectionery Co. Ltd. (UK), 1963, 50 cards, about 1-3/8 x 2-5/8 inches, colour fronts w… |
+| `samus-1993-amurol` | Samus Aran | high | WRONG CARD COUNT AND WRONG SET STRUCTURE. The set is 'Nintendo Game Boy (Amurol)', Amurol / Nintendo, 1993 - 14 CARDS, not 54. It is seven games at TWO cards each, not one game per card: 1-2 Dr. Mario, 3-4 Kirby's Dreamland, 5-6 Metroid II … |
+| `finalfantasy-1997-cloud` | Cloud Strife | medium | The card is right but its finish is not. Allender gives 'Final Fantasy VII - Cardass Masters', Bandai, 1997, 139 numbered cards + 4 Gold prize cards + 1 promo, with #1 Cloud Strife flagged SP; the SPs (#1, #3, #4, #37) are described as HOLO… |
+| `potc-2004-sparrow` | Jack Sparrow | medium | The card checks out and so does the lowest-number rule, but the series details are wrong on both halves. Coleka lists 'Pitates des caraibes 239' (their own typo) in the Video Futur Cards series, licence Pirates of the Caribbean, limited to … |
 | `genie-1993-skybox` | Genie | high | Not the lowest-numbered Genie card in the set. The 1993 SkyBox Aladdin checklist opens with a Title Card at #1 followed by a gold-panel character portrait run: 2 Aladdin, 3 Jasmine, 4 Sultan, 5 Jafar, 6 Genie, 7 Abu, 8 Iago, 9 Rajah, 10 Mag… |
 | `jasmine-1993-skybox` | Princess Jasmine | high | Not the lowest-numbered Jasmine card. The checklist's portrait run puts Jasmine at #3 (after #1 Title Card and #2 Aladdin). #69 'Jasmine Plays for Time' is a late scene card; she also appears on 16, 25, 68, 85. Set size (90) and year (1993)… |
 | `zoro-1999-carddass` | Roronoa Zoro | medium | Wrong card within the set. Zoro holds C06, C07 and C08 in First Stage, and the entry names C07 (power 250, rising to 400 — which does match C07 as listed). The lowest-numbered Zoro card is C06 (power 300). The entry's own text says 'Zoro ap… |
@@ -125,10 +138,15 @@ card and must be re-stated or re-measured.
 | `incredibles-2004-mrincredible` | Mr. Incredible | high | Wrong card, and the entry contradicts itself. DPT-106 is not in the 100-card base set at all: it falls in the Incredibles Memorable Scenes insert run, DPT-101 to DPT-150. The base set's Mr. Incredible card is DPT-83, the first card of The I… |
 | `yogi-1961-barratt` | Yogi Bear | medium | The card identification holds: Allender's checklist gives Barratt & Co. 'T.V.'s Huckleberry Hound and Friends', 1961, 35 cards, with #3 'Artist Yogi' and the only other Yogi-titled card at #32 'Mayor Yogi', so #3 is the lowest Yogi card by … |
 
-## Tier A — prose or fact only (42)
+## Tier A — prose or fact only (47)
 
 | card | character | confidence | finding |
 |---|---|---|---|
+| `harry-potter-2001-wotc` | Harry Potter | medium | Card data is right: #8 Harry Potter is a Premium Holo illustrated by Scott M. Fischer and is his only base-set card (Harry Hunting #23 is an Adventure card and higher-numbered anyway). Two problems elsewhere. (1) Description error: the line… |
+| `tmnt-1989-topps` | Leonardo, Michelangelo, Donatello & Raphael | high | Set composition and year are right (Topps, 1989, 88 cards + 11 stickers, with contemporaneous O-Pee-Chee Canadian and Regina Ltd New Zealand printings), and no pre-1989 TMNT card product appears in any index I could reach, so the 'first eve… |
+| `cars-2025-topps-chrome` | Lightning McQueen | high | THE CENTRAL CLAIM IS FLATLY FALSE, and the counter-example comes from the same manufacturer. 2023 TOPPS CHROME DISNEY 100, released 13 December 2023, is a 100-card base set that includes #95 LIGHTNING McQUEEN - plus #60 Mater and #85 Doc Hu… |
+| `peanuts-1991-prosport` | Charlie Brown & Snoopy | high | WRONG PUBLISHER. Jeff Allender's checklist header for the 1991 Peanuts preview set reads 'Peanuts Preview Set / Tuff Stuff - 1991'. ProSport Specialties is the publisher of the 1992 follow-up, 'Peanuts Classics - Series 1' (200 cards) - the… |
+| `venom-1988-comicimages` | Venom | medium | The central claim and nearly everything else is right - this is the only entry in the batch whose 'first card' claim I could positively confirm - but the border attribution is wrong. Spiderfan confirms the set name exactly as given ('1988 C… |
 | `iceman-1976-topps` | Iceman | medium | The central claim survives checking — Iceman is not in the 1966 Donruss Marvel Super Heroes set (which covers only Captain America, Iron Man, Daredevil, Spider-Man, Hulk and Thor across its 66 cards) and not in the 1975 Topps Comic Book Her… |
 | `invisible-girl-1976-topps` | Invisible Girl | medium | Central claim survives (no Invisible Girl in the 1966 Donruss six-hero set, none in the 1975 Topps Comic Book Heroes sticker checklist; she is in the 1976 set), but a fun fact is wrong: the 1976 set does NOT contain Mr. Fantastic. Its FF re… |
 | `pikachu-corocoro-1996` | Pikachu | medium | The central claim and the core dates hold: the Pikachu/Jigglypuff two-card insert came with the November 1996 issue of CoroCoro Comic, released 15 October 1996, five days before the Japanese Base Set, and sources describe the pair as the fi… |
@@ -172,12 +190,18 @@ card and must be re-stated or re-measured.
 | `garfield-1992-skybox` | Garfield | medium | (1) The fun fact 'Card #1 is a straight portrait, unusual for a set otherwise built around gags and trivia' is false. Cards 1-21 are ALL character portraits - the Comics Cast subset (1 Garfield, 2 Odie, 3 Jon, 4 Lyman, 5 Pooky, 6 Nermal, 7 … |
 | `ghostbusters-1988-slimer` | Slimer | medium | The card identification is right (sticker #10 is Slimer; the set is 90 base cards plus 11 stickers covering 15 properties, and the Canadian O-Pee-Chee version is 101 cards with blue backs instead of yellow, all confirmed). Two statements in… |
 
-## Unverifiable (36)
+## Unverifiable (42)
 
 Not passes. Honest gaps, mostly because tcdb.com, psacard.com and the Fandom
 wikis all refused automated fetching during the pass, and the shared search
 budget ran out partway.
 
+- `ron-weasley-2001-wotc` — The card data is exactly right and independently confirmed from the card scan: #17/116, Premium Holo, CHARACTER - Wizard / Gryffindor - Unique, Illus. D. Alexander Gregory, flavour
+- `severus-snape-2001-wotc` — All card-level claims check out against the card scan: #16/116, printed as 'Professor Severus Snape', CHARACTER - Wizard / Slytherin - Unique / Healing, Illus. Scott M. Fischer, fl
+- `krillin-1988-carddass` — Every card-level claim is confirmed against the actual card scan: Carddass Part 1 (Hondan), November 1988, 42 cards at 20 yen, 36 normal + 6 prism; #21 Krillin with attack 60 / def
+- `bulma-1988-carddass` — Card data confirmed against the scan, including the detail I was most sceptical of: #28 Bulma carries no attack/defence and does print a tiebreaker rule in vertical type at bottom-
+- `roshi-1988-carddass` — Card data confirmed against the scan: #5 Master Roshi (Kame-Sen'nin) is one of the six prisms - the prisms are #1-6 (#1 and #2 Goku, #3 and #4 Piccolo Daimao, #5 Roshi, #6 Shenron)
+- `minecraft-2015-steve` — NO SOURCE FOUND FOR THE NAMED PRODUCT - not the year, the publisher, the July 2015 date, the three-per-pack format, the die-cut-sticker front, the poster-puzzle back, or the unnumb
 - `naruto-2002-bandai` — I could not verify the key specifics from any checklist source. TCDB (the entry's own first citation) returns HTTP 403 to automated fetching; naruto.fandom.com returned HTTP 402 an
 - `zelda-1999-carddass` — Nothing in this entry could be verified. No checklist source exists for a 1999 Bandai Carddass Legend of Zelda: Ocarina of Time set that I could reach: TCDB blocks automated fetchi
 - `bttf-1985-marty` — The framing checks out but the card itself does not. CSGB confirms a 1985 Panini Back to the Future sticker set of 180, and confirms all four national issuers exactly as the fun fa
