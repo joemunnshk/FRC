@@ -4715,10 +4715,21 @@
       "Matt Groening named Homer and Marge after his own parents and Lisa and Maggie after his two sisters; Bart is the only invented name in the family, an anagram of \"brat\".",
       "Yeardley Smith originally auditioned for Bart, and was told her voice was too high for a boy; she was given Lisa instead and has voiced her ever since."
     ],
-    "estimatedValue": "$15–40 graded",
-    "rawPriceUsd": "$15 – $40",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$15–40 graded Measured on this card: the middle half of ungraded sales falls between $1 and $2.50, median $2, from 11 sold singles, with the full range running Under $1 to $2.99. Certified, it runs about $45 in PSA 9 up to about $210 in PSA 10.",
+    "rawPriceUsd": "$1 – $2.50",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9",
+        "price": "$45",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$210",
+        "sales": 2
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "6",
@@ -5007,10 +5018,26 @@
       "Yoda’s card is notoriously hard to find in high grade — the red border shows every touch, so the same card that is common raw is scarce in a PSA 9 or 10.",
       "Frank Oz performed and voiced Yoda from inside a pit under the Dagobah set; Lucas briefly considered casting a monkey in a mask instead."
     ],
-    "estimatedValue": "$20–75 raw; far more graded",
-    "rawPriceUsd": "$20 – $75",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$20–75 raw; far more graded Measured on this card: the middle half of ungraded sales falls between $8 and $30, median $16, from 29 sold singles, with the full range running $3.99 to $116.50. Certified, it runs about $130 in PSA 5 up to about $625 in PSA 8.",
+    "rawPriceUsd": "$8 – $30",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 5",
+        "price": "$130",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$160",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$625",
+        "sales": 2
+      }
+    ],
     "exampleCert": null,
     "image": "yoda.jpg",
     "noCardReason": "",
@@ -5835,10 +5862,56 @@
       "Beat the One Piece Card Game, which collectors often mistake for his rookie card, by 23 years",
       "Sold from Carddass vending machines for 20 yen a card, which is why high grades are scarce"
     ],
-    "estimatedValue": "$150–400 raw, into the low thousands for the prism version in PSA 9 or 10",
-    "rawPriceUsd": "$150 – $400",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$150–400 raw, into the low thousands for the prism version in PSA 9 or 10 Measured on this card: the middle half of ungraded sales falls between $575 and $2,650, median $1,350, from 14 sold singles, with the full range running $79.90 to $4,800. Certified, it runs about $1,550 in PSA 1 up to about $13,000 in PSA 9.",
+    "rawPriceUsd": "$575 – $2,650",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 1",
+        "price": "$1,550",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 2",
+        "price": "$1,250",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 3",
+        "price": "$1,000",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 4",
+        "price": "$925",
+        "sales": 4
+      },
+      {
+        "grade": "PSA 5",
+        "price": "$1,000",
+        "sales": 4
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$2,500",
+        "sales": 4
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$2,650",
+        "sales": 8
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$5,500",
+        "sales": 14
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$13,000",
+        "sales": 3
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "8",
@@ -5874,10 +5947,51 @@
       "The card reads 剣士 (swordsman) — the type that doubles as its own power condition",
       "Zoro was the first crewmate Luffy recruited, and the first to get his own card number after him"
     ],
-    "estimatedValue": "Flagged: Zoro runs C06-C08 in this set and the entry names C07. C06 is the lowest. $60–200 raw, $400+ in PSA 9",
-    "rawPriceUsd": "$60 – $200",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Flagged: Zoro runs C06-C08 in this set and the entry names C07. C06 is the lowest. $60–200 raw, $400+ in PSA 9 Measured on this card: the middle half of ungraded sales falls between $290 and $425, median $400, from 20 sold singles, with the full range running $5.97 to $1,000. Certified, it runs about $200 in PSA 2 up to about $3,900 in PSA 9.",
+    "rawPriceUsd": "$290 – $425",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 2",
+        "price": "$200",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 3",
+        "price": "$100",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 4",
+        "price": "$400",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 5",
+        "price": "$260",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$625",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$675",
+        "sales": 5
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$1,650",
+        "sales": 7
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$3,900",
+        "sales": 17
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "9",
@@ -5913,10 +6027,31 @@
       "Three Nami cards shipped in the first set: C09, C10 and C11",
       "The quote translates as \"You're strong — want to team up with me?\""
     ],
-    "estimatedValue": "$50–150 raw, $500+ in PSA 10",
-    "rawPriceUsd": "$50 – $150",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$50–150 raw, $500+ in PSA 10 Measured on this card: the middle half of ungraded sales falls between $75 and $200, median $110, from 28 sold singles, with the full range running $10 to $320. Certified, it runs about $190 in PSA 6 up to about $3,650 in PSA 10.",
+    "rawPriceUsd": "$75 – $200",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 6",
+        "price": "$190",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$230",
+        "sales": 3
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$700",
+        "sales": 11
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$3,650",
+        "sales": 7
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "10",
@@ -5952,10 +6087,16 @@
       "The 鉛星 (Lead Star) shot on the card is his signature slingshot attack from the manga",
       "Its ability forces another player to discard the top card of their deck"
     ],
-    "estimatedValue": "$40–120 raw, $400+ in PSA 10",
-    "rawPriceUsd": "$40 – $120",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$40–120 raw, $400+ in PSA 10 Measured on this card: the middle half of ungraded sales falls between $35 and $280, median $60, from 3 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $15.92 to $499. A PSA 10 has sold at $1,100.",
+    "rawPriceUsd": "$35 – $280",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 10",
+        "price": "$1,100",
+        "sales": 2
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "10",
@@ -7411,10 +7552,26 @@
       "Her 195 points is oddly specific — most cards in the set are round numbers",
       "Unlike Luigi she gets the whole card to herself"
     ],
-    "estimatedValue": "Flagged: her solo card may be #6 rather than the #42 named here - PSA is reported to catalogue it that way, and she also appears on #5. The slab photographed is genuinely #42, so settling this needs the set checklist. $50–150 raw, $300+ in PSA 9",
-    "rawPriceUsd": "$50 – $150",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Flagged: her solo card may be #6 rather than the #42 named here - PSA is reported to catalogue it that way, and she also appears on #5. The slab photographed is genuinely #42, so settling this needs the set checklist. $50–150 raw, $300+ in PSA 9 Measured on this card: the middle half of ungraded sales falls between $40 and $50, median $45, from 2 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $32 to $57.74. Certified, it runs about $35 in PSA 8 up to about $1,500 in PSA 10.",
+    "rawPriceUsd": "$40 – $50",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8",
+        "price": "$35",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$300",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$1,500",
+        "sales": 1
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "9",
@@ -8112,10 +8269,36 @@
       "The printing is riddled with errors: #122 Shockwave exists as a reverse negative, and #105 Buzzsaw and #108 Laserbeak were run with the art rotated 180 degrees",
       "A second series was planned and never produced; the Australian edition is a different 100-card set, numbered its own way and sold four to a pack with gum"
     ],
-    "estimatedValue": "$15 – $50 raw; about $1,500 in PSA 10",
-    "rawPriceUsd": "$15 – $50",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$15 – $50 raw; about $1,500 in PSA 10 Measured on this card: the middle half of ungraded sales falls between $95 and $425, median $220, from 19 sold singles, with the full range running $37 to $916. Certified, it runs about $260 in PSA 5 up to about $2,000 in PSA 10.",
+    "rawPriceUsd": "$95 – $425",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 5",
+        "price": "$260",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$180",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$600",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$1,000",
+        "sales": 3
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$2,000",
+        "sales": 1
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "8",
@@ -8237,10 +8420,21 @@
       "He exists on several background colours; this one is catalogued by PSA as the blue background",
       "The 24 stickers that came with the set are unnumbered, which makes a complete sticker run unusually hard to prove"
     ],
-    "estimatedValue": "$15 – $60 raw; about $1,900 in PSA 10",
-    "rawPriceUsd": "$15 – $60",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$15 – $60 raw; about $1,900 in PSA 10 Measured on this card: the middle half of ungraded sales falls between $35 and $140, median $50, from 19 sold singles, with the full range running $1.50 to $499.99. Certified, it runs about $200 in PSA 8 up to about $2,000 in PSA 10.",
+    "rawPriceUsd": "$35 – $140",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8",
+        "price": "$200",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$2,000",
+        "sales": 3
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "8",
@@ -8280,10 +8474,16 @@
       "He appears twice more in the same set, on action card #88 \"Snake-Eyes Fires\" and on one of the mini stickers",
       "Packs were blisters with the top card visible, so packs showing a key character face-up still carry a premium; cards 96 and 192 are checklists"
     ],
-    "estimatedValue": "$20 – $60 raw; about $520 in PSA 9",
-    "rawPriceUsd": "$20 – $60",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$20 – $60 raw; about $520 in PSA 9 Measured on this card: the middle half of ungraded sales falls between $130 and $200, median $170, from 14 sold singles, with the full range running $31.59 to $635. A PSA 9 has sold at $350.",
+    "rawPriceUsd": "$130 – $200",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9",
+        "price": "$350",
+        "sales": 2
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "10",
@@ -9040,10 +9240,46 @@
       "Its partner #8b is Blasted Billy, a completely different illustration — Series 1 predates the later convention of giving one piece of art two names",
       "A PSA 10 has reached roughly $7,000, which for a 1985 sticker sold in wax packs to schoolchildren is a remarkable afterlife"
     ],
-    "estimatedValue": "Flagged: the a/b fun fact is backwards - #8b Blasted Billy is the same John Pound art under a different name, and the a/b convention ran from Series 1. $25 raw in VG, about $200 raw in NM; $450 – $550 in PSA 8 and around $7,000 in PSA 10",
-    "rawPriceUsd": "$25 – $200",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Flagged: the a/b fun fact is backwards - #8b Blasted Billy is the same John Pound art under a different name, and the a/b convention ran from Series 1. $25 raw in VG, about $200 raw in NM; $450 – $550 in PSA 8 and around $7,000 in PSA 10 Measured on this card: the middle half of ungraded sales falls between $70 and $130, median $100, from 30 sold singles, with the full range running $8 to $204.35. Certified, it runs about $150 in PSA 2 up to about $220 in PSA 9.",
+    "rawPriceUsd": "$70 – $130",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 2",
+        "price": "$150",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 3",
+        "price": "$130",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 4",
+        "price": "$200",
+        "sales": 4
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$280",
+        "sales": 6
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$425",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$575",
+        "sales": 6
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$220",
+        "sales": 2
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "7",
@@ -9469,9 +9705,9 @@
       "Because thirty of the seventy-two base cards are plot summaries, base #05's text is about Jon Snow leaving for the Wall without being a Jon Snow card",
       "Fantasy Flight's A Game of Thrones card game launched in 2002 with illustrated character art, so this is the first photographic Game of Thrones card rather than the first of any kind"
     ],
-    "estimatedValue": "$2 – $8 raw; $40 – $90 in PSA 9 or 10",
-    "rawPriceUsd": "$2 – $8",
-    "priceBasis": "mixed",
+    "estimatedValue": "$2 – $8 raw; $40 – $90 in PSA 9 or 10 Measured on this card: the middle half of ungraded sales falls between $60 and $130, median $120, from 7 sold singles, with the full range running $14.99 to $129.99.",
+    "rawPriceUsd": "$60 – $130",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": {
       "grader": "PSA",
