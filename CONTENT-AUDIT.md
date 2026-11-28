@@ -3,14 +3,14 @@
 Generated from the research pass. Re-runnable inputs live in the session
 scratchpad; this file is the summary.
 
-**7 of 10 batches reported (still running: 1, 7, 8).**
+**9 of 10 batches reported (still running: 1).**
 
 | | count | share |
 |---|---|---|
-| reported on | 170 of 244 cards | |
-| confirmed | 46 | 27% |
-| **wrong** | **92** | **54%** |
-| unverifiable | 32 | 19% |
+| reported on | 219 of 244 cards | |
+| confirmed | 60 | 27% |
+| **wrong** | **123** | **56%** |
+| unverifiable | 36 | 16% |
 
 ## The one bug, over and over
 
@@ -29,7 +29,7 @@ name. The entry and its picture are wrong together, which means the mistake was
 made once, upstream, when the card was chosen — and that **every correction
 below strands its photograph.**
 
-## Tier C — wrong set or year (6)
+## Tier C — wrong set or year (7)
 
 The record moves: new set, new year, new photo, new price. Cannot be scripted.
 
@@ -39,10 +39,11 @@ The record moves: new set, new year, new photo, new price. Cannot be scripted.
 | `star-wars-unlimited-2024` | Darth Vader | high | Darth Vader's first trading card is from 1977, not 2024: 1977 Topps Star Wars Series 1 #7 'The Villainous Darth Vader' is his lowest-numbered card in that set (#17 'Lord Vader Threatens Princess Leia!' is next), per the Series 1 checklist a… |
 | `star-wars-ccg-1995-decipher` | Darth Vader | high | The headline framing is wrong: Decipher's was not the franchise's first card GAME. Droids\Ewoks, published by the Spanish firm Heraclio Fournier in June 1986 — 32 game cards plus an instruction card, drawn from the Droids and Ewoks cartoons… |
 | `homer-simpson-1990-topps` | Homer Simpson | high | Wrong card within the set. The entry names #74 and says 'card #74 is the one that matters', but Homer appears on far lower-numbered cards in the same set. The Simpsons Archive card index attributes #5 'No more television - for all eternity!… |
+| `looney-tunes-1990-comic-ball` | Bugs Bunny | high | The Nolan Ryan pairing is in the wrong set, and I verified this directly: the full Comic Ball 1 (Upper Deck, 1990) checklist contains no Nolan Ryan and no real player at all -- every subset is a cartoon story (Porky Pig and Charlie Dog, Hop… |
 | `animalcrossing-2002-tomnook` | Tom Nook | high | The entry names the North American card when the Japanese one came first - and its own description contains the facts that refute its headline. Nookipedia's Doubutsu no Mori+ Card-e character list gives Japanese Series 1 as 1-001 とたけけ (K.K.… |
 | `wolverine-1986-comic-images` | Wolverine | high | Wrong card and wrong set, the exact shape of the Superman failure. (1) Within the set: Jeff Allender's checklist for the Comic Images '(Official) Marvel Universe Stickers' (1986, 77 stickers) lists Wolverine three times, at #3, #8 and #10. … |
 
-## Tier B — right set, wrong card (57)
+## Tier B — right set, wrong card (74)
 
 `setInfo` changes; the photograph and the measured price then belong to the old
 card and must be re-stated or re-measured.
@@ -87,6 +88,23 @@ card and must be re-stated or re-measured.
 | `bart-simpson-1990-topps` | Bart Simpson | high | Wrong card within the set - the same failure mode as the Superman case. The entry presents sticker #11 as Bart's debut cardboard, but Bart appears on much lower-numbered items in the same release. Base card #4 'I'm Bart Seemp-Seau, Famous U… |
 | `r2d2-1977-topps` | R2-D2 | high | Two errors. (1) Wrong card within the set: #2 'See-Threepio and Artoo-Detoo' is numerically earlier and shows R2-D2, so #3 is not his first card. The entry notices this and argues past it on the grounds that #3 is the first card 'devoted to… |
 | `c3po-1977-topps` | C-3PO | high | Wrong card within the set, and the entry admits the fact that breaks it. #66 is the last card in Series 1; C-3PO appears on #2 'See-Threepio and Artoo-Detoo', 64 cards earlier, and also on #23 'See-Threepio is injured!', #34 'See-Threepio d… |
+| `riftbound-2025-origins` | Tryndamere | high | THE RELEASE DATE IS WRONG, and the entry contradicts itself. 31 October 2025 was the ENGLISH-language release - the launch press release says Origins is 'available today in English' across North America, Latin America, EMEA and Oceania, pub… |
+| `lotr-tcg-2001-decipher` | Aragorn | high | THE CENTRAL CLAIM FAILS, AND THE ENTRY CONTRADICTS ITSELF. Iron Crown Enterprises' Middle-earth Collectible Card Game, first set 'Middle-earth: The Wizards' (limited edition December 1995, 484 cards), includes an Aragorn character card - Wi… |
+| `rocky-1979-topps` | Rocky Balboa | high | WRONG CARD WITHIN THE SET - the classic failure mode. Two independent numbered checklists show the 1979 Topps Rocky II set is 99 base cards (plus a 22-piece die-cut glove sticker subset), and that card #1 is 'Meet "Rocky"' - a Rocky Balboa … |
+| `buzz-lightyear-1995-skybox` | Buzz Lightyear | high | WRONG CARD WITHIN THE SET. The base set is 90 cards (confirmed) and card #32 is indeed titled 'Buzz Lightyear' (confirmed), but it is not the lowest-numbered card depicting Buzz. Both checklists fetched list #5 as 'The Arrival of Buzz Light… |
+| `robin-1966-topps` | Robin | medium | #2 'Robin - Boy Wonder' is confirmed as his lowest-numbered card and the image matches the described leaping portrait against a city skyline. But 'He appears on six cards across the set' is clearly wrong: a visual audit of fronts #1-#36 fro… |
+| `catwoman-1966-topps` | Catwoman | medium | The entry features #27 'Sinister Smile' as the card to show while her run demonstrably opens at #25 'The Cat Woman' -- she is confirmed on #25, so under the lowest-numbered rule the entry must name #25, not #27. The '#25-#35' range is also … |
+| `riddler-1966-topps` | The Riddler | medium | #36 'The Riddler' is confirmed as his lowest-numbered card (his story arc begins at #36) and the art matches the description -- a green figure crouched in the question-mark suit and domino mask against a plain dark background. The year, set… |
+| `penguin-1966-topps` | The Penguin | medium | The card named as the opening of his run does not appear to depict him. #16 'The Penguin's Trap' was zoomed twice from a Heritage complete-set lot photo and shows Batman alone, falling through a yellow void -- no Penguin. His lowest-numbere… |
+| `lex-luthor-1940-gum-inc` | Lex Luthor | high | The card itself is right and survives the lowest-number check: #12 does depict Luthor (a man at a control panel with a full head of orange-red hair firing an electrical ray at Superman, so the red-hair claim is confirmed), and reading the b… |
+| `spock-1967-leaf` | Spock | medium | The set, year and the charming caption observation all hold -- #4 'Come In, Captain Kirk' really does picture Leonard Nimoy alone with a communicator -- but #4 is not Spock's lowest-numbered card. Card #1 'No Time For Escape' pictures Spock… |
+| `kirk-1967-leaf` | Captain Kirk | high | #33 'Fight For Lithium' is correctly titled and does show Shatner solo with a phaser rifle, and the lithium/dilithium fun fact is fine -- but #33 is nowhere near Kirk's lowest-numbered card. #2 'Attempted Mutiny' pictures Kirk restraining G… |
+| `disney-1935-minnie` | Minnie Mouse | medium | #38 is not the lowest-numbered Minnie card. The numbered checklist (nslists, not the cited prewarcards page, which contains only a two-line checklist for #74 and #81) shows #7 'Bad stew Mickey / Stew bad Minnie!' naming her outright, with #… |
+| `disney-1935-pluto` | Pluto | medium | The central claim is unverified and several supporting claims are wrong. #1's caption is confirmed as 'Let's make Hoop-ee!' (nslists, and independently an si.com image caption), but nothing confirms Pluto is PICTURED on it -- the caption na… |
+| `paw-patrol-2015-panini` | Marshall | medium | The year is wrong and the error's origin is identifiable. The cited coleka album page gives a release date of August 2016 ('2016-08-01'), and coleka's Paw Patrol collection page says it was released in 2016 with 178 stickers. The only '2015… |
+| `sanji-2000-carddass` | Sanji | high | The entry's own cited checklist refutes it on three counts. (1) Sanji is NOT absent from 2nd Stage: that set (C35-C66, S09-S16, January 2000) includes #S13 Sanji, titled 料理人 (Cook), a holo -- so the premise 'the Baratie arc had not been rea… |
+| `evangelion-1996-rei` | Rei Ayanami | medium | Most of the set detail is confirmed from photographs of the actual box and pack: 172 cards; 300 yen for ten (tax included, 291 pre-tax); four special cards, newly drawn, inserted one per fifteen packs; 1996; the first-printing tell (edition… |
+| `harleyquinn-1993-topps` | Harley Quinn | high | The card is right but the comics history is wrong twice over. Confirmed: #36 is titled 'Harley Quinn', 'Joker's Favor' aired 11 September 1992, and #36 is the lowest-numbered card depicting her -- Series 1 runs 1-100 and Series 2 runs 101-1… |
 | `mario-1989-topps-nintendo` | Mario | medium | Several problems. (1) 'before the Mario name existed' is false. Wikipedia: Mario was known as Jumpman during Donkey Kong's development, was unnamed in the Japanese launch release, called 'Jumpman' in the English instructions but 'little Mar… |
 | `link-1989-topps-nintendo` | Link | high | #32 is NOT the lowest-numbered Link card in the set - the same class of error as the Superman #36 case. Jeff Allender's printed 1-33 checklist for the 1989 Topps Nintendo set contains, well below 32: #12 'Win with Link' (game tip Zelda II: … |
 | `bowser-1989-topps` | Bowser | high | The card ID is defensible but BOTH fun facts are wrong. (1) The Miyamoto anecdote is reversed. MarioWiki, citing Iwata Asks and Le Monde: Miyamoto based the look on the Ox King (Gyu-Mao) from Alakazam the Great and loosely based Bowser on a… |
@@ -107,7 +125,7 @@ card and must be re-stated or re-measured.
 | `incredibles-2004-mrincredible` | Mr. Incredible | high | Wrong card, and the entry contradicts itself. DPT-106 is not in the 100-card base set at all: it falls in the Incredibles Memorable Scenes insert run, DPT-101 to DPT-150. The base set's Mr. Incredible card is DPT-83, the first card of The I… |
 | `yogi-1961-barratt` | Yogi Bear | medium | The card identification holds: Allender's checklist gives Barratt & Co. 'T.V.'s Huckleberry Hound and Friends', 1961, 35 cards, with #3 'Artist Yogi' and the only other Yogi-titled card at #32 'Mayor Yogi', so #3 is the lowest Yogi card by … |
 
-## Tier A — prose or fact only (29)
+## Tier A — prose or fact only (42)
 
 | card | character | confidence | finding |
 |---|---|---|---|
@@ -132,6 +150,19 @@ card and must be re-stated or re-measured.
 | `weiss-schwarz-2007` | Little Busters! | high | Year is wrong, and it contradicts the entry's own source. Wikipedia states Weiss Schwarz 'was launched in March 2008' (English release 2013). Nothing on that page identifies Little Busters! and Da Capo II as the first trial decks or dates t… |
 | `anpanman-1991-carddass` | Anpanman | medium | The attribution is wrong. Carddass is a Bandai brand, not Banpresto - Japanese Wikipedia's Carddass article states it is Bandai's trading card brand, first shown at the 1988 Tokyo Toy Show with sales from June 1988, and names SD Gundam, Ult… |
 | `gundam-2025-card-game` | RX-78-2 Gundam | medium | The central claim fails: this is not RX-78-2's first trading card. Japanese Wikipedia's Carddass article states that Bandai's Carddass line began sales in June 1988 and that SD Gundam was one of the three launch lines, with SD Gundam a core… |
+| `doctor-doom-1975-topps` | Doctor Doom | high | WRONG CARD - the entry names a caption that belongs to a DIFFERENT SET. Both independent checklists of the 1975 Topps Comic Book Heroes set print Doom's sticker as 'Dr. Doom - I'm Dressed to Kill!'. The caption the entry uses, 'Anyone Out T… |
+| `falcon-1975-topps` | The Falcon | high | The CARD is right - both checklists print 'The Falcon - You Bet Your Bird!' and the Falcon has only one sticker in the set - but a FUN FACT IS FACTUALLY WRONG. The entry says 'Sam had no wings when he debuted in 1969; the flight harness was… |
+| `doc-ock-1975-topps` | Doctor Octopus | medium | The CARD is right - both checklists print 'Dr. Octopus - I'm Just A Well Armed Crook!' and he has only ONE sticker in the set - but the DESCRIPTION contains a factual error. It calls him 'Spider-Man's oldest enemy'. Wikipedia gives Doctor O… |
+| `iron-fist-1975-topps` | Iron Fist | medium | The CARD is right - both checklists list 'Iron Fist - Kung Fooey' and he has only ONE sticker in the set - and the central claim is well supported (Iron Fist did not exist in 1966, and Allender's index shows no Marvel set between 1966 and 1… |
+| `metalgear-1987-snake` | Solid Snake | medium | THE CARD ITSELF IS PHOTO-CONFIRMED IN UNUSUAL DETAIL, but the entry makes an invented claim. The nintendosegajapan image shows the Famicom Metal Gear box (spine code 'KDS-ME' visible) beside a pale-lavender speckled card bearing a painted f… |
+| `amongus-2021-crewmate` | Crewmate | high | MOST OF THE ENTRY IS CONFIRMED, BUT FUN FACT 2 IS FALSE. CONFIRMED: Crewmate Edition reached UK/Europe shelves 14 December 2021 (Japan/South Korea 16 December, North America 21 December - so 14 December really is the earliest date anywhere)… |
+| `batman-1966-topps` | Batman | high | Card, set, year and first-set status all check out: PSA states flatly that the 55-card Black Bat series was the first Batman set Topps issued, and the ACC numbering corroborates (Black Bat is the unsuffixed base R710-16; Red Bat is R710-16B… |
+| `dceu-1940-superman-12` | Superman | high | This is the same class of error the project already found once. The entry's own logic is 'the nearest real card belongs to the hero who started it' -- Superman -- but it points at Gum, Inc. #12 'Superman's Arch Enemy', which is the LEX LUTH… |
+| `thomas-1992-banpresto` | Thomas the Tank Engine | medium | The 1992 Banpresto prism set cannot be verified, and the evidence now runs against it rather than merely being thin. The Thomas wiki has a dedicated Banpresto page enumerating that company's Thomas output -- video games, coin-operated rides… |
+| `magic-1993-alpha` | Black Lotus | high | Set facts are right -- Limited Edition Alpha is 295 cards released 5 August 1993, and the rounded-corner tell is confirmed and quantifiable (about a 2mm corner radius against the later 1mm standard). Four claims are wrong or unsupported. (1… |
+| `indiana-jones-1981-topps` | Indiana Jones | medium | One fun fact is flatly wrong and the central claim is unresolved. The error: 'Every card frames its photograph inside a drawn temple lintel' is not what the set looks like. Cardboard Connection describes bright green outer borders, a snake … |
+| `kirby-1993-carddass` | Kirby | medium | Two separate problems. First, the fun fact is provably wrong and is contradicted by the entry's OWN cited source: Wikipedia says 'Sakurai always intended the character to be pink, though this was unknown to the development team at first; in… |
+| `motu-1984-heman` | He-Man | high | This is the same shape as the Superman #36 failure. He-Man appears on BASE CARD #1 'Welcome to Eternia!', which is far lower than peel-off sticker #19. The card scan from the He-Man Wiki shows #1 to be a full-figure He-Man portrait, sword a… |
 | `dungeon-fighter-online-no-card` | Dungeon Fighter Online (game) | high | The claim that 'no physical trading card line has ever been produced' is false. A licensed physical TCG for this exact IP launched in South Korea: 던전앤파이터 TCG, developed by Neople (the game's own developer) and published by Sigongsa, release… |
 | `candy-crush-no-card` | Candy Crush Saga (game) | medium | Two problems. (1) HIGH CONFIDENCE: 'no characters, no narrative' is flatly false. Wikipedia names Tiffi (Toffette), Mr. Toffee, Mr. Yeti, Odus the Owl, the Bubblegum Troll and the Easter Bunny, with the Jelly Queen and Cupcake Carl in spin-… |
 | `gta-no-card` | Grand Theft Auto (game series) | high | Four problems. (1) An officially licensed GTA trading card set now exists: Panini America and Rockstar Games announced the 'GTAVI: Sports Trading Card Collection' on 24 November 2026 (PR Newswire), described in the release as the first trad… |
@@ -141,7 +172,7 @@ card and must be re-stated or re-measured.
 | `garfield-1992-skybox` | Garfield | medium | (1) The fun fact 'Card #1 is a straight portrait, unusual for a set otherwise built around gags and trivia' is false. Cards 1-21 are ALL character portraits - the Comics Cast subset (1 Garfield, 2 Odie, 3 Jon, 4 Lyman, 5 Pooky, 6 Nermal, 7 … |
 | `ghostbusters-1988-slimer` | Slimer | medium | The card identification is right (sticker #10 is Slimer; the set is 90 base cards plus 11 stickers covering 15 properties, and the Canadian O-Pee-Chee version is 101 cards with blue backs instead of yellow, all confirmed). Two statements in… |
 
-## Unverifiable (32)
+## Unverifiable (36)
 
 Not passes. Honest gaps, mostly because tcdb.com, psacard.com and the Fandom
 wikis all refused automated fetching during the pass, and the shared search
@@ -170,6 +201,10 @@ budget ran out partway.
 - `duel-masters-2002` — Wikipedia confirms the game launched in Japan in May 2002, that Wizards of the Coast developed it, that Takara published it 2002-2006, and that Wizards discontinued the English set
 - `vegeta-1989-carddass` — I could not verify any specific element of this entry. What I did establish: Dragon Ball Carddass began in November 1988 (Japanese Wikipedia; the dragonball.center catalogue dates 
 - `fridaythe13th-1992-jason` — The chase card itself is confirmed: the 1992 Comic Images Fangoria set has a six-card chromium insert at 1:16 packs, numbered 1C-6C as Rawhead Rex, Predator, The Terminator, Czakyr
+- `dragon-ball-1988-carddass` — The set-level facts CHECK OUT: Kanzenshuu, drawing on Daizenshuu 8's merchandise data, gives Dragon Ball Carddass Set 1 as November 1988, 36 regular plus 6 prism cards, numbered No
+- `street-fighter-1992-carddass` — THE NAMED CARD CANNOT BE VERIFIED AT ALL, and as written it is incoherent: '#27 Chun-Li vs Chun-Li prism' does not say whether the card is number 27, a prism, or both. No Street Fi
+- `gijoe-1986-snakeeyes` — THE CARD AND SET DETAILS CHECK OUT, BUT THE CENTRAL FIRST-CARD CLAIM COULD NOT BE TESTED. Cardboard Connection's numbered checklist shows #8 Snake-Eyes as the LOWEST-numbered Snake
+- `carebears-1985-tenderheart` — The set exists and its size is confirmed -- klebebildchen.net gives the 1985 Panini Care Bears collection as 216 stickers numbered 1-216, and coleka's 217 items is consistent (216 
 - `sly-cooper-2012-gamestop-italia` — The entry's core claim is unsupported: no source found names WHICH five characters are on the deck. The one primary source - Sony's own Italian blog post - says only 'cinque protag
 - `yoshi-1991-carddass` — The existence of this set could not be verified at all. The Super Mario Wiki has no Carddass page (/Carddass, /Carddass_Super_Mario_World and /Super_Mario_World_(trading_cards) all
 - `sasuke-2002-bandai` — No checklist for the original Japanese Bandai Naruto Card Game could be reached this pass. The cited TCDB set page returns HTTP 403, naruto.fandom returns HTTP 402, and the slab-z 
