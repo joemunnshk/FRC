@@ -6168,56 +6168,31 @@
     "id": "zoro-1999-carddass",
     "character": "Roronoa Zoro",
     "year": 1999,
-    "setInfo": "Bandai Carddass Hyper Battle First Stage #C07 ゾロ \"鬼斬り\" — PSA 9",
-    "description": "Bandai put out the first One Piece trading cards in November 1999, two years into the manga and just weeks after the anime began, as Carddass Hyper Battle First Stage — a 42-card vending-machine set covering the East Blue story so far. Every card is stamped \"BANDAI 1999 MADE IN JAPAN\" along its bottom edge. Zoro appears on three of them, C06 to C08; C07 shows his Oni Giri three-sword strike, and is the one that turns up graded most often. Its power reads 250, rising to 400 whenever another Swordsman card is in play.",
+    "setInfo": "Bandai Carddass Hyper Battle First Stage #C06 ゾロ — shown: #C07 ‘鬼斬り’, PSA 9",
+    "description": "The card pictured here is #C07 ‘鬼斬り’, PSA 9, not the card this entry now indexes; the description below is of the copy photographed. Bandai put out the first One Piece trading cards in November 1999, two years into the manga and just weeks after the anime began, as Carddass Hyper Battle First Stage — a 42-card vending-machine set covering the East Blue story so far. Every card is stamped \"BANDAI 1999 MADE IN JAPAN\" along its bottom edge. Zoro appears on three of them, C06 to C08; C07 shows his Oni Giri three-sword strike, and is the one that turns up graded most often. Its power reads 250, rising to 400 whenever another Swordsman card is in play.",
     "funFacts": [
       "One of three Zoro cards in the 42-card set, all released the same day",
       "The card reads 剣士 (swordsman) — the type that doubles as its own power condition",
       "Zoro was the first crewmate Luffy recruited, and the first to get his own card number after him"
     ],
-    "estimatedValue": "Flagged: Zoro runs C06-C08 in this set and the entry names C07. C06 is the lowest. Measured on this card: the middle half of ungraded sales falls between $290 and $425, median $400, from 20 sold singles, with the full range running $5.97 to $1,000. Certified, it runs about $200 in PSA 2 up to about $3,900 in PSA 9.",
-    "rawPriceUsd": "$290 – $425",
+    "estimatedValue": "Zoro runs C06 to C08 in this set and C06 is the lowest; the entry named C07 because it is the one that grades most often, which is not the same thing. Measured on this card: the middle half of ungraded sales falls between $85 and $190, median $120, from 37 sold singles, with the full range running $25 to $750. Certified, it runs about $575 in PSA 7 up to about $6,150 in PSA 10.",
+    "rawPriceUsd": "$85 – $190",
     "priceBasis": "raw",
     "gradedPrices": [
       {
-        "grade": "PSA 2",
-        "price": "$200",
-        "sales": 1
-      },
-      {
-        "grade": "PSA 3",
-        "price": "$100",
-        "sales": 1
-      },
-      {
-        "grade": "PSA 4",
-        "price": "$400",
-        "sales": 2
-      },
-      {
-        "grade": "PSA 5",
-        "price": "$260",
-        "sales": 1
-      },
-      {
-        "grade": "PSA 6",
-        "price": "$625",
-        "sales": 2
-      },
-      {
         "grade": "PSA 7",
-        "price": "$675",
-        "sales": 5
-      },
-      {
-        "grade": "PSA 8",
-        "price": "$1,650",
-        "sales": 7
+        "price": "$575",
+        "sales": 1
       },
       {
         "grade": "PSA 9",
-        "price": "$3,900",
-        "sales": 17
+        "price": "$825",
+        "sales": 12
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$6,150",
+        "sales": 2
       }
     ],
     "exampleCert": {
@@ -6353,17 +6328,28 @@
     "id": "sanji-2000-carddass",
     "character": "Sanji",
     "year": 2000,
-    "setInfo": "Bandai Carddass Hyper Battle 3rd Stage #C121 サンジ \"無敵のウェイター\"",
+    "setInfo": "Bandai Carddass Second Stage #S13 サンジ (January 2000)",
     "description": "Sanji missed the first two Carddass sets and arrived with 3rd Stage in April 2000, the run that covers the Baratie arc where he is introduced. He got two cards, C120 and C121; C121 is the portrait, titled 無敵のウェイター — \"the invincible waiter\" — and typed 料理 (Cooking), a category the set created for him.",
     "funFacts": [
       "Skipped the 1999 First Stage and the January 2000 2nd Stage — the Baratie arc had not been reached yet",
       "His 料理 (Cooking) card type protects other Cooking cards from being discarded",
       "The quote is pure Sanji: \"There's still food left — eat it!\""
     ],
-    "estimatedValue": "Flagged: the cited checklist places Sanji in 2nd Stage at #S13 (January 2000), below the card named here. $20–60 raw",
-    "rawPriceUsd": "$20 – $60",
+    "estimatedValue": "The set checklist places Sanji in Second Stage at #S13, below the card this entry named. Measured on this card: the middle half of ungraded sales falls between $20 and $70, median $45, from 10 sold singles, with the full range running $10 to $138. Certified, it runs about $120 in PSA 7 up to about $300 in PSA 8.",
+    "rawPriceUsd": "$20 – $70",
     "priceBasis": "raw",
-    "gradedPrices": [],
+    "gradedPrices": [
+      {
+        "grade": "PSA 7",
+        "price": "$120",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$300",
+        "sales": 2
+      }
+    ],
     "exampleCert": null,
     "image": "sanji-2000-carddass.jpg"
   },
@@ -8976,23 +8962,17 @@
     "franchise": "Disney",
     "character": "Minnie Mouse",
     "year": 1935,
-    "setInfo": "1935 Gum, Inc. Mickey Mouse (R89) #38 \"Look! Mickey's in a Row with Minnie!\" (Type II)",
-    "description": "The same 96-card Philadelphia set that holds Mickey at #75. Gum, Inc. issued it in two series of 48 across 1935, two and a half by three and an eighth inches, each back carrying a pun and pointing to the answer on the previous card. Minnie turns up repeatedly through the run; on #38 she sits under a red parasol while Mickey rows.",
+    "setInfo": "Gum, Inc. Mickey Mouse (R89) #7 — the first card to name Minnie — shown: #38 ‘Look! Mickey’s in a Row with Minnie!’, PSA 3",
+    "description": "The card pictured here is #38 ‘Look! Mickey’s in a Row with Minnie!’, PSA 3, not the card this entry now indexes; the description below is of the copy photographed. The same 96-card Philadelphia set that holds Mickey at #75. Gum, Inc. issued it in two series of 48 across 1935, two and a half by three and an eighth inches, each back carrying a pun and pointing to the answer on the previous card. Minnie turns up repeatedly through the run; on #38 she sits under a red parasol while Mickey rows.",
     "funFacts": [
       "Gum, Inc. sold two companion albums, one per series, for mounting the cards",
       "O-Pee-Chee issued the Canadian counterpart (V303) the same year with identical pictures, descriptions and numbers — the only tell is the printing location on the back",
       "Which card first pictures her has never been settled: she also appears on #67, and other accounts put her on #74 \"Golf\" and #81 \"Hockey\", which would make that one a vintage hockey card"
     ],
-    "estimatedValue": "Flagged: card #7 names Minnie, so #38 is not her lowest; #5 is unresolved. Measured on this card: the middle half of ungraded sales falls between $40 and $70, median $55, from 2 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $24.99 to $88. A PSA 6 has sold at $1,500.",
-    "rawPriceUsd": "$40 – $70",
+    "estimatedValue": "Card #7 names Minnie, so #38 is not her lowest. Whether #5 shows her earlier is unresolved. Measured on this card: the middle half of ungraded sales falls between $160 and $170, median $170, from 2 sold singles, with the full range running $159 to $175.",
+    "rawPriceUsd": "$160 – $170",
     "priceBasis": "raw",
-    "gradedPrices": [
-      {
-        "grade": "PSA 6",
-        "price": "$1,500",
-        "sales": 1
-      }
-    ],
+    "gradedPrices": [],
     "exampleCert": {
       "grader": "PSA",
       "grade": "3",
