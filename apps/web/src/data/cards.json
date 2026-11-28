@@ -7976,10 +7976,36 @@
       "The turtles were named after Renaissance artists by Kevin Eastman and Peter Laird as a joke that stuck",
       "Colour-coded masks were invented for the cartoon and the toys — in the original comics all four wore red"
     ],
-    "estimatedValue": "Flagged: the set’s story cards #1-#20 show the Turtles, so a lower-numbered base card may precede the card named here. $15–60 raw, $150+ in PSA 9",
-    "rawPriceUsd": "$15 – $60",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Flagged: the set’s story cards #1-#20 show the Turtles, so a lower-numbered base card may precede the card named here. $15–60 raw, $150+ in PSA 9 Measured on this card: the middle half of ungraded sales falls between $3 and $10, median $5, from 19 sold singles, with the full range running $1.68 to $35.02. Certified, it runs about $20 in PSA 5 up to about $200 in PSA 9.",
+    "rawPriceUsd": "$3 – $10",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 5",
+        "price": "$20",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$30",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$17",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$70",
+        "sales": 5
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$200",
+        "sales": 5
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "7",
@@ -8015,10 +8041,26 @@
       "His belt buckle reads R — the cartoon gave each turtle an initial so children could tell them apart",
       "The sai is the only one of the four weapons that is not a blade"
     ],
-    "estimatedValue": "Flagged: the set’s story cards #1-#20 show the Turtles, so a lower-numbered base card may precede the card named here. $20–70 raw, $180+ in PSA 9",
-    "rawPriceUsd": "$20 – $70",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Flagged: the set’s story cards #1-#20 show the Turtles, so a lower-numbered base card may precede the card named here. $20–70 raw, $180+ in PSA 9 Measured on this card: the middle half of ungraded sales falls between $2 and $5, median $3, from 16 sold singles, with the full range running Under $1 to $75. Certified, it runs about $40 in PSA 8 up to about $2,400 in PSA 10.",
+    "rawPriceUsd": "$2 – $5",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8",
+        "price": "$40",
+        "sales": 4
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$160",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$2,400",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "raphael-1989-topps.jpg"
   },
@@ -8050,10 +8092,26 @@
       "His nunchaku were cut from British and German releases of the cartoon over weapons rules",
       "He is the only turtle whose weapon got him censored"
     ],
-    "estimatedValue": "Flagged: the set’s story cards #1-#20 show the Turtles, so a lower-numbered base card may precede the card named here. $20–70 raw, $180+ in PSA 9",
-    "rawPriceUsd": "$20 – $70",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Flagged: the set’s story cards #1-#20 show the Turtles, so a lower-numbered base card may precede the card named here. $20–70 raw, $180+ in PSA 9 Measured on this card: the middle half of ungraded sales falls between $2 and $9, median $3, from 15 sold singles, with the full range running Under $1 to $29.95. Certified, it runs about $60 in PSA 8 up to about $1,050 in PSA 10.",
+    "rawPriceUsd": "$2 – $9",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8",
+        "price": "$60",
+        "sales": 8
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$90",
+        "sales": 8
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$1,050",
+        "sales": 2
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "9",
@@ -8128,10 +8186,36 @@
       "Shown seated at the Technodrome controls rather than fighting",
       "Voiced by Uncle Phil — James Avery, later of The Fresh Prince of Bel-Air"
     ],
-    "estimatedValue": "$20–70 raw, $180+ in PSA 9",
-    "rawPriceUsd": "$20 – $70",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$20–70 raw, $180+ in PSA 9 Measured on this card: the middle half of ungraded sales falls between $2.50 and $6, median $3, from 18 sold singles, with the full range running Under $1 to $125. Certified, it runs about $16 in PSA 5 up to about $1,300 in PSA 10.",
+    "rawPriceUsd": "$2.50 – $6",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 5",
+        "price": "$16",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$16",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$55",
+        "sales": 10
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$200",
+        "sales": 5
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$1,300",
+        "sales": 2
+      }
+    ],
     "exampleCert": null,
     "image": "shredder-1989-topps.jpg"
   },
@@ -8562,10 +8646,16 @@
       "O-Pee-Chee issued the Canadian counterpart (V303) the same year with identical pictures, descriptions and numbers — the only tell is the printing location on the back",
       "Which card first pictures her has never been settled: she also appears on #67, and other accounts put her on #74 \"Golf\" and #81 \"Hockey\", which would make that one a vintage hockey card"
     ],
-    "estimatedValue": "Flagged: card #7 names Minnie, so #38 is not her lowest; #5 is unresolved. $60 – $200 raw; $200 – $500 graded 3 to 5",
-    "rawPriceUsd": "$60 – $200",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Flagged: card #7 names Minnie, so #38 is not her lowest; #5 is unresolved. $60 – $200 raw; $200 – $500 graded 3 to 5 Measured on this card: the middle half of ungraded sales falls between $40 and $70, median $55, from 2 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $24.99 to $88. A PSA 6 has sold at $1,500.",
+    "rawPriceUsd": "$40 – $70",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 6",
+        "price": "$1,500",
+        "sales": 1
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "3",
@@ -8605,9 +8695,9 @@
       "Cards 73 to 81 were a nine-card puzzle tucked into certain Deluxe Edition soundtrack CDs, and 82 to 105 were a separate Walmart-exclusive run, pushing the full checklist to 115",
       "She has a second, harder card in the same numbering — #100, Walmart exclusive"
     ],
-    "estimatedValue": "$1 – $4 raw; $25 – $100 in PSA 9 or 10",
-    "rawPriceUsd": "$1 – $4",
-    "priceBasis": "mixed",
+    "estimatedValue": "$1 – $4 raw; $25 – $100 in PSA 9 or 10 Measured on this card: the middle half of ungraded sales falls between $2 and $3, median $3, from 12 sold singles, with the full range running $1 to $4.99.",
+    "rawPriceUsd": "$2 – $3",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": {
       "grader": "PSA",
@@ -8718,10 +8808,16 @@
       "He is #1 in three different subsets at once: the base set, the Embossed Foil parallel and the retail-only Flix-Pix lenticulars",
       "Hobby packs carried hand-drawn sketch cards at 1:24 and never went to retail, while the lenticulars were retail-only at 1:12, so no single box configuration could complete the master set"
     ],
-    "estimatedValue": "$5 – $20 raw; $150 – $400 in PSA 10",
-    "rawPriceUsd": "$5 – $20",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$5 – $20 raw; $150 – $400 in PSA 10 Measured on this card: the middle half of ungraded sales falls between $30 and $90, median $45, from 9 sold singles, with the full range running Under $1 to $99.99. A PSA 10 has sold at $130.",
+    "rawPriceUsd": "$30 – $90",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 10",
+        "price": "$130",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "master-chief.jpg",
     "noCardReason": "",
