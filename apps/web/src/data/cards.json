@@ -2106,10 +2106,26 @@
       "The set's chase card is #252 Black Knight; a Crystal Shard parallel graded PSA 10 sold for $34,800 in May 2023",
       "No Jonesy in the set — Fortnite's closest thing to a protagonist only arrived in the game in December 2020, well after Series 1 shipped"
     ],
-    "estimatedValue": "The base #235 is the card, not the Crystal Shard parallel the entry named — the same chase-card-over-base-card mistake found across this database. The previous figure ($80 – $230) was for the Crystal Shard parallel of #235 and has been withdrawn; this card needs its own comps. The photograph still shows the Crystal Shard parallel of #235.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "The base #235 is the card, not the Crystal Shard parallel the entry named — the same chase-card-over-base-card mistake found across this database. Measured on this card: the middle half of ungraded sales falls between $35 and $210, median $120, from 16 sold singles, with the full range running $5.50 to $2,250. Certified, it runs about $60 in PSA 8 up to about $250 in PSA 10.",
+    "rawPriceUsd": "$35 – $210",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8",
+        "price": "$60",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$60",
+        "sales": 5
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$250",
+        "sales": 11
+      }
+    ],
     "exampleCert": null,
     "image": "fortnite.jpg",
     "noCardReason": "",
@@ -2487,10 +2503,21 @@
       "Launch stock sold out so fast that Ravensburger announced reprints within weeks",
       "Reached the sixth best-selling TCG in the world within two years of existing"
     ],
-    "estimatedValue": "Elsa's lowest card in the set is #40; the entry named the Enchanted chase card. The previous figure ($560 – $960) was for Enchanted 207/204 'Elsa, Spirit of Winter' and has been withdrawn rather than carried over to a card it was never a price for; this card needs its own comps. The photograph still shows Enchanted 207/204 'Elsa, Spirit of Winter', so the certification below belongs to that copy.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "Elsa's lowest card in the set is #40; the entry named the Enchanted chase card. Only 1 ungraded sale could be found, so the figure shown is a certified one: $95 in PSA 10, from 8 sales. Measured on this card: the middle half of ungraded sales falls between Under $1 and Under $1, median Under $1, from 1 sold single, with the full range running Under $1 to Under $1. Certified, it runs about $40 in PSA 9 up to about $95 in PSA 10.",
+    "rawPriceUsd": "$95",
+    "priceBasis": "graded",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9",
+        "price": "$40",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$95",
+        "sales": 8
+      }
+    ],
     "exampleCert": null,
     "image": "lorcana.jpg",
     "sources": [
@@ -4286,10 +4313,16 @@
       "The sticker is captioned 'Do The Freddy' — the point where the character turned into merchandise",
       "Four years after the first film, and sold with bubble gum despite the source material"
     ],
-    "estimatedValue": "Base card #1 is the title card and precedes the sticker, as the entry's own text conceded. The previous figure ($6 – $15) was for sticker #5 'Do The Freddy' and has been withdrawn rather than carried over to a card it was never a price for; this card needs its own comps. The photograph still shows sticker #5 'Do The Freddy', so the certification below belongs to that copy.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "Base card #1 is the title card and precedes the sticker, as the entry's own text conceded. Measured on this card: the middle half of ungraded sales falls between $9 and $15, median $10, from 14 sold singles, with the full range running $4.95 to $18. A PSA 8 has sold at $180.",
+    "rawPriceUsd": "$9 – $15",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8",
+        "price": "$180",
+        "sales": 5
+      }
+    ],
     "exampleCert": null,
     "image": "freddy.jpg",
     "sources": [
@@ -4326,9 +4359,9 @@
       "Recalled over licensing, so it was distributed only in Ohio and Illinois",
       "Just 72 cards, which is why a set from a franchise this large is genuinely scarce"
     ],
-    "estimatedValue": "Kirk's first card is #2. The checklist alone disproves #33, since #16 is titled 'Kirk Battles a Gorn'. The previous figure ($25 – $50) was for #33 'Fight For Lithium', PSA 8 and has been withdrawn. The photograph still shows #33 'Fight For Lithium', PSA 8.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
+    "estimatedValue": "Kirk's first card is #2. The checklist alone disproves #33, since #16 is titled 'Kirk Battles a Gorn'. Measured on this card: the middle half of ungraded sales falls between $55 and $120, median $85, from 2 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $21.93 to $149.",
+    "rawPriceUsd": "$55 – $120",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": {
       "grader": "PSA",
@@ -4400,10 +4433,26 @@
       "Sylvester Stallone wrote the original screenplay in a matter of days",
       "The copyright line on the card is United Artists, not Topps alone"
     ],
-    "estimatedValue": "#1 is the lowest-numbered Rocky Balboa card in the set. The previous figure ($1 – $4) was for #35 'Feelin' Strong Now!' and has been withdrawn. The photograph still shows #35 'Feelin' Strong Now!'.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "#1 is the lowest-numbered Rocky Balboa card in the set. Measured on this card: the middle half of ungraded sales falls between $90 and $140, median $100, from 37 sold singles, with the full range running $50 to $399. Certified, it runs about $260 in PSA 6 up to about $825 in PSA 8.",
+    "rawPriceUsd": "$90 – $140",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 6",
+        "price": "$260",
+        "sales": 3
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$425",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$825",
+        "sales": 2
+      }
+    ],
     "exampleCert": null,
     "image": "rocky.jpg",
     "noCardReason": "",
@@ -4704,10 +4753,21 @@
       "The TCG shipped in August 2001, three months before the first film, so the earliest Hermione card shows a painted illustration rather than Emma Watson.",
       "Rowling has said Hermione is heavily based on herself at eleven — insecure and driven, with a fear of failure out of proportion to any real risk of it."
     ],
-    "estimatedValue": "Hermione has two adjacent premium cards, #9 Holo and #10 Foil; the entry named the higher of the pair. The previous figure ($10 – $35) was for #10, the Premium Foil twin and has been withdrawn. The photograph still shows #10, the Premium Foil twin.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "Hermione has two adjacent premium cards, #9 Holo and #10 Foil; the entry named the higher of the pair. Measured on this card: the middle half of ungraded sales falls between $80 and $110, median $90, from 4 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $57 to $150. Certified, it runs about $600 in PSA 8 up to about $1,750 in PSA 9.",
+    "rawPriceUsd": "$80 – $110",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8",
+        "price": "$600",
+        "sales": 3
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$1,750",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "hermione.jpg",
     "noCardReason": "",
@@ -4818,10 +4878,21 @@
       "Buzz was called Lunar Larry through most of development; the final name honours astronaut Buzz Aldrin, who has since been photographed holding the toy.",
       "Tim Allen got the part after Billy Crystal turned it down — a decision Crystal has called the biggest mistake of his career."
     ],
-    "estimatedValue": "Buzz's lowest-numbered card is #5; he is also on #6, #11, #19, #22 and #29 before #32. A 1995 promo (P1–P4/S1) may predate the base set and is unresolved. The previous figure ($2 – $20) was for #32, PSA 9 and has been withdrawn. The photograph still shows #32, PSA 9.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "Buzz's lowest-numbered card is #5; he is also on #6, #11, #19, #22 and #29 before #32. A 1995 promo (P1–P4/S1) may predate the base set and is unresolved. Measured on this card: the middle half of ungraded sales falls between $1 and $2, median $1.50, from 3 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running Under $1 to $2.50. Certified, it runs about $14 in PSA 7 up to about $30 in PSA 9.",
+    "rawPriceUsd": "$1 – $2",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 7",
+        "price": "$14",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$30",
+        "sales": 1
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "9",
@@ -5075,10 +5146,21 @@
       "Robin Williams recorded roughly sixteen hours of improvisation for the part; animator Eric Goldberg built the Genie’s shape-shifting around whatever Williams happened to become mid-take.",
       "Williams took scale — about $75,000 — on condition Disney not use the Genie to sell merchandise. The studio did anyway, and he refused to return for the direct-to-video sequel."
     ],
-    "estimatedValue": "The set opens with a Title Card at #1 and a character-portrait run at #2-#10; Genie is #6. #43 is a later scene card. The previous figure ($2 – $8) was for #43 'Genie of the Lamp' and has been withdrawn rather than carried over to a card it was never a price for; this card needs its own comps. The photograph still shows #43 'Genie of the Lamp', so the certification below belongs to that copy.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "The set opens with a Title Card at #1 and a character-portrait run at #2-#10; Genie is #6. #43 is a later scene card. Measured on this card: the middle half of ungraded sales falls between $2 and $3, median $2, from 4 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $1.23 to $4.98. Certified, it runs about $55 in PSA 9 up to about $1,900 in PSA 10.",
+    "rawPriceUsd": "$2 – $3",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9",
+        "price": "$55",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 10",
+        "price": "$1,900",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "genie.jpg",
     "noCardReason": "",
@@ -5215,9 +5297,9 @@
       "Janeane Garofalo was originally cast as Fiona and recorded for about a year before being replaced by Cameron Diaz; she has said nobody ever explained why.",
       "The animators had to rebuild Fiona’s hair simulation from scratch after the first version made it behave like a solid helmet in every shot."
     ],
-    "estimatedValue": "Fiona is #4. #15 is the Magic Mirror card - which is what the entry's own description described. The previous figure ($2 – $6) was for #15 'Bachelorette Number Three' and has been withdrawn rather than carried over to a card it was never a price for; this card needs its own comps. The photograph still shows #15 'Bachelorette Number Three', so the certification below belongs to that copy.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
+    "estimatedValue": "Fiona is #4. #15 is the Magic Mirror card - which is what the entry's own description described. Measured on this card: the middle half of ungraded sales falls between $10 and $10, median $10, from 3 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $9 to $10.",
+    "rawPriceUsd": "$10",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "fiona.jpg",
@@ -5693,10 +5775,16 @@
       "Jasmine was the first Disney princess who is not European, and the first whose film is named after someone else.",
       "Linda Larkin was told repeatedly during recording that her speaking voice was too high; she kept the part, but Lea Salonga sings all of Jasmine’s songs."
     ],
-    "estimatedValue": "Jasmine is #3 in the set's opening portrait run. #69 is a late scene card. The previous figure ($2 – $8) was for #69 'Jasmine Plays for Time' and has been withdrawn rather than carried over to a card it was never a price for; this card needs its own comps. The photograph still shows #69 'Jasmine Plays for Time', so the certification below belongs to that copy.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "Jasmine is #3 in the set's opening portrait run. #69 is a late scene card. Measured on this card: the middle half of ungraded sales falls between $2.50 and $4, median $3.50, from 4 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $1.49 to $4.99. A PSA 9 has sold at $50.",
+    "rawPriceUsd": "$2.50 – $4",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 9",
+        "price": "$50",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "sources": [
       {
@@ -6638,9 +6726,9 @@
       "Kristen Bell had auditioned for Disney animation since childhood and got this on her third try",
       "Anna's freckles were a deliberate break from Disney's usual princess design"
     ],
-    "estimatedValue": "Anna's lowest card in the set is #1; #146 is an Elsa dot-to-dot. The previous figure ($1 – $6) was for #146 and has been withdrawn rather than carried over to a card it was never a price for; this card needs its own comps. The photograph still shows #146, so the certification below belongs to that copy.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
+    "estimatedValue": "Anna's lowest card in the set is #1; #146 is an Elsa dot-to-dot. Measured on this card: the middle half of ungraded sales falls between $1.50 and $1.50, median $1.50, from 1 sold single — too few to lean on, and quoted here only because it is what exists, with the full range running $1.33 to $1.33.",
+    "rawPriceUsd": "$1.50",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "anna-2014-topps.jpg",
@@ -6673,9 +6761,9 @@
       "Carries a power rating of 90, part of the set's built-in top-trumps game",
       "Josh Gad improvised so much of the dialogue that the writers rebuilt scenes around him"
     ],
-    "estimatedValue": "Olaf's lowest card is #14; #116 is a later holo foil. The previous figure ($2 – $8) was for #116 (holo foil) and has been withdrawn rather than carried over to a card it was never a price for; this card needs its own comps. The photograph still shows #116 (holo foil), so the certification below belongs to that copy.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
+    "estimatedValue": "Olaf's lowest card is #14; #116 is a later holo foil. Measured on this card: the middle half of ungraded sales falls between $1.50 and $1.50, median $1.50, from 1 sold single — too few to lean on, and quoted here only because it is what exists, with the full range running $1.33 to $1.33.",
+    "rawPriceUsd": "$1.50",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "olaf-2014-topps.jpg",
@@ -8746,10 +8834,21 @@
       "Topps shipped the set in four different wrappers: He-Man, Skeletor, Orko and Teela",
       "Sticker #19 exists with both blue- and red-bordered puzzle backs"
     ],
-    "estimatedValue": "He-Man is on base card #1, a full-figure portrait, far below the sticker this entry named. The premise that the base cards are mostly scenery does not hold. The previous figure ($5 – $20) was for sticker #19 and has been withdrawn. The photograph still shows sticker #19.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "He-Man is on base card #1, a full-figure portrait, far below the sticker this entry named. The premise that the base cards are mostly scenery does not hold. Measured on this card: the middle half of ungraded sales falls between $12 and $60, median $18, from 8 sold singles, with the full range running $3 to $149.99. Certified, it runs about $100 in PSA 8 up to about $500 in PSA 9.",
+    "rawPriceUsd": "$12 – $60",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8",
+        "price": "$100",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$500",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "he-man.jpg",
     "noCardReason": "",
@@ -8902,9 +9001,9 @@
       "A decade before the 1974 Wonder Bread Hanna-Barbera cards that gave this database Scooby-Doo, and from a set nobody thinks of as a horror issue",
       "Only four characters get title cards outright — Gomez at #1, Fester at #19, Thing at #36 and Morticia at #44. Wednesday gets none"
     ],
-    "estimatedValue": "Gomez is #1 - a number the entry's own text already named. The previous figure ($5 – $15) was for #17 'Got Any Ghostly Numbers?' (Canadian) and has been withdrawn rather than carried over to a card it was never a price for; this card needs its own comps. The photograph still shows #17 'Got Any Ghostly Numbers?' (Canadian), so the certification below belongs to that copy.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
+    "estimatedValue": "Gomez is #1 - a number the entry's own text already named. Measured on this card: the middle half of ungraded sales falls between $25 and $30, median $25, from 4 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $22.99 to $42.09.",
+    "rawPriceUsd": "$25 – $30",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": {
       "grader": "PSA",
@@ -9623,10 +9722,26 @@
       "Three Wonder Woman designs exist in the 1962 Topps Superman Tattoo Bubble Gum issue four years earlier, but those are transfers you wet and press onto skin, so the Foldee is her first actual card",
       "Unfolded it runs 2½ x 4-11/16 inches, which is longer than PSA's standard holder takes — graded copies sit in the Tall Boy"
     ],
-    "estimatedValue": "Wonder Woman is #12 - a number the entry's own text already named. The previous figure ($35 – $90) was for #33 and has been withdrawn rather than carried over to a card it was never a price for; this card needs its own comps. The photograph still shows #33, so the certification below belongs to that copy.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "Wonder Woman is #12 - a number the entry's own text already named. Measured on this card: the middle half of ungraded sales falls between $140 and $270, median $230, from 5 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $71.96 to $288.05. Certified, it runs about $400 in PSA 3 up to about $10,000 in PSA 8.5.",
+    "rawPriceUsd": "$140 – $270",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 3",
+        "price": "$400",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$750",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8.5",
+        "price": "$10,000",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "wonder-woman.jpg",
     "noCardReason": "",
@@ -9693,9 +9808,9 @@
       "The 1962 Topps tattoo issue has a Flash racing past a street lamp, four years earlier, but tattoos are transfers rather than cards",
       "DC had relaunched the Flash as Barry Allen in 1956, meaning a decade passed between the Silver Age revival that started the whole superhero boom and the character's first card"
     ],
-    "estimatedValue": "The Flash is #1 - a number the entry's own text already named. The previous figure ($15 – $20) was for #41 and has been withdrawn rather than carried over to a card it was never a price for; this card needs its own comps. The photograph still shows #41, so the certification below belongs to that copy.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
+    "estimatedValue": "The Flash is #1 - a number the entry's own text already named. Measured on this card: the middle half of ungraded sales falls between $25 and $25, median $25, from 2 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $22 to $24.",
+    "rawPriceUsd": "$25",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "the-flash.jpg",
@@ -9798,10 +9913,36 @@
       "Card #2, \"See-Threepio and Artoo-Detoo\", is numerically earlier but shows both droids; #3 is the first card in the whole run devoted to one character",
       "Topps never wrote R2-D2 or C-3PO on a 1977 card: the numerals only arrived in the sets that followed"
     ],
-    "estimatedValue": "R2-D2 appears on #2, one card earlier. The previous figure ($5 – $25) was for #3 and has been withdrawn rather than carried over to a card it was never a price for; this card needs its own comps. The photograph still shows #3, so the certification below belongs to that copy.",
-    "rawPriceUsd": "—",
-    "priceBasis": "none",
-    "gradedPrices": [],
+    "estimatedValue": "R2-D2 appears on #2, one card earlier. Measured on this card: the middle half of ungraded sales falls between $3 and $7, median $5, from 27 sold singles, with the full range running $1 to $40. Certified, it runs about $35 in PSA 4 up to about $270 in PSA 8.",
+    "rawPriceUsd": "$3 – $7",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 4",
+        "price": "$35",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 5",
+        "price": "$40",
+        "sales": 3
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$90",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$190",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$270",
+        "sales": 3
+      }
+    ],
     "exampleCert": null,
     "image": "r2-d2.jpg",
     "noCardReason": "",
