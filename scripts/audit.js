@@ -62,6 +62,14 @@ for (const c of cards) {
   }
   if (c.priceBasis === 'mixed') add('D. still unmeasured ("all grades")', `${id} — ${c.rawPriceUsd}`)
 
+  // A sentence that is only a price, with no verb, is a leftover from an older
+  // version of the entry - and it usually contradicts the measured figure that
+  // follows it. This caught 48 of them once; it exists so they cannot come back.
+  const stranded = String(c.estimatedValue)
+    .split(/(?<=\.)\s+/)
+    .filter((sent) => /^\$/.test(sent.trim()) && sent.trim().length < 80 && !/\b(sell|sells|sold|falls|runs|reached|has|is|are|was|were)\b/i.test(sent))
+  if (stranded.length) add('D. prose carries a bare price fragment', `${id} — "${stranded[0].trim().slice(0, 60)}"`)
+
   // Does the tile's band appear anywhere in the prose that is meant to explain it?
   const tile = money(c.rawPriceUsd)
   const prose = money(c.estimatedValue)
