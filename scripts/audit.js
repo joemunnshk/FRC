@@ -65,10 +65,12 @@ for (const c of cards) {
   // A sentence that is only a price, with no verb, is a leftover from an older
   // version of the entry - and it usually contradicts the measured figure that
   // follows it. This caught 48 of them once; it exists so they cannot come back.
+  // The signature is a price fragment carrying NO full stop of its own, sitting
+  // directly in front of a sentence appended later. A sentence that merely
+  // begins with a price ("$15 - $60 for a complete base set.") is fine.
   const stranded = String(c.estimatedValue)
-    .split(/(?<=\.)\s+/)
-    .filter((sent) => /^\$/.test(sent.trim()) && sent.trim().length < 80 && !/\b(sell|sells|sold|falls|runs|reached|has|is|are|was|were)\b/i.test(sent))
-  if (stranded.length) add('D. prose carries a bare price fragment', `${id} — "${stranded[0].trim().slice(0, 60)}"`)
+    .match(/\.\s+(\$[^.]{0,90}?)\s+(?=Measured on this card:|Raw copies sell|Certified,|A PSA |Only \d+ ungraded)/)
+  if (stranded) add('D. prose carries a bare price fragment', `${id} — "${stranded[1].trim().slice(0, 60)}"`)
 
   // Does the tile's band appear anywhere in the prose that is meant to explain it?
   const tile = money(c.rawPriceUsd)
