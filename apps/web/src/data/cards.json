@@ -2025,9 +2025,9 @@
       "Rovio pushed merchandising aggressively while the game was at peak popularity",
       "The card sets are mostly European releases rather than US hobby product"
     ],
-    "estimatedValue": "Under $1 per card; complete albums carry the value",
-    "rawPriceUsd": "Under $1",
-    "priceBasis": "mixed",
+    "estimatedValue": "Under $1 per card; complete albums carry the value Measured on this card: the middle half of ungraded sales falls between $1.50 and $1.50, median $1.50, from 1 sold single — too few to lean on, and quoted here only because it is what exists, with the full range running $1.50 to $1.50.",
+    "rawPriceUsd": "$1.50",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "angrybirds.jpg",
@@ -7931,10 +7931,36 @@
       "Its date is anchored by a newspaper advertisement in the Daily Herald of Wednesday 23 November 1938, which is firmer evidence than most pre-war card sets can offer",
       "The grade spread is brutal for a card this old: a PSA 2 can be had for a few dollars while a PSA 6 is listed near $500"
     ],
-    "estimatedValue": "$25 – $140 raw depending on condition and back colour; about $4 in PSA 2, and listed near $500 in PSA 6",
-    "rawPriceUsd": "$25 – $140",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$25 – $140 raw depending on condition and back colour; about $4 in PSA 2, and listed near $500 in PSA 6 Measured on this card: the middle half of ungraded sales falls between $35 and $50, median $40, from 2 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $24.95 to $58.93. Certified, it runs about $400 in PSA 4 up to about $1,500 in PSA 9.",
+    "rawPriceUsd": "$35 – $50",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 4",
+        "price": "$400",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$250",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$1,200",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8.5",
+        "price": "$1,100",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$1,500",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "donald-duck-shuffled.jpg",
     "sources": [
@@ -8147,10 +8173,31 @@
       "Printed © 1989 Mirage Studios, the publisher Eastman and Laird founded to self-publish the comic",
       "His bo staff is the only one of the four weapons that is not a weapon at all, just a stick"
     ],
-    "estimatedValue": "Flagged: sticker #3 is confirmed by the slab, but the set’s story cards #1-#20 show the Turtles, so a lower-numbered base card may precede it. The same question applies to the other three Turtles. $15–50 raw, $120+ in PSA 9",
-    "rawPriceUsd": "$15 – $50",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Flagged: sticker #3 is confirmed by the slab, but the set’s story cards #1-#20 show the Turtles, so a lower-numbered base card may precede it. The same question applies to the other three Turtles. $15–50 raw, $120+ in PSA 9 Measured on this card: the middle half of ungraded sales falls between $2.50 and $5, median $4, from 28 sold singles, with the full range running Under $1 to $12.95. Certified, it runs about $30 in PSA 6 up to about $280 in PSA 9.",
+    "rawPriceUsd": "$2.50 – $5",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 6",
+        "price": "$30",
+        "sales": 4
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$20",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$50",
+        "sales": 5
+      },
+      {
+        "grade": "PSA 9",
+        "price": "$280",
+        "sales": 3
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "9",
@@ -8607,10 +8654,21 @@
       "His four move cards run consecutively: #85 Harpoon, #86 Teleport, #87 Throw, #88 Head Blow",
       "The set's only promo card is Sonya Blade, not Scorpion, despite him being the franchise mascot"
     ],
-    "estimatedValue": "$2 – $10 raw; $25 – $150 in PSA 9 or 10",
-    "rawPriceUsd": "$2 – $10",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$2 – $10 raw; $25 – $150 in PSA 9 or 10 Measured on this card: the middle half of ungraded sales falls between $9 and $13, median $11, from 4 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $3.99 to $15.95. Certified, it runs about $50 in PSA 7 up to about $300 in PSA 8.",
+    "rawPriceUsd": "$9 – $13",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 7",
+        "price": "$50",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$300",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "scorpion.jpg",
     "noCardReason": "",
@@ -9005,10 +9063,21 @@
       "The Met's Burdick collection holds a Bamby Bread card of \"Mickey and Pluto walking down the street\" that the museum dates only to the 1930s, so something earlier may exist but cannot be pinned",
       "R89 cards come in Type I and Type II printings, with some carrying a \"This Picture Answers…\" variation"
     ],
-    "estimatedValue": "Flagged: Pluto’s presence on #1 rests on a visual read of the card rather than a published subject list, and one source puts his lowest documented card at #6. $50 – $200 raw; $150 – $400 graded 2 to 4",
-    "rawPriceUsd": "$50 – $200",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "Flagged: Pluto’s presence on #1 rests on a visual read of the card rather than a published subject list, and one source puts his lowest documented card at #6. $50 – $200 raw; $150 – $400 graded 2 to 4 Mickey and Pluto share card #1, so they share its measurement. Measured on this card: the middle half of ungraded sales falls between $2,450 and $9,000, median $6,000, from 4 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $700 to $10,200.03. Certified, it runs about $8,500 in PSA 1 up to about $20,000 in PSA 2.",
+    "rawPriceUsd": "$2,450 – $9,000",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 1",
+        "price": "$8,500",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 2",
+        "price": "$20,000",
+        "sales": 1
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "3",
@@ -9048,10 +9117,21 @@
       "The sticker still carries a 1984 Columbia Pictures copyright line even though Topps printed it in 1988",
       "Fright Flicks is the only mainstream card set ever to feature the original Ghostbusters; the Canadian O-Pee-Chee version runs 101 cards with blue backs instead of yellow"
     ],
-    "estimatedValue": "$4 – $8 raw; about $50 in PSA 8 and up to $400 asking in PSA 10",
-    "rawPriceUsd": "$4 – $8",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$4 – $8 raw; about $50 in PSA 8 and up to $400 asking in PSA 10 Measured on this card: the middle half of ungraded sales falls between $2.50 and $5, median $3.50, from 12 sold singles, with the full range running $1.69 to $6.95. Certified, it runs about $9 in PSA 6 up to about $75 in PSA 8.",
+    "rawPriceUsd": "$2.50 – $5",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 6",
+        "price": "$9",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$75",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "slimer.jpg",
     "noCardReason": "",
@@ -9087,9 +9167,9 @@
       "PSA slabs it as \"GLBTRTTRS\" because the same promotion's Harlem Globetrotters cards are catalogued by Beckett as a basketball issue, giving two hobbies a claim on identical cardboard",
       "The cards went loose into the bread bag rather than wrapped, so staining and food taint are the norm — and the Scooby checklist card is so short-printed that dealers call a 25-card set complete without it"
     ],
-    "estimatedValue": "$10 – $25 raw; $25 – $50 in PSA 8",
-    "rawPriceUsd": "$10 – $25",
-    "priceBasis": "mixed",
+    "estimatedValue": "$10 – $25 raw; $25 – $50 in PSA 8 Measured on this card: the middle half of ungraded sales falls between $15 and $16, median $15, from 3 sold singles — too few to lean on, and quoted here only because it is what exists, with the full range running $15 to $17.",
+    "rawPriceUsd": "$15 – $16",
+    "priceBasis": "raw",
     "gradedPrices": [],
     "exampleCert": {
       "grader": "PSA",
@@ -9914,10 +9994,26 @@
       "Because the backs are games, most surviving cards have the puzzle filled in or the fold worn through; genuinely unplayed copies are the scarce tier",
       "Bluto appears on exactly one card in the thirty-card run"
     ],
-    "estimatedValue": "$15 – $50 raw depending on wear; $50 – $110 in excellent condition. Effectively no graded population",
-    "rawPriceUsd": "$15 – $50",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$15 – $50 raw depending on wear; $50 – $110 in excellent condition. Effectively no graded population Measured on this card: the middle half of ungraded sales falls between $16 and $40, median $25, from 17 sold singles, with the full range running $2.49 to $200. Certified, it runs about $100 in PSA 1.5 up to about $475 in PSA 6.",
+    "rawPriceUsd": "$16 – $40",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 1.5",
+        "price": "$100",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 3",
+        "price": "$95",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$475",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "popeye.jpg",
     "noCardReason": "",
