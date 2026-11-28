@@ -1444,10 +1444,21 @@
       "The Avengers appear as separate heroes, never as a team, on their earliest cards",
       "The MCU made the Avengers a household name 45 years after their first cards"
     ],
-    "estimatedValue": "$50 – $1,500 depending on hero and grade",
-    "rawPriceUsd": "$50 – $1,500",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$50 – $1,500 depending on hero and grade Measured on this card: the middle half of ungraded sales falls between $120 and $400, median $210, from 28 sold singles, with the full range running $46.33 to $1,599. Certified, it runs about $1,200 in PSA 5 up to about $1,600 in PSA 6.",
+    "rawPriceUsd": "$120 – $400",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 5",
+        "price": "$1,200",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$1,600",
+        "sales": 2
+      }
+    ],
     "exampleCert": {
       "grader": "SGC",
       "grade": "4",
@@ -3148,7 +3159,7 @@
     "franchise": "Star Wars",
     "character": "Darth Vader",
     "year": 1977,
-    "setInfo": "Topps Star Wars Series 1 (Blue Border) — shown: #7 'The villainous Darth Vader', MGC 9",
+    "setInfo": "Topps Star Wars Series 1 (Blue Border) #7 ‘The Villainous Darth Vader’, 66 cards",
     "description": "Vader's first card is #7 in the same blue-bordered Topps series that opens with Luke Skywalker, printed in June 1977 within weeks of the film reaching cinemas. The first eight cards of the set are essentially a cast list — Luke, the droids, Han, Leia, Ben Kenobi, Vader, Tarkin — so the most famous villain in cinema arrived on cardboard as card seven of sixty-six, before anyone knew what the character would become.",
     "funFacts": [
       "Card #7 of 66, in the first eight cards that function as a cast list for the film",
@@ -3156,10 +3167,56 @@
       "The card credits no actor: Vader was played by David Prowse and voiced by James Earl Jones",
       "Series 1 packs held seven cards and one sticker"
     ],
-    "estimatedValue": "$15 – $600+, rising steeply above PSA 8",
-    "rawPriceUsd": "$15 – $600+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$15 – $600+, rising steeply above PSA 8 Measured on this card: the middle half of ungraded sales falls between $25 and $45, median $40, from 17 sold singles, with the full range running $1.25 to $130.27. Certified, it runs about $25 in PSA 1 up to about $2,350 in PSA 8.",
+    "rawPriceUsd": "$25 – $45",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 1",
+        "price": "$25",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 2.5",
+        "price": "$30",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 3",
+        "price": "$60",
+        "sales": 4
+      },
+      {
+        "grade": "PSA 4",
+        "price": "$130",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 4.5",
+        "price": "$230",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 5",
+        "price": "$160",
+        "sales": 3
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$350",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$1,100",
+        "sales": 3
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$2,350",
+        "sales": 1
+      }
+    ],
     "exampleCert": {
       "grader": "MGC",
       "grade": "9",
@@ -3192,7 +3249,7 @@
     "franchise": "Star Wars",
     "character": "Princess Leia",
     "year": 1977,
-    "setInfo": "Topps Star Wars Series 1 (Blue Border) — shown: #5 'Princess Leia Organa', PSA 4.5",
+    "setInfo": "Topps Star Wars Series 1 (Blue Border) #5 ‘Princess Leia Organa’, 66 cards",
     "description": "Leia is card #5 in the 1977 Topps Series 1 set, a straight portrait of Carrie Fisher in the white senatorial robe. She is one of only a handful of women to headline a card in a major 1970s non-sport set, and the only one in the first ten cards here. The set was assembled fast from publicity stills, which is why several cards including this one are lifted from promotional photography rather than the film itself.",
     "funFacts": [
       "Card #5, one of the eight portrait cards that open the set",
@@ -3200,10 +3257,41 @@
       "Carrie Fisher was 20 when the photograph was taken",
       "Series 1 is the hardest of the five 1977 series to complete in high grade"
     ],
-    "estimatedValue": "$10 – $500+, depending on grade",
-    "rawPriceUsd": "$10 – $500+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$10 – $500+, depending on grade Measured on this card: the middle half of ungraded sales falls between $17 and $30, median $25, from 18 sold singles, with the full range running Under $1 to $49.99. Certified, it runs about $25 in PSA 2 up to about $1,000 in PSA 8.",
+    "rawPriceUsd": "$17 – $30",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 2",
+        "price": "$25",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 3",
+        "price": "$30",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 4",
+        "price": "$35",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 5",
+        "price": "$65",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$150",
+        "sales": 5
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$1,000",
+        "sales": 1
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "4.5",
@@ -3236,7 +3324,7 @@
     "franchise": "Star Wars",
     "character": "Han Solo",
     "year": 1977,
-    "setInfo": "Topps Star Wars Series 1 (Blue Border) — shown: #4 'Space pirate Han Solo'",
+    "setInfo": "Topps Star Wars Series 1 (Blue Border) #4 ‘Space Pirate Han Solo’, 66 cards",
     "description": "Han Solo is card #4, captioned \"Space pirate Han Solo\" — a description the films themselves never quite use, and a reminder that the set was written before anyone had settled on how to talk about these characters. Harrison Ford was a working carpenter when he was cast, and this card, printed weeks after the film opened, is the first piece of trading card cardboard he ever appeared on.",
     "funFacts": [
       "The caption calls him a \"space pirate\", a phrase the films never use",
@@ -3244,10 +3332,36 @@
       "Harrison Ford's first appearance on any trading card",
       "Topps printed five separate 1977 Star Wars series as the film kept selling"
     ],
-    "estimatedValue": "$10 – $500+, depending on grade",
-    "rawPriceUsd": "$10 – $500+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$10 – $500+, depending on grade Measured on this card: the middle half of ungraded sales falls between $10 and $30, median $17, from 28 sold singles, with the full range running $2.25 to $66. Certified, it runs about $30 in PSA 3 up to about $450 in PSA 7.",
+    "rawPriceUsd": "$10 – $30",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 3",
+        "price": "$30",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 4",
+        "price": "$180",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 5",
+        "price": "$100",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 6",
+        "price": "$170",
+        "sales": 3
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$450",
+        "sales": 1
+      }
+    ],
     "exampleCert": null,
     "image": "hansolo.jpg",
     "sources": [
@@ -3648,7 +3762,7 @@
     "franchise": "Star Wars",
     "character": "Obi-Wan Kenobi",
     "year": 1977,
-    "setInfo": "Topps Star Wars Series 1 (Blue Border) — shown: #6 'Ben (Obi-Wan) Kenobi'",
+    "setInfo": "Topps Star Wars Series 1 (Blue Border) #6 ‘Ben (Obi-Wan) Kenobi’, 66 cards",
     "description": "Obi-Wan is card #6, and the caption gives both names — 'Ben (Obi-Wan) Kenobi' — because in 1977 nobody outside the production knew which one would stick. The photograph is a close portrait of Alec Guinness, who was 63 and already an Academy Award winner when he took the part, and who was famously unenthusiastic about the film that would define him for a new generation.",
     "funFacts": [
       "The caption hedges between both names, 'Ben' and 'Obi-Wan'",
@@ -3656,10 +3770,26 @@
       "Alec Guinness had won an Oscar 20 years earlier for The Bridge on the River Kwai",
       "He negotiated a share of the gross, which made him very wealthy and rather irritated"
     ],
-    "estimatedValue": "$10 – $400+, depending on grade",
-    "rawPriceUsd": "$10 – $400+",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$10 – $400+, depending on grade Measured on this card: the middle half of ungraded sales falls between $4 and $16, median $11, from 20 sold singles, with the full range running $1.25 to $34.88. Certified, it runs about $65 in PSA 5 up to about $475 in PSA 8.",
+    "rawPriceUsd": "$4 – $16",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 5",
+        "price": "$65",
+        "sales": 2
+      },
+      {
+        "grade": "PSA 7",
+        "price": "$180",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 8",
+        "price": "$475",
+        "sales": 2
+      }
+    ],
     "exampleCert": null,
     "image": "obiwan.jpg",
     "sources": [
@@ -6385,10 +6515,16 @@
       "His debut card shows him being eaten rather than fighting — he was four years old",
       "Beware the 1991 reprints: PSA labels them \"Carddass '91 Reprint\" rather than Part 3"
     ],
-    "estimatedValue": "$50–150 raw, $250+ in PSA 8",
-    "rawPriceUsd": "$50 – $150",
-    "priceBasis": "mixed",
-    "gradedPrices": [],
+    "estimatedValue": "$50–150 raw, $250+ in PSA 8 Measured on this card: the middle half of ungraded sales falls between $110 and $110, median $110, from 1 sold single — too few to lean on, and quoted here only because it is what exists, with the full range running $113.88 to $113.88. A PSA 8 has sold at $160.",
+    "rawPriceUsd": "$110",
+    "priceBasis": "raw",
+    "gradedPrices": [
+      {
+        "grade": "PSA 8",
+        "price": "$160",
+        "sales": 2
+      }
+    ],
     "exampleCert": {
       "grader": "PSA",
       "grade": "8",
