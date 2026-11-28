@@ -47,7 +47,7 @@ export interface GradedPrice {
  * the photographs include CGC, SGC, BGS, MGC, MVP and GMA holders, and naming
  * the real one is more useful than pretending every slab is a PSA.
  */
-export type Grader = 'PSA' | 'CGC' | 'SGC' | 'BGS' | 'MGC' | 'MVP' | 'GMA'
+export type Grader = 'PSA' | 'CGC' | 'SGC' | 'BGS' | 'MGC' | 'MVP' | 'GMA' | 'VGS'
 
 export interface ExampleCert {
   grader: Grader
