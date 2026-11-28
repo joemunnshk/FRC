@@ -88,8 +88,14 @@ built on card #36 because that is the card the project owned a photograph of,
 and #12 was indexed as a second Superman when it is Lex Luthor's first
 appearance. Both stood for months and neither was a pricing error.
 
-Estimated at half a day of parallel research agents across 244 entries. It has
-not been run.
+**It has now been run.** Ten research agents checked all 244 entries against
+set checklists, release dates and earlier printings. **141 were wrong — 58%.**
+The results, tiered by what a correction costs, are in `CONTENT-AUDIT.md`.
+
+That document supersedes this section. The short version: the mechanical audit
+above passed on data this content pass found to be wrong more often than right,
+which is the clearest possible demonstration of what a self-consistency check
+cannot do.
 
 ## Known gaps carried forward
 
