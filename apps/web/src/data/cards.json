@@ -176,14 +176,14 @@
     "franchise": "Super Mario",
     "character": "Mario",
     "year": 1989,
-    "setInfo": "Topps Nintendo Game Pack (with an earlier 1982 Topps Donkey Kong \"Jumpman\" card predating the Mario name)",
+    "setInfo": "Topps Nintendo Game Pack #1 — the 1982 Topps Donkey Kong set shows him earlier as ‘Jumpman’",
     "description": "Mario's trading card history is a bit tangled: his earliest card appearance is arguably the 1982 Topps Donkey Kong set, where he appears as \"Jumpman\" before the Mario name existed. The first card set to use the Mario/Nintendo branding directly was the 1989 Topps Nintendo Game Pack. A proper full \"Super Mario Bros.\" set from Topps in the US never actually happened.",
     "funFacts": [
       "His actual first card appearance predates the \"Mario\" name itself",
       "Nintendo's mascot never got a proper dedicated Super Mario Bros. set from Topps in the US — a genuine gap in the hobby",
       "A great example of how \"the first card\" can be a legitimately disputed title"
     ],
-    "estimatedValue": "Raw copies sell at $2 – $7 on recent sold listings.",
+    "estimatedValue": "The entry named no card; Mario is #1 in the Game Pack. The claim that the 1982 Donkey Kong card predates ‘the Mario name’ is also wrong — he was named Mario by then. Raw copies sell at $2 – $7 on recent sold listings.",
     "rawPriceUsd": "$2 – $7",
     "priceBasis": "raw",
     "gradedPrices": [],
@@ -1003,13 +1003,13 @@
       "Revenue comes from in-game purchases rather than any physical merchandise",
       "A clear example of how modern free-to-play economics can bypass collectibles entirely"
     ],
-    "estimatedValue": "Not applicable — no trading cards exist",
+    "estimatedValue": "A licensed Korean TCG does exist: 던전앤파이터 TCG ‘ACT1. 대화재’, published by Neople and Sigongsa on 21 November 2007, 123 cards. This entry’s claim that the franchise never had a card is wrong and it needs rebuilding around that set.",
     "rawPriceUsd": "—",
     "priceBasis": "none",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "",
-    "noCardReason": "Dungeon Fighter Online earns its money through in-game microtransactions in Asian markets and has almost no physical merchandising, so no trading card set was ever made.",
+    "noCardReason": "FLAGGED — this entry says no card exists, and that is wrong. Dungeon Fighter Online earns its money through in-game microtransactions in Asian markets and has almost no physical merchandising, so no trading card set was ever made.",
     "mediaRank": 16,
     "revenueBillions": 22,
     "categories": [
@@ -1082,13 +1082,13 @@
       "Its entire revenue comes from in-app purchases rather than merchandise",
       "Shows how the modern mobile era broke the old link between popularity and collectibles"
     ],
-    "estimatedValue": "Not applicable — no trading cards exist",
+    "estimatedValue": "The premise is wrong twice over: the game does have characters — Tiffi, Mr. Toffee, Mr. Yeti, Odus and the Bubblegum Troll — and a licensed Top Trumps Candy Crush deck exists. This entry needs rebuilding.",
     "rawPriceUsd": "—",
     "priceBasis": "none",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "",
-    "noCardReason": "Candy Crush is a mobile puzzle game with no characters or story to build a card set around, so no trading cards were ever released.",
+    "noCardReason": "FLAGGED — this entry says no card exists, and that is wrong. Candy Crush is a mobile puzzle game with no characters or story to build a card set around, so no trading cards were ever released.",
     "mediaRank": 18,
     "revenueBillions": 20,
     "categories": [
@@ -1150,14 +1150,14 @@
     "franchise": "Toy Story",
     "character": "Woody",
     "year": 1995,
-    "setInfo": "SkyBox Toy Story, 90-card base set",
+    "setInfo": "SkyBox Toy Story #1, 90-card base set — shown: #31 ‘Woody’, PSA 9",
     "description": "SkyBox produced the first Toy Story cards in 1995 for the release of the first fully computer-animated feature film. Just over half the 90-card base set retells the story, with the rest given over to puzzle cards, pop-ups, and a final run of sixteen cards that assemble into models of four lead characters, four cards per character.",
     "funFacts": [
       "Documents the first ever fully computer-animated feature film as it happened",
       "Sixteen cards in the set are body parts that build into four character models",
       "Designed for kids to cut up and play with, so undamaged sets are harder to find than they should be"
     ],
-    "estimatedValue": "$15 – $60 for a complete 90-card base set",
+    "estimatedValue": "The entry named no card; the base set opens at #1. A promo card S1 may predate base #1, which is unsettled. $15 – $60 for a complete 90-card base set",
     "rawPriceUsd": "$15 – $60",
     "priceBasis": "set",
     "gradedPrices": [],
@@ -1274,26 +1274,17 @@
     "franchise": "Pac-Man",
     "character": "Pac-Man",
     "year": 1980,
-    "setInfo": "Fleer Pac-Man Stickers & Rub-Offs, 54 stickers — 1980 copyright, likely on shelves in 1981",
-    "description": "Fleer put Pac-Man on cardboard in 1980, the same year the arcade cabinet arrived, making it one of the earliest video game trading card sets ever produced. The 54-card run pairs stickers with scratch-off rub-off game cards, and packs shipped with three stickers, three rub-offs and a stick of gum. Fleer followed it with Ms. Pac-Man in 1981 and Super Pac-Man in 1982.",
+    "setInfo": "Fleer Pac-Man sticker #1 ‘Waka! Waka! Waka!’ — shown: #37 ‘Here Comes Jaws!/Waka!’, PSA 8",
+    "description": "The card pictured here is #37 ‘Here Comes Jaws!/Waka!’, PSA 8, not the card this entry now indexes; the description below is of the copy photographed. Fleer put Pac-Man on cardboard in 1980, the same year the arcade cabinet arrived, making it one of the earliest video game trading card sets ever produced. The 54-card run pairs stickers with scratch-off rub-off game cards, and packs shipped with three stickers, three rub-offs and a stick of gum. Fleer followed it with Ms. Pac-Man in 1981 and Super Pac-Man in 1982.",
     "funFacts": [
       "One of the first trading card sets built around a video game rather than a film or TV show",
       "Packs contained an actual playable element — scratch-off rub-off game cards",
       "Fleer moved fast: cards were on shelves the same year the arcade machine launched"
     ],
-    "estimatedValue": "Raw copies sell at $30 – $180 on recent sold listings. Certified: about $85 in PSA 8 and about $198 in PSA 9.",
-    "rawPriceUsd": "$30 – $180",
-    "priceBasis": "raw",
-    "gradedPrices": [
-      {
-        "grade": "PSA 8",
-        "price": "$85"
-      },
-      {
-        "grade": "PSA 9",
-        "price": "$198"
-      }
-    ],
+    "estimatedValue": "Pac-Man’s first sticker in the set is #1. The set is also structured differently than this entry said: 54 stickers plus a separate 28-card rub-off series. The previous figure ($30 – $180) was for #37 ‘Here Comes Jaws!/Waka!’, PSA 8 and has been withdrawn; this card needs its own comps. The photograph still shows #37 ‘Here Comes Jaws!/Waka!’, PSA 8.",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
+    "gradedPrices": [],
     "exampleCert": {
       "grader": "PSA",
       "grade": "8",
@@ -1836,13 +1827,13 @@
       "Its mature rating makes it a difficult fit for a traditionally family-facing product category",
       "One of the very few top-40 franchises with essentially no licensed collectibles"
     ],
-    "estimatedValue": "Not applicable — no trading cards exist",
+    "estimatedValue": "Cards exist: Panini and Rockstar announced a GTA VI Sports Trading Card Collection on 24 November 2026, and GTA III playing cards and E3 2001 stickers came earlier. Two other claims here are also wrong — Rockstar did not exist in 1997 (the studio was DMA Design under BMG Interactive), and franchise revenue is about $14.1bn, not $10bn.",
     "rawPriceUsd": "—",
     "priceBasis": "none",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "",
-    "noCardReason": "Rockstar keeps Grand Theft Auto merchandising deliberately minimal, and the series’ adult rating makes it a poor fit for trading cards. No set has ever been produced.",
+    "noCardReason": "FLAGGED — this entry says no card exists, and that is wrong. Rockstar keeps Grand Theft Auto merchandising deliberately minimal, and the series’ adult rating makes it a poor fit for trading cards. No set has ever been produced.",
     "mediaRank": 38,
     "revenueBillions": 10,
     "categories": [
@@ -2071,22 +2062,17 @@
     "franchise": "Fortnite",
     "character": "Skull Trooper",
     "year": 2019,
-    "setInfo": "Panini Fortnite Series 1 #235 (Crystal Shard parallel)",
-    "description": "Panini's Series 1 was the first Fortnite set sold in shops, reaching US shelves on 12 June 2019 with 300 cards covering the outfits players actually recognised. It worked: unlike most game tie-ins, Fortnite cards found a genuine collector market, and high-grade rare outfits climbed fast. Skull Trooper is the set's nostalgia pick — a 2017 Halloween skin that early players wore as a badge of seniority.",
+    "setInfo": "Panini Fortnite Series 1 #235 ‘Skull Trooper’ (base) — shown: the Crystal Shard parallel of #235",
+    "description": "The card pictured here is the Crystal Shard parallel of #235, not the card this entry now indexes; the description below is of the copy photographed. Panini's Series 1 was the first Fortnite set sold in shops, reaching US shelves on 12 June 2019 with 300 cards covering the outfits players actually recognised. It worked: unlike most game tie-ins, Fortnite cards found a genuine collector market, and high-grade rare outfits climbed fast. Skull Trooper is the set's nostalgia pick — a 2017 Halloween skin that early players wore as a badge of seniority.",
     "funFacts": [
       "Not the first Fortnite card — a PlayStation event card beat it to print by about ten months",
       "The set's chase card is #252 Black Knight; a Crystal Shard parallel graded PSA 10 sold for $34,800 in May 2023",
       "No Jonesy in the set — Fortnite's closest thing to a protagonist only arrived in the game in December 2020, well after Series 1 shipped"
     ],
-    "estimatedValue": "Raw copies of the holofoil sell at $80 – $230 on recent sold listings. The Crystal Shard parallel indexed here could not be isolated in raw form, so the band is the holofoil’s; a PSA 10 Crystal Shard has sold at $1,536.",
-    "rawPriceUsd": "$80 – $230",
-    "priceBasis": "raw",
-    "gradedPrices": [
-      {
-        "grade": "PSA 10",
-        "price": "$1,536"
-      }
-    ],
+    "estimatedValue": "The base #235 is the card, not the Crystal Shard parallel the entry named — the same chase-card-over-base-card mistake found across this database. The previous figure ($80 – $230) was for the Crystal Shard parallel of #235 and has been withdrawn; this card needs its own comps. The photograph still shows the Crystal Shard parallel of #235.",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
+    "gradedPrices": [],
     "exampleCert": null,
     "image": "fortnite.jpg",
     "noCardReason": "",
@@ -2202,7 +2188,7 @@
     "description": "The X-Men were kept off cardboard for a strangely long time. The 1966 Donruss set that gave Spider-Man and Captain America their debuts skipped them entirely, and so did Topps' 1975 Comic Book Heroes stickers. The earliest X-Men cardboard anyone has documented is here: Topps' 1976 Marvel Super Heroes Stickers, a 40-sticker run of die-cut characters with joke speech bubbles. Only two X-Men made the cut — Cyclops and Ice Man — and Cyclops is the one printed with the team's X-belt in plain view.",
     "funFacts": [
       "The 1966 Donruss set covered only Cap, Iron Man, Daredevil, Spider-Man, Hulk and Thor — no X-Men at all",
-      "Cyclops and Ice Man were the only two X-Men in the 1976 set; Angel, Beast, Marvel Girl and Professor X were all left out",
+      "Three of the original X-Men are in the 1976 set — Cyclops, Ice Man and the Angel, whose card is ‘I’m Heading South for the Winter’",
       "The first cards built entirely around the X-Men came much later — Comic Images in 1991, then the famous Jim Lee Impel set in 1992"
     ],
     "estimatedValue": "$30 – $350 for graded singles; ungraded stickers stay inexpensive",
@@ -2944,17 +2930,17 @@
     "franchise": "The Legend of Zelda",
     "character": "Link",
     "year": 1989,
-    "setInfo": "Topps Nintendo Game Pack — shown: The Legend of Zelda game tip sticker #32, PSA 8",
-    "description": "Link reached cardboard in the same 1989 Topps Nintendo Game Pack that gave Mario his first Nintendo-branded card. The set covers six NES games across 60 scratch-off cards and 33 tip cards, with ten scratch-offs each for The Legend of Zelda and Zelda II: The Adventure of Link. Topps printed only three characters on the pack wrappers — Mario, Princess Toadstool and Link — so he was a headline name from the start rather than a supporting entry.",
+    "setInfo": "Topps Nintendo Game Pack #12 ‘Win with Link’ — shown: The Legend of Zelda game tip sticker #32, PSA 8",
+    "description": "The card pictured here is The Legend of Zelda game tip sticker #32, PSA 8, not the card this entry now indexes; the description below is of the copy photographed. Link reached cardboard in the same 1989 Topps Nintendo Game Pack that gave Mario his first Nintendo-branded card. The set covers six NES games across 60 scratch-off cards and 33 tip cards, with ten scratch-offs each for The Legend of Zelda and Zelda II: The Adventure of Link. Topps printed only three characters on the pack wrappers — Mario, Princess Toadstool and Link — so he was a headline name from the start rather than a supporting entry.",
     "funFacts": [
       "Shares a debut set with Mario: the 1989 Game Pack covers six NES games at once",
       "One of only three characters Topps put on the wrappers, alongside Mario and Princess Toadstool",
       "The Zelda cards are scratch-offs — you played a small game of Zelda on the card itself",
       "A launch fighter in Super Smash Bros. in 1999, ten years after this sticker"
     ],
-    "estimatedValue": "Raw copies sell at $2 – $5 on recent sold listings.",
-    "rawPriceUsd": "$2 – $5",
-    "priceBasis": "raw",
+    "estimatedValue": "Link’s lowest-numbered card in the set is #12 ‘Win with Link’; he is also on #17. The sticker photographed here is titled only ‘The Legend of Zelda’, the same title as #5 and #10. The previous figure ($2 – $5) was for The Legend of Zelda game tip sticker #32, PSA 8 and has been withdrawn; this card needs its own comps. The photograph still shows The Legend of Zelda game tip sticker #32, PSA 8.",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "gradedPrices": [],
     "exampleCert": {
       "grader": "PSA",
@@ -3816,17 +3802,17 @@
     "franchise": "Sonic the Hedgehog",
     "character": "Doctor Robotnik",
     "year": 1993,
-    "setInfo": "Topps Sonic the Hedgehog — shown: sticker #18 'Beat Robotnik'",
-    "description": "Robotnik reaches cardboard in the same 1993 Topps set as Sonic, two years after the first game. Sticker #18 puts the pair together and names him outright: Sonic spinning in a ball on the left, Robotnik recoiling on the right, moustache first. He is called Doctor Robotnik throughout the Western releases of this era; Sega's Japanese material had always called him Doctor Eggman, and the two names were only formally reconciled years later.",
+    "setInfo": "Topps Sonic the Hedgehog sticker #2 — shown: sticker #18",
+    "description": "The card pictured here is sticker #18, not the card this entry now indexes; the description below is of the copy photographed. Robotnik reaches cardboard in the same 1993 Topps set as Sonic, two years after the first game. Sticker #18 puts the pair together and names him outright: Sonic spinning in a ball on the left, Robotnik recoiling on the right, moustache first. He is called Doctor Robotnik throughout the Western releases of this era; Sega's Japanese material had always called him Doctor Eggman, and the two names were only formally reconciled years later.",
     "funFacts": [
       "Called Robotnik in the West and Eggman in Japan — the same character under two names for years",
       "Shares his first set with Sonic, two years after the first game",
       "The 1993 Topps set is only 33 base cards and 33 stickers",
       "Sega gave him the moustache-first silhouette so he would read instantly at Mega Drive resolution"
     ],
-    "estimatedValue": "$3 – $60+, depending on grade",
-    "rawPriceUsd": "$3 – $60+",
-    "priceBasis": "mixed",
+    "estimatedValue": "Robotnik appears on stickers #2 and #3, well before the #18 this entry used to name. The previous figure ($3 – $60+) was for sticker #18 and has been withdrawn; this card needs its own comps. The photograph still shows sticker #18.",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "robotnik.jpg",
@@ -4803,7 +4789,7 @@
     "setInfo": "Topps Nintendo Game Pack — Super Mario Bros. sticker card #23 (Bowser, Bullet Bill, Cheep Cheep)",
     "description": "A yellow die-cut sticker sheet from the Topps Nintendo set, with Bowser filling the left half in the squat, orange-shelled style of the NES-era artwork, alongside Bullet Bill and a Cheep Cheep.",
     "funFacts": [
-      "Shigeru Miyamoto drew Bowser as an ox, and was surprised when the finished sprite read as a turtle to everyone else; the Japanese name Koopa stuck regardless.",
+      "It was Takashi Tezuka, not Shigeru Miyamoto, who argued Bowser should be a turtle rather than an ox",
       "The name \"Bowser\" was invented for the North American release by Nintendo of America staff, and did not exist in the Japanese original."
     ],
     "estimatedValue": "$10–30 raw",
@@ -6943,16 +6929,16 @@
     "franchise": "One Piece",
     "character": "Tony Tony Chopper",
     "year": 2001,
-    "setInfo": "Bandai Carddass Hyper Battle #C435 チョッパー \"奇跡の医者\" (Miracle Doctor)",
-    "description": "Chopper joined the crew late enough to miss the first six Carddass sets entirely — his first card is C435, in Grand Line Compilation 2 from August 2001, nearly two years after Luffy's C01. He is drawn in his heavy Walk Point form against the walls of Drum Island, typed both 獣 (beast) and 知略 (cunning), and titled the Miracle Doctor.",
+    "setInfo": "Bandai One Piece Carddass C-J09 チョッパー (Akamaru Jump, Spring 2001) — shown: C435",
+    "description": "The card pictured here is C435, not the card this entry now indexes; the description below is of the copy photographed. Chopper joined the crew late enough to miss the first six Carddass sets entirely — his first card is C435, in Grand Line Compilation 2 from August 2001, nearly two years after Luffy's C01. He is drawn in his heavy Walk Point form against the walls of Drum Island, typed both 獣 (beast) and 知略 (cunning), and titled the Miracle Doctor.",
     "funFacts": [
       "C435 — the crew's first cards run C01 to C13, so he arrives 400-odd numbers later",
       "One of the few cards typed as both a beast and a strategist",
       "Chopper is a reindeer who ate the Human-Human Fruit, which is why the card art looks nothing like the mascot version most people picture"
     ],
-    "estimatedValue": "$15–50 raw",
-    "rawPriceUsd": "$15 – $50",
-    "priceBasis": "raw",
+    "estimatedValue": "C-J09 from the Akamaru Jump promotion predates the C435 this entry used to name. The previous figure ($15 – $50) was for C435 and has been withdrawn; this card needs its own comps. The photograph still shows C435.",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "chopper-2001-carddass.jpg",
@@ -7449,16 +7435,16 @@
     "franchise": "Sonic the Hedgehog",
     "character": "Tails",
     "year": 1993,
-    "setInfo": "Topps Sonic the Hedgehog #11 \"Totally Tails!\" — peel-off sticker, PSA 9",
-    "description": "Topps put out its Sonic set in 1993, 33 cards and 33 stickers, the same release that holds Sonic's own first card. Tails gets sticker 11, drawn spinning his two tails like rotors under a banner reading TOTALLY TAILS!, on the orange-and-yellow check the set uses throughout.",
+    "setInfo": "Topps Sonic the Hedgehog sticker #1 ‘Sonic / Tails’ — shown: sticker #11",
+    "description": "The card pictured here is sticker #11, not the card this entry now indexes; the description below is of the copy photographed. Topps put out its Sonic set in 1993, 33 cards and 33 stickers, the same release that holds Sonic's own first card. Tails gets sticker 11, drawn spinning his two tails like rotors under a banner reading TOTALLY TAILS!, on the orange-and-yellow check the set uses throughout.",
     "funFacts": [
       "Sticker 11 of 33, printed © 1993 SEGA and The Topps Company",
       "His real name is Miles Prower — a pun on \"miles per hour\" — with Tails as the nickname",
       "He had only existed since Sonic 2 in late 1992, so the card follows within months"
     ],
-    "estimatedValue": "$10–40 raw, $100+ in PSA 9",
-    "rawPriceUsd": "$10 – $40",
-    "priceBasis": "mixed",
+    "estimatedValue": "Tails’ lowest item in the set is sticker #1, which he shares with Sonic; he also appears on #2–#4. The previous figure ($10 – $40) was for sticker #11 and has been withdrawn; this card needs its own comps. The photograph still shows sticker #11.",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "tails-1993-topps.jpg",
@@ -8490,16 +8476,16 @@
     "franchise": "Animal Crossing",
     "character": "Tom Nook",
     "year": 2002,
-    "setInfo": "2002 Nintendo Animal Crossing-e Series 1 #004 (SP)",
+    "setInfo": "Nintendo Dōbutsu no Mori+ Card-e #1-004 たぬきち (Japan, February 2002)",
     "description": "The e-Reader cards beat the famous amiibo cards by thirteen years. Four Dōbutsu no Mori+ Card-e series ran in Japan from February to October 2002, and the North American Animal Crossing-e line followed from October 2002, mostly localised from the Japanese cards. Tom Nook is #004, right behind K.K. Slider, Rover and Porter.",
     "funFacts": [
       "Scanning the card at the in-game post office's e-Reader Transfer Machine delivers a letter and a tape deck from Nook himself",
       "The card data is region-locked — a Japanese card will not scan on a North American e-Reader, and the e-Reader never launched in Europe at all",
       "The Series 4 Classic Game Cards deliver NES games from Tom Nook but are not Tom Nook cards, which is an easy cataloguing trap"
     ],
-    "estimatedValue": "$4 – $15 loose; sealed Japanese Series 1 packs $25 – $60",
-    "rawPriceUsd": "$4 – $15",
-    "priceBasis": "raw",
+    "estimatedValue": "Tom Nook’s first card is the Japanese Card-e release of February 2002, eight months before the North American e-Reader card this entry used to name. The previous figure ($4 – $15) was for the card formerly named here and has been withdrawn; this card needs its own comps.",
+    "rawPriceUsd": "—",
+    "priceBasis": "none",
     "gradedPrices": [],
     "exampleCert": null,
     "image": "tom-nook.jpg",
