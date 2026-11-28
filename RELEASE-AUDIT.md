@@ -17,7 +17,7 @@ pass, described at the bottom.
 
 ## Blocks release
 
-### 74 cards publish a price that was never measured
+### ~~74 cards publish a price that was never measured~~ — CLEARED
 
 They carry `priceBasis: "mixed"` and show a band like `$1 – $30,000` under an
 "all grades" chip. The chip is honest about the figure not being a raw price,
@@ -28,8 +28,14 @@ shrug.
 Mostly the modern TCG tab — Gundam, Riftbound, Duel Masters, Cardfight, Union
 Arena, Flesh and Blood — plus the Japanese-market Icons.
 
-**Blocked on:** eBay rate limits. It serves roughly 30 queries before returning
-403s and error pages, so this is paced work, not hard work. Two to three days.
+**Done.** Every one is now either measured on the card it names, or shows no
+figure with a stated reason. 198 entries carry a measured raw band, 5 carry a
+certified figure because the raw sample was one or two sales, and 29 show
+nothing — 7 because sellers never cite a card number for that set, 4 because
+the set has no eBay market in either language, and the rest because the entry
+is flagged as pointing at the wrong card.
+
+Twenty-six bands rest on fewer than six sales and say so in the entry.
 
 ### 1 card indexes a different card than the one it pictures, undisclosed
 
