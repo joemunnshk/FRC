@@ -730,21 +730,34 @@
       "PSA receives more submissions from the Spider-Man run than any other section of the set",
       "Arrived only four years after Spider-Man was created, making it an unusually early character debut"
     ],
-    "estimatedValue": "Card #34 is Spider-Man’s first trading card and the key to the set. Raw copies sell at $900 – $1,800. Certified: about $1,550 in PSA 3, $2,375 in PSA 7 and $6,188 in PSA 6 — the spread between those last two is a reminder that eye appeal and qualifiers move this card as much as the number on the label.",
-    "rawPriceUsd": "$900 – $1,800",
+    "estimatedValue": "Measured on card #34 alone — Spider-Man's run in the set carries on to #44, and those later cards sell for a fraction of the first. The middle half of ungraded sales falls between $1,500 and $3,350, from 25 sold listings, with a median of $2,500. Certified, PSA 3 copies run about $1,575 and PSA 6 about $5,350; the ladder is noisy because few examples trade in any one grade. This is the most valuable card in the 1966 Donruss set and one of the most valuable fictional rookie cards of any kind.",
+    "rawPriceUsd": "$1,500 – $3,350",
     "priceBasis": "raw",
     "gradedPrices": [
       {
+        "grade": "PSA 3",
+        "price": "$1,575",
+        "sales": 4
+      },
+      {
+        "grade": "PSA 4",
+        "price": "$2,155",
+        "sales": 1
+      },
+      {
+        "grade": "PSA 5",
+        "price": "$4,975",
+        "sales": 3
+      },
+      {
         "grade": "PSA 6",
-        "price": "$6,188"
+        "price": "$5,350",
+        "sales": 2
       },
       {
         "grade": "PSA 7",
-        "price": "$2,375"
-      },
-      {
-        "grade": "PSA 3",
-        "price": "$1,550"
+        "price": "$2,375",
+        "sales": 1
       }
     ],
     "exampleCert": null,
